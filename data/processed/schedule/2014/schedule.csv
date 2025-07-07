@@ -1,0 +1,93 @@
+game_id,season,week,home_team,home_team_id,home_points,home_record,home_rank,away_team,away_team_id,away_points,away_record,away_rank,scraped_at
+20140164,2014,1,SweatyandEddiesQuestfortheStag,6,59.46,0-1-0,11,The Watkins Diet,4,120.88,1-0-0,1,2025-06-22T05:16:00.802Z
+201401111,2014,1,InstaGraham,1,89.1,0-1-0,8,Christopher Welken,11,94.66,1-0-0,5,2025-06-22T05:16:00.802Z
+201401129,2014,1,Taco's Bell,12,85.38,1-0-0,6,Chuck-E-Brees,9,56.22,0-1-0,12,2025-06-22T05:16:00.802Z
+20140127,2014,1,Cloudy With A Chance of Montee,2,99.56,1-0-0,4,Knowshon's Eleven,7,84.52,0-1-0,9,2025-06-22T05:16:00.802Z
+201401105,2014,1,Forte's Foreplay,10,119.84,1-0-0,2,My Dinner with Andre,5,78.54,0-1-0,10,2025-06-22T05:16:00.802Z
+20140138,2014,1,Stills Harvin Some Woodhead,3,111.42,1-0-0,3,The Real McCoy,8,108.84,0-1-0,7,2025-06-22T05:16:00.802Z
+201402113,2014,2,Christopher Welken,11,95.28,2-0-0,2,Stills Harvin Some Woodhead,3,91.76,1-1-0,3,2025-06-22T05:16:13.840Z
+201402512,2014,2,My Dinner with Andre,5,102.28,1-1-0,7,Taco's Bell,12,84.92,1-1-0,8,2025-06-22T05:16:13.840Z
+20140226,2014,2,Cloudy With A Chance of Montee,2,92.74,1-1-0,6,SweatyandEddiesQuestfortheStag,6,98.44,1-1-0,10,2025-06-22T05:16:13.840Z
+20140218,2014,2,InstaGraham,1,108.78,1-1-0,4,The Real McCoy,8,82.74,0-2-0,11,2025-06-22T05:16:13.840Z
+201402109,2014,2,Forte's Foreplay,10,78.22,2-0-0,1,Chuck-E-Brees,9,70.88,0-2-0,12,2025-06-22T05:16:13.840Z
+20140274,2014,2,Knowshon's Eleven,7,77.94,1-1-0,9,The Watkins Diet,4,75.64,1-1-0,5,2025-06-22T05:16:13.840Z
+2014031112,2014,3,Christopher Welken,11,78.32,2-1-0,4,Taco's Bell,12,97.16,2-1-0,5,2025-06-22T05:16:26.904Z
+20140357,2014,3,My Dinner with Andre,5,78.32,1-2-0,9,Knowshon's Eleven,7,120.64,2-1-0,2,2025-06-22T05:16:26.904Z
+20140334,2014,3,Stills Harvin Some Woodhead,3,52.84,1-2-0,10,The Watkins Diet,4,82.2,2-1-0,3,2025-06-22T05:16:26.904Z
+20140391,2014,3,Chuck-E-Brees,9,88.72,1-2-0,11,InstaGraham,1,88.4,1-2-0,7,2025-06-22T05:16:26.904Z
+20140386,2014,3,The Real McCoy,8,84.74,0-3-0,12,SweatyandEddiesQuestfortheStag,6,97.98,2-1-0,6,2025-06-22T05:16:26.904Z
+201403210,2014,3,Cloudy With A Chance of Montee,2,79.5,1-2-0,8,Forte's Foreplay,10,80.6,3-0-0,1,2025-06-22T05:16:26.904Z
+20140424,2014,4,Cloudy With A Chance of Montee,2,77.34,2-2-0,6,The Watkins Diet,4,42.6,2-2-0,8,2025-06-22T05:16:39.884Z
+201404812,2014,4,The Real McCoy,8,117.82,1-3-0,10,Taco's Bell,12,101.22,2-2-0,4,2025-06-22T05:16:39.884Z
+20140459,2014,4,My Dinner with Andre,5,90.58,1-3-0,11,Chuck-E-Brees,9,98.9,2-2-0,9,2025-06-22T05:16:39.884Z
+2014041110,2014,4,Christopher Welken,11,82.06,2-2-0,5,Forte's Foreplay,10,124.2,4-0-0,1,2025-06-22T05:16:39.884Z
+20140413,2014,4,InstaGraham,1,111.12,2-2-0,3,Stills Harvin Some Woodhead,3,80.18,1-3-0,12,2025-06-22T05:16:39.884Z
+20140467,2014,4,SweatyandEddiesQuestfortheStag,6,73.38,2-2-0,7,Knowshon's Eleven,7,84.42,3-1-0,2,2025-06-22T05:16:39.884Z
+201405106,2014,5,Forte's Foreplay,10,95.84,5-0-0,1,SweatyandEddiesQuestfortheStag,6,86.64,2-3-0,9,2025-06-22T05:16:52.920Z
+20140514,2014,5,InstaGraham,1,92.48,3-2-0,3,The Watkins Diet,4,83.18,2-3-0,10,2025-06-22T05:16:52.920Z
+201405112,2014,5,Christopher Welken,11,88.96,3-2-0,4,Cloudy With A Chance of Montee,2,67.86,2-3-0,8,2025-06-22T05:16:52.920Z
+20140585,2014,5,The Real McCoy,8,62.04,1-4-0,12,My Dinner with Andre,5,116.54,2-3-0,5,2025-06-22T05:16:52.920Z
+20140597,2014,5,Chuck-E-Brees,9,88.04,2-3-0,11,Knowshon's Eleven,7,90.34,4-1-0,2,2025-06-22T05:16:52.920Z
+201405312,2014,5,Stills Harvin Some Woodhead,3,110.22,2-3-0,6,Taco's Bell,12,71.36,2-3-0,7,2025-06-22T05:16:52.920Z
+20140636,2014,6,Stills Harvin Some Woodhead,3,112.22,3-3-0,5,SweatyandEddiesQuestfortheStag,6,81.06,2-4-0,10,2025-06-22T05:17:06.138Z
+201406119,2014,6,Christopher Welken,11,56.78,3-3-0,6,Chuck-E-Brees,9,88.48,3-3-0,7,2025-06-22T05:17:06.138Z
+20140625,2014,6,Cloudy With A Chance of Montee,2,63.24,2-4-0,11,My Dinner with Andre,5,97.44,3-3-0,4,2025-06-22T05:17:06.138Z
+201406107,2014,6,Forte's Foreplay,10,104.82,5-1-0,1,Knowshon's Eleven,7,105.94,5-1-0,2,2025-06-22T05:17:06.138Z
+20140648,2014,6,The Watkins Diet,4,65.72,2-4-0,12,The Real McCoy,8,89.5,2-4-0,8,2025-06-22T05:17:06.138Z
+201406112,2014,6,InstaGraham,1,117.4,4-2-0,3,Taco's Bell,12,71.6,2-4-0,9,2025-06-22T05:17:06.138Z
+20140728,2014,7,Cloudy With A Chance of Montee,2,51.9,2-5-0,12,The Real McCoy,8,58.76,3-4-0,7,2025-06-22T05:17:19.431Z
+20140715,2014,7,InstaGraham,1,97.26,4-3-0,3,My Dinner with Andre,5,136.82,4-3-0,4,2025-06-22T05:17:19.431Z
+20140773,2014,7,Knowshon's Eleven,7,69.92,5-2-0,2,Stills Harvin Some Woodhead,3,83.2,4-3-0,5,2025-06-22T05:17:19.431Z
+201407611,2014,7,SweatyandEddiesQuestfortheStag,6,85.8,2-5-0,11,Christopher Welken,11,98.12,4-3-0,6,2025-06-22T05:17:19.431Z
+2014071012,2014,7,Forte's Foreplay,10,107.74,6-1-0,1,Taco's Bell,12,78.86,2-5-0,10,2025-06-22T05:17:19.431Z
+20140749,2014,7,The Watkins Diet,4,112,3-4-0,8,Chuck-E-Brees,9,79.48,3-4-0,9,2025-06-22T05:17:19.431Z
+20140832,2014,8,Stills Harvin Some Woodhead,3,117.38,5-3-0,3,Cloudy With A Chance of Montee,2,104.98,2-6-0,12,2025-06-22T05:17:32.257Z
+201408126,2014,8,Taco's Bell,12,58.56,2-6-0,11,SweatyandEddiesQuestfortheStag,6,103.62,3-5-0,8,2025-06-22T05:17:32.257Z
+201408115,2014,8,Christopher Welken,11,107.04,5-3-0,5,My Dinner with Andre,5,94.06,4-4-0,6,2025-06-22T05:17:32.257Z
+20140871,2014,8,Knowshon's Eleven,7,87.6,5-3-0,4,InstaGraham,1,98.9,5-3-0,2,2025-06-22T05:17:32.257Z
+20140898,2014,8,Chuck-E-Brees,9,113.14,3-5-0,9,The Real McCoy,8,119.6,4-4-0,7,2025-06-22T05:17:32.257Z
+201408410,2014,8,The Watkins Diet,4,90.94,3-5-0,10,Forte's Foreplay,10,147.6,7-1-0,1,2025-06-22T05:17:32.257Z
+201409712,2014,9,Knowshon's Eleven,7,78.02,5-4-0,7,Taco's Bell,12,99.72,3-6-0,10,2025-06-22T05:17:45.232Z
+201409310,2014,9,Stills Harvin Some Woodhead,3,72.42,6-3-0,3,Forte's Foreplay,10,69.98,7-2-0,1,2025-06-22T05:17:45.232Z
+20140921,2014,9,Cloudy With A Chance of Montee,2,93.36,2-7-0,12,InstaGraham,1,112.46,6-3-0,2,2025-06-22T05:17:45.232Z
+20140954,2014,9,My Dinner with Andre,5,66.76,5-4-0,4,The Watkins Diet,4,61.54,3-6-0,11,2025-06-22T05:17:45.232Z
+20140969,2014,9,SweatyandEddiesQuestfortheStag,6,115.82,4-5-0,8,Chuck-E-Brees,9,77.38,3-6-0,9,2025-06-22T05:17:45.232Z
+201409811,2014,9,The Real McCoy,8,132.76,5-4-0,5,Christopher Welken,11,101.52,5-4-0,6,2025-06-22T05:17:45.232Z
+20141068,2014,10,SweatyandEddiesQuestfortheStag,6,130.56,5-5-0,7,The Real McCoy,8,92.8,5-5-0,6,2025-06-22T05:17:58.348Z
+201410107,2014,10,Forte's Foreplay,10,108,8-2-0,1,Knowshon's Eleven,7,98.86,5-5-0,8,2025-06-22T05:17:58.348Z
+2014101211,2014,10,Taco's Bell,12,66.78,3-7-0,11,Christopher Welken,11,92.3,6-4-0,5,2025-06-22T05:17:58.348Z
+20141091,2014,10,Chuck-E-Brees,9,101.78,4-6-0,9,InstaGraham,1,95.14,6-4-0,2,2025-06-22T05:17:58.349Z
+20141034,2014,10,Stills Harvin Some Woodhead,3,92.54,6-4-0,4,The Watkins Diet,4,93.9,4-6-0,10,2025-06-22T05:17:58.349Z
+20141052,2014,10,My Dinner with Andre,5,92.72,6-4-0,3,Cloudy With A Chance of Montee,2,64.38,2-8-0,12,2025-06-22T05:17:58.349Z
+20141192,2014,11,Chuck-E-Brees,9,97.5,4-7-0,9,Cloudy With A Chance of Montee,2,100.7,3-8-0,12,2025-06-22T05:18:11.182Z
+201411117,2014,11,Christopher Welken,11,69.86,6-5-0,7,Knowshon's Eleven,7,92.52,6-5-0,6,2025-06-22T05:18:11.182Z
+20141116,2014,11,InstaGraham,1,48.02,6-5-0,3,SweatyandEddiesQuestfortheStag,6,90.98,6-5-0,4,2025-06-22T05:18:11.182Z
+201411412,2014,11,The Watkins Diet,4,92.44,4-7-0,11,Taco's Bell,12,108.2,4-7-0,10,2025-06-22T05:18:11.182Z
+201411810,2014,11,The Real McCoy,8,87.42,5-6-0,8,Forte's Foreplay,10,91.32,9-2-0,1,2025-06-22T05:18:11.182Z
+20141153,2014,11,My Dinner with Andre,5,63.88,6-5-0,5,Stills Harvin Some Woodhead,3,70.12,7-4-0,2,2025-06-22T05:18:11.182Z
+201412114,2014,12,Christopher Welken,11,103.28,7-5-0,4,The Watkins Diet,4,99.56,4-8-0,10,2025-06-22T05:18:24.408Z
+20141265,2014,12,SweatyandEddiesQuestfortheStag,6,99.56,7-5-0,2,My Dinner with Andre,5,96.64,6-6-0,7,2025-06-22T05:18:24.408Z
+201412101,2014,12,Forte's Foreplay,10,118.04,10-2-0,1,InstaGraham,1,113.82,6-6-0,5,2025-06-22T05:18:24.408Z
+20141287,2014,12,The Real McCoy,8,101.06,6-6-0,6,Knowshon's Eleven,7,95.92,6-6-0,8,2025-06-22T05:18:24.408Z
+20141293,2014,12,Chuck-E-Brees,9,107.3,5-7-0,9,Stills Harvin Some Woodhead,3,94.54,7-5-0,3,2025-06-22T05:18:24.408Z
+201412212,2014,12,Cloudy With A Chance of Montee,2,93.3,4-8-0,11,Taco's Bell,12,57.6,4-8-0,12,2025-06-22T05:18:24.408Z
+20141348,2014,13,The Watkins Diet,4,115.02,5-8-0,11,The Real McCoy,8,113.5,6-7-0,7,2025-06-22T05:18:37.472Z
+20141336,2014,13,Stills Harvin Some Woodhead,3,121.62,8-5-0,2,SweatyandEddiesQuestfortheStag,6,102.3,7-6-0,5,2025-06-22T05:18:37.472Z
+201413111,2014,13,Christopher Welken,11,72.5,7-6-0,6,InstaGraham,1,105.7,7-6-0,3,2025-06-22T05:18:37.472Z
+201413210,2014,13,Cloudy With A Chance of Montee,2,156.8,5-8-0,10,Forte's Foreplay,10,93.94,10-3-0,1,2025-06-22T05:18:37.472Z
+201413912,2014,13,Chuck-E-Brees,9,99.08,6-7-0,8,Taco's Bell,12,97.86,4-9-0,12,2025-06-22T05:18:37.472Z
+20141357,2014,13,My Dinner with Andre,5,139.9,7-6-0,4,Knowshon's Eleven,7,76.64,6-7-0,9,2025-06-22T05:18:37.472Z
+201414119,2014,14,Christopher Welken,11,38.92,7-7-0,8,Chuck-E-Brees,9,89.2,7-7-0,7,2025-06-22T05:18:50.545Z
+20141483,2014,14,The Real McCoy,8,75.74,6-8-0,9,Stills Harvin Some Woodhead,3,79.96,9-5-0,2,2025-06-22T05:18:50.545Z
+20141427,2014,14,Cloudy With A Chance of Montee,2,98.74,5-9-0,11,Knowshon's Eleven,7,134.7,7-7-0,6,2025-06-22T05:18:50.545Z
+20141464,2014,14,SweatyandEddiesQuestfortheStag,6,116.88,7-7-0,5,The Watkins Diet,4,130.38,6-8-0,10,2025-06-22T05:18:50.545Z
+201414105,2014,14,Forte's Foreplay,10,69.26,10-4-0,1,My Dinner with Andre,5,121.92,8-6-0,4,2025-06-22T05:18:50.546Z
+201414121,2014,14,Taco's Bell,12,105.6,4-10-0,12,InstaGraham,1,121.06,8-6-0,3,2025-06-22T05:18:50.546Z
+201415611,2014,15,SweatyandEddiesQuestfortheStag,6,88.08,7-7-0,5,Christopher Welken,11,76.42,7-7-0,8,2025-06-22T05:19:03.628Z
+20141579,2014,15,Knowshon's Eleven,7,120.1,7-7-0,6,Chuck-E-Brees,9,95.1,7-7-0,7,2025-06-22T05:19:03.628Z
+201415105,2014,15,Forte's Foreplay,10,76.78,10-4-0,1,My Dinner with Andre,5,104.3,8-6-0,4,2025-06-22T05:19:03.628Z
+20141531,2014,15,Stills Harvin Some Woodhead,3,72.48,9-5-0,2,InstaGraham,1,114.78,8-6-0,3,2025-06-22T05:19:03.628Z
+20141667,2014,16,SweatyandEddiesQuestfortheStag,6,83.48,7-7-0,5,Knowshon's Eleven,7,82.38,7-7-0,6,2025-06-22T05:19:16.842Z
+201416119,2014,16,Christopher Welken,11,54.34,7-7-0,8,Chuck-E-Brees,9,76.62,7-7-0,7,2025-06-22T05:19:16.842Z
+20141651,2014,16,My Dinner with Andre,5,76.1,8-6-0,4,InstaGraham,1,112.86,8-6-0,3,2025-06-22T05:19:16.842Z
+201416103,2014,16,Forte's Foreplay,10,99.24,10-4-0,1,Stills Harvin Some Woodhead,3,75.94,9-5-0,2,2025-06-22T05:19:16.842Z

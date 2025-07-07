@@ -1,0 +1,152 @@
+[
+  {
+    "place": 1,
+    "label": "Champion",
+    "team_id": "5",
+    "team_name": "Jacobs' Ladder",
+    "points": 102.62,
+    "week_15_points": 0.0,
+    "week_16_points": 102.62
+  },
+  {
+    "place": 2,
+    "label": "Runner Up",
+    "team_id": "12",
+    "team_name": "Fast Times at Ridley High",
+    "points": 84.56,
+    "week_15_points": 0.0,
+    "week_16_points": 84.56
+  },
+  {
+    "place": 3,
+    "label": "Third Place",
+    "team_id": "4",
+    "team_name": "Christian Mingle",
+    "points": 200.42000000000002,
+    "week_15_points": 88.22,
+    "week_16_points": 112.2
+  },
+  {
+    "place": 4,
+    "label": "Fourth Place",
+    "team_id": "2",
+    "team_name": "Taupe Blougholes",
+    "points": 155.32,
+    "week_15_points": 91.64,
+    "week_16_points": 63.68
+  },
+  {
+    "place": 5,
+    "label": "Fifth Place",
+    "team_id": "9",
+    "team_name": "Avengers Engram",
+    "points": 68.56,
+    "week_15_points": 68.56,
+    "week_16_points": 0.0
+  },
+  {
+    "place": 6,
+    "label": "Sixth Place",
+    "team_id": "6",
+    "team_name": "Free Melvy",
+    "points": 85.24,
+    "week_15_points": 85.24,
+    "week_16_points": 0.0
+  },
+  {
+    "place": 7,
+    "label": "Seventh Place",
+    "team_id": "1",
+    "team_name": "Califournettecation",
+    "points": 0.0
+  },
+  {
+    "place": 8,
+    "label": "Eighth Place",
+    "team_id": "7",
+    "team_name": "Zach and the Fucked by JuJu",
+    "points": 0.0
+  },
+  {
+    "place": 9,
+    "label": "Ninth Place",
+    "team_id": "10",
+    "team_name": "MaHomes Depot",
+    "points": 0.0
+  },
+  {
+    "place": 10,
+    "label": "Tenth Place",
+    "team_id": "3",
+    "team_name": "Macker Barrel Ol Country Store",
+    "points": 0.0
+  },
+  {
+    "place": 11,
+    "label": "Eleventh Place",
+    "team_id": "11",
+    "team_name": "Sasquontch",
+    "points": 0.0
+  },
+  {
+    "place": 12,
+    "label": "Twelfth Place",
+    "team_id": "8",
+    "team_name": "Breezin",
+    "points": 0.0
+  },
+  {
+    "place": 5,
+    "label": "Fifth Place",
+    "team_id": "6",
+    "team_name": "Free Melvy",
+    "points": 119.18,
+    "week_16_points": 119.18,
+    "week_15_points": 0.0
+  },
+  {
+    "place": 6,
+    "label": "Sixth Place",
+    "team_id": "9",
+    "team_name": "Avengers Engram",
+    "points": 89.38,
+    "week_16_points": 89.38,
+    "week_15_points": 0.0
+  },
+  {
+    "place": 9,
+    "label": "Ninth Place",
+    "team_id": "11",
+    "team_name": "Sasquontch",
+    "points": 121.52,
+    "week_16_points": 121.52,
+    "week_15_points": 0.0
+  },
+  {
+    "place": 10,
+    "label": "Tenth Place",
+    "team_id": "8",
+    "team_name": "Breezin",
+    "points": 52.5,
+    "week_16_points": 52.5,
+    "week_15_points": 0.0
+  },
+  {
+    "place": 11,
+    "label": "Eleventh Place",
+    "team_id": "10",
+    "team_name": "MaHomes Depot",
+    "points": 110.33999999999999,
+    "week_16_points": 110.33999999999999,
+    "week_15_points": 0.0
+  },
+  {
+    "place": 12,
+    "label": "Twelfth Place",
+    "team_id": "3",
+    "team_name": "Macker Barrel Ol Country Store",
+    "points": 67.53999999999999,
+    "week_16_points": 67.53999999999999,
+    "week_15_points": 0.0
+  }
+]

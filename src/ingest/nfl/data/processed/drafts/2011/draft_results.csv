@@ -1,0 +1,151 @@
+year,nomination,round,pick,overall_pick,player_id,player_name,position,nfl_team,fantasy_team_id,fantasy_team_name,owner_name,auction_cost,draft_type,scraped_at
+2011,,1,1,1,2507164,Adrian Peterson,RB,MIN,8,Free DOME,Tim,,snake,2025-07-01T16:33:41.990172
+2011,,1,2,2,941,Ray Rice,RB,BAL,5,Fencing Beats Football,Cameron,,snake,2025-07-01T16:33:41.990419
+2011,,1,3,3,2506363,Aaron Rodgers,QB,GB,6,Swagger Badgers,Ross,,snake,2025-07-01T16:33:41.990640
+2011,,1,4,4,2504531,Michael Vick,QB,PHI,1,The REVolution,Matt,,snake,2025-07-01T16:33:41.990864
+2011,,1,5,5,925,Jamaal Charles,RB,KC,4,HOLDEN CAUFIELDS,Benjy,,snake,2025-07-01T16:33:41.991086
+2011,,1,6,6,79555,Arian Foster,RB,HOU,7,Big Bird's Barbarians,Nick,,snake,2025-07-01T16:33:41.991309
+2011,,1,7,7,262,Chris Johnson,RB,TEN,3,D Street Corsairs,Andrew,,snake,2025-07-01T16:33:41.991524
+2011,,1,8,8,310,Matt Ryan,QB,ATL,10,Village Park Recreational Club,Craig,,snake,2025-07-01T16:33:41.991735
+2011,,1,9,9,939,Rashard Mendenhall,RB,PIT,9,Go Pack Go,Ryan,,snake,2025-07-01T16:33:41.991954
+2011,,1,10,10,2495831,Maurice Jones-Drew,RB,JAC,2,Granger Danger,Alexander,,snake,2025-07-01T16:33:41.992191
+2011,,2,11,23,2504211,Tom Brady,QB,NE,2,Granger Danger,Alexander,,snake,2025-07-01T16:33:42.752800
+2011,,2,12,24,284,Darren McFadden,RB,LV,9,Go Pack Go,Ryan,,snake,2025-07-01T16:33:42.752955
+2011,,2,13,25,2506106,Larry Fitzgerald,WR,ARI,10,Village Park Recreational Club,Craig,,snake,2025-07-01T16:33:42.753097
+2011,,2,14,26,2504775,Drew Brees,QB,NO,3,D Street Corsairs,Andrew,,snake,2025-07-01T16:33:42.753247
+2011,,2,15,27,2506121,Philip Rivers,QB,LAC,7,Big Bird's Barbarians,Nick,,snake,2025-07-01T16:33:42.753397
+2011,,2,16,28,2505982,Matt Schaub,QB,HOU,4,HOLDEN CAUFIELDS,Benjy,,snake,2025-07-01T16:33:42.753539
+2011,,2,17,29,2506404,Frank Gore,RB,SF,1,The REVolution,Matt,,snake,2025-07-01T16:33:42.753681
+2011,,2,18,30,2505551,Andre Johnson,WR,HOU,6,Swagger Badgers,Ross,,snake,2025-07-01T16:33:42.753828
+2011,,2,19,31,2505996,Eli Manning,QB,NYG,5,Fencing Beats Football,Cameron,,snake,2025-07-01T16:33:42.753968
+2011,,2,20,32,79607,LeSean McCoy,RB,PHI,8,Free DOME,Tim,,snake,2025-07-01T16:33:42.754114
+2011,,3,21,45,2506366,Roddy White,WR,ATL,8,Free DOME,Tim,,snake,2025-07-01T16:33:43.480824
+2011,,3,22,46,2506014,Michael Turner,RB,ATL,5,Fencing Beats Football,Cameron,,snake,2025-07-01T16:33:43.481114
+2011,,3,23,47,2505936,Steven Jackson,RB,STL,6,Swagger Badgers,Ross,,snake,2025-07-01T16:33:43.481373
+2011,,3,24,48,2495867,Greg Jennings,WR,GB,1,The REVolution,Matt,,snake,2025-07-01T16:33:43.481734
+2011,,3,25,49,1581,DeSean Jackson,WR,PHI,4,HOLDEN CAUFIELDS,Benjy,,snake,2025-07-01T16:33:43.482001
+2011,,3,26,50,2495647,Calvin Johnson,WR,DET,7,Big Bird's Barbarians,Nick,,snake,2025-07-01T16:33:43.482248
+2011,,3,27,51,2495560,Ahmad Bradshaw,RB,NYG,3,D Street Corsairs,Andrew,,snake,2025-07-01T16:33:43.482486
+2011,,3,28,52,100005,Chicago Bears,,,10,Village Park Recreational Club,Craig,,snake,2025-07-01T16:33:43.482719
+2011,,3,29,53,80672,Hakeem Nicks,WR,NYG,9,Go Pack Go,Ryan,,snake,2025-07-01T16:33:43.482949
+2011,,3,30,54,2495979,DeAngelo Williams,RB,CAR,2,Granger Danger,Alexander,,snake,2025-07-01T16:33:43.483195
+2011,,4,31,67,2506400,Vincent Jackson,WR,LAC,2,Granger Danger,Alexander,,snake,2025-07-01T16:33:44.356478
+2011,,4,32,68,2507763,Mike Wallace,WR,PIT,9,Go Pack Go,Ryan,,snake,2025-07-01T16:33:44.356770
+2011,,4,33,69,234,Matt Forte,RB,CHI,10,Village Park Recreational Club,Craig,,snake,2025-07-01T16:33:44.357012
+2011,,4,34,70,2504747,Reggie Wayne,WR,IND,3,D Street Corsairs,Andrew,,snake,2025-07-01T16:33:44.357226
+2011,,4,35,71,100011,Green Bay Packers,,,7,Big Bird's Barbarians,Nick,,snake,2025-07-01T16:33:44.357441
+2011,,4,36,72,2505299,Antonio Gates,TE,LAC,4,HOLDEN CAUFIELDS,Benjy,,snake,2025-07-01T16:33:44.357664
+2011,,4,37,73,1072,Jermichael Finley,TE,GB,1,The REVolution,Matt,,snake,2025-07-01T16:33:44.357879
+2011,,4,38,74,100027,Pittsburgh Steelers,,,6,Swagger Badgers,Ross,,snake,2025-07-01T16:33:44.358099
+2011,,4,39,75,2504651,Chad Ochocinco,WR,NE,5,Fencing Beats Football,Cameron,,snake,2025-07-01T16:33:44.358322
+2011,,4,40,76,2501863,Peyton Manning,QB,IND,8,Free DOME,Tim,,snake,2025-07-01T16:33:44.358539
+2011,,5,41,89,2495801,Miles Austin,WR,DAL,8,Free DOME,Tim,,snake,2025-07-01T16:33:45.172709
+2011,,5,42,90,2495558,Dwayne Bowe,WR,KC,5,Fencing Beats Football,Cameron,,snake,2025-07-01T16:33:45.172971
+2011,,5,43,91,2505629,Jason Witten,TE,DAL,6,Swagger Badgers,Ross,,snake,2025-07-01T16:33:45.173319
+2011,,5,44,92,2506885,Santonio Holmes,WR,NYJ,1,The REVolution,Matt,,snake,2025-07-01T16:33:45.173604
+2011,,5,45,93,497278,Dez Bryant,WR,DAL,4,HOLDEN CAUFIELDS,Benjy,,snake,2025-07-01T16:33:45.173842
+2011,,5,46,94,1980,Peyton Hillis,RB,CLE,7,Big Bird's Barbarians,Nick,,snake,2025-07-01T16:33:45.174081
+2011,,5,47,95,2506107,Kellen Winslow,TE,TB,3,D Street Corsairs,Andrew,,snake,2025-07-01T16:33:45.174318
+2011,,5,48,96,2495821,Marques Colston,WR,NO,10,Village Park Recreational Club,Craig,,snake,2025-07-01T16:33:45.174555
+2011,,5,49,97,2505354,Tony Romo,QB,DAL,9,Go Pack Go,Ryan,,snake,2025-07-01T16:33:45.174788
+2011,,5,50,98,2505790,Wes Welker,WR,NE,2,Granger Danger,Alexander,,snake,2025-07-01T16:33:45.175020
+2011,,6,51,111,2505587,Anquan Boldin,WR,BAL,2,Granger Danger,Alexander,,snake,2025-07-01T16:33:45.918337
+2011,,6,52,112,2495893,Brandon Marshall,WR,MIA,9,Go Pack Go,Ryan,,snake,2025-07-01T16:33:45.918579
+2011,,6,53,113,931,Felix Jones,RB,DAL,10,Village Park Recreational Club,Craig,,snake,2025-07-01T16:33:45.918806
+2011,,6,54,114,80425,Percy Harvin,WR,MIN,3,D Street Corsairs,Andrew,,snake,2025-07-01T16:33:45.919007
+2011,,6,55,115,2505664,Dallas Clark,TE,IND,7,Big Bird's Barbarians,Nick,,snake,2025-07-01T16:33:45.919207
+2011,,6,56,116,80429,Jeremy Maclin,WR,PHI,4,HOLDEN CAUFIELDS,Benjy,,snake,2025-07-01T16:33:45.919408
+2011,,6,57,117,497149,LeGarrette Blount,RB,TB,1,The REVolution,Matt,,snake,2025-07-01T16:33:45.919610
+2011,,6,58,118,2505600,Brandon Lloyd,WR,STL,6,Swagger Badgers,Ross,,snake,2025-07-01T16:33:45.919807
+2011,,6,59,119,768,Steve Johnson,WR,BUF,5,Fencing Beats Football,Cameron,,snake,2025-07-01T16:33:45.920005
+2011,,6,60,120,71217,Kenny Britt,WR,TEN,8,Free DOME,Tim,,snake,2025-07-01T16:33:45.920205
+2011,,7,61,133,2495826,Vernon Davis,TE,SF,8,Free DOME,Tim,,snake,2025-07-01T16:33:46.661285
+2011,,7,62,134,2505937,Nate Kaeding,K,LAC,5,Fencing Beats Football,Cameron,,snake,2025-07-01T16:33:46.661436
+2011,,7,63,135,2507428,Mike Tolbert,RB,LAC,6,Swagger Badgers,Ross,,snake,2025-07-01T16:33:46.661571
+2011,,7,64,136,2504743,Santana Moss,WR,WAS,1,The REVolution,Matt,,snake,2025-07-01T16:33:46.661724
+2011,,7,65,137,497147,Jahvid Best,RB,DET,4,HOLDEN CAUFIELDS,Benjy,,snake,2025-07-01T16:33:46.661937
+2011,,7,66,138,79619,Knowshon Moreno,RB,DEN,7,Big Bird's Barbarians,Nick,,snake,2025-07-01T16:33:46.662082
+2011,,7,67,139,100021,New England Patriots,,,3,D Street Corsairs,Andrew,,snake,2025-07-01T16:33:46.662204
+2011,,7,68,140,2506264,Robbie Gould,K,CHI,10,Village Park Recreational Club,Craig,,snake,2025-07-01T16:33:46.662323
+2011,,7,69,141,2495825,Owen Daniels,TE,HOU,9,Go Pack Go,Ryan,,snake,2025-07-01T16:33:46.662449
+2011,,7,70,142,2506140,Ryan Grant,RB,GB,2,Granger Danger,Alexander,,snake,2025-07-01T16:33:46.662574
+2011,,8,71,155,2500835,Tony Gonzalez,TE,ATL,2,Granger Danger,Alexander,,snake,2025-07-01T16:33:47.381558
+2011,,8,72,156,100025,Philadelphia Eagles,,,9,Go Pack Go,Ryan,,snake,2025-07-01T16:33:47.381697
+2011,,8,73,157,382,Joe Flacco,QB,BAL,10,Village Park Recreational Club,Craig,,snake,2025-07-01T16:33:47.381819
+2011,,8,74,158,2508048,Mike Williams,WR,TB,3,D Street Corsairs,Andrew,,snake,2025-07-01T16:33:47.381937
+2011,,8,75,159,79563,Shonn Greene,RB,NYJ,7,Big Bird's Barbarians,Nick,,snake,2025-07-01T16:33:47.382050
+2011,,8,76,160,79557,Josh Freeman,QB,TB,4,HOLDEN CAUFIELDS,Benjy,,snake,2025-07-01T16:33:47.382163
+2011,,8,77,161,2506109,Ben Roethlisberger,QB,PIT,1,The REVolution,Matt,,snake,2025-07-01T16:33:47.382298
+2011,,8,78,162,81282,Austin Collie,WR,IND,6,Swagger Badgers,Ross,,snake,2025-07-01T16:33:47.382457
+2011,,8,79,163,100028,Los Angeles Chargers,,,5,Fencing Beats Football,Cameron,,snake,2025-07-01T16:33:47.382622
+2011,,8,80,164,100024,New York Jets,,,8,Free DOME,Tim,,snake,2025-07-01T16:33:47.382748
+2011,,9,81,177,2507232,Mason Crosby,K,GB,8,Free DOME,Tim,,snake,2025-07-01T16:33:48.175309
+2011,,9,82,178,2499991,John Carney,K,NO,5,Fencing Beats Football,Cameron,,snake,2025-07-01T16:33:48.176010
+2011,,9,83,179,2504287,Neil Rackers,K,HOU,6,Swagger Badgers,Ross,,snake,2025-07-01T16:33:48.176486
+2011,,9,84,180,2495466,Mark Ingram,RB,NO,1,The REVolution,Matt,,snake,2025-07-01T16:33:48.176973
+2011,,9,85,181,2505459,Josh Brown,K,STL,4,HOLDEN CAUFIELDS,Benjy,,snake,2025-07-01T16:33:48.177338
+2011,,9,86,182,2504257,Sebastian Janikowski,K,LV,7,Big Bird's Barbarians,Nick,,snake,2025-07-01T16:33:48.177766
+2011,,9,87,183,2506063,Josh Scobee,K,JAC,3,D Street Corsairs,Andrew,,snake,2025-07-01T16:33:48.178180
+2011,,9,88,184,2507184,Mike Sims-Walker,WR,JAC,10,Village Park Recreational Club,Craig,,snake,2025-07-01T16:33:48.178629
+2011,,9,89,185,2506922,Stephen Gostkowski,K,NE,9,Go Pack Go,Ryan,,snake,2025-07-01T16:33:48.179022
+2011,,9,90,186,100002,Baltimore Ravens,,,2,Granger Danger,Alexander,,snake,2025-07-01T16:33:48.179546
+2011,,10,91,199,2505785,Malcom Floyd,WR,LAC,2,Granger Danger,Alexander,,snake,2025-07-01T16:33:48.902986
+2011,,10,92,200,79661,Beanie Wells,RB,ARI,9,Go Pack Go,Ryan,,snake,2025-07-01T16:33:48.903274
+2011,,10,93,201,2495187,Lance Kendricks,TE,STL,10,Village Park Recreational Club,Craig,,snake,2025-07-01T16:33:48.903473
+2011,,10,94,202,2506343,Cedric Benson,RB,CIN,3,D Street Corsairs,Andrew,,snake,2025-07-01T16:33:48.903664
+2011,,10,95,203,2495824,Jay Cutler,QB,CHI,7,Big Bird's Barbarians,Nick,,snake,2025-07-01T16:33:48.903891
+2011,,10,96,204,100001,Atlanta Falcons,,,4,HOLDEN CAUFIELDS,Benjy,,snake,2025-07-01T16:33:48.904110
+2011,,10,97,205,81308,Mike Thomas,WR,JAC,1,The REVolution,Matt,,snake,2025-07-01T16:33:48.904348
+2011,,10,98,206,79860,Matthew Stafford,QB,DET,6,Swagger Badgers,Ross,,snake,2025-07-01T16:33:48.904578
+2011,,10,99,207,497244,Aaron Hernandez,TE,NE,5,Fencing Beats Football,Cameron,,snake,2025-07-01T16:33:48.904802
+2011,,10,100,208,4383,Tim Hightower,RB,WAS,8,Free DOME,Tim,,snake,2025-07-01T16:33:48.905038
+2011,,11,101,221,2506874,Reggie Bush,RB,MIA,8,Free DOME,Tim,,snake,2025-07-01T16:33:49.611648
+2011,,11,102,222,497188,Ryan Mathews,RB,LAC,5,Fencing Beats Football,Cameron,,snake,2025-07-01T16:33:49.611862
+2011,,11,103,223,2506871,Fred Jackson,RB,BUF,6,Swagger Badgers,Ross,,snake,2025-07-01T16:33:49.612057
+2011,,11,104,224,2495718,Sidney Rice,WR,SEA,1,The REVolution,Matt,,snake,2025-07-01T16:33:49.612267
+2011,,11,105,225,2495663,Marshawn Lynch,RB,SEA,4,HOLDEN CAUFIELDS,Benjy,,snake,2025-07-01T16:33:49.612465
+2011,,11,106,226,2346,Pierre Garcon,WR,IND,7,Big Bird's Barbarians,Nick,,snake,2025-07-01T16:33:49.612656
+2011,,11,107,227,2495241,Daniel Thomas,RB,MIA,3,D Street Corsairs,Andrew,,snake,2025-07-01T16:33:49.612854
+2011,,11,108,228,79595,Johnny Knox,WR,CHI,10,Village Park Recreational Club,Craig,,snake,2025-07-01T16:33:49.613059
+2011,,11,109,229,1030,Mario Manningham,WR,NYG,9,Go Pack Go,Ryan,,snake,2025-07-01T16:33:49.613261
+2011,,11,110,230,2503532,Hines Ward,WR,PIT,2,Granger Danger,Alexander,,snake,2025-07-01T16:33:49.613465
+2011,,12,111,243,929,BenJarvus Green-Ellis,RB,NE,2,Granger Danger,Alexander,,snake,2025-07-01T16:33:50.362140
+2011,,12,112,244,2495793,Joseph Addai,RB,IND,9,Go Pack Go,Ryan,,snake,2025-07-01T16:33:50.362401
+2011,,12,113,245,100022,New Orleans Saints,,,10,Village Park Recreational Club,Craig,,snake,2025-07-01T16:33:50.362591
+2011,,12,114,246,71431,Brandon Pettigrew,TE,DET,3,D Street Corsairs,Andrew,,snake,2025-07-01T16:33:50.362780
+2011,,12,115,247,2504595,Steve Smith,WR,CAR,7,Big Bird's Barbarians,Nick,,snake,2025-07-01T16:33:50.362969
+2011,,12,116,248,2495450,A.J. Green,WR,CIN,4,HOLDEN CAUFIELDS,Benjy,,snake,2025-07-01T16:33:50.363164
+2011,,12,117,249,497236,Jimmy Graham,TE,NO,1,The REVolution,Matt,,snake,2025-07-01T16:33:50.363355
+2011,,12,118,250,2506097,Lee Evans,WR,BAL,6,Swagger Badgers,Ross,,snake,2025-07-01T16:33:50.363549
+2011,,12,119,251,497095,Sam Bradford,QB,STL,5,Fencing Beats Football,Cameron,,snake,2025-07-01T16:33:50.363737
+2011,,12,120,252,2506562,Matt Cassel,QB,KC,8,Free DOME,Tim,,snake,2025-07-01T16:33:50.363933
+2011,,13,121,265,2495888,Marcedes Lewis,TE,JAC,8,Free DOME,Tim,,snake,2025-07-01T16:33:51.084425
+2011,,13,122,266,2495562,Steve Breaston,WR,KC,5,Fencing Beats Football,Cameron,,snake,2025-07-01T16:33:51.084664
+2011,,13,123,267,2500467,Donald Driver,WR,GB,6,Swagger Badgers,Ross,,snake,2025-07-01T16:33:51.084884
+2011,,13,124,268,2506448,Brandon Jacobs,RB,NYG,1,The REVolution,Matt,,snake,2025-07-01T16:33:51.085104
+2011,,13,125,269,949,Jonathan Stewart,RB,CAR,4,HOLDEN CAUFIELDS,Benjy,,snake,2025-07-01T16:33:51.085320
+2011,,13,126,270,2506287,Lance Moore,WR,NO,7,Big Bird's Barbarians,Nick,,snake,2025-07-01T16:33:51.085531
+2011,,13,127,271,2506342,Braylon Edwards,WR,SF,3,D Street Corsairs,Andrew,,snake,2025-07-01T16:33:51.085739
+2011,,13,128,272,1074,Dustin Keller,TE,NYJ,10,Village Park Recreational Club,Craig,,snake,2025-07-01T16:33:51.085921
+2011,,13,129,273,2507169,Kevin Kolb,QB,ARI,9,Go Pack Go,Ryan,,snake,2025-07-01T16:33:51.086111
+2011,,13,130,274,2506444,Kyle Orton,QB,KC,2,Granger Danger,Alexander,,snake,2025-07-01T16:33:51.086310
+2011,,14,131,287,2506467,Darren Sproles,RB,NO,2,Granger Danger,Alexander,,snake,2025-07-01T16:33:51.797293
+2011,,14,132,288,497240,Rob Gronkowski,TE,NE,9,Go Pack Go,Ryan,,snake,2025-07-01T16:33:51.797551
+2011,,14,133,289,2506677,Matt Prater,K,DEN,10,Village Park Recreational Club,Craig,,snake,2025-07-01T16:33:51.797788
+2011,,14,134,290,2502044,Donovan McNabb,QB,MIN,3,D Street Corsairs,Andrew,,snake,2025-07-01T16:33:51.798023
+2011,,14,135,291,100008,Dallas Cowboys,,,7,Big Bird's Barbarians,Nick,,snake,2025-07-01T16:33:51.798253
+2011,,14,136,292,2506122,Benjamin Watson,TE,CLE,4,HOLDEN CAUFIELDS,Benjy,,snake,2025-07-01T16:33:51.798482
+2011,,14,137,293,100023,New York Giants,,,1,The REVolution,Matt,,snake,2025-07-01T16:33:51.798716
+2011,,14,138,294,497204,C.J. Spiller,RB,BUF,6,Swagger Badgers,Ross,,snake,2025-07-01T16:33:51.798932
+2011,,14,139,295,2504253,Plaxico Burress,WR,NYJ,5,Fencing Beats Football,Cameron,,snake,2025-07-01T16:33:51.799135
+2011,,14,140,296,497288,Jacoby Ford,WR,LV,8,Free DOME,Tim,,snake,2025-07-01T16:33:51.799344
+2011,,15,141,309,2505062,Deion Branch,WR,NE,8,Free DOME,Tim,,snake,2025-07-01T16:33:52.521741
+2011,,15,142,310,71269,Michael Crabtree,WR,SF,5,Fencing Beats Football,Cameron,,snake,2025-07-01T16:33:52.521982
+2011,,15,143,311,2495676,Robert Meachem,WR,NO,6,Swagger Badgers,Ross,,snake,2025-07-01T16:33:52.522203
+2011,,15,144,312,2499370,David Akers,K,SF,1,The REVolution,Matt,,snake,2025-07-01T16:33:52.522418
+2011,,15,145,313,2501078,Matt Hasselbeck,QB,TEN,4,HOLDEN CAUFIELDS,Benjy,,snake,2025-07-01T16:33:52.522631
+2011,,15,146,314,2504797,Matt Bryant,K,ATL,7,Big Bird's Barbarians,Nick,,snake,2025-07-01T16:33:52.522837
+2011,,15,147,315,2503471,Adam Vinatieri,K,IND,3,D Street Corsairs,Andrew,,snake,2025-07-01T16:33:52.523052
+2011,,15,148,316,927,Justin Forsett,RB,SEA,10,Village Park Recreational Club,Craig,,snake,2025-07-01T16:33:52.523260
+2011,,15,149,317,1032,Jordy Nelson,WR,GB,9,Go Pack Go,Ryan,,snake,2025-07-01T16:33:52.523466
+2011,,15,150,318,2504934,Rob Bironas,K,TEN,2,Granger Danger,Alexander,,snake,2025-07-01T16:33:52.523681

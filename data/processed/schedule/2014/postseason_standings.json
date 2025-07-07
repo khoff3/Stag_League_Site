@@ -1,0 +1,110 @@
+[
+  {
+    "place": 1,
+    "label": "Champion",
+    "team_id": "1",
+    "team_name": "InstaGraham",
+    "points": 227.64,
+    "week_15_points": 114.78,
+    "week_16_points": 112.86
+  },
+  {
+    "place": 2,
+    "label": "Runner Up",
+    "team_id": "5",
+    "team_name": "My Dinner with Andre",
+    "points": 180.39999999999998,
+    "week_15_points": 104.3,
+    "week_16_points": 76.1
+  },
+  {
+    "place": 3,
+    "label": "Third Place",
+    "team_id": "10",
+    "team_name": "Forte's Foreplay",
+    "points": 176.01999999999998,
+    "week_15_points": 76.78,
+    "week_16_points": 99.24
+  },
+  {
+    "place": 4,
+    "label": "Fourth Place",
+    "team_id": "3",
+    "team_name": "Stills Harvin Some Woodhead",
+    "points": 148.42000000000002,
+    "week_15_points": 72.48,
+    "week_16_points": 75.94
+  },
+  {
+    "place": 5,
+    "label": "Fifth Place",
+    "team_id": "7",
+    "team_name": "Knowshon's Eleven",
+    "points": 202.48,
+    "week_15_points": 120.1,
+    "week_16_points": 82.38
+  },
+  {
+    "place": 6,
+    "label": "Sixth Place",
+    "team_id": "9",
+    "team_name": "Chuck-E-Brees",
+    "points": 171.72,
+    "week_15_points": 95.1,
+    "week_16_points": 76.62
+  },
+  {
+    "place": 7,
+    "label": "Seventh Place",
+    "team_id": "6",
+    "team_name": "SweatyandEddiesQuestfortheStag",
+    "points": 171.56,
+    "week_15_points": 88.08,
+    "week_16_points": 83.48
+  },
+  {
+    "place": 8,
+    "label": "Eighth Place",
+    "team_id": "11",
+    "team_name": "Christopher Welken",
+    "points": 130.76,
+    "week_15_points": 76.42,
+    "week_16_points": 54.34
+  },
+  {
+    "place": 9,
+    "label": "Ninth Place",
+    "team_id": "4",
+    "team_name": "The Watkins Diet",
+    "points": 173.0,
+    "week_15_points": 85.0,
+    "week_16_points": 88.0
+  },
+  {
+    "place": 10,
+    "label": "Tenth Place",
+    "team_id": "8",
+    "team_name": "The Real McCoy",
+    "points": 167.0,
+    "week_15_points": 82.0,
+    "week_16_points": 85.0
+  },
+  {
+    "place": 11,
+    "label": "Eleventh Place",
+    "team_id": "2",
+    "team_name": "Cloudy With A Chance of Montee",
+    "points": 153.0,
+    "week_15_points": 78.0,
+    "week_16_points": 75.0
+  },
+  {
+    "place": 12,
+    "label": "Twelfth Place",
+    "team_id": "12",
+    "team_name": "Taco's Bell",
+    "points": 145.0,
+    "week_15_points": 75.0,
+    "week_16_points": 70.0
+  }
+]

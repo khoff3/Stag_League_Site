@@ -1,0 +1,327 @@
+{
+  "winners_bracket": {
+    "round_1": [
+      {
+        "game_id": "20151513",
+        "home_team": {
+          "id": "1",
+          "name": "Guardians of the Gostkowski",
+          "points": 102.36
+        },
+        "away_team": {
+          "id": "3",
+          "name": "Mange and Julio DBTSY",
+          "points": 122.0
+        },
+        "winner": "3"
+      },
+      {
+        "game_id": "20151565",
+        "home_team": {
+          "id": "6",
+          "name": "The Iron Bryants",
+          "points": 127.7
+        },
+        "away_team": {
+          "id": "5",
+          "name": "Keenan and Dion Memorial Squad",
+          "points": 95.5
+        },
+        "winner": "6"
+      }
+    ],
+    "championship_week": {
+      "championship": [
+        {
+          "game_id": "20151636",
+          "home_team": {
+            "id": "3",
+            "name": "Mange and Julio DBTSY",
+            "points": 120.46
+          },
+          "away_team": {
+            "id": "6",
+            "name": "The Iron Bryants",
+            "points": 81.48
+          },
+          "winner": "3"
+        }
+      ],
+      "third_place": [
+        {
+          "game_id": "20151615",
+          "home_team": {
+            "id": "1",
+            "name": "Guardians of the Gostkowski",
+            "points": 106.1
+          },
+          "away_team": {
+            "id": "5",
+            "name": "Keenan and Dion Memorial Squad",
+            "points": 89.8
+          },
+          "winner": "1"
+        }
+      ],
+      "consolation": []
+    }
+  },
+  "middle_teams_bracket": {
+    "round_1": [
+      {
+        "game_id": "201515710",
+        "home_team": {
+          "id": "7",
+          "name": "The Walking Dead",
+          "points": 100.34
+        },
+        "away_team": {
+          "id": "10",
+          "name": "Cole's Drafted Players",
+          "points": 99.94
+        },
+        "winner": "7"
+      },
+      {
+        "game_id": "20151529",
+        "home_team": {
+          "id": "2",
+          "name": "MI6 Quest for the Repeat",
+          "points": 77.58
+        },
+        "away_team": {
+          "id": "9",
+          "name": "Cooper Scoopers",
+          "points": 84.84
+        },
+        "winner": "9"
+      }
+    ],
+    "mediocre_bowl": [
+      {
+        "game_id": "20151679",
+        "home_team": {
+          "id": "7",
+          "name": "The Walking Dead",
+          "points": 127.66
+        },
+        "away_team": {
+          "id": "9",
+          "name": "Cooper Scoopers",
+          "points": 43.86
+        },
+        "winner": "7"
+      },
+      {
+        "game_id": "201516102",
+        "home_team": {
+          "id": "10",
+          "name": "Cole's Drafted Players",
+          "points": 71.64
+        },
+        "away_team": {
+          "id": "2",
+          "name": "MI6 Quest for the Repeat",
+          "points": 58.64
+        },
+        "winner": "10"
+      }
+    ]
+  },
+  "consolation_bracket": {
+    "round_1": [
+      {
+        "game_id": "2015151112_toilet",
+        "home_team": {
+          "id": "11",
+          "name": "Licence to Hill",
+          "points": 85.0
+        },
+        "away_team": {
+          "id": "12",
+          "name": "I Want to Berees",
+          "points": 75.0
+        },
+        "winner": "11",
+        "note": "Toilet bowl: Seed 12 loses and advances to losers bracket"
+      },
+      {
+        "game_id": "20151584_toilet",
+        "home_team": {
+          "id": "8",
+          "name": "Bend it Like Beckham",
+          "points": 82.0
+        },
+        "away_team": {
+          "id": "4",
+          "name": "The NFL All-Underperformers",
+          "points": 78.0
+        },
+        "winner": "8",
+        "note": "Toilet bowl: Seed 11 loses and advances to losers bracket"
+      }
+    ],
+    "toilet_bowl": [
+      {
+        "game_id": "201516124_toilet",
+        "home_team": {
+          "id": "12",
+          "name": "I Want to Berees",
+          "points": 70.0
+        },
+        "away_team": {
+          "id": "4",
+          "name": "The NFL All-Underperformers",
+          "points": 75.0
+        },
+        "winner": "4",
+        "note": "Toilet bowl losers bracket: Seed 12 loses both games = 12th place"
+      },
+      {
+        "game_id": "201516118_toilet",
+        "home_team": {
+          "id": "11",
+          "name": "Licence to Hill",
+          "points": 88.0
+        },
+        "away_team": {
+          "id": "8",
+          "name": "Bend it Like Beckham",
+          "points": 85.0
+        },
+        "winner": "11",
+        "note": "Toilet bowl winners bracket: Seed 9 wins = 9th place"
+      }
+    ]
+  },
+  "middle_teams": [
+    {
+      "seed": 5,
+      "team_id": "7",
+      "team_name": "The Walking Dead",
+      "record": "9-5-0"
+    },
+    {
+      "seed": 6,
+      "team_id": "2",
+      "team_name": "MI6 Quest for the Repeat",
+      "record": "8-6-0"
+    },
+    {
+      "seed": 7,
+      "team_id": "9",
+      "team_name": "Cooper Scoopers",
+      "record": "7-7-0"
+    },
+    {
+      "seed": 8,
+      "team_id": "10",
+      "team_name": "Cole's Drafted Players",
+      "record": "6-8-0"
+    }
+  ],
+  "seeds": {
+    "winners_bracket": [
+      {
+        "seed": 1,
+        "team_id": "1",
+        "team_name": "Guardians of the Gostkowski",
+        "record": "12-2-0"
+      },
+      {
+        "seed": 2,
+        "team_id": "6",
+        "team_name": "The Iron Bryants",
+        "record": "10-4-0"
+      },
+      {
+        "seed": 3,
+        "team_id": "5",
+        "team_name": "Keenan and Dion Memorial Squad",
+        "record": "9-5-0"
+      },
+      {
+        "seed": 4,
+        "team_id": "3",
+        "team_name": "Mange and Julio DBTSY",
+        "record": "9-5-0"
+      }
+    ],
+    "consolation_bracket": [
+      {
+        "seed": 5,
+        "team_id": "11",
+        "team_name": "Licence to Hill",
+        "record": "5-9-0"
+      },
+      {
+        "seed": 6,
+        "team_id": "8",
+        "team_name": "Bend it Like Beckham",
+        "record": "4-10-0"
+      },
+      {
+        "seed": 7,
+        "team_id": "4",
+        "team_name": "The NFL All-Underperformers",
+        "record": "3-11-0"
+      },
+      {
+        "seed": 8,
+        "team_id": "12",
+        "team_name": "I Want to Berees",
+        "record": "2-12-0"
+      },
+      {
+        "seed": 9,
+        "team_id": "11",
+        "team_name": "Licence to Hill",
+        "record": "5-9-0"
+      },
+      {
+        "seed": 10,
+        "team_id": "8",
+        "team_name": "Bend it Like Beckham",
+        "record": "4-10-0"
+      },
+      {
+        "seed": 11,
+        "team_id": "4",
+        "team_name": "The NFL All-Underperformers",
+        "record": "3-11-0"
+      },
+      {
+        "seed": 12,
+        "team_id": "12",
+        "team_name": "I Want to Berees",
+        "record": "2-12-0"
+      }
+    ]
+  },
+  "first_round_matchups": [
+    {
+      "home": 1,
+      "away": 4
+    },
+    {
+      "home": 2,
+      "away": 3
+    },
+    {
+      "home": 5,
+      "away": 8
+    },
+    {
+      "home": 6,
+      "away": 7
+    },
+    {
+      "home": 9,
+      "away": 12
+    },
+    {
+      "home": 10,
+      "away": 11
+    }
+  ]
+}

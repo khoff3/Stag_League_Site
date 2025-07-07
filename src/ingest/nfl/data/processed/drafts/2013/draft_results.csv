@@ -1,0 +1,181 @@
+year,nomination,round,pick,overall_pick,player_id,player_name,position,nfl_team,fantasy_team_id,fantasy_team_name,owner_name,auction_cost,draft_type,scraped_at
+2013,,1,1,1,2507164,Adrian Peterson,RB,MIN,12,Jacob's Super Stars,JACOB,,snake,2025-07-01T16:34:49.660602
+2013,,1,2,2,79555,Arian Foster,RB,HOU,4,TA-VON-ME,Craig,,snake,2025-07-01T16:34:49.660789
+2013,,1,3,3,925,Jamaal Charles,RB,KC,2,Charles in Charge,Ryan,,snake,2025-07-01T16:34:49.661033
+2013,,1,4,4,2495663,Marshawn Lynch,RB,SEA,8,Marshall Law,Nick,,snake,2025-07-01T16:34:49.661258
+2013,,1,5,5,2532899,Doug Martin,RB,TB,5,For Whom Le'Veon Bell Tolls,Benjy,,snake,2025-07-01T16:34:49.661444
+2013,,1,6,6,497204,C.J. Spiller,RB,BUF,6,MONDAY Night MURDERERS,Alexander,,snake,2025-07-01T16:34:49.661627
+2013,,1,7,7,79607,LeSean McCoy,RB,PHI,1,Colin The Shots,Matt,,snake,2025-07-01T16:34:49.661805
+2013,,1,8,8,941,Ray Rice,RB,BAL,11,The Green Machine,Jake,,snake,2025-07-01T16:34:49.661982
+2013,,1,9,9,2533032,Trent Richardson,RB,IND,10,Sproling in It,Andrew,,snake,2025-07-01T16:34:49.662159
+2013,,1,10,10,2495831,Maurice Jones-Drew,RB,JAX,9,Newton's Own,Kyle,,snake,2025-07-01T16:34:49.662339
+2013,,1,11,11,2533457,Alfred Morris,RB,WAS,3,Vincent's Brownies,Cameron,,snake,2025-07-01T16:34:49.662517
+2013,,1,12,12,234,Matt Forte,RB,CHI,7,Bearing Down,Zach,,snake,2025-07-01T16:34:49.662713
+2013,,2,13,25,2495647,Calvin Johnson,WR,DET,7,Bearing Down,Zach,,snake,2025-07-01T16:34:50.435719
+2013,,2,14,26,497278,Dez Bryant,WR,DAL,3,Vincent's Brownies,Cameron,,snake,2025-07-01T16:34:50.435989
+2013,,2,15,27,2495455,Cam Newton,QB,CAR,9,Newton's Own,Kyle,,snake,2025-07-01T16:34:50.436176
+2013,,2,16,28,2504775,Drew Brees,QB,NO,10,Sproling in It,Andrew,,snake,2025-07-01T16:34:50.436350
+2013,,2,17,29,2495450,A.J. Green,WR,CIN,11,The Green Machine,Jake,,snake,2025-07-01T16:34:50.436521
+2013,,2,18,30,2505936,Steven Jackson,RB,ATL,1,Colin The Shots,Matt,,snake,2025-07-01T16:34:50.436765
+2013,,2,19,31,262,Chris Johnson,RB,TEN,6,MONDAY Night MURDERERS,Alexander,,snake,2025-07-01T16:34:50.437023
+2013,,2,20,32,2495470,Stevan Ridley,RB,NE,5,For Whom Le'Veon Bell Tolls,Benjy,,snake,2025-07-01T16:34:50.437203
+2013,,2,21,33,2495893,Brandon Marshall,WR,CHI,8,Marshall Law,Nick,,snake,2025-07-01T16:34:50.437367
+2013,,2,22,34,2506874,Reggie Bush,RB,DET,2,Charles in Charge,Ryan,,snake,2025-07-01T16:34:50.437538
+2013,,2,23,35,2495454,Julio Jones,WR,ATL,4,TA-VON-ME,Craig,,snake,2025-07-01T16:34:50.437711
+2013,,2,24,36,497328,Demaryius Thomas,WR,DEN,12,Jacob's Super Stars,JACOB,,snake,2025-07-01T16:34:50.437891
+2013,,3,25,49,2506363,Aaron Rodgers,QB,GB,12,Jacob's Super Stars,JACOB,,snake,2025-07-01T16:34:51.249446
+2013,,3,26,50,497236,Jimmy Graham,TE,NO,4,TA-VON-ME,Craig,,snake,2025-07-01T16:34:51.249655
+2013,,3,27,51,2501863,Peyton Manning,QB,DEN,2,Charles in Charge,Ryan,,snake,2025-07-01T16:34:51.249845
+2013,,3,28,52,2506404,Frank Gore,RB,SF,8,Marshall Law,Nick,,snake,2025-07-01T16:34:51.250027
+2013,,3,29,53,2506106,Larry Fitzgerald,WR,ARI,5,For Whom Le'Veon Bell Tolls,Benjy,,snake,2025-07-01T16:34:51.250206
+2013,,3,30,54,2533035,David Wilson,RB,NYG,6,MONDAY Night MURDERERS,Alexander,,snake,2025-07-01T16:34:51.250388
+2013,,3,31,55,2505551,Andre Johnson,WR,HOU,1,Colin The Shots,Matt,,snake,2025-07-01T16:34:51.250568
+2013,,3,32,56,284,Darren McFadden,RB,LV,11,The Green Machine,Jake,,snake,2025-07-01T16:34:51.250752
+2013,,3,33,57,2506366,Roddy White,WR,ATL,10,Sproling in It,Andrew,,snake,2025-07-01T16:34:51.250935
+2013,,3,34,58,2495558,Dwayne Bowe,WR,KC,9,Newton's Own,Kyle,,snake,2025-07-01T16:34:51.251145
+2013,,3,35,59,2507855,Victor Cruz,WR,NYG,3,Vincent's Brownies,Cameron,,snake,2025-07-01T16:34:51.251331
+2013,,3,36,60,2495207,DeMarco Murray,RB,DAL,7,Bearing Down,Zach,,snake,2025-07-01T16:34:51.251527
+2013,,4,37,73,2506400,Vincent Jackson,WR,TB,7,Bearing Down,Zach,,snake,2025-07-01T16:34:52.033775
+2013,,4,38,74,2504747,Reggie Wayne,WR,IND,3,Vincent's Brownies,Cameron,,snake,2025-07-01T16:34:52.034008
+2013,,4,39,75,2533034,Lamar Miller,RB,MIA,9,Newton's Own,Kyle,,snake,2025-07-01T16:34:52.034220
+2013,,4,40,76,2506467,Darren Sproles,RB,NO,10,Sproling in It,Andrew,,snake,2025-07-01T16:34:52.034440
+2013,,4,41,77,2495821,Marques Colston,WR,NO,11,The Green Machine,Jake,,snake,2025-07-01T16:34:52.034655
+2013,,4,42,78,2495448,Randall Cobb,WR,GB,1,Colin The Shots,Matt,,snake,2025-07-01T16:34:52.034870
+2013,,4,43,79,2346,Pierre Garcon,WR,WAS,6,MONDAY Night MURDERERS,Alexander,,snake,2025-07-01T16:34:52.035087
+2013,,4,44,80,2540175,Le'Veon Bell,RB,PIT,5,For Whom Le'Veon Bell Tolls,Benjy,,snake,2025-07-01T16:34:52.035298
+2013,,4,45,81,2505790,Wes Welker,WR,DEN,8,Marshall Law,Nick,,snake,2025-07-01T16:34:52.035515
+2013,,4,46,82,2495341,Cecil Shorts,WR,JAX,2,Charles in Charge,Ryan,,snake,2025-07-01T16:34:52.035737
+2013,,4,47,83,2508061,Antonio Brown,WR,PIT,4,TA-VON-ME,Craig,,snake,2025-07-01T16:34:52.035953
+2013,,4,48,84,2507999,Chris Ivory,RB,NYJ,12,Jacob's Super Stars,JACOB,,snake,2025-07-01T16:34:52.036168
+2013,,5,49,97,80672,Hakeem Nicks,WR,NYG,12,Jacob's Super Stars,JACOB,,snake,2025-07-01T16:34:52.856015
+2013,,5,50,98,310,Matt Ryan,QB,ATL,4,TA-VON-ME,Craig,,snake,2025-07-01T16:34:52.856288
+2013,,5,51,99,497284,Eric Decker,WR,DEN,2,Charles in Charge,Ryan,,snake,2025-07-01T16:34:52.856509
+2013,,5,52,100,2539341,Montee Ball,RB,DEN,8,Marshall Law,Nick,,snake,2025-07-01T16:34:52.856711
+2013,,5,53,101,2649,Danny Amendola,WR,NE,5,For Whom Le'Veon Bell Tolls,Benjy,,snake,2025-07-01T16:34:52.856909
+2013,,5,54,102,1581,DeSean Jackson,WR,PHI,6,MONDAY Night MURDERERS,Alexander,,snake,2025-07-01T16:34:52.857108
+2013,,5,55,103,497188,Ryan Mathews,RB,LAC,1,Colin The Shots,Matt,,snake,2025-07-01T16:34:52.857304
+2013,,5,56,104,2504211,Tom Brady,QB,NE,11,The Green Machine,Jake,,snake,2025-07-01T16:34:52.857493
+2013,,5,57,105,1032,Jordy Nelson,WR,GB,10,Sproling in It,Andrew,,snake,2025-07-01T16:34:52.857684
+2013,,5,58,106,2495459,Torrey Smith,WR,BAL,9,Newton's Own,Kyle,,snake,2025-07-01T16:34:52.857882
+2013,,5,59,107,2540168,Eddie Lacy,RB,GB,3,Vincent's Brownies,Cameron,,snake,2025-07-01T16:34:52.858070
+2013,,5,60,108,2533031,Andrew Luck,QB,IND,7,Bearing Down,Zach,,snake,2025-07-01T16:34:52.858265
+2013,,6,61,121,2507763,Mike Wallace,WR,MIA,7,Bearing Down,Zach,,snake,2025-07-01T16:34:53.630297
+2013,,6,62,122,2532975,Russell Wilson,QB,SEA,3,Vincent's Brownies,Cameron,,snake,2025-07-01T16:34:53.630549
+2013,,6,63,123,2495826,Vernon Davis,TE,SF,9,Newton's Own,Kyle,,snake,2025-07-01T16:34:53.630774
+2013,,6,64,124,497240,Rob Gronkowski,TE,NE,10,Sproling in It,Andrew,,snake,2025-07-01T16:34:53.630995
+2013,,6,65,125,2504595,Steve Smith,WR,CAR,11,The Green Machine,Jake,,snake,2025-07-01T16:34:53.631207
+2013,,6,66,126,2495186,Colin Kaepernick,QB,SF,1,Colin The Shots,Matt,,snake,2025-07-01T16:34:53.631432
+2013,,6,67,127,2533033,Robert Griffin III,QB,WAS,6,MONDAY Night MURDERERS,Alexander,,snake,2025-07-01T16:34:53.631653
+2013,,6,68,128,2505629,Jason Witten,TE,DAL,5,For Whom Le'Veon Bell Tolls,Benjy,,snake,2025-07-01T16:34:53.631872
+2013,,6,69,129,2495560,Ahmad Bradshaw,RB,IND,8,Marshall Law,Nick,,snake,2025-07-01T16:34:53.632087
+2013,,6,70,130,2540156,Giovani Bernard,RB,CIN,2,Charles in Charge,Ryan,,snake,2025-07-01T16:34:53.632299
+2013,,6,71,131,939,Rashard Mendenhall,RB,ARI,4,TA-VON-ME,Craig,,snake,2025-07-01T16:34:53.632511
+2013,,6,72,132,2495867,Greg Jennings,WR,MIN,12,Jacob's Super Stars,JACOB,,snake,2025-07-01T16:34:53.632725
+2013,,7,73,145,2500835,Tony Gonzalez,TE,ATL,12,Jacob's Super Stars,JACOB,,snake,2025-07-01T16:34:54.505391
+2013,,7,74,146,2539336,Tavon Austin,WR,STL,4,TA-VON-ME,Craig,,snake,2025-07-01T16:34:54.505633
+2013,,7,75,147,71217,Kenny Britt,WR,TEN,2,Charles in Charge,Ryan,,snake,2025-07-01T16:34:54.505859
+2013,,7,76,148,2495700,Greg Olsen,TE,CAR,8,Marshall Law,Nick,,snake,2025-07-01T16:34:54.506086
+2013,,7,77,149,2507183,James Jones,WR,GB,5,For Whom Le'Veon Bell Tolls,Benjy,,snake,2025-07-01T16:34:54.506302
+2013,,7,78,150,2505587,Anquan Boldin,WR,SF,6,MONDAY Night MURDERERS,Alexander,,snake,2025-07-01T16:34:54.506517
+2013,,7,79,151,768,Steve Johnson,WR,BUF,1,Colin The Shots,Matt,,snake,2025-07-01T16:34:54.506725
+2013,,7,80,152,2508048,Mike Williams,WR,TB,11,The Green Machine,Jake,,snake,2025-07-01T16:34:54.506915
+2013,,7,81,153,929,BenJarvus Green-Ellis,RB,CIN,10,Sproling in It,Andrew,,snake,2025-07-01T16:34:54.507111
+2013,,7,82,154,2495801,Miles Austin,WR,DAL,9,Newton's Own,Kyle,,snake,2025-07-01T16:34:54.507296
+2013,,7,83,155,2508115,Vincent Brown,WR,LAC,3,Vincent's Brownies,Cameron,,snake,2025-07-01T16:34:54.507484
+2013,,7,84,156,2495825,Owen Daniels,TE,HOU,7,Bearing Down,Zach,,snake,2025-07-01T16:34:54.507675
+2013,,8,85,169,2534789,Daryl Richardson,RB,STL,7,Bearing Down,Zach,,snake,2025-07-01T16:34:55.353865
+2013,,8,86,170,2507218,Brent Celek,TE,PHI,3,Vincent's Brownies,Cameron,,snake,2025-07-01T16:34:55.354111
+2013,,8,87,171,2507790,Andre Brown,RB,NYG,9,Newton's Own,Kyle,,snake,2025-07-01T16:34:55.354334
+2013,,8,88,172,2532865,T.Y. Hilton,WR,IND,10,Sproling in It,Andrew,,snake,2025-07-01T16:34:55.354550
+2013,,8,89,173,2495438,Kyle Rudolph,TE,MIN,11,The Green Machine,Jake,,snake,2025-07-01T16:34:55.354903
+2013,,8,90,174,4327,Danny Woodhead,RB,LAC,1,Colin The Shots,Matt,,snake,2025-07-01T16:34:55.355142
+2013,,8,91,175,2506871,Fred Jackson,RB,BUF,6,MONDAY Night MURDERERS,Alexander,,snake,2025-07-01T16:34:55.355365
+2013,,8,92,176,79860,Matthew Stafford,QB,DET,5,For Whom Le'Veon Bell Tolls,Benjy,,snake,2025-07-01T16:34:55.355585
+2013,,8,93,177,2495718,Sidney Rice,WR,SEA,8,Marshall Law,Nick,,snake,2025-07-01T16:34:55.355805
+2013,,8,94,178,2540165,DeAndre Hopkins,WR,HOU,2,Charles in Charge,Ryan,,snake,2025-07-01T16:34:55.356030
+2013,,8,95,179,2495473,Shane Vereen,RB,NE,4,TA-VON-ME,Craig,,snake,2025-07-01T16:34:55.356254
+2013,,8,96,180,2495979,DeAngelo Williams,RB,CAR,12,Jacob's Super Stars,JACOB,,snake,2025-07-01T16:34:55.356488
+2013,,9,97,193,2505459,Josh Brown,K,NYG,12,Jacob's Super Stars,JACOB,,snake,2025-07-01T16:34:56.106102
+2013,,9,98,194,2537931,Josh Gordon,WR,CLE,4,TA-VON-ME,Craig,,snake,2025-07-01T16:34:56.106360
+2013,,9,99,195,2540273,Zac Stacy,RB,STL,2,Charles in Charge,Ryan,,snake,2025-07-01T16:34:56.106584
+2013,,9,100,196,2506287,Lance Moore,WR,NO,8,Marshall Law,Nick,,snake,2025-07-01T16:34:56.106967
+2013,,9,101,197,497326,Golden Tate,WR,SEA,5,For Whom Le'Veon Bell Tolls,Benjy,,snake,2025-07-01T16:34:56.107215
+2013,,9,102,198,2533038,Justin Blackmon,WR,JAX,6,MONDAY Night MURDERERS,Alexander,,snake,2025-07-01T16:34:56.107440
+2013,,9,103,199,497322,Emmanuel Sanders,WR,PIT,1,Colin The Shots,Matt,,snake,2025-07-01T16:34:56.107739
+2013,,9,104,200,2533545,Bernard Pierce,RB,BAL,11,The Green Machine,Jake,,snake,2025-07-01T16:34:56.107973
+2013,,9,105,201,2495172,Kendall Hunter,RB,SF,10,Sproling in It,Andrew,,snake,2025-07-01T16:34:56.108169
+2013,,9,106,202,2533437,Ronnie Hillman,RB,DEN,9,Newton's Own,Kyle,,snake,2025-07-01T16:34:56.108369
+2013,,9,107,203,2507141,Pierre Thomas,RB,NO,3,Vincent's Brownies,Cameron,,snake,2025-07-01T16:34:56.108565
+2013,,9,108,204,2495466,Mark Ingram,RB,NO,7,Bearing Down,Zach,,snake,2025-07-01T16:34:56.108765
+2013,,10,109,217,2495315,Denarius Moore,WR,LV,7,Bearing Down,Zach,,snake,2025-07-01T16:34:56.891588
+2013,,10,110,218,2539228,EJ Manuel,QB,BUF,3,Vincent's Brownies,Cameron,,snake,2025-07-01T16:34:56.893433
+2013,,10,111,219,2539326,Johnathan Franklin,RB,GB,9,Newton's Own,Kyle,,snake,2025-07-01T16:34:56.893636
+2013,,10,112,220,2535634,Chris Givens,WR,STL,10,Sproling in It,Andrew,,snake,2025-07-01T16:34:56.893821
+2013,,10,113,221,2534796,Bryce Brown,RB,PHI,11,The Green Machine,Jake,,snake,2025-07-01T16:34:56.894002
+2013,,10,114,222,2533012,Vick Ballard,RB,IND,1,Colin The Shots,Matt,,snake,2025-07-01T16:34:56.894182
+2013,,10,115,223,2540169,Robert Woods,WR,BUF,6,MONDAY Night MURDERERS,Alexander,,snake,2025-07-01T16:34:56.894373
+2013,,10,116,224,949,Jonathan Stewart,RB,CAR,5,For Whom Le'Veon Bell Tolls,Benjy,,snake,2025-07-01T16:34:56.894620
+2013,,10,117,225,2532926,Isaiah Pead,RB,STL,8,Marshall Law,Nick,,snake,2025-07-01T16:34:56.894855
+2013,,10,118,226,2540171,Joseph Randle,RB,DAL,2,Charles in Charge,Ryan,,snake,2025-07-01T16:34:56.895047
+2013,,10,119,227,2532977,Kendall Wright,WR,TEN,4,TA-VON-ME,Craig,,snake,2025-07-01T16:34:56.895242
+2013,,10,120,228,2505354,Tony Romo,QB,DAL,12,Jacob's Super Stars,JACOB,,snake,2025-07-01T16:34:56.895442
+2013,,11,121,241,80427,Darrius Heyward-Bey,WR,IND,12,Jacob's Super Stars,JACOB,,snake,2025-07-01T16:34:57.654298
+2013,,11,122,242,2533036,LaMichael James,RB,SF,4,TA-VON-ME,Craig,,snake,2025-07-01T16:34:57.654539
+2013,,11,123,243,2506109,Ben Roethlisberger,QB,PIT,2,Charles in Charge,Ryan,,snake,2025-07-01T16:34:57.654764
+2013,,11,124,244,2532841,Michael Floyd,WR,ARI,8,Marshall Law,Nick,,snake,2025-07-01T16:34:57.654990
+2013,,11,125,245,2495143,Andy Dalton,QB,CIN,5,For Whom Le'Veon Bell Tolls,Benjy,,snake,2025-07-01T16:34:57.655216
+2013,,11,126,246,2505245,Carson Palmer,QB,ARI,6,MONDAY Night MURDERERS,Alexander,,snake,2025-07-01T16:34:57.655432
+2013,,11,127,247,100030,Seattle Seahawks,,,1,Colin The Shots,Matt,,snake,2025-07-01T16:34:57.655666
+2013,,11,128,248,2539256,Aaron Dobson,WR,NE,11,The Green Machine,Jake,,snake,2025-07-01T16:34:57.655897
+2013,,11,129,249,100029,San Francisco 49ers,,,10,Sproling in It,Andrew,,snake,2025-07-01T16:34:57.656221
+2013,,11,130,250,2505996,Eli Manning,QB,NYG,9,Newton's Own,Kyle,,snake,2025-07-01T16:34:57.656503
+2013,,11,131,251,2540145,Cordarrelle Patterson,WR,MIN,3,Vincent's Brownies,Cameron,,snake,2025-07-01T16:34:57.656752
+2013,,11,132,252,2507192,Michael Bush,RB,CHI,7,Bearing Down,Zach,,snake,2025-07-01T16:34:57.656992
+2013,,12,133,265,100005,Chicago Bears,,,7,Bearing Down,Zach,,snake,2025-07-01T16:34:58.449512
+2013,,12,134,266,100013,Houston Texans,,,3,Vincent's Brownies,Cameron,,snake,2025-07-01T16:34:58.449722
+2013,,12,135,267,100006,Cincinnati Bengals,,,9,Newton's Own,Kyle,,snake,2025-07-01T16:34:58.449925
+2013,,12,136,268,2495468,Mikel Leshoure,RB,DET,10,Sproling in It,Andrew,,snake,2025-07-01T16:34:58.450115
+2013,,12,137,269,71345,Rashad Jennings,RB,LV,11,The Green Machine,Jake,,snake,2025-07-01T16:34:58.450303
+2013,,12,138,270,2495471,Jacquizz Rodgers,RB,ATL,1,Colin The Shots,Matt,,snake,2025-07-01T16:34:58.450494
+2013,,12,139,271,2533039,Alshon Jeffery,WR,CHI,6,MONDAY Night MURDERERS,Alexander,,snake,2025-07-01T16:34:58.450684
+2013,,12,140,272,79563,Shonn Greene,RB,TEN,5,For Whom Le'Veon Bell Tolls,Benjy,,snake,2025-07-01T16:34:58.450869
+2013,,12,141,273,100021,New England Patriots,,,8,Marshall Law,Nick,,snake,2025-07-01T16:34:58.451052
+2013,,12,142,274,2540154,Keenan Allen,WR,LAC,2,Charles in Charge,Ryan,,snake,2025-07-01T16:34:58.451234
+2013,,12,143,275,100009,Denver Broncos,,,4,TA-VON-ME,Craig,,snake,2025-07-01T16:34:58.451419
+2013,,12,144,276,100017,St. Louis Rams,,,12,Jacob's Super Stars,JACOB,,snake,2025-07-01T16:34:58.451607
+2013,,13,145,289,497176,Toby Gerhart,RB,MIN,12,Jacob's Super Stars,JACOB,,snake,2025-07-01T16:34:59.233741
+2013,,13,146,290,79619,Knowshon Moreno,RB,DEN,4,TA-VON-ME,Craig,,snake,2025-07-01T16:34:59.233878
+2013,,13,147,291,100011,Green Bay Packers,,,2,Charles in Charge,Ryan,,snake,2025-07-01T16:34:59.234004
+2013,,13,148,292,79557,Josh Freeman,QB,MIN,8,Marshall Law,Nick,,snake,2025-07-01T16:34:59.235193
+2013,,13,149,293,497302,Brandon LaFell,WR,CAR,5,For Whom Le'Veon Bell Tolls,Benjy,,snake,2025-07-01T16:34:59.235312
+2013,,13,150,294,2508112,Rob Housler,TE,ARI,6,MONDAY Night MURDERERS,Alexander,,snake,2025-07-01T16:34:59.235428
+2013,,13,151,295,2506922,Stephen Gostkowski,K,NE,1,Colin The Shots,Matt,,snake,2025-07-01T16:34:59.235544
+2013,,13,152,296,100026,Arizona Cardinals,,,11,The Green Machine,Jake,,snake,2025-07-01T16:34:59.235660
+2013,,13,153,297,2532968,Blair Walsh,K,MIN,10,Sproling in It,Andrew,,snake,2025-07-01T16:34:59.235776
+2013,,13,154,298,2495192,Greg Little,WR,CLE,9,Newton's Own,Kyle,,snake,2025-07-01T16:34:59.235892
+2013,,13,155,299,2505785,Malcom Floyd,WR,LAC,3,Vincent's Brownies,Cameron,,snake,2025-07-01T16:34:59.236010
+2013,,13,156,300,2504797,Matt Bryant,K,ATL,7,Bearing Down,Zach,,snake,2025-07-01T16:34:59.236129
+2013,,14,157,313,382,Joe Flacco,QB,BAL,7,Bearing Down,Zach,,snake,2025-07-01T16:35:00.034962
+2013,,14,158,314,2505299,Antonio Gates,TE,LAC,3,Vincent's Brownies,Cameron,,snake,2025-07-01T16:35:00.035170
+2013,,14,159,315,100002,Baltimore Ravens,,,9,Newton's Own,Kyle,,snake,2025-07-01T16:35:00.035357
+2013,,14,160,316,2504531,Michael Vick,QB,PHI,10,Sproling in It,Andrew,,snake,2025-07-01T16:35:00.035548
+2013,,14,161,317,2506677,Matt Prater,K,DEN,11,The Green Machine,Jake,,snake,2025-07-01T16:35:00.035730
+2013,,14,162,318,2532876,A.J. Jenkins,WR,KC,1,Colin The Shots,Matt,,snake,2025-07-01T16:35:00.035923
+2013,,14,163,319,100031,Tampa Bay Buccaneers,,,6,MONDAY Night MURDERERS,Alexander,,snake,2025-07-01T16:35:00.036122
+2013,,14,164,320,2500351,Phil Dawson,K,SF,5,For Whom Le'Veon Bell Tolls,Benjy,,snake,2025-07-01T16:35:00.036317
+2013,,14,165,321,89766,Brandon Myers,TE,NYG,8,Marshall Law,Nick,,snake,2025-07-01T16:35:00.036627
+2013,,14,166,322,2504162,Shayne Graham,K,NO,2,Charles in Charge,Ryan,,snake,2025-07-01T16:35:00.036848
+2013,,14,167,323,2533040,Mohamed Sanu,WR,CIN,4,TA-VON-ME,Craig,,snake,2025-07-01T16:35:00.037048
+2013,,14,168,324,497208,Ben Tate,RB,HOU,12,Jacob's Super Stars,JACOB,,snake,2025-07-01T16:35:00.037248
+2013,,15,169,337,2506885,Santonio Holmes,WR,NYJ,12,Jacob's Super Stars,JACOB,,snake,2025-07-01T16:35:00.825263
+2013,,15,170,338,2504257,Sebastian Janikowski,K,LV,4,TA-VON-ME,Craig,,snake,2025-07-01T16:35:00.825449
+2013,,15,171,339,2540148,Tyler Eifert,TE,CIN,2,Charles in Charge,Ryan,,snake,2025-07-01T16:35:00.825615
+2013,,15,172,340,2536340,Justin Tucker,K,BAL,8,Marshall Law,Nick,,snake,2025-07-01T16:35:00.825774
+2013,,15,173,341,100027,Pittsburgh Steelers,,,5,For Whom Le'Veon Bell Tolls,Benjy,,snake,2025-07-01T16:35:00.825932
+2013,,15,174,342,2534797,Greg Zuerlein,K,STL,6,MONDAY Night MURDERERS,Alexander,,snake,2025-07-01T16:35:00.826084
+2013,,15,175,343,497224,Ed Dickson,TE,BAL,1,Colin The Shots,Matt,,snake,2025-07-01T16:35:00.826238
+2013,,15,176,344,2505976,Michael Jenkins,,,11,The Green Machine,Jake,,snake,2025-07-01T16:35:00.826394
+2013,,15,177,345,927,Justin Forsett,RB,JAX,10,Sproling in It,Andrew,,snake,2025-07-01T16:35:00.826551
+2013,,15,178,346,2533444,Randy Bullock,K,HOU,9,Newton's Own,Kyle,,snake,2025-07-01T16:35:00.826699
+2013,,15,179,347,2499370,David Akers,K,DET,3,Vincent's Brownies,Cameron,,snake,2025-07-01T16:35:00.826857
+2013,,15,180,348,2505511,Nate Burleson,WR,DET,7,Bearing Down,Zach,,snake,2025-07-01T16:35:00.827013

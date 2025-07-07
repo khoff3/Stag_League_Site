@@ -1,0 +1,181 @@
+year,nomination,round,pick,overall_pick,player_id,player_name,position,nfl_team,fantasy_team_id,fantasy_team_name,owner_name,auction_cost,draft_type,scraped_at
+2016,,1,1,1,2508061,Antonio Brown,WR,PIT,11,Outback Jakehouse,Jake,,snake,2025-07-01T16:36:32.017509
+2016,,1,2,2,2553435,David Johnson,RB,ARI,2,King Goffery,Ryan,,snake,2025-07-01T16:36:32.017694
+2016,,1,3,3,2552475,Todd Gurley,RB,LA,9,Mon Don't Grief,Kyle,,snake,2025-07-01T16:36:32.017844
+2016,,1,4,4,2495454,Julio Jones,WR,ATL,1,Latavius Maximus,Matt,,snake,2025-07-01T16:36:32.017968
+2016,,1,5,5,2543496,Odell Beckham,WR,NYG,4,The PTY's,Craig,,snake,2025-07-01T16:36:32.018101
+2016,,1,6,6,2507164,Adrian Peterson,RB,MIN,7,LCD Stagsystem,Zach,,snake,2025-07-01T16:36:32.018242
+2016,,1,7,7,2540165,DeAndre Hopkins,WR,HOU,12,theres something about Mathews,James,,snake,2025-07-01T16:36:32.018374
+2016,,1,8,8,2555224,Ezekiel Elliott,RB,DAL,10,Cole's Drafted Players,Cole,,snake,2025-07-01T16:36:32.018500
+2016,,1,9,9,2543583,Devonta Freeman,RB,ATL,3,Aiken' for the ThreePeat,Cameron,,snake,2025-07-01T16:36:32.018667
+2016,,1,10,10,2495450,A.J. Green,WR,CIN,6,HYDROPOWER,Alexander,,snake,2025-07-01T16:36:32.018831
+2016,,1,11,11,497278,Dez Bryant,WR,DAL,8,Miller High Lyfe,Nick,,snake,2025-07-01T16:36:32.018999
+2016,,1,12,12,925,Jamaal Charles,RB,KC,5,Joey Bosa Shrug Emoji,Benjy,,snake,2025-07-01T16:36:32.019159
+2016,,2,13,25,497240,Rob Gronkowski,TE,NE,5,Joey Bosa Shrug Emoji,Benjy,,snake,2025-07-01T16:36:32.837801
+2016,,2,14,26,2533034,Lamar Miller,RB,HOU,8,Miller High Lyfe,Nick,,snake,2025-07-01T16:36:32.838081
+2016,,2,15,27,2543468,Mike Evans,WR,TB,6,HYDROPOWER,Alexander,,snake,2025-07-01T16:36:32.838325
+2016,,2,16,28,79607,LeSean McCoy,RB,BUF,3,Aiken' for the ThreePeat,Cameron,,snake,2025-07-01T16:36:32.838479
+2016,,2,17,29,2495455,Cam Newton,QB,CAR,10,Cole's Drafted Players,Cole,,snake,2025-07-01T16:36:32.838632
+2016,,2,18,30,2540175,Le'Veon Bell,RB,PIT,12,theres something about Mathews,James,,snake,2025-07-01T16:36:32.838785
+2016,,2,19,31,2540168,Eddie Lacy,RB,GB,7,LCD Stagsystem,Zach,,snake,2025-07-01T16:36:32.838938
+2016,,2,20,32,2532899,Doug Martin,RB,TB,4,The PTY's,Craig,,snake,2025-07-01T16:36:32.839091
+2016,,2,21,33,2495893,Brandon Marshall,WR,NYJ,1,Latavius Maximus,Matt,,snake,2025-07-01T16:36:32.839245
+2016,,2,22,34,2543509,Allen Robinson,WR,JAX,9,Mon Don't Grief,Kyle,,snake,2025-07-01T16:36:32.839400
+2016,,2,23,35,2495466,Mark Ingram,RB,NO,2,King Goffery,Ryan,,snake,2025-07-01T16:36:32.839564
+2016,,2,24,36,1032,Jordy Nelson,WR,GB,11,Outback Jakehouse,Jake,,snake,2025-07-01T16:36:32.839727
+2016,,3,25,49,2506363,Aaron Rodgers,QB,GB,11,Outback Jakehouse,Jake,,snake,2025-07-01T16:36:33.617414
+2016,,3,26,50,2543457,Sammy Watkins,WR,BUF,2,King Goffery,Ryan,,snake,2025-07-01T16:36:33.617554
+2016,,3,27,51,2533039,Alshon Jeffery,WR,CHI,9,Mon Don't Grief,Kyle,,snake,2025-07-01T16:36:33.617681
+2016,,3,28,52,2540154,Keenan Allen,WR,LAC,1,Latavius Maximus,Matt,,snake,2025-07-01T16:36:33.617834
+2016,,3,29,53,2532865,T.Y. Hilton,WR,IND,4,The PTY's,Craig,,snake,2025-07-01T16:36:33.617965
+2016,,3,30,54,497328,Demaryius Thomas,WR,DEN,7,LCD Stagsystem,Zach,,snake,2025-07-01T16:36:33.618091
+2016,,3,31,55,2543498,Brandin Cooks,WR,NO,12,theres something about Mathews,James,,snake,2025-07-01T16:36:33.618217
+2016,,3,32,56,2540269,C.J. Anderson,RB,DEN,10,Cole's Drafted Players,Cole,,snake,2025-07-01T16:36:33.618342
+2016,,3,33,57,2552487,Amari Cooper,WR,LV,3,Aiken' for the ThreePeat,Cameron,,snake,2025-07-01T16:36:33.618466
+2016,,3,34,58,2543743,Carlos Hyde,RB,SF,6,HYDROPOWER,Alexander,,snake,2025-07-01T16:36:33.618597
+2016,,3,35,59,238498,Julian Edelman,WR,NE,8,Miller High Lyfe,Nick,,snake,2025-07-01T16:36:33.618727
+2016,,3,36,60,80429,Jeremy Maclin,WR,KC,5,Joey Bosa Shrug Emoji,Benjy,,snake,2025-07-01T16:36:33.618859
+2016,,4,37,73,2553733,Thomas Rawls,RB,SEA,5,Joey Bosa Shrug Emoji,Benjy,,snake,2025-07-01T16:36:34.411200
+2016,,4,38,74,2540160,Jordan Reed,TE,WAS,8,Miller High Lyfe,Nick,,snake,2025-07-01T16:36:34.411472
+2016,,4,39,75,2495700,Greg Olsen,TE,CAR,6,HYDROPOWER,Alexander,,snake,2025-07-01T16:36:34.411728
+2016,,4,40,76,2543488,Jarvis Landry,WR,MIA,3,Aiken' for the ThreePeat,Cameron,,snake,2025-07-01T16:36:34.411977
+2016,,4,41,77,2495448,Randall Cobb,WR,GB,10,Cole's Drafted Players,Cole,,snake,2025-07-01T16:36:34.412239
+2016,,4,42,78,234,Matt Forte,RB,NYJ,12,theres something about Mathews,James,,snake,2025-07-01T16:36:34.412488
+2016,,4,43,79,2530747,Doug Baldwin,WR,SEA,7,LCD Stagsystem,Zach,,snake,2025-07-01T16:36:34.412684
+2016,,4,44,80,2541161,Latavius Murray,RB,LV,4,The PTY's,Craig,,snake,2025-07-01T16:36:34.412848
+2016,,4,45,81,2552379,Jeremy Langford,RB,CHI,1,Latavius Maximus,Matt,,snake,2025-07-01T16:36:34.413012
+2016,,4,46,82,2543603,Jeremy Hill,RB,CIN,9,Mon Don't Grief,Kyle,,snake,2025-07-01T16:36:34.413172
+2016,,4,47,83,949,Jonathan Stewart,RB,CAR,2,King Goffery,Ryan,,snake,2025-07-01T16:36:34.413334
+2016,,4,48,84,2495207,DeMarco Murray,RB,TEN,11,Outback Jakehouse,Jake,,snake,2025-07-01T16:36:34.413504
+2016,,5,49,97,2552635,Matt Jones,RB,WAS,11,Outback Jakehouse,Jake,,snake,2025-07-01T16:36:35.165128
+2016,,5,50,98,2543471,Kelvin Benjamin,WR,CAR,2,King Goffery,Ryan,,snake,2025-07-01T16:36:35.165306
+2016,,5,51,99,2533031,Andrew Luck,QB,IND,9,Mon Don't Grief,Kyle,,snake,2025-07-01T16:36:35.165463
+2016,,5,52,100,79555,Arian Foster,RB,MIA,1,Latavius Maximus,Matt,,snake,2025-07-01T16:36:35.165633
+2016,,5,53,101,2532975,Russell Wilson,QB,SEA,4,The PTY's,Craig,,snake,2025-07-01T16:36:35.165800
+2016,,5,54,102,2495469,Dion Lewis,RB,NE,7,LCD Stagsystem,Zach,,snake,2025-07-01T16:36:35.165968
+2016,,5,55,103,497188,Ryan Mathews,RB,PHI,12,theres something about Mathews,James,,snake,2025-07-01T16:36:35.166147
+2016,,5,56,104,497284,Eric Decker,WR,NYJ,10,Cole's Drafted Players,Cole,,snake,2025-07-01T16:36:35.166316
+2016,,5,57,105,2543847,John Brown,WR,ARI,3,Aiken' for the ThreePeat,Cameron,,snake,2025-07-01T16:36:35.166486
+2016,,5,58,106,2552469,Melvin Gordon,RB,LAC,6,HYDROPOWER,Alexander,,snake,2025-07-01T16:36:35.166654
+2016,,5,59,107,2532841,Michael Floyd,WR,NE,8,Miller High Lyfe,Nick,,snake,2025-07-01T16:36:35.166821
+2016,,5,60,108,497326,Golden Tate,WR,DET,5,Joey Bosa Shrug Emoji,Benjy,,snake,2025-07-01T16:36:35.166984
+2016,,6,61,121,2506106,Larry Fitzgerald,WR,ARI,5,Joey Bosa Shrug Emoji,Benjy,,snake,2025-07-01T16:36:35.930428
+2016,,6,62,122,4327,Danny Woodhead,RB,LAC,8,Miller High Lyfe,Nick,,snake,2025-07-01T16:36:35.930587
+2016,,6,63,123,2540156,Giovani Bernard,RB,CIN,6,HYDROPOWER,Alexander,,snake,2025-07-01T16:36:35.930730
+2016,,6,64,124,2532790,Travis Benjamin,WR,LAC,3,Aiken' for the ThreePeat,Cameron,,snake,2025-07-01T16:36:35.930862
+2016,,6,65,125,100030,Seattle Seahawks,,,10,Cole's Drafted Players,Cole,,snake,2025-07-01T16:36:35.930996
+2016,,6,66,126,2504211,Tom Brady,QB,NE,12,theres something about Mathews,James,,snake,2025-07-01T16:36:35.931134
+2016,,6,67,127,1581,DeSean Jackson,WR,WAS,7,LCD Stagsystem,Zach,,snake,2025-07-01T16:36:35.931265
+2016,,6,68,128,2540258,Travis Kelce,TE,KC,4,The PTY's,Craig,,snake,2025-07-01T16:36:35.931395
+2016,,6,69,129,2552374,Ameer Abdullah,RB,DET,1,Latavius Maximus,Matt,,snake,2025-07-01T16:36:35.931530
+2016,,6,70,130,2543614,Donte Moncrief,WR,IND,9,Mon Don't Grief,Kyle,,snake,2025-07-01T16:36:35.931671
+2016,,6,71,131,2532853,Ladarius Green,TE,PIT,2,King Goffery,Ryan,,snake,2025-07-01T16:36:35.931792
+2016,,6,72,132,2550353,Allen Hurns,WR,JAX,11,Outback Jakehouse,Jake,,snake,2025-07-01T16:36:35.931915
+2016,,7,73,145,2540148,Tyler Eifert,TE,CIN,11,Outback Jakehouse,Jake,,snake,2025-07-01T16:36:36.726033
+2016,,7,74,146,2504775,Drew Brees,QB,NO,2,King Goffery,Ryan,,snake,2025-07-01T16:36:36.726197
+2016,,7,75,147,2506404,Frank Gore,RB,IND,9,Mon Don't Grief,Kyle,,snake,2025-07-01T16:36:36.726341
+2016,,7,76,148,2543500,Jordan Matthews,WR,PHI,1,Latavius Maximus,Matt,,snake,2025-07-01T16:36:36.726518
+2016,,7,77,149,497322,Emmanuel Sanders,WR,DEN,4,The PTY's,Craig,,snake,2025-07-01T16:36:36.726688
+2016,,7,78,150,2495966,Delanie Walker,TE,TEN,7,LCD Stagsystem,Zach,,snake,2025-07-01T16:36:36.726826
+2016,,7,79,151,2532838,Coby Fleener,TE,NO,12,theres something about Mathews,James,,snake,2025-07-01T16:36:36.726963
+2016,,7,80,152,2505299,Antonio Gates,TE,LAC,10,Cole's Drafted Players,Cole,,snake,2025-07-01T16:36:36.727106
+2016,,7,81,153,2550189,Isaiah Crowell,RB,CLE,3,Aiken' for the ThreePeat,Cameron,,snake,2025-07-01T16:36:36.727244
+2016,,7,82,154,2552461,Duke Johnson,RB,CLE,6,HYDROPOWER,Alexander,,snake,2025-07-01T16:36:36.727391
+2016,,7,83,155,2495979,DeAngelo Williams,RB,PIT,8,Miller High Lyfe,Nick,,snake,2025-07-01T16:36:36.727538
+2016,,7,84,156,71345,Rashad Jennings,RB,NYG,5,Joey Bosa Shrug Emoji,Benjy,,snake,2025-07-01T16:36:36.727688
+2016,,8,85,169,2552409,DeVante Parker,WR,MIA,5,Joey Bosa Shrug Emoji,Benjy,,snake,2025-07-01T16:36:37.543312
+2016,,8,86,170,2552430,Tyler Lockett,WR,SEA,8,Miller High Lyfe,Nick,,snake,2025-07-01T16:36:37.543450
+2016,,8,87,171,2506109,Ben Roethlisberger,QB,PIT,6,HYDROPOWER,Alexander,,snake,2025-07-01T16:36:37.543573
+2016,,8,88,172,2495353,Julius Thomas,TE,JAX,3,Aiken' for the ThreePeat,Cameron,,snake,2025-07-01T16:36:37.543692
+2016,,8,89,173,2555295,Sterling Shepard,WR,NYG,10,Cole's Drafted Players,Cole,,snake,2025-07-01T16:36:37.543809
+2016,,8,90,174,2539291,Markus Wheaton,WR,PIT,12,theres something about Mathews,James,,snake,2025-07-01T16:36:37.543926
+2016,,8,91,175,2506121,Philip Rivers,QB,LAC,7,LCD Stagsystem,Zach,,snake,2025-07-01T16:36:37.544042
+2016,,8,92,176,2507999,Chris Ivory,RB,JAX,4,The PTY's,Craig,,snake,2025-07-01T16:36:37.544166
+2016,,8,93,177,2505245,Carson Palmer,QB,ARI,1,Latavius Maximus,Matt,,snake,2025-07-01T16:36:37.544295
+2016,,8,94,178,71269,Michael Crabtree,WR,LV,9,Mon Don't Grief,Kyle,,snake,2025-07-01T16:36:37.544425
+2016,,8,95,179,2552582,Jay Ajayi,RB,MIA,2,King Goffery,Ryan,,snake,2025-07-01T16:36:37.544545
+2016,,8,96,180,2552471,T.J. Yeldon,RB,JAX,11,Outback Jakehouse,Jake,,snake,2025-07-01T16:36:37.544767
+2016,,9,97,193,2556075,Derrick Henry,RB,TEN,11,Outback Jakehouse,Jake,,snake,2025-07-01T16:36:38.310884
+2016,,9,98,194,2553432,Kevin White,WR,CHI,2,King Goffery,Ryan,,snake,2025-07-01T16:36:38.311125
+2016,,9,99,195,2537931,Josh Gordon,WR,CLE,9,Mon Don't Grief,Kyle,,snake,2025-07-01T16:36:38.311310
+2016,,9,100,196,927,Justin Forsett,RB,DEN,1,Latavius Maximus,Matt,,snake,2025-07-01T16:36:38.311486
+2016,,9,101,197,2555333,Corey Coleman,WR,CLE,4,The PTY's,Craig,,snake,2025-07-01T16:36:38.311661
+2016,,9,102,198,2552608,Stefon Diggs,WR,MIN,7,LCD Stagsystem,Zach,,snake,2025-07-01T16:36:38.311835
+2016,,9,103,199,2552631,Javorius Allen,RB,BAL,12,theres something about Mathews,James,,snake,2025-07-01T16:36:38.312004
+2016,,9,104,200,2495459,Torrey Smith,WR,SF,10,Cole's Drafted Players,Cole,,snake,2025-07-01T16:36:38.312166
+2016,,9,105,201,2530660,Kamar Aiken,WR,BAL,3,Aiken' for the ThreePeat,Cameron,,snake,2025-07-01T16:36:38.312326
+2016,,9,106,202,2532884,Marvin Jones,WR,DET,6,HYDROPOWER,Alexander,,snake,2025-07-01T16:36:38.312481
+2016,,9,107,203,2543477,Blake Bortles,QB,JAX,8,Miller High Lyfe,Nick,,snake,2025-07-01T16:36:38.312635
+2016,,9,108,204,2550256,Willie Snead,WR,NO,5,Joey Bosa Shrug Emoji,Benjy,,snake,2025-07-01T16:36:38.312797
+2016,,10,109,217,2495240,Tyrod Taylor,QB,BUF,5,Joey Bosa Shrug Emoji,Benjy,,snake,2025-07-01T16:36:39.065397
+2016,,10,110,218,2539336,Tavon Austin,WR,LA,8,Miller High Lyfe,Nick,,snake,2025-07-01T16:36:39.065530
+2016,,10,111,219,2346,Pierre Garcon,WR,WAS,6,HYDROPOWER,Alexander,,snake,2025-07-01T16:36:39.065651
+2016,,10,112,220,2505354,Tony Romo,QB,DAL,3,Aiken' for the ThreePeat,Cameron,,snake,2025-07-01T16:36:39.065768
+2016,,10,113,221,2543770,Charles Sims,RB,TB,10,Cole's Drafted Players,Cole,,snake,2025-07-01T16:36:39.065889
+2016,,10,114,222,2495328,Bilal Powell,RB,NYJ,12,theres something about Mathews,James,,snake,2025-07-01T16:36:39.066009
+2016,,10,115,223,497149,LeGarrette Blount,RB,NE,7,LCD Stagsystem,Zach,,snake,2025-07-01T16:36:39.066124
+2016,,10,116,224,2555417,C.J. Prosise,RB,SEA,4,The PTY's,Craig,,snake,2025-07-01T16:36:39.066241
+2016,,10,117,225,1060,Gary Barnidge,TE,CLE,1,Latavius Maximus,Matt,,snake,2025-07-01T16:36:39.066353
+2016,,10,118,226,2540158,Zach Ertz,TE,PHI,9,Mon Don't Grief,Kyle,,snake,2025-07-01T16:36:39.066465
+2016,,10,119,227,2552491,Dorial Green-Beckham,WR,PHI,2,King Goffery,Ryan,,snake,2025-07-01T16:36:39.066575
+2016,,10,120,228,2506400,Vincent Jackson,WR,TB,11,Outback Jakehouse,Jake,,snake,2025-07-01T16:36:39.066707
+2016,,11,121,241,2506922,Stephen Gostkowski,K,NE,11,Outback Jakehouse,Jake,,snake,2025-07-01T16:36:39.846407
+2016,,11,122,242,100009,Denver Broncos,,,2,King Goffery,Ryan,,snake,2025-07-01T16:36:39.846605
+2016,,11,123,243,2543499,Derek Carr,QB,LV,9,Mon Don't Grief,Kyle,,snake,2025-07-01T16:36:39.846740
+2016,,11,124,244,2550268,Charcandrick West,RB,KC,1,Latavius Maximus,Matt,,snake,2025-07-01T16:36:39.846876
+2016,,11,125,245,100026,Arizona Cardinals,,,4,The PTY's,Craig,,snake,2025-07-01T16:36:39.847001
+2016,,11,126,246,100013,Houston Texans,,,7,LCD Stagsystem,Zach,,snake,2025-07-01T16:36:39.847128
+2016,,11,127,247,100004,Carolina Panthers,,,12,theres something about Mathews,James,,snake,2025-07-01T16:36:39.847258
+2016,,11,128,248,2552453,Tevin Coleman,RB,ATL,10,Cole's Drafted Players,Cole,,snake,2025-07-01T16:36:39.847395
+2016,,11,129,249,2507855,Victor Cruz,WR,NYG,3,Aiken' for the ThreePeat,Cameron,,snake,2025-07-01T16:36:39.847526
+2016,,11,130,250,2532977,Kendall Wright,WR,TEN,6,HYDROPOWER,Alexander,,snake,2025-07-01T16:36:39.847660
+2016,,11,131,251,2555214,Laquon Treadwell,WR,MIN,8,Miller High Lyfe,Nick,,snake,2025-07-01T16:36:39.847791
+2016,,11,132,252,2540020,Theo Riddick,RB,DET,5,Joey Bosa Shrug Emoji,Benjy,,snake,2025-07-01T16:36:39.847924
+2016,,12,133,265,2505996,Eli Manning,QB,NYG,5,Joey Bosa Shrug Emoji,Benjy,,snake,2025-07-01T16:36:40.630793
+2016,,12,134,266,100016,Kansas City Chiefs,,,8,Miller High Lyfe,Nick,,snake,2025-07-01T16:36:40.630946
+2016,,12,135,267,497236,Jimmy Graham,TE,SEA,6,HYDROPOWER,Alexander,,snake,2025-07-01T16:36:40.631090
+2016,,12,136,268,2552380,Karlos Williams,RB,PIT,3,Aiken' for the ThreePeat,Cameron,,snake,2025-07-01T16:36:40.631232
+2016,,12,137,269,2495143,Andy Dalton,QB,CIN,10,Cole's Drafted Players,Cole,,snake,2025-07-01T16:36:40.631365
+2016,,12,138,270,497206,James Starks,RB,GB,12,theres something about Mathews,James,,snake,2025-07-01T16:36:40.631499
+2016,,12,139,271,2505629,Jason Witten,TE,DAL,7,LCD Stagsystem,Zach,,snake,2025-07-01T16:36:40.631631
+2016,,12,140,272,2543664,Terrance West,RB,BAL,4,The PTY's,Craig,,snake,2025-07-01T16:36:40.631766
+2016,,12,141,273,100017,Los Angeles Rams,,,1,Latavius Maximus,Matt,,snake,2025-07-01T16:36:40.631888
+2016,,12,142,274,100018,Las Vegas Raiders,,,9,Mon Don't Grief,Kyle,,snake,2025-07-01T16:36:40.632008
+2016,,12,143,275,2555229,Kenneth Dixon,RB,BAL,2,King Goffery,Ryan,,snake,2025-07-01T16:36:40.632131
+2016,,12,144,276,2504595,Steve Smith,WR,BAL,11,Outback Jakehouse,Jake,,snake,2025-07-01T16:36:40.632259
+2016,,13,145,289,2506467,Darren Sproles,RB,PHI,11,Outback Jakehouse,Jake,,snake,2025-07-01T16:36:41.458154
+2016,,13,146,290,2555223,Devontae Booker,RB,DEN,2,King Goffery,Ryan,,snake,2025-07-01T16:36:41.458337
+2016,,13,147,291,2555464,DeAndre Washington,RB,LV,9,Mon Don't Grief,Kyle,,snake,2025-07-01T16:36:41.458489
+2016,,13,148,292,2552470,Sammie Coates,WR,PIT,1,Latavius Maximus,Matt,,snake,2025-07-01T16:36:41.458669
+2016,,13,149,293,71309,Graham Gano,K,CAR,4,The PTY's,Craig,,snake,2025-07-01T16:36:41.458838
+2016,,13,150,294,2543715,Jerick McKinnon,RB,MIN,7,LCD Stagsystem,Zach,,snake,2025-07-01T16:36:41.458993
+2016,,13,151,295,2555343,Josh Doctson,WR,WAS,12,theres something about Mathews,James,,snake,2025-07-01T16:36:41.459151
+2016,,13,152,296,2495139,Charles Clay,TE,BUF,10,Cole's Drafted Players,Cole,,snake,2025-07-01T16:36:41.459300
+2016,,13,153,297,2507374,Steven Hauschka,K,SEA,3,Aiken' for the ThreePeat,Cameron,,snake,2025-07-01T16:36:41.459449
+2016,,13,154,298,2552033,Jameis Winston,QB,TB,6,HYDROPOWER,Alexander,,snake,2025-07-01T16:36:41.459605
+2016,,13,155,299,2555418,Jordan Howard,RB,CHI,8,Miller High Lyfe,Nick,,snake,2025-07-01T16:36:41.459760
+2016,,13,156,300,284,Darren McFadden,RB,DAL,5,Joey Bosa Shrug Emoji,Benjy,,snake,2025-07-01T16:36:41.459920
+2016,,14,157,313,2550325,Chandler Catanzaro,K,ARI,5,Joey Bosa Shrug Emoji,Benjy,,snake,2025-07-01T16:36:42.199385
+2016,,14,158,314,2495259,Dan Bailey,K,DAL,8,Miller High Lyfe,Nick,,snake,2025-07-01T16:36:42.199532
+2016,,14,159,315,1062,Martellus Bennett,TE,NE,6,HYDROPOWER,Alexander,,snake,2025-07-01T16:36:42.199655
+2016,,14,160,316,497204,C.J. Spiller,,,3,Aiken' for the ThreePeat,Cameron,,snake,2025-07-01T16:36:42.199777
+2016,,14,161,317,2536340,Justin Tucker,K,BAL,10,Cole's Drafted Players,Cole,,snake,2025-07-01T16:36:42.199897
+2016,,14,162,318,2505459,Josh Brown,,,12,theres something about Mathews,James,,snake,2025-07-01T16:36:42.200024
+2016,,14,163,319,2532968,Blair Walsh,,,7,LCD Stagsystem,Zach,,snake,2025-07-01T16:36:42.200142
+2016,,14,164,320,2552466,Marcus Mariota,QB,TEN,4,The PTY's,Craig,,snake,2025-07-01T16:36:42.200259
+2016,,14,165,321,2507232,Mason Crosby,K,GB,1,Latavius Maximus,Matt,,snake,2025-07-01T16:36:42.200375
+2016,,14,166,322,2541556,Brandon McManus,K,DEN,9,Mon Don't Grief,Kyle,,snake,2025-07-01T16:36:42.200493
+2016,,14,167,323,2543750,Jeff Janis,WR,GB,2,King Goffery,Ryan,,snake,2025-07-01T16:36:42.200609
+2016,,14,168,324,2556381,Mike Thomas,WR,LA,11,Outback Jakehouse,Jake,,snake,2025-07-01T16:36:42.200725
+2016,,15,169,337,2543646,Bruce Ellington,WR,SF,11,Outback Jakehouse,Jake,,snake,2025-07-01T16:36:43.006857
+2016,,15,170,338,2555334,Jared Goff,QB,LA,2,King Goffery,Ryan,,snake,2025-07-01T16:36:43.007060
+2016,,15,171,339,2555461,Wendell Smallwood,RB,PHI,9,Mon Don't Grief,Kyle,,snake,2025-07-01T16:36:43.007239
+2016,,15,172,340,2532903,Rishard Matthews,WR,TEN,1,Latavius Maximus,Matt,,snake,2025-07-01T16:36:43.007408
+2016,,15,173,341,262,Chris Johnson,RB,ARI,4,The PTY's,Craig,,snake,2025-07-01T16:36:43.007578
+2016,,15,174,342,2539205,Terrance Williams,WR,DAL,7,LCD Stagsystem,Zach,,snake,2025-07-01T16:36:43.007747
+2016,,15,175,343,2543495,Davante Adams,WR,GB,12,theres something about Mathews,James,,snake,2025-07-01T16:36:43.007900
+2016,,15,176,344,2533046,Dwayne Allen,TE,IND,10,Cole's Drafted Players,Cole,,snake,2025-07-01T16:36:43.008060
+2016,,15,177,345,100020,Minnesota Vikings,,,3,Aiken' for the ThreePeat,Cameron,,snake,2025-07-01T16:36:43.008282
+2016,,15,178,346,100003,Buffalo Bills,,,6,HYDROPOWER,Alexander,,snake,2025-07-01T16:36:43.008469
+2016,,15,179,347,2495473,Shane Vereen,RB,NYG,8,Miller High Lyfe,Nick,,snake,2025-07-01T16:36:43.008656
+2016,,15,180,348,100021,New England Patriots,,,5,Joey Bosa Shrug Emoji,Benjy,,snake,2025-07-01T16:36:43.008837

@@ -1,0 +1,102 @@
+[
+  {
+    "place": 1,
+    "label": "Champion",
+    "team_id": "1",
+    "team_name": "The Wrath of Quon",
+    "points": 225.36,
+    "week_15_points": 133.44,
+    "week_16_points": 91.92
+  },
+  {
+    "place": 2,
+    "label": "Runner Up",
+    "team_id": "7",
+    "team_name": "Ja'marroquai",
+    "points": 192.45999999999998,
+    "week_15_points": 102.8,
+    "week_16_points": 89.66
+  },
+  {
+    "place": 3,
+    "label": "Third Place",
+    "team_id": "6",
+    "team_name": "Koo D'etat",
+    "points": 70.8,
+    "week_15_points": 0.0,
+    "week_16_points": 70.8
+  },
+  {
+    "place": 4,
+    "label": "Fourth Place",
+    "team_id": "2",
+    "team_name": "Chubbinator 2 Judgment Day",
+    "points": 94.08,
+    "week_15_points": 0.0,
+    "week_16_points": 94.08
+  },
+  {
+    "place": 5,
+    "label": "Fifth Place",
+    "team_id": "11",
+    "team_name": "JJ the Jet Plane",
+    "points": 97.9,
+    "week_15_points": 97.9,
+    "week_16_points": 0.0
+  },
+  {
+    "place": 6,
+    "label": "Sixth Place",
+    "team_id": "9",
+    "team_name": "Magnum TI",
+    "points": 122.9,
+    "week_15_points": 122.9,
+    "week_16_points": 0.0
+  },
+  {
+    "place": 7,
+    "label": "Seventh Place",
+    "team_id": "4",
+    "team_name": "Super Lamario Sunshine",
+    "points": 0.0
+  },
+  {
+    "place": 8,
+    "label": "Eighth Place",
+    "team_id": "3",
+    "team_name": "Lazy Lazard Saloon",
+    "points": 0.0
+  },
+  {
+    "place": 9,
+    "label": "Ninth Place",
+    "team_id": "8",
+    "team_name": "Bot boy",
+    "points": 0.0
+  },
+  {
+    "place": 10,
+    "label": "Tenth Place",
+    "team_id": "5",
+    "team_name": "The Najee Trois",
+    "points": 0.0
+  },
+  {
+    "place": 5,
+    "label": "Fifth Place",
+    "team_id": "11",
+    "team_name": "JJ the Jet Plane",
+    "points": 89.36,
+    "week_16_points": 89.36,
+    "week_15_points": 0.0
+  },
+  {
+    "place": 6,
+    "label": "Sixth Place",
+    "team_id": "9",
+    "team_name": "Magnum TI",
+    "points": 68.2,
+    "week_16_points": 68.2,
+    "week_15_points": 0.0
+  }
+]

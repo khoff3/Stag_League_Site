@@ -1,0 +1,327 @@
+{
+  "winners_bracket": {
+    "round_1": [
+      {
+        "game_id": "201415105",
+        "home_team": {
+          "id": "10",
+          "name": "Forte's Foreplay",
+          "points": 76.78
+        },
+        "away_team": {
+          "id": "5",
+          "name": "My Dinner with Andre",
+          "points": 104.3
+        },
+        "winner": "5"
+      },
+      {
+        "game_id": "20141531",
+        "home_team": {
+          "id": "3",
+          "name": "Stills Harvin Some Woodhead",
+          "points": 72.48
+        },
+        "away_team": {
+          "id": "1",
+          "name": "InstaGraham",
+          "points": 114.78
+        },
+        "winner": "1"
+      }
+    ],
+    "championship_week": {
+      "championship": [
+        {
+          "game_id": "20141651",
+          "home_team": {
+            "id": "5",
+            "name": "My Dinner with Andre",
+            "points": 76.1
+          },
+          "away_team": {
+            "id": "1",
+            "name": "InstaGraham",
+            "points": 112.86
+          },
+          "winner": "1"
+        }
+      ],
+      "third_place": [
+        {
+          "game_id": "201416103",
+          "home_team": {
+            "id": "10",
+            "name": "Forte's Foreplay",
+            "points": 99.24
+          },
+          "away_team": {
+            "id": "3",
+            "name": "Stills Harvin Some Woodhead",
+            "points": 75.94
+          },
+          "winner": "10"
+        }
+      ],
+      "consolation": []
+    }
+  },
+  "middle_teams_bracket": {
+    "round_1": [
+      {
+        "game_id": "201415611",
+        "home_team": {
+          "id": "6",
+          "name": "SweatyandEddiesQuestfortheStag",
+          "points": 88.08
+        },
+        "away_team": {
+          "id": "11",
+          "name": "Christopher Welken",
+          "points": 76.42
+        },
+        "winner": "6"
+      },
+      {
+        "game_id": "20141579",
+        "home_team": {
+          "id": "7",
+          "name": "Knowshon's Eleven",
+          "points": 120.1
+        },
+        "away_team": {
+          "id": "9",
+          "name": "Chuck-E-Brees",
+          "points": 95.1
+        },
+        "winner": "7"
+      }
+    ],
+    "mediocre_bowl": [
+      {
+        "game_id": "20141667",
+        "home_team": {
+          "id": "6",
+          "name": "SweatyandEddiesQuestfortheStag",
+          "points": 83.48
+        },
+        "away_team": {
+          "id": "7",
+          "name": "Knowshon's Eleven",
+          "points": 82.38
+        },
+        "winner": "6"
+      },
+      {
+        "game_id": "201416119",
+        "home_team": {
+          "id": "11",
+          "name": "Christopher Welken",
+          "points": 54.34
+        },
+        "away_team": {
+          "id": "9",
+          "name": "Chuck-E-Brees",
+          "points": 76.62
+        },
+        "winner": "9"
+      }
+    ]
+  },
+  "consolation_bracket": {
+    "round_1": [
+      {
+        "game_id": "201415412_toilet",
+        "home_team": {
+          "id": "4",
+          "name": "The Watkins Diet",
+          "points": 85.0
+        },
+        "away_team": {
+          "id": "12",
+          "name": "Taco's Bell",
+          "points": 75.0
+        },
+        "winner": "4",
+        "note": "Toilet bowl: Seed 12 loses and advances to losers bracket"
+      },
+      {
+        "game_id": "20141582_toilet",
+        "home_team": {
+          "id": "8",
+          "name": "The Real McCoy",
+          "points": 82.0
+        },
+        "away_team": {
+          "id": "2",
+          "name": "Cloudy With A Chance of Montee",
+          "points": 78.0
+        },
+        "winner": "8",
+        "note": "Toilet bowl: Seed 11 loses and advances to losers bracket"
+      }
+    ],
+    "toilet_bowl": [
+      {
+        "game_id": "201416122_toilet",
+        "home_team": {
+          "id": "12",
+          "name": "Taco's Bell",
+          "points": 70.0
+        },
+        "away_team": {
+          "id": "2",
+          "name": "Cloudy With A Chance of Montee",
+          "points": 75.0
+        },
+        "winner": "2",
+        "note": "Toilet bowl losers bracket: Seed 12 loses both games = 12th place"
+      },
+      {
+        "game_id": "20141648_toilet",
+        "home_team": {
+          "id": "4",
+          "name": "The Watkins Diet",
+          "points": 88.0
+        },
+        "away_team": {
+          "id": "8",
+          "name": "The Real McCoy",
+          "points": 85.0
+        },
+        "winner": "4",
+        "note": "Toilet bowl winners bracket: Seed 9 wins = 9th place"
+      }
+    ]
+  },
+  "middle_teams": [
+    {
+      "seed": 5,
+      "team_id": "6",
+      "team_name": "SweatyandEddiesQuestfortheStag",
+      "record": "7-7-0"
+    },
+    {
+      "seed": 6,
+      "team_id": "11",
+      "team_name": "Christopher Welken",
+      "record": "7-7-0"
+    },
+    {
+      "seed": 7,
+      "team_id": "9",
+      "team_name": "Chuck-E-Brees",
+      "record": "7-7-0"
+    },
+    {
+      "seed": 8,
+      "team_id": "7",
+      "team_name": "Knowshon's Eleven",
+      "record": "7-7-0"
+    }
+  ],
+  "seeds": {
+    "winners_bracket": [
+      {
+        "seed": 1,
+        "team_id": "10",
+        "team_name": "Forte's Foreplay",
+        "record": "10-4-0"
+      },
+      {
+        "seed": 2,
+        "team_id": "3",
+        "team_name": "Stills Harvin Some Woodhead",
+        "record": "9-5-0"
+      },
+      {
+        "seed": 3,
+        "team_id": "1",
+        "team_name": "InstaGraham",
+        "record": "8-6-0"
+      },
+      {
+        "seed": 4,
+        "team_id": "5",
+        "team_name": "My Dinner with Andre",
+        "record": "8-6-0"
+      }
+    ],
+    "consolation_bracket": [
+      {
+        "seed": 5,
+        "team_id": "4",
+        "team_name": "The Watkins Diet",
+        "record": "6-8-0"
+      },
+      {
+        "seed": 6,
+        "team_id": "8",
+        "team_name": "The Real McCoy",
+        "record": "6-8-0"
+      },
+      {
+        "seed": 7,
+        "team_id": "2",
+        "team_name": "Cloudy With A Chance of Montee",
+        "record": "5-9-0"
+      },
+      {
+        "seed": 8,
+        "team_id": "12",
+        "team_name": "Taco's Bell",
+        "record": "4-10-0"
+      },
+      {
+        "seed": 9,
+        "team_id": "4",
+        "team_name": "The Watkins Diet",
+        "record": "6-8-0"
+      },
+      {
+        "seed": 10,
+        "team_id": "8",
+        "team_name": "The Real McCoy",
+        "record": "6-8-0"
+      },
+      {
+        "seed": 11,
+        "team_id": "2",
+        "team_name": "Cloudy With A Chance of Montee",
+        "record": "5-9-0"
+      },
+      {
+        "seed": 12,
+        "team_id": "12",
+        "team_name": "Taco's Bell",
+        "record": "4-10-0"
+      }
+    ]
+  },
+  "first_round_matchups": [
+    {
+      "home": 1,
+      "away": 4
+    },
+    {
+      "home": 2,
+      "away": 3
+    },
+    {
+      "home": 5,
+      "away": 8
+    },
+    {
+      "home": 6,
+      "away": 7
+    },
+    {
+      "home": 9,
+      "away": 12
+    },
+    {
+      "home": 10,
+      "away": 11
+    }
+  ]
+}

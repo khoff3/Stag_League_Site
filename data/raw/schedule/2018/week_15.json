@@ -1,0 +1,68 @@
+{
+  "games": [
+    {
+      "away_points": 80.12,
+      "away_rank": 12,
+      "away_record": "3-10-0",
+      "away_team": "No League for Old Men",
+      "away_team_id": "12",
+      "game_id": "201815212",
+      "home_points": 113.14,
+      "home_rank": 10,
+      "home_record": "4-9-0",
+      "home_team": "ZekeZone",
+      "home_team_id": "2",
+      "scraped_at": "2025-06-30T22:48:23.794Z",
+      "season": 2018,
+      "week": 15
+    },
+    {
+      "away_points": 75.92,
+      "away_rank": 8,
+      "away_record": "6-7-0",
+      "away_team": "Roaring Rivers of Freedom",
+      "away_team_id": "6",
+      "game_id": "201815106",
+      "home_points": 71.9,
+      "home_rank": 7,
+      "home_record": "6-7-0",
+      "home_team": "Risk It For The Trubiscuit",
+      "home_team_id": "10",
+      "scraped_at": "2025-06-30T22:48:23.794Z",
+      "season": 2018,
+      "week": 15
+    },
+    {
+      "away_points": 66.82,
+      "away_rank": 6,
+      "away_record": "6-7-0",
+      "away_team": "Capn' Geno's",
+      "away_team_id": "3",
+      "game_id": "20181553",
+      "home_points": 70.94,
+      "home_rank": 1,
+      "home_record": "12-1-0",
+      "home_team": "Kamara Obscura",
+      "home_team_id": "5",
+      "scraped_at": "2025-06-30T22:48:23.794Z",
+      "season": 2018,
+      "week": 15
+    },
+    {
+      "away_points": 79.32,
+      "away_rank": 2,
+      "away_record": "10-3-0",
+      "away_team": "Mahomes Room",
+      "away_team_id": "9",
+      "game_id": "20181519",
+      "home_points": 44.98,
+      "home_rank": 4,
+      "home_record": "7-6-0",
+      "home_team": "Johnson and Johnson",
+      "home_team_id": "1",
+      "scraped_at": "2025-06-30T22:48:23.794Z",
+      "season": 2018,
+      "week": 15
+    }
+  ]
+}

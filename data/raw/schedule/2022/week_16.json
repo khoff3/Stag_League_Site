@@ -1,0 +1,68 @@
+{
+  "games": [
+    {
+      "away_points": 89.46,
+      "away_rank": 10,
+      "away_record": "6-8-0",
+      "away_team": "Lazy Lazard Saloon",
+      "away_team_id": "3",
+      "game_id": "202216123",
+      "home_points": 103.5,
+      "home_rank": 7,
+      "home_record": "7-7-0",
+      "home_team": "Mad Mixon",
+      "home_team_id": "12",
+      "scraped_at": "2025-07-01T02:40:42.613Z",
+      "season": 2022,
+      "week": 16
+    },
+    {
+      "away_points": 93.34,
+      "away_rank": 8,
+      "away_record": "6-8-0",
+      "away_team": "Tom and Terry",
+      "away_team_id": "10",
+      "game_id": "202216410",
+      "home_points": 86.4,
+      "home_rank": 9,
+      "home_record": "6-8-0",
+      "home_team": "Super Lamario Sunshine",
+      "home_team_id": "4",
+      "scraped_at": "2025-07-01T02:40:42.613Z",
+      "season": 2022,
+      "week": 16
+    },
+    {
+      "away_points": 85.2,
+      "away_rank": 5,
+      "away_record": "8-6-0",
+      "away_team": "Ja'marroquai",
+      "away_team_id": "7",
+      "game_id": "20221667",
+      "home_points": 70.8,
+      "home_rank": 1,
+      "home_record": "9-5-0",
+      "home_team": "Koo D'etat",
+      "home_team_id": "6",
+      "scraped_at": "2025-07-01T02:40:42.613Z",
+      "season": 2022,
+      "week": 16
+    },
+    {
+      "away_points": 94.08,
+      "away_rank": 2,
+      "away_record": "9-5-0",
+      "away_team": "Chubbinator 2 Judgment Day",
+      "away_team_id": "2",
+      "game_id": "20221612",
+      "home_points": 137.46,
+      "home_rank": 3,
+      "home_record": "9-5-0",
+      "home_team": "The Wrath of Quon",
+      "home_team_id": "1",
+      "scraped_at": "2025-07-01T02:40:42.613Z",
+      "season": 2022,
+      "week": 16
+    }
+  ]
+}

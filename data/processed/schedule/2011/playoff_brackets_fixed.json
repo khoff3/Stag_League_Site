@@ -1,0 +1,221 @@
+{
+  "winners_bracket": {
+    "round_1": [],
+    "championship_week": {
+      "championship": [],
+      "third_place": []
+    }
+  },
+  "consolation_bracket": {
+    "round_1": [
+      {
+        "game_id": "20111531",
+        "home_team": {
+          "id": "3",
+          "name": "D Street Corsairs",
+          "points": 74.0
+        },
+        "away_team": {
+          "id": "1",
+          "name": "The REVolution",
+          "points": 105.28
+        },
+        "winner": "1"
+      },
+      {
+        "game_id": "20111524",
+        "home_team": {
+          "id": "2",
+          "name": "Granger Danger",
+          "points": 122.72
+        },
+        "away_team": {
+          "id": "4",
+          "name": "HOLDEN CAUFIELDS",
+          "points": 109.0
+        },
+        "winner": "2"
+      },
+      {
+        "game_id": "201115105",
+        "home_team": {
+          "id": "10",
+          "name": "Village Park Recreational Club",
+          "points": 86.58
+        },
+        "away_team": {
+          "id": "5",
+          "name": "Fencing Beats Football",
+          "points": 108.78
+        },
+        "winner": "5"
+      },
+      {
+        "game_id": "20111596",
+        "home_team": {
+          "id": "9",
+          "name": "Go Pack Go",
+          "points": 124.7
+        },
+        "away_team": {
+          "id": "6",
+          "name": "Swagger Badgers",
+          "points": 127.52
+        },
+        "winner": "6"
+      },
+      {
+        "game_id": "20111587",
+        "home_team": {
+          "id": "8",
+          "name": "Free DOME",
+          "points": 142.4
+        },
+        "away_team": {
+          "id": "7",
+          "name": "Big Bird's Barbarians",
+          "points": 99.32
+        },
+        "winner": "8"
+      }
+    ],
+    "toilet_bowl": [
+      {
+        "game_id": "20111631",
+        "home_team": {
+          "id": "3",
+          "name": "D Street Corsairs",
+          "points": 74.0
+        },
+        "away_team": {
+          "id": "1",
+          "name": "The REVolution",
+          "points": 105.28
+        },
+        "winner": "1"
+      },
+      {
+        "game_id": "20111624",
+        "home_team": {
+          "id": "2",
+          "name": "Granger Danger",
+          "points": 122.72
+        },
+        "away_team": {
+          "id": "4",
+          "name": "HOLDEN CAUFIELDS",
+          "points": 109.0
+        },
+        "winner": "2"
+      },
+      {
+        "game_id": "201116105",
+        "home_team": {
+          "id": "10",
+          "name": "Village Park Recreational Club",
+          "points": 86.58
+        },
+        "away_team": {
+          "id": "5",
+          "name": "Fencing Beats Football",
+          "points": 108.78
+        },
+        "winner": "5"
+      },
+      {
+        "game_id": "20111696",
+        "home_team": {
+          "id": "9",
+          "name": "Go Pack Go",
+          "points": 124.7
+        },
+        "away_team": {
+          "id": "6",
+          "name": "Swagger Badgers",
+          "points": 127.52
+        },
+        "winner": "6"
+      },
+      {
+        "game_id": "20111687",
+        "home_team": {
+          "id": "8",
+          "name": "Free DOME",
+          "points": 142.4
+        },
+        "away_team": {
+          "id": "7",
+          "name": "Big Bird's Barbarians",
+          "points": 99.32
+        },
+        "winner": "8"
+      }
+    ]
+  },
+  "seeds": {
+    "winners_bracket": [
+      {
+        "seed": 1,
+        "team_id": "1",
+        "team_name": "The REVolution",
+        "record": "14-0-0"
+      },
+      {
+        "seed": 2,
+        "team_id": "2",
+        "team_name": "Granger Danger",
+        "record": "14-0-0"
+      },
+      {
+        "seed": 3,
+        "team_id": "5",
+        "team_name": "Fencing Beats Football",
+        "record": "14-0-0"
+      },
+      {
+        "seed": 4,
+        "team_id": "6",
+        "team_name": "Swagger Badgers",
+        "record": "14-0-0"
+      }
+    ],
+    "consolation_bracket": [
+      {
+        "seed": 5,
+        "team_id": "8",
+        "team_name": "Free DOME",
+        "record": "14-0-0"
+      },
+      {
+        "seed": 6,
+        "team_id": "3",
+        "team_name": "D Street Corsairs",
+        "record": "0-14-0"
+      },
+      {
+        "seed": 7,
+        "team_id": "4",
+        "team_name": "HOLDEN CAUFIELDS",
+        "record": "0-14-0"
+      },
+      {
+        "seed": 8,
+        "team_id": "10",
+        "team_name": "Village Park Recreational Club",
+        "record": "0-14-0"
+      },
+      {
+        "seed": 9,
+        "team_id": "9",
+        "team_name": "Go Pack Go",
+        "record": "0-14-0"
+      },
+      {
+        "seed": 10,
+        "team_id": "7",
+        "team_name": "Big Bird's Barbarians",
+        "record": "0-14-0"
+      }
+    ]
+  }
+}

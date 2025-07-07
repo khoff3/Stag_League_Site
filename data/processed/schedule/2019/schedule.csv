@@ -1,0 +1,99 @@
+home_rank,is_simulated,home_team_id,simulation_type,away_team_id,game_id,away_rank,away_record,week,home_points,season,home_record,away_points,scraped_at,home_team,away_team
+5,,1,,2,20190112,9,0-1-0,1,92.3,2019,1-0-0,91.32,2025-07-01T00:12:34.792Z,Califournettecation,Taupe Blougholes
+10,,3,,6,20190136,4,1-0-0,1,82.36,2019,0-1-0,111.02,2025-07-01T00:12:34.792Z,Macker Barrel Ol Country Store,Free Melvy
+2,,5,,10,201901510,8,0-1-0,1,115.24,2019,1-0-0,104.52,2025-07-01T00:12:34.792Z,Jacobs' Ladder,MaHomes Depot
+11,,11,,12,2019011112,1,1-0-0,1,82.22,2019,0-1-0,117.2,2025-07-01T00:12:34.792Z,Sasquontch,Fast Times at Ridley High
+7,,4,,7,20190147,3,1-0-0,1,112.36,2019,0-1-0,112.82,2025-07-01T00:12:34.792Z,Christian Mingle,Zach and the Fucked by JuJu
+12,,8,,9,20190189,6,1-0-0,1,74.3,2019,0-1-0,82.96,2025-07-01T00:12:34.792Z,Breezin,Avengers Engram
+12,,3,,1,20190231,3,2-0-0,2,70.02,2019,0-2-0,83.4,2025-06-30T23:11:09.122Z,Macker Barrel Ol Country Store,Califournettecation
+7,,2,,6,20190226,8,1-1-0,2,106.16,2019,1-1-0,79.72,2025-06-30T23:11:09.122Z,Taupe Blougholes,Free Melvy
+11,,11,,5,201902115,2,2-0-0,2,76.74,2019,0-2-0,91.88,2025-06-30T23:11:09.122Z,Sasquontch,Jacobs' Ladder
+4,,10,,12,2019021012,6,1-1-0,2,102.32,2019,1-1-0,81.8,2025-06-30T23:11:09.123Z,MaHomes Depot,Fast Times at Ridley High
+10,,8,,4,20190284,5,1-1-0,2,91.36,2019,0-2-0,91.7,2025-06-30T23:11:09.123Z,Breezin,Christian Mingle
+9,,7,,9,20190279,1,2-0-0,2,72.16,2019,1-1-0,139.66,2025-06-30T23:11:09.123Z,Zach and the Fucked by JuJu,Avengers Engram
+7,,1,,6,20190316,3,2-1-0,3,97.3,2019,2-1-0,117.42,2025-06-30T23:11:22.079Z,Califournettecation,Free Melvy
+9,,2,,3,20190323,10,1-2-0,3,65.3,2019,1-2-0,88.18,2025-06-30T23:11:22.079Z,Taupe Blougholes,Macker Barrel Ol Country Store
+6,,5,,12,201903512,5,2-1-0,3,81.08,2019,2-1-0,99.24,2025-06-30T23:11:22.079Z,Jacobs' Ladder,Fast Times at Ridley High
+2,,10,,11,2019031011,11,0-3-0,3,109.06,2019,2-1-0,105.96,2025-06-30T23:11:22.079Z,MaHomes Depot,Sasquontch
+8,,4,,9,20190349,1,3-0-0,3,109.66,2019,1-2-0,134.44,2025-06-30T23:11:22.079Z,Christian Mingle,Avengers Engram
+4,,7,,8,20190378,12,0-3-0,3,120.44,2019,2-1-0,92.14,2025-06-30T23:11:22.079Z,Zach and the Fucked by JuJu,Breezin
+8,,1,,11,201904111,10,1-3-0,4,99.54,2019,2-2-0,113,2025-06-30T23:11:34.712Z,Califournettecation,Sasquontch
+9,,2,,12,201904212,7,2-2-0,4,86.88,2019,2-2-0,79,2025-06-30T23:11:34.712Z,Taupe Blougholes,Fast Times at Ridley High
+11,,3,,4,20190434,5,2-2-0,4,68.8,2019,1-3-0,114.08,2025-06-30T23:11:34.712Z,Macker Barrel Ol Country Store,Christian Mingle
+3,,6,,7,20190467,6,2-2-0,4,106.1,2019,3-1-0,89.9,2025-06-30T23:11:34.712Z,Free Melvy,Zach and the Fucked by JuJu
+4,,5,,8,20190458,12,0-4-0,4,78.08,2019,3-1-0,57.82,2025-06-30T23:11:34.712Z,Jacobs' Ladder,Breezin
+2,,10,,9,201904109,1,3-1-0,4,119.1,2019,3-1-0,112.5,2025-06-30T23:11:34.712Z,MaHomes Depot,Avengers Engram
+4,,12,,1,201905121,9,2-3-0,5,137.32,2019,3-2-0,102.66,2025-06-30T23:11:47.757Z,Fast Times at Ridley High,Califournettecation
+11,,11,,2,201905112,7,3-2-0,5,83.86,2019,1-4-0,90.62,2025-06-30T23:11:47.757Z,Sasquontch,Taupe Blougholes
+8,,7,,3,20190573,10,2-3-0,5,92.24,2019,2-3-0,104.94,2025-06-30T23:11:47.757Z,Zach and the Fucked by JuJu,Macker Barrel Ol Country Store
+3,,4,,6,20190546,5,3-2-0,5,151.7,2019,3-2-0,88.12,2025-06-30T23:11:47.757Z,Christian Mingle,Free Melvy
+1,,9,,5,20190595,6,3-2-0,5,156.84,2019,4-1-0,96.44,2025-06-30T23:11:47.757Z,Avengers Engram,Jacobs' Ladder
+12,,8,,10,201905810,2,4-1-0,5,90.82,2019,0-5-0,124.34,2025-06-30T23:11:47.757Z,Breezin,MaHomes Depot
+7,,1,,8,20190618,12,0-6-0,6,111,2019,3-3-0,92.02,2025-06-30T23:12:00.786Z,Califournettecation,Breezin
+9,,2,,9,20190629,1,5-1-0,6,99.22,2019,3-3-0,104.76,2025-06-30T23:12:00.786Z,Taupe Blougholes,Avengers Engram
+11,,3,,11,201906311,10,2-4-0,6,57.02,2019,2-4-0,103.04,2025-06-30T23:12:00.786Z,Macker Barrel Ol Country Store,Sasquontch
+6,,6,,12,201906612,3,4-2-0,6,104,2019,3-3-0,104.7,2025-06-30T23:12:00.786Z,Free Melvy,Fast Times at Ridley High
+4,,5,,4,20190654,5,3-3-0,6,119.74,2019,4-2-0,96.44,2025-06-30T23:12:00.786Z,Jacobs' Ladder,Christian Mingle
+2,,10,,7,201906107,8,3-3-0,6,76.62,2019,4-2-0,96.8,2025-06-30T23:12:00.786Z,MaHomes Depot,Zach and the Fucked by JuJu
+10,,11,,6,201907116,6,4-3-0,7,73.94,2019,2-5-0,80.86,2025-06-30T23:12:14.050Z,Sasquontch,Free Melvy
+2,,12,,3,201907123,11,2-5-0,7,94.54,2019,5-2-0,61.2,2025-06-30T23:12:14.050Z,Fast Times at Ridley High,Macker Barrel Ol Country Store
+4,,4,,10,201907410,5,4-3-0,7,76.66,2019,4-3-0,56.34,2025-06-30T23:12:14.050Z,Christian Mingle,MaHomes Depot
+9,,7,,5,20190775,3,5-2-0,7,59.62,2019,3-4-0,103.52,2025-06-30T23:12:14.050Z,Zach and the Fucked by JuJu,Jacobs' Ladder
+12,,8,,2,20190782,7,4-3-0,7,62.86,2019,0-7-0,91.08,2025-06-30T23:12:14.050Z,Breezin,Taupe Blougholes
+1,,9,,1,20190791,8,3-4-0,7,94.16,2019,6-1-0,83.22,2025-06-30T23:12:14.050Z,Avengers Engram,Califournettecation
+8,,1,,5,20190815,3,6-2-0,8,82.98,2019,3-5-0,101.94,2025-06-30T23:12:27.266Z,Califournettecation,Jacobs' Ladder
+5,,2,,10,201908210,6,4-4-0,8,107.8,2019,5-3-0,67.08,2025-06-30T23:12:27.266Z,Taupe Blougholes,MaHomes Depot
+10,,3,,8,20190838,12,0-8-0,8,122.66,2019,3-5-0,78.12,2025-06-30T23:12:27.266Z,Macker Barrel Ol Country Store,Breezin
+7,,6,,9,20190869,1,7-1-0,8,70.7,2019,4-4-0,140.86,2025-06-30T23:12:27.266Z,Free Melvy,Avengers Engram
+11,,11,,4,201908114,4,5-3-0,8,94.38,2019,2-6-0,110.48,2025-06-30T23:12:27.266Z,Sasquontch,Christian Mingle
+2,,12,,7,201908127,9,3-5-0,8,120.68,2019,6-2-0,87.16,2025-06-30T23:12:27.266Z,Fast Times at Ridley High,Zach and the Fucked by JuJu
+3,,5,,2,20190952,6,5-4-0,9,111.42,2019,7-2-0,90.94,2025-06-30T23:12:40.397Z,Jacobs' Ladder,Taupe Blougholes
+9,,10,,1,201909101,8,4-5-0,9,40.2,2019,4-5-0,78.04,2025-06-30T23:12:40.397Z,MaHomes Depot,Califournettecation
+4,,4,,12,201909412,2,7-2-0,9,121.06,2019,5-4-0,126.52,2025-06-30T23:12:40.397Z,Christian Mingle,Fast Times at Ridley High
+7,,7,,11,201909711,11,2-7-0,9,103.04,2019,4-5-0,86.16,2025-06-30T23:12:40.397Z,Zach and the Fucked by JuJu,Sasquontch
+12,,8,,6,20190986,5,5-4-0,9,71.28,2019,0-9-0,82.16,2025-06-30T23:12:40.397Z,Breezin,Free Melvy
+1,,9,,3,20190993,10,4-5-0,9,72.6,2019,7-2-0,89.76,2025-06-30T23:12:40.397Z,Avengers Engram,Macker Barrel Ol Country Store
+4,,4,,1,20191041,8,4-6-0,10,91.18,2019,6-4-0,81.22,2025-06-30T23:12:53.586Z,Christian Mingle,Califournettecation
+7,,7,,2,20191072,6,6-4-0,10,77.52,2019,4-6-0,85.22,2025-06-30T23:12:53.586Z,Zach and the Fucked by JuJu,Taupe Blougholes
+2,,5,,3,20191053,10,4-6-0,10,121.42,2019,8-2-0,97.62,2025-06-30T23:12:53.586Z,Jacobs' Ladder,Macker Barrel Ol Country Store
+9,,10,,6,201910106,5,6-4-0,10,98.22,2019,4-6-0,124.96,2025-06-30T23:12:53.586Z,MaHomes Depot,Free Melvy
+11,,11,,8,201910118,12,0-10-0,10,92.04,2019,3-7-0,54.08,2025-06-30T23:12:53.586Z,Sasquontch,Breezin
+1,,12,,9,201910129,3,7-3-0,10,99.18,2019,8-2-0,85.7,2025-06-30T23:12:53.586Z,Fast Times at Ridley High,Avengers Engram
+6,,2,,1,20191121,7,4-7-0,11,100.94,2019,7-4-0,84.64,2025-06-30T23:13:06.710Z,Taupe Blougholes,Califournettecation
+5,,6,,3,20191163,10,4-7-0,11,97.2,2019,7-4-0,87.88,2025-06-30T23:13:06.711Z,Free Melvy,Macker Barrel Ol Country Store
+8,,10,,5,201911105,2,9-2-0,11,69.5,2019,4-7-0,102.28,2025-06-30T23:13:06.711Z,MaHomes Depot,Jacobs' Ladder
+1,,12,,11,2019111211,11,3-8-0,11,63.9,2019,9-2-0,60.14,2025-06-30T23:13:06.711Z,Fast Times at Ridley High,Sasquontch
+9,,7,,4,20191174,4,7-4-0,11,49.06,2019,4-7-0,90.14,2025-06-30T23:13:06.711Z,Zach and the Fucked by JuJu,Christian Mingle
+3,,9,,8,20191198,12,1-10-0,11,68.34,2019,7-4-0,100.32,2025-06-30T23:13:06.711Z,Avengers Engram,Breezin
+7,,1,,3,20191213,10,4-8-0,12,104.82,2019,5-7-0,80.38,2025-06-30T23:13:19.950Z,Califournettecation,Macker Barrel Ol Country Store
+6,,6,,2,20191262,4,8-4-0,12,114.66,2019,7-5-0,135.7,2025-06-30T23:13:19.951Z,Free Melvy,Taupe Blougholes
+2,,5,,11,201912511,11,3-9-0,12,86.96,2019,10-2-0,65.58,2025-06-30T23:13:19.951Z,Jacobs' Ladder,Sasquontch
+1,,12,,10,2019121210,9,4-8-0,12,114.8,2019,10-2-0,73.92,2025-06-30T23:13:19.951Z,Fast Times at Ridley High,MaHomes Depot
+5,,4,,8,20191248,12,1-10-1,12,77.54,2019,7-4-1,77.54,2025-06-30T23:13:19.951Z,Christian Mingle,Breezin
+3,,9,,7,20191297,8,4-8-0,12,102.08,2019,8-4-0,83.32,2025-06-30T23:13:19.951Z,Avengers Engram,Zach and the Fucked by JuJu
+6,,6,,1,20191361,7,6-7-0,13,85.42,2019,7-6-0,103.72,2025-06-30T23:13:33.048Z,Free Melvy,Califournettecation
+10,,3,,2,20191332,3,9-4-0,13,57.66,2019,4-9-0,86.44,2025-06-30T23:13:33.048Z,Macker Barrel Ol Country Store,Taupe Blougholes
+2,,12,,5,201913125,1,11-2-0,13,76.54,2019,10-3-0,95.12,2025-06-30T23:13:33.048Z,Fast Times at Ridley High,Jacobs' Ladder
+11,,11,,10,2019131110,9,5-8-0,13,102.5,2019,3-10-0,105.3,2025-06-30T23:13:33.048Z,Sasquontch,MaHomes Depot
+5,,9,,4,20191394,4,8-4-1,13,62.44,2019,8-5-0,92.38,2025-06-30T23:13:33.048Z,Avengers Engram,Christian Mingle
+12,,8,,7,20191387,8,5-8-0,13,91.56,2019,1-11-1,106.56,2025-06-30T23:13:33.048Z,Breezin,Zach and the Fucked by JuJu
+10,,3,,11,201914311,11,3-10-0,14,92.48,2019,4-9-0,98.1,2025-06-30T23:13:46.291Z,Macker Barrel Ol Country Store,Sasquontch
+9,,10,,8,201914108,12,1-11-1,14,75.32,2019,5-8-0,122.36,2025-06-30T23:13:46.291Z,MaHomes Depot,Breezin
+4,,4,,9,20191449,5,8-5-0,14,88.22,2019,8-4-1,68.56,2025-06-30T23:13:46.291Z,Christian Mingle,Avengers Engram
+3,,2,,6,20191426,6,7-6-0,14,91.64,2019,9-4-0,85.24,2025-06-30T23:13:46.292Z,Taupe Blougholes,Free Melvy
+7,,1,,7,20191517,8,5-8-0,15,111.22,2019,6-7-0,105.52,2025-07-01T00:14:13.221Z,Califournettecation,Zach and the Fucked by JuJu
+9,,10,,3,201915103,10,4-9-0,15,92.1,2019,5-8-0,81.74,2025-07-01T00:14:13.221Z,MaHomes Depot,Macker Barrel Ol Country Store
+1,,5,,4,20191554,4,8-4-1,15,117.88,2019,11-2-0,112.2,2025-07-01T00:14:13.221Z,Jacobs' Ladder,Christian Mingle
+3,,2,,12,201915212,2,10-3-0,15,63.68,2019,9-4-0,112.74,2025-07-01T00:14:13.221Z,Taupe Blougholes,Fast Times at Ridley High
+7,,1,,7,20191617,8,5-8-0,16,83.3,2019,6-7-0,118.06,2025-06-30T23:15:06.341Z,Califournettecation,Zach and the Fucked by JuJu
+11,,11,,8,201916118,12,1-11-1,16,91.36,2019,3-10-0,52.5,2025-06-30T23:15:06.341Z,Sasquontch,Breezin
+9,,10,,3,201916103,10,4-9-0,16,110.34,2019,5-8-0,67.54,2025-06-30T23:15:06.341Z,MaHomes Depot,Macker Barrel Ol Country Store
+1,,5,,12,201916512,2,10-3-0,16,102.62,2019,11-2-0,84.56,2025-06-30T23:15:06.341Z,Jacobs' Ladder,Fast Times at Ridley High
+4,,4,,2,20191642,3,9-4-0,16,75.12,2019,8-4-1,69.66,2025-06-30T23:15:06.341Z,Christian Mingle,Taupe Blougholes
+5,,9,,6,20191696,6,7-6-0,16,89.38,2019,8-5-0,119.18,2025-06-30T23:15:06.341Z,Avengers Engram,Free Melvy
+0,True,10,toilet_bowl_round1,8,201914108_toilet_round1,0,0-0-0,14,75.32000000000001,2019,0-0-0,122.36000000000001,1751333869,MaHomes Depot,Breezin
+0,True,3,toilet_bowl_round1,11,201914311_toilet_round1,0,0-0-0,14,92.48000000000002,2019,0-0-0,98.1,1751333883,Macker Barrel Ol Country Store,Sasquontch
+0,True,8,toilet_bowl_winners,11,201915811_toilet_winners,0,0-0-0,15,99.67999999999999,2019,0-0-0,124.43999999999997,1751333883,Breezin,Sasquontch
+0,True,10,toilet_bowl_losers,3,201915103_toilet_losers,0,0-0-0,15,92.1,2019,0-0-0,81.74,1751333883,MaHomes Depot,Macker Barrel Ol Country Store
+0,True,11,toilet_bowl_championship,8,201916118_toilet_champ,0,0-0-0,16,121.52,2019,0-0-0,52.5,1751333883,Sasquontch,Breezin
+0,True,10,toilet_bowl_third_place,3,201916103_toilet_third,0,0-0-0,16,110.33999999999999,2019,0-0-0,67.53999999999999,1751333883,MaHomes Depot,Macker Barrel Ol Country Store

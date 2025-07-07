@@ -1,0 +1,68 @@
+{
+  "games": [
+    {
+      "away_points": 98.1,
+      "away_rank": 11,
+      "away_record": "3-10-0",
+      "away_team": "Sasquontch",
+      "away_team_id": "11",
+      "game_id": "201914311",
+      "home_points": 92.48,
+      "home_rank": 10,
+      "home_record": "4-9-0",
+      "home_team": "Macker Barrel Ol Country Store",
+      "home_team_id": "3",
+      "scraped_at": "2025-06-30T23:13:46.291Z",
+      "season": 2019,
+      "week": 14
+    },
+    {
+      "away_points": 122.36,
+      "away_rank": 12,
+      "away_record": "1-11-1",
+      "away_team": "Breezin",
+      "away_team_id": "8",
+      "game_id": "201914108",
+      "home_points": 75.32,
+      "home_rank": 9,
+      "home_record": "5-8-0",
+      "home_team": "MaHomes Depot",
+      "home_team_id": "10",
+      "scraped_at": "2025-06-30T23:13:46.291Z",
+      "season": 2019,
+      "week": 14
+    },
+    {
+      "away_points": 68.56,
+      "away_rank": 5,
+      "away_record": "8-5-0",
+      "away_team": "Avengers Engram",
+      "away_team_id": "9",
+      "game_id": "20191449",
+      "home_points": 88.22,
+      "home_rank": 4,
+      "home_record": "8-4-1",
+      "home_team": "Christian Mingle",
+      "home_team_id": "4",
+      "scraped_at": "2025-06-30T23:13:46.291Z",
+      "season": 2019,
+      "week": 14
+    },
+    {
+      "away_points": 85.24,
+      "away_rank": 6,
+      "away_record": "7-6-0",
+      "away_team": "Free Melvy",
+      "away_team_id": "6",
+      "game_id": "20191426",
+      "home_points": 91.64,
+      "home_rank": 3,
+      "home_record": "9-4-0",
+      "home_team": "Taupe Blougholes",
+      "home_team_id": "2",
+      "scraped_at": "2025-06-30T23:13:46.292Z",
+      "season": 2019,
+      "week": 14
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "team_id": "5",
+    "team_name": "Ultralight Kareem",
+    "wins": 10,
+    "losses": 4,
+    "ties": 0,
+    "points_for": 1482.7800000000004,
+    "points_against": 1253.94,
+    "place": 1,
+    "record": "10-4-0",
+    "win_pct": 0.7142857142857143
+  },
+  {
+    "team_id": "6",
+    "team_name": "Roaring Rivers",
+    "wins": 10,
+    "losses": 4,
+    "ties": 0,
+    "points_for": 1469.02,
+    "points_against": 1205.22,
+    "place": 2,
+    "record": "10-4-0",
+    "win_pct": 0.7142857142857143
+  },
+  {
+    "team_id": "12",
+    "team_name": "Hooked on a Thielen",
+    "wins": 10,
+    "losses": 4,
+    "ties": 0,
+    "points_for": 1276.74,
+    "points_against": 1164.6000000000001,
+    "place": 3,
+    "record": "10-4-0",
+    "win_pct": 0.7142857142857143
+  },
+  {
+    "team_id": "7",
+    "team_name": "New Gurley",
+    "wins": 9,
+    "losses": 5,
+    "ties": 0,
+    "points_for": 1365.86,
+    "points_against": 1392.28,
+    "place": 4,
+    "record": "9-5-0",
+    "win_pct": 0.6428571428571429
+  },
+  {
+    "team_id": "1",
+    "team_name": "Nuthin but a Green Thang",
+    "wins": 7,
+    "losses": 7,
+    "ties": 0,
+    "points_for": 1175.28,
+    "points_against": 1257.4999999999998,
+    "place": 5,
+    "record": "7-7-0",
+    "win_pct": 0.5
+  },
+  {
+    "team_id": "3",
+    "team_name": "Allen the Family",
+    "wins": 6,
+    "losses": 8,
+    "ties": 0,
+    "points_for": 1267.98,
+    "points_against": 1214.26,
+    "place": 6,
+    "record": "6-8-0",
+    "win_pct": 0.42857142857142855
+  },
+  {
+    "team_id": "8",
+    "team_name": "O Beckham Where Art Thou",
+    "wins": 6,
+    "losses": 8,
+    "ties": 0,
+    "points_for": 1261.1399999999999,
+    "points_against": 1361.9999999999998,
+    "place": 7,
+    "record": "6-8-0",
+    "win_pct": 0.42857142857142855
+  },
+  {
+    "team_id": "11",
+    "team_name": "Suicide Squad",
+    "wins": 5,
+    "losses": 9,
+    "ties": 0,
+    "points_for": 1165.16,
+    "points_against": 1179.2,
+    "place": 8,
+    "record": "5-9-0",
+    "win_pct": 0.35714285714285715
+  },
+  {
+    "team_id": "9",
+    "team_name": "Diggs It",
+    "wins": 4,
+    "losses": 10,
+    "ties": 0,
+    "points_for": 1173.0200000000002,
+    "points_against": 1330.28,
+    "place": 9,
+    "record": "4-10-0",
+    "win_pct": 0.2857142857142857
+  },
+  {
+    "team_id": "2",
+    "team_name": "Don't Check My Pryors",
+    "wins": 3,
+    "losses": 11,
+    "ties": 0,
+    "points_for": 1118.8400000000001,
+    "points_against": 1396.5400000000002,
+    "place": 10,
+    "record": "3-11-0",
+    "win_pct": 0.21428571428571427
+  }
+]

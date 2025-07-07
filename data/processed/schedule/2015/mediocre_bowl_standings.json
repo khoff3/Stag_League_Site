@@ -1,0 +1,46 @@
+[
+  {
+    "team_id": "7",
+    "team_name": "The Walking Dead",
+    "week_15_points": 100.34,
+    "week_16_points": 127.66,
+    "total_points": 228.0,
+    "week_15_opponent": null,
+    "week_16_opponent": null,
+    "place": 1,
+    "label": "1st Place"
+  },
+  {
+    "team_id": "10",
+    "team_name": "Cole's Drafted Players",
+    "week_15_points": 99.94,
+    "week_16_points": 71.64,
+    "total_points": 171.57999999999998,
+    "week_15_opponent": null,
+    "week_16_opponent": null,
+    "place": 2,
+    "label": "2nd Place"
+  },
+  {
+    "team_id": "2",
+    "team_name": "MI6 Quest for the Repeat",
+    "week_15_points": 77.58,
+    "week_16_points": 58.64,
+    "total_points": 136.22,
+    "week_15_opponent": null,
+    "week_16_opponent": null,
+    "place": 3,
+    "label": "3rd Place"
+  },
+  {
+    "team_id": "9",
+    "team_name": "Cooper Scoopers",
+    "week_15_points": 84.84,
+    "week_16_points": 43.86,
+    "total_points": 128.7,
+    "week_15_opponent": null,
+    "week_16_opponent": null,
+    "place": 4,
+    "label": "4th Place"
+  }
+]

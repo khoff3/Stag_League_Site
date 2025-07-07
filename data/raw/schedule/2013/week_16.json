@@ -1,0 +1,68 @@
+{
+  "games": [
+    {
+      "away_points": 77.38,
+      "away_rank": 6,
+      "away_record": "7-7-0",
+      "away_team": "MONDAY Night MURDERERS",
+      "away_team_id": "6",
+      "game_id": "20131686",
+      "home_points": 67.44,
+      "home_rank": 4,
+      "home_record": "7-7-0",
+      "home_team": "Marshall Law",
+      "home_team_id": "8",
+      "scraped_at": "2025-06-22T05:13:28.912Z",
+      "season": 2013,
+      "week": 16
+    },
+    {
+      "away_points": 67.04,
+      "away_rank": 7,
+      "away_record": "6-8-0",
+      "away_team": "Bearing Down",
+      "away_team_id": "7",
+      "game_id": "201316117",
+      "home_points": 94.98,
+      "home_rank": 8,
+      "home_record": "6-8-0",
+      "home_team": "The Green Machine",
+      "home_team_id": "11",
+      "scraped_at": "2025-06-22T05:13:28.912Z",
+      "season": 2013,
+      "week": 16
+    },
+    {
+      "away_points": 118.88,
+      "away_rank": 5,
+      "away_record": "7-7-0",
+      "away_team": "Colin The Shots",
+      "away_team_id": "1",
+      "game_id": "20131621",
+      "home_points": 126.5,
+      "home_rank": 1,
+      "home_record": "12-2-0",
+      "home_team": "Charles in Charge",
+      "home_team_id": "2",
+      "scraped_at": "2025-06-22T05:13:28.912Z",
+      "season": 2013,
+      "week": 16
+    },
+    {
+      "away_points": 86.04,
+      "away_rank": 2,
+      "away_record": "11-3-0",
+      "away_team": "TA-VON-ME",
+      "away_team_id": "4",
+      "game_id": "20131654",
+      "home_points": 46.48,
+      "home_rank": 3,
+      "home_record": "8-6-0",
+      "home_team": "For Whom Le'Veon Bell Tolls",
+      "home_team_id": "5",
+      "scraped_at": "2025-06-22T05:13:28.912Z",
+      "season": 2013,
+      "week": 16
+    }
+  ]
+}

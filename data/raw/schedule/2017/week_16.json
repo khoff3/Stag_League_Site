@@ -1,0 +1,68 @@
+{
+  "games": [
+    {
+      "away_points": 60.36,
+      "away_rank": 6,
+      "away_record": "6-8-0",
+      "away_team": "Allen the Family",
+      "away_team_id": "3",
+      "game_id": "20171613",
+      "home_points": 59.76,
+      "home_rank": 5,
+      "home_record": "7-7-0",
+      "home_team": "Nuthin but a Green Thang",
+      "home_team_id": "1",
+      "scraped_at": "2025-06-22T05:36:41.748Z",
+      "season": 2017,
+      "week": 16
+    },
+    {
+      "away_points": 67.34,
+      "away_rank": 8,
+      "away_record": "5-9-0",
+      "away_team": "Suicide Squad",
+      "away_team_id": "11",
+      "game_id": "201716211",
+      "home_points": 71.68,
+      "home_rank": 10,
+      "home_record": "3-11-0",
+      "home_team": "Don't Check My Pryors",
+      "home_team_id": "2",
+      "scraped_at": "2025-06-22T05:36:41.748Z",
+      "season": 2017,
+      "week": 16
+    },
+    {
+      "away_points": 76.84,
+      "away_rank": 3,
+      "away_record": "10-4-0",
+      "away_team": "Hooked on a Thielen",
+      "away_team_id": "12",
+      "game_id": "201716712",
+      "home_points": 122.3,
+      "home_rank": 4,
+      "home_record": "9-5-0",
+      "home_team": "New Gurley",
+      "home_team_id": "7",
+      "scraped_at": "2025-06-22T05:36:41.748Z",
+      "season": 2017,
+      "week": 16
+    },
+    {
+      "away_points": 104.2,
+      "away_rank": 2,
+      "away_record": "10-4-0",
+      "away_team": "Roaring Rivers",
+      "away_team_id": "6",
+      "game_id": "20171656",
+      "home_points": 73.72,
+      "home_rank": 1,
+      "home_record": "10-4-0",
+      "home_team": "Ultralight Kareem",
+      "home_team_id": "5",
+      "scraped_at": "2025-06-22T05:36:41.748Z",
+      "season": 2017,
+      "week": 16
+    }
+  ]
+}

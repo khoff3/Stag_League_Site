@@ -1,0 +1,22 @@
+[
+  {
+    "team_id": "10",
+    "team_name": "Risk It For The Trubiscuit",
+    "week_14_points": 136.42000000000002,
+    "week_15_points": 128.24,
+    "week_16_points": 112.29999999999998,
+    "total_points": 376.96000000000004,
+    "place": 1,
+    "label": "1st Place"
+  },
+  {
+    "team_id": "6",
+    "team_name": "Roaring Rivers of Freedom",
+    "week_14_points": 75.3,
+    "week_15_points": 75.92,
+    "week_16_points": 45.63999999999999,
+    "total_points": 196.85999999999999,
+    "place": 2,
+    "label": "2nd Place"
+  }
+]

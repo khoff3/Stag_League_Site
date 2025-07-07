@@ -1,0 +1,110 @@
+[
+  {
+    "place": 1,
+    "label": "Champion",
+    "team_id": "3",
+    "team_name": "Mange and Julio DBTSY",
+    "points": 242.45999999999998,
+    "week_15_points": 122.0,
+    "week_16_points": 120.46
+  },
+  {
+    "place": 2,
+    "label": "Runner Up",
+    "team_id": "6",
+    "team_name": "The Iron Bryants",
+    "points": 209.18,
+    "week_15_points": 127.7,
+    "week_16_points": 81.48
+  },
+  {
+    "place": 3,
+    "label": "Third Place",
+    "team_id": "1",
+    "team_name": "Guardians of the Gostkowski",
+    "points": 208.45999999999998,
+    "week_15_points": 102.36,
+    "week_16_points": 106.1
+  },
+  {
+    "place": 4,
+    "label": "Fourth Place",
+    "team_id": "5",
+    "team_name": "Keenan and Dion Memorial Squad",
+    "points": 185.3,
+    "week_15_points": 95.5,
+    "week_16_points": 89.8
+  },
+  {
+    "place": 5,
+    "label": "Fifth Place",
+    "team_id": "7",
+    "team_name": "The Walking Dead",
+    "points": 228.0,
+    "week_15_points": 100.34,
+    "week_16_points": 127.66
+  },
+  {
+    "place": 6,
+    "label": "Sixth Place",
+    "team_id": "10",
+    "team_name": "Cole's Drafted Players",
+    "points": 171.57999999999998,
+    "week_15_points": 99.94,
+    "week_16_points": 71.64
+  },
+  {
+    "place": 7,
+    "label": "Seventh Place",
+    "team_id": "2",
+    "team_name": "MI6 Quest for the Repeat",
+    "points": 136.22,
+    "week_15_points": 77.58,
+    "week_16_points": 58.64
+  },
+  {
+    "place": 8,
+    "label": "Eighth Place",
+    "team_id": "9",
+    "team_name": "Cooper Scoopers",
+    "points": 128.7,
+    "week_15_points": 84.84,
+    "week_16_points": 43.86
+  },
+  {
+    "place": 9,
+    "label": "Ninth Place",
+    "team_id": "11",
+    "team_name": "Licence to Hill",
+    "points": 173.0,
+    "week_15_points": 85.0,
+    "week_16_points": 88.0
+  },
+  {
+    "place": 10,
+    "label": "Tenth Place",
+    "team_id": "8",
+    "team_name": "Bend it Like Beckham",
+    "points": 167.0,
+    "week_15_points": 82.0,
+    "week_16_points": 85.0
+  },
+  {
+    "place": 11,
+    "label": "Eleventh Place",
+    "team_id": "4",
+    "team_name": "The NFL All-Underperformers",
+    "points": 153.0,
+    "week_15_points": 78.0,
+    "week_16_points": 75.0
+  },
+  {
+    "place": 12,
+    "label": "Twelfth Place",
+    "team_id": "12",
+    "team_name": "I Want to Berees",
+    "points": 145.0,
+    "week_15_points": 75.0,
+    "week_16_points": 70.0
+  }
+]

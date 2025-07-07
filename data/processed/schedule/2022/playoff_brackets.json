@@ -1,0 +1,299 @@
+{
+  "winners_bracket": {
+    "round_1": [
+      {
+        "game_id": "202215117",
+        "home_team": {
+          "id": "11",
+          "name": "JJ the Jet Plane",
+          "points": 97.9
+        },
+        "away_team": {
+          "id": "7",
+          "name": "Ja'marroquai",
+          "points": 102.8
+        },
+        "winner": "7"
+      },
+      {
+        "game_id": "20221519",
+        "home_team": {
+          "id": "1",
+          "name": "The Wrath of Quon",
+          "points": 133.44
+        },
+        "away_team": {
+          "id": "9",
+          "name": "Magnum TI",
+          "points": 122.9
+        },
+        "winner": "1"
+      }
+    ],
+    "championship_week": {
+      "championship": [
+        {
+          "game_id": "20221771",
+          "home_team": {
+            "id": "7",
+            "name": "Ja'marroquai",
+            "points": 89.66
+          },
+          "away_team": {
+            "id": "1",
+            "name": "The Wrath of Quon",
+            "points": 91.92
+          },
+          "winner": "1"
+        }
+      ],
+      "third_place": [
+        {
+          "game_id": "20221667",
+          "home_team": {
+            "id": "6",
+            "name": "Koo D'etat",
+            "points": 70.8
+          },
+          "away_team": {
+            "id": "7",
+            "name": "Ja'marroquai",
+            "points": 85.2
+          },
+          "winner": "7"
+        },
+        {
+          "game_id": "20221612",
+          "home_team": {
+            "id": "1",
+            "name": "The Wrath of Quon",
+            "points": 137.46
+          },
+          "away_team": {
+            "id": "2",
+            "name": "Chubbinator 2 Judgment Day",
+            "points": 94.08
+          },
+          "winner": "1"
+        },
+        {
+          "game_id": "20221762",
+          "home_team": {
+            "id": "6",
+            "name": "Koo D'etat",
+            "points": 187.14
+          },
+          "away_team": {
+            "id": "2",
+            "name": "Chubbinator 2 Judgment Day",
+            "points": 67.1
+          },
+          "winner": "6"
+        }
+      ],
+      "fifth_place": [
+        {
+          "game_id": "202217119",
+          "home_team": {
+            "id": "11",
+            "name": "JJ the Jet Plane",
+            "points": 89.36
+          },
+          "away_team": {
+            "id": "9",
+            "name": "Magnum TI",
+            "points": 68.2
+          },
+          "winner": "11"
+        }
+      ]
+    }
+  },
+  "middle_teams_bracket": {
+    "round_1": [],
+    "mediocre_bowl": [
+      {
+        "game_id": "2022171210",
+        "home_team": {
+          "id": "12",
+          "name": "Mad Mixon",
+          "points": 52.12
+        },
+        "away_team": {
+          "id": "10",
+          "name": "Tom and Terry",
+          "points": 114.68
+        },
+        "winner": "10"
+      }
+    ]
+  },
+  "consolation_bracket": {
+    "round_1": [
+      {
+        "game_id": "20221538",
+        "home_team": {
+          "id": "3",
+          "name": "Lazy Lazard Saloon",
+          "points": 116.08
+        },
+        "away_team": {
+          "id": "8",
+          "name": "Bot boy",
+          "points": 89.6
+        },
+        "winner": "3"
+      },
+      {
+        "game_id": "20221545",
+        "home_team": {
+          "id": "4",
+          "name": "Super Lamario Sunshine",
+          "points": 99.78
+        },
+        "away_team": {
+          "id": "5",
+          "name": "The Najee Trois",
+          "points": 90.84
+        },
+        "winner": "4"
+      }
+    ],
+    "toilet_bowl": [
+      {
+        "game_id": "20221734",
+        "home_team": {
+          "id": "3",
+          "name": "Lazy Lazard Saloon",
+          "points": 77.4
+        },
+        "away_team": {
+          "id": "4",
+          "name": "Super Lamario Sunshine",
+          "points": 124.1
+        },
+        "winner": "4"
+      },
+      {
+        "game_id": "20221785",
+        "home_team": {
+          "id": "8",
+          "name": "Bot boy",
+          "points": 55.1
+        },
+        "away_team": {
+          "id": "5",
+          "name": "The Najee Trois",
+          "points": 87.98
+        },
+        "winner": "5"
+      }
+    ]
+  },
+  "middle_teams": [
+    {
+      "seed": 7,
+      "team_id": "12",
+      "team_name": "Mad Mixon",
+      "record": "7-7-0"
+    },
+    {
+      "seed": 8,
+      "team_id": "10",
+      "team_name": "Tom and Terry",
+      "record": "6-8-0"
+    }
+  ],
+  "seeds": {
+    "winners_bracket": [
+      {
+        "seed": 1,
+        "team_id": "6",
+        "team_name": "Koo D'etat",
+        "record": "9-5-0"
+      },
+      {
+        "seed": 2,
+        "team_id": "2",
+        "team_name": "Chubbinator 2 Judgment Day",
+        "record": "9-5-0"
+      },
+      {
+        "seed": 3,
+        "team_id": "1",
+        "team_name": "The Wrath of Quon",
+        "record": "9-5-0"
+      },
+      {
+        "seed": 4,
+        "team_id": "11",
+        "team_name": "JJ the Jet Plane",
+        "record": "9-5-0"
+      },
+      {
+        "seed": 5,
+        "team_id": "7",
+        "team_name": "Ja'marroquai",
+        "record": "8-6-0"
+      },
+      {
+        "seed": 6,
+        "team_id": "9",
+        "team_name": "Magnum TI",
+        "record": "7-7-0"
+      }
+    ],
+    "consolation_bracket": [
+      {
+        "seed": 9,
+        "team_id": "4",
+        "team_name": "Super Lamario Sunshine",
+        "record": "6-8-0"
+      },
+      {
+        "seed": 10,
+        "team_id": "3",
+        "team_name": "Lazy Lazard Saloon",
+        "record": "6-8-0"
+      },
+      {
+        "seed": 11,
+        "team_id": "8",
+        "team_name": "Bot boy",
+        "record": "5-9-0"
+      },
+      {
+        "seed": 12,
+        "team_id": "5",
+        "team_name": "The Najee Trois",
+        "record": "3-11-0"
+      }
+    ]
+  },
+  "first_round_matchups": [
+    {
+      "home": 1,
+      "away": 4
+    },
+    {
+      "home": 2,
+      "away": 3
+    },
+    {
+      "home": 5,
+      "away": 6
+    },
+    {
+      "home": 7,
+      "away": 10
+    },
+    {
+      "home": 8,
+      "away": 9
+    },
+    {
+      "home": 11,
+      "away": 12
+    }
+  ]
+}

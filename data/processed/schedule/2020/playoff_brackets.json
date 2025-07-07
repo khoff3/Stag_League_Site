@@ -1,0 +1,324 @@
+{
+  "winners_bracket": {
+    "round_1": [
+      {
+        "game_id": "20201493",
+        "home_team": {
+          "id": "9",
+          "name": "RushMoore",
+          "points": 80.56
+        },
+        "away_team": {
+          "id": "3",
+          "name": "Some Like it Hop",
+          "points": 85.3
+        },
+        "winner": "3"
+      },
+      {
+        "game_id": "20201474",
+        "home_team": {
+          "id": "7",
+          "name": "Swimming with the Charks",
+          "points": 107.1
+        },
+        "away_team": {
+          "id": "4",
+          "name": "Big Trouble in Kittle China",
+          "points": 96.3
+        },
+        "winner": "7"
+      }
+    ],
+    "championship_week": {
+      "championship": [
+        {
+          "game_id": "20201661",
+          "home_team": {
+            "id": "6",
+            "name": "HYDROCOOKERS",
+            "points": 80.82
+          },
+          "away_team": {
+            "id": "1",
+            "name": "BDKE",
+            "points": 83.86
+          },
+          "winner": "1"
+        }
+      ],
+      "third_place": [
+        {
+          "game_id": "20201563",
+          "home_team": {
+            "id": "6",
+            "name": "HYDROCOOKERS",
+            "points": 117.96
+          },
+          "away_team": {
+            "id": "3",
+            "name": "Some Like it Hop",
+            "points": 96.86
+          },
+          "winner": "6"
+        },
+        {
+          "game_id": "20201571",
+          "home_team": {
+            "id": "7",
+            "name": "Swimming with the Charks",
+            "points": 79.26
+          },
+          "away_team": {
+            "id": "1",
+            "name": "BDKE",
+            "points": 99.22
+          },
+          "winner": "1"
+        },
+        {
+          "game_id": "20201637",
+          "home_team": {
+            "id": "3",
+            "name": "Some Like it Hop",
+            "points": 92.22
+          },
+          "away_team": {
+            "id": "7",
+            "name": "Swimming with the Charks",
+            "points": 113.46
+          },
+          "winner": "7"
+        }
+      ],
+      "fifth_place": [
+        {
+          "game_id": "20201694",
+          "home_team": {
+            "id": "9",
+            "name": "RushMoore",
+            "points": 98.08
+          },
+          "away_team": {
+            "id": "4",
+            "name": "Big Trouble in Kittle China",
+            "points": 118.54
+          },
+          "winner": "4"
+        }
+      ]
+    }
+  },
+  "middle_teams_bracket": {
+    "round_1": [],
+    "mediocre_bowl": []
+  },
+  "consolation_bracket": {
+    "round_1": [
+      {
+        "game_id": "202014210",
+        "home_team": {
+          "id": "2",
+          "name": "WILSON",
+          "points": 101.74
+        },
+        "away_team": {
+          "id": "10",
+          "name": "Kupp Pong",
+          "points": 106.82
+        },
+        "winner": "10"
+      },
+      {
+        "game_id": "202014125",
+        "home_team": {
+          "id": "12",
+          "name": "Godwin Of War",
+          "points": 49.54
+        },
+        "away_team": {
+          "id": "5",
+          "name": "Courtland's Trailblazers",
+          "points": 82.26
+        },
+        "winner": "5"
+      }
+    ],
+    "toilet_bowl": [
+      {
+        "game_id": "202015118",
+        "home_team": {
+          "id": "11",
+          "name": "Tyrannosaurus Reek",
+          "points": 95.12
+        },
+        "away_team": {
+          "id": "8",
+          "name": "Judge Jeudy",
+          "points": 101.86
+        },
+        "winner": "8"
+      },
+      {
+        "game_id": "202015212",
+        "home_team": {
+          "id": "2",
+          "name": "WILSON",
+          "points": 92.44
+        },
+        "away_team": {
+          "id": "12",
+          "name": "Godwin Of War",
+          "points": 92.9
+        },
+        "winner": "12"
+      },
+      {
+        "game_id": "202016118",
+        "home_team": {
+          "id": "11",
+          "name": "Tyrannosaurus Reek",
+          "points": 82.82
+        },
+        "away_team": {
+          "id": "8",
+          "name": "Judge Jeudy",
+          "points": 94.64
+        },
+        "winner": "8"
+      },
+      {
+        "game_id": "202016105",
+        "home_team": {
+          "id": "10",
+          "name": "Kupp Pong",
+          "points": 106.9
+        },
+        "away_team": {
+          "id": "5",
+          "name": "Courtland's Trailblazers",
+          "points": 108.5
+        },
+        "winner": "5"
+      },
+      {
+        "game_id": "202016212",
+        "home_team": {
+          "id": "2",
+          "name": "WILSON",
+          "points": 128.7
+        },
+        "away_team": {
+          "id": "12",
+          "name": "Godwin Of War",
+          "points": 104.72
+        },
+        "winner": "2"
+      }
+    ]
+  },
+  "seeds": {
+    "winners_bracket": [
+      {
+        "seed": 1,
+        "team_id": "6",
+        "team_name": "HYDROCOOKERS",
+        "record": "9-3-1"
+      },
+      {
+        "seed": 2,
+        "team_id": "1",
+        "team_name": "BDKE",
+        "record": "8-5-0"
+      },
+      {
+        "seed": 3,
+        "team_id": "7",
+        "team_name": "Swimming with the Charks",
+        "record": "8-5-0"
+      },
+      {
+        "seed": 4,
+        "team_id": "3",
+        "team_name": "Some Like it Hop",
+        "record": "8-5-0"
+      },
+      {
+        "seed": 5,
+        "team_id": "9",
+        "team_name": "RushMoore",
+        "record": "7-6-0"
+      },
+      {
+        "seed": 6,
+        "team_id": "4",
+        "team_name": "Big Trouble in Kittle China",
+        "record": "7-6-0"
+      }
+    ],
+    "consolation_bracket": [
+      {
+        "seed": 7,
+        "team_id": "11",
+        "team_name": "Tyrannosaurus Reek",
+        "record": "6-7-0"
+      },
+      {
+        "seed": 8,
+        "team_id": "8",
+        "team_name": "Judge Jeudy",
+        "record": "6-7-0"
+      },
+      {
+        "seed": 9,
+        "team_id": "2",
+        "team_name": "WILSON",
+        "record": "5-8-0"
+      },
+      {
+        "seed": 10,
+        "team_id": "12",
+        "team_name": "Godwin Of War",
+        "record": "5-7-1"
+      },
+      {
+        "seed": 11,
+        "team_id": "10",
+        "team_name": "Kupp Pong",
+        "record": "4-9-0"
+      },
+      {
+        "seed": 12,
+        "team_id": "5",
+        "team_name": "Courtland's Trailblazers",
+        "record": "4-9-0"
+      }
+    ]
+  },
+  "first_round_matchups": [
+    {
+      "home": 1,
+      "away": 4
+    },
+    {
+      "home": 2,
+      "away": 3
+    },
+    {
+      "home": 5,
+      "away": 6
+    },
+    {
+      "home": 7,
+      "away": 10
+    },
+    {
+      "home": 8,
+      "away": 9
+    },
+    {
+      "home": 11,
+      "away": 12
+    }
+  ]
+}

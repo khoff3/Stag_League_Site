@@ -1,0 +1,68 @@
+{
+  "games": [
+    {
+      "away_points": 101.86,
+      "away_rank": 8,
+      "away_record": "6-7-0",
+      "away_team": "Judge Jeudy",
+      "away_team_id": "8",
+      "game_id": "202015118",
+      "home_points": 95.12,
+      "home_rank": 7,
+      "home_record": "6-7-0",
+      "home_team": "Tyrannosaurus Reek",
+      "home_team_id": "11",
+      "scraped_at": "2025-07-01T00:56:51.689Z",
+      "season": 2020,
+      "week": 15
+    },
+    {
+      "away_points": 92.9,
+      "away_rank": 9,
+      "away_record": "5-7-1",
+      "away_team": "Godwin Of War",
+      "away_team_id": "12",
+      "game_id": "202015212",
+      "home_points": 92.44,
+      "home_rank": 10,
+      "home_record": "5-8-0",
+      "home_team": "WILSON",
+      "home_team_id": "2",
+      "scraped_at": "2025-07-01T00:56:51.690Z",
+      "season": 2020,
+      "week": 15
+    },
+    {
+      "away_points": 96.86,
+      "away_rank": 4,
+      "away_record": "8-5-0",
+      "away_team": "Some Like it Hop",
+      "away_team_id": "3",
+      "game_id": "20201563",
+      "home_points": 117.96,
+      "home_rank": 1,
+      "home_record": "9-3-1",
+      "home_team": "HYDROCOOKERS",
+      "home_team_id": "6",
+      "scraped_at": "2025-07-01T00:56:51.690Z",
+      "season": 2020,
+      "week": 15
+    },
+    {
+      "away_points": 99.22,
+      "away_rank": 2,
+      "away_record": "8-5-0",
+      "away_team": "BDKE",
+      "away_team_id": "1",
+      "game_id": "20201571",
+      "home_points": 79.26,
+      "home_rank": 3,
+      "home_record": "8-5-0",
+      "home_team": "Swimming with the Charks",
+      "home_team_id": "7",
+      "scraped_at": "2025-07-01T00:56:51.690Z",
+      "season": 2020,
+      "week": 15
+    }
+  ]
+}

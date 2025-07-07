@@ -1,0 +1,26 @@
+[
+  {
+    "team_id": "12",
+    "team_name": "Mad Mixon",
+    "week_14_points": 0.0,
+    "week_15_points": 0.0,
+    "week_16_points": 0.0,
+    "total_points": 1317.54,
+    "place": 1,
+    "label": "1st Place",
+    "regular_season_record": "7-8-0",
+    "regular_season_place": 7
+  },
+  {
+    "team_id": "9",
+    "team_name": "Magnum TI",
+    "week_14_points": 0.0,
+    "week_15_points": 0.0,
+    "week_16_points": 0.0,
+    "total_points": 1233.96,
+    "place": 2,
+    "label": "2nd Place",
+    "regular_season_record": "7-7-0",
+    "regular_season_place": 8
+  }
+]

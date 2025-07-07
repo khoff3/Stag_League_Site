@@ -1,0 +1,30 @@
+{
+  "seeds": [
+    {
+      "seed": 1,
+      "team_id": "2",
+      "team_name": "Granger Danger"
+    },
+    {
+      "seed": 2,
+      "team_id": "5",
+      "team_name": "Fencing Beats Football"
+    },
+    {
+      "seed": 3,
+      "team_id": "1",
+      "team_name": "The REVolution"
+    },
+    {
+      "seed": 4,
+      "team_id": "6",
+      "team_name": "Swagger Badgers"
+    }
+  ],
+  "semifinals": [
+    null,
+    null
+  ],
+  "final": null,
+  "third_place": null
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "team_id": "4",
+    "team_name": "I Tonyan",
+    "week_14_points": 114.11999999999999,
+    "week_15_points": 104.64,
+    "week_16_points": 101.79999999999998,
+    "total_points": 320.55999999999995,
+    "place": 1,
+    "label": "1st Place"
+  },
+  {
+    "team_id": "7",
+    "team_name": "SLamb Dunkin'",
+    "week_14_points": 71.84,
+    "week_15_points": 58.17999999999999,
+    "week_16_points": 92.69999999999997,
+    "total_points": 222.71999999999997,
+    "place": 2,
+    "label": "2nd Place"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "place": 1,
+    "label": "Champion",
+    "team_id": "1",
+    "team_name": "BDKE",
+    "points": 83.86,
+    "week_15_points": 0.0,
+    "week_16_points": 83.86
+  },
+  {
+    "place": 2,
+    "label": "Runner Up",
+    "team_id": "6",
+    "team_name": "HYDROCOOKERS",
+    "points": 80.82,
+    "week_15_points": 0.0,
+    "week_16_points": 80.82
+  },
+  {
+    "place": 3,
+    "label": "Third Place",
+    "team_id": "7",
+    "team_name": "Swimming with the Charks",
+    "points": 186.36,
+    "week_15_points": 107.1,
+    "week_16_points": 79.26
+  },
+  {
+    "place": 4,
+    "label": "Fourth Place",
+    "team_id": "3",
+    "team_name": "Some Like it Hop",
+    "points": 182.16,
+    "week_15_points": 85.3,
+    "week_16_points": 96.86
+  },
+  {
+    "place": 5,
+    "label": "Fifth Place",
+    "team_id": "9",
+    "team_name": "RushMoore",
+    "points": 80.56,
+    "week_15_points": 80.56,
+    "week_16_points": 0.0
+  },
+  {
+    "place": 6,
+    "label": "Sixth Place",
+    "team_id": "4",
+    "team_name": "Big Trouble in Kittle China",
+    "points": 96.3,
+    "week_15_points": 96.3,
+    "week_16_points": 0.0
+  },
+  {
+    "place": 7,
+    "label": "Seventh Place",
+    "team_id": "11",
+    "team_name": "Tyrannosaurus Reek",
+    "points": 0.0
+  },
+  {
+    "place": 8,
+    "label": "Eighth Place",
+    "team_id": "8",
+    "team_name": "Judge Jeudy",
+    "points": 0.0
+  },
+  {
+    "place": 9,
+    "label": "Ninth Place",
+    "team_id": "2",
+    "team_name": "WILSON",
+    "points": 0.0
+  },
+  {
+    "place": 10,
+    "label": "Tenth Place",
+    "team_id": "12",
+    "team_name": "Godwin Of War",
+    "points": 0.0
+  },
+  {
+    "place": 11,
+    "label": "Eleventh Place",
+    "team_id": "10",
+    "team_name": "Kupp Pong",
+    "points": 0.0
+  },
+  {
+    "place": 12,
+    "label": "Twelfth Place",
+    "team_id": "5",
+    "team_name": "Courtland's Trailblazers",
+    "points": 0.0
+  },
+  {
+    "place": 5,
+    "label": "Fifth Place",
+    "team_id": "4",
+    "team_name": "Big Trouble in Kittle China",
+    "points": 118.54,
+    "week_16_points": 118.54,
+    "week_15_points": 0.0
+  },
+  {
+    "place": 6,
+    "label": "Sixth Place",
+    "team_id": "9",
+    "team_name": "RushMoore",
+    "points": 98.08,
+    "week_16_points": 98.08,
+    "week_15_points": 0.0
+  },
+  {
+    "place": 9,
+    "label": "Ninth Place",
+    "team_id": "10",
+    "team_name": "Kupp Pong",
+    "points": 132.73999999999998,
+    "week_16_points": 132.73999999999998,
+    "week_15_points": 0.0
+  },
+  {
+    "place": 10,
+    "label": "Tenth Place",
+    "team_id": "2",
+    "team_name": "WILSON",
+    "points": 125.28,
+    "week_16_points": 125.28,
+    "week_15_points": 0.0
+  },
+  {
+    "place": 11,
+    "label": "Eleventh Place",
+    "team_id": "12",
+    "team_name": "Godwin Of War",
+    "points": 111.66,
+    "week_16_points": 111.66,
+    "week_15_points": 0.0
+  },
+  {
+    "place": 12,
+    "label": "Twelfth Place",
+    "team_id": "5",
+    "team_name": "Courtland's Trailblazers",
+    "points": 84.12,
+    "week_16_points": 84.12,
+    "week_15_points": 0.0
+  }
+]

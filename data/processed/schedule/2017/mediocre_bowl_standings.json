@@ -1,0 +1,46 @@
+[
+  {
+    "team_id": "8",
+    "team_name": "O Beckham Where Art Thou",
+    "week_15_points": 0.0,
+    "week_16_points": 64.82,
+    "total_points": 64.82,
+    "week_15_opponent": null,
+    "week_16_opponent": null,
+    "place": 1,
+    "label": "1st Place"
+  },
+  {
+    "team_id": "9",
+    "team_name": "Diggs It",
+    "week_15_points": 0.0,
+    "week_16_points": 96.6,
+    "total_points": 96.6,
+    "week_15_opponent": null,
+    "week_16_opponent": null,
+    "place": 2,
+    "label": "2nd Place"
+  },
+  {
+    "team_id": "2",
+    "team_name": "Don't Check My Pryors",
+    "week_15_points": 0.0,
+    "week_16_points": 71.68,
+    "total_points": 142.52,
+    "week_15_opponent": null,
+    "week_16_opponent": null,
+    "place": 3,
+    "label": "3rd Place"
+  },
+  {
+    "team_id": "11",
+    "team_name": "Suicide Squad",
+    "week_15_points": 0.0,
+    "week_16_points": 67.34,
+    "total_points": 165.48000000000002,
+    "week_15_opponent": null,
+    "week_16_opponent": null,
+    "place": 4,
+    "label": "4th Place"
+  }
+]

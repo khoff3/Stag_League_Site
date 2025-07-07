@@ -1,0 +1,181 @@
+year,nomination,round,pick,overall_pick,player_id,player_name,position,nfl_team,fantasy_team_id,fantasy_team_name,owner_name,auction_cost,draft_type,scraped_at
+2019,,1,1,1,2555224,Ezekiel Elliott,RB,DAL,1,Califournettecation,Matt,,snake,2025-07-01T16:38:13.795578
+2019,,1,2,2,2560968,Saquon Barkley,RB,NYG,11,Sasquontch,Jake,,snake,2025-07-01T16:38:13.795719
+2019,,1,3,3,2558019,Alvin Kamara,RB,NO,9,Avengers Engram,Kyle,,snake,2025-07-01T16:38:13.795847
+2019,,1,4,4,2557997,Christian McCaffrey,RB,CAR,4,Christian Mingle,Craig,,snake,2025-07-01T16:38:13.795980
+2019,,1,5,5,2557978,James Conner,RB,PIT,5,Jacobs' Ladder,Benjy,,snake,2025-07-01T16:38:13.796115
+2019,,1,6,6,2553435,David Johnson,RB,ARI,7,Zach and the Fucked by JuJu,Zach,,snake,2025-07-01T16:38:13.796253
+2019,,1,7,7,2540165,DeAndre Hopkins,WR,HOU,12,Fast Times at Ridley High,James,,snake,2025-07-01T16:38:13.796388
+2019,,1,8,8,2540175,Le'Veon Bell,RB,NYJ,2,Taupe Blougholes,Ryan,,snake,2025-07-01T16:38:13.796524
+2019,,1,9,9,2540258,Travis Kelce,TE,KC,3,Macker Barrel Ol Country Store,Cameron,,snake,2025-07-01T16:38:13.796654
+2019,,1,10,10,2557976,Joe Mixon,RB,CIN,8,Breezin,Nick,,snake,2025-07-01T16:38:13.796788
+2019,,1,11,11,2552475,Todd Gurley,RB,LA,10,MaHomes Depot,Benjamin,,snake,2025-07-01T16:38:13.796921
+2019,,1,12,12,2543495,Davante Adams,WR,GB,6,Free Melvy,Alexander,,snake,2025-07-01T16:38:13.797061
+2019,,2,13,25,2495454,Julio Jones,WR,ATL,6,Free Melvy,Alexander,,snake,2025-07-01T16:38:14.618380
+2019,,2,14,26,2561021,Nick Chubb,RB,CLE,10,MaHomes Depot,Benjamin,,snake,2025-07-01T16:38:14.618522
+2019,,2,15,27,2543496,Odell Beckham,WR,CLE,8,Breezin,Nick,,snake,2025-07-01T16:38:14.618693
+2019,,2,16,28,2543468,Mike Evans,WR,TB,3,Macker Barrel Ol Country Store,Cameron,,snake,2025-07-01T16:38:14.618832
+2019,,2,17,29,2557991,Dalvin Cook,RB,MIN,2,Taupe Blougholes,Ryan,,snake,2025-07-01T16:38:14.618960
+2019,,2,18,30,2556370,Michael Thomas,WR,NO,12,Fast Times at Ridley High,James,,snake,2025-07-01T16:38:14.619082
+2019,,2,19,31,2558149,JuJu Smith-Schuster,WR,PIT,7,Zach and the Fucked by JuJu,Zach,,snake,2025-07-01T16:38:14.619205
+2019,,2,20,32,2556214,Tyreek Hill,WR,KC,5,Jacobs' Ladder,Benjy,,snake,2025-07-01T16:38:14.619334
+2019,,2,21,33,2508061,Antonio Brown,,,4,Christian Mingle,Craig,,snake,2025-07-01T16:38:14.619542
+2019,,2,22,34,2558116,Aaron Jones,RB,GB,9,Avengers Engram,Kyle,,snake,2025-07-01T16:38:14.619691
+2019,,2,23,35,2558865,Chris Carson,RB,SEA,11,Sasquontch,Jake,,snake,2025-07-01T16:38:14.619828
+2019,,2,24,36,2557973,Leonard Fournette,RB,JAX,1,Califournettecation,Matt,,snake,2025-07-01T16:38:14.619958
+2019,,3,25,49,2543583,Devonta Freeman,RB,ATL,1,Califournettecation,Matt,,snake,2025-07-01T16:38:15.435300
+2019,,3,26,50,2560765,Kerryon Johnson,RB,DET,11,Sasquontch,Jake,,snake,2025-07-01T16:38:15.435440
+2019,,3,27,51,2541785,Adam Thielen,WR,MIN,9,Avengers Engram,Kyle,,snake,2025-07-01T16:38:15.435567
+2019,,3,28,52,2560809,Sony Michel,RB,NE,4,Christian Mingle,Craig,,snake,2025-07-01T16:38:15.435759
+2019,,3,29,53,2562377,Josh Jacobs,RB,LV,5,Jacobs' Ladder,Benjy,,snake,2025-07-01T16:38:15.435904
+2019,,3,30,54,2540154,Keenan Allen,WR,LAC,7,Zach and the Fucked by JuJu,Zach,,snake,2025-07-01T16:38:15.436027
+2019,,3,31,55,2556075,Derrick Henry,RB,TEN,12,Fast Times at Ridley High,James,,snake,2025-07-01T16:38:15.436151
+2019,,3,32,56,2562502,David Montgomery,RB,CHI,2,Taupe Blougholes,Ryan,,snake,2025-07-01T16:38:15.436278
+2019,,3,33,57,2558123,Marlon Mack,RB,IND,3,Macker Barrel Ol Country Store,Cameron,,snake,2025-07-01T16:38:15.436405
+2019,,3,34,58,2558266,George Kittle,TE,SF,8,Breezin,Nick,,snake,2025-07-01T16:38:15.436538
+2019,,3,35,59,2558125,Patrick Mahomes,QB,KC,10,MaHomes Depot,Benjamin,,snake,2025-07-01T16:38:15.436662
+2019,,3,36,60,2495466,Mark Ingram,RB,BAL,6,Free Melvy,Alexander,,snake,2025-07-01T16:38:15.436790
+2019,,4,37,73,2559947,Phillip Lindsay,RB,DEN,6,Free Melvy,Alexander,,snake,2025-07-01T16:38:16.210711
+2019,,4,38,74,2552487,Amari Cooper,WR,DAL,10,MaHomes Depot,Benjamin,,snake,2025-07-01T16:38:16.210893
+2019,,4,39,75,2550512,Damien Williams,RB,KC,8,Breezin,Nick,,snake,2025-07-01T16:38:16.211104
+2019,,4,40,76,2552608,Stefon Diggs,WR,MIN,3,Macker Barrel Ol Country Store,Cameron,,snake,2025-07-01T16:38:16.211247
+2019,,4,41,77,2540158,Zach Ertz,TE,PHI,2,Taupe Blougholes,Ryan,,snake,2025-07-01T16:38:16.211372
+2019,,4,42,78,2552453,Tevin Coleman,RB,SF,12,Fast Times at Ridley High,James,,snake,2025-07-01T16:38:16.211509
+2019,,4,43,79,2540169,Robert Woods,WR,LA,7,Zach and the Fucked by JuJu,Zach,,snake,2025-07-01T16:38:16.211636
+2019,,4,44,80,238498,Julian Edelman,WR,NE,5,Jacobs' Ladder,Benjy,,snake,2025-07-01T16:38:16.211762
+2019,,4,45,81,2552430,Tyler Lockett,WR,SEA,4,Christian Mingle,Craig,,snake,2025-07-01T16:38:16.211891
+2019,,4,46,82,2543498,Brandin Cooks,WR,LA,9,Avengers Engram,Kyle,,snake,2025-07-01T16:38:16.212021
+2019,,4,47,83,2557898,Cooper Kupp,WR,LA,11,Sasquontch,Jake,,snake,2025-07-01T16:38:16.212154
+2019,,4,48,84,2532865,T.Y. Hilton,WR,IND,1,Califournettecation,Matt,,snake,2025-07-01T16:38:16.212283
+2019,,5,49,97,2558846,Mike Williams,WR,LAC,1,Califournettecation,Matt,,snake,2025-07-01T16:38:17.075804
+2019,,5,50,98,2557856,O.J. Howard,TE,TB,11,Sasquontch,Jake,,snake,2025-07-01T16:38:17.075952
+2019,,5,51,99,2558105,Chris Godwin,WR,TB,9,Avengers Engram,Kyle,,snake,2025-07-01T16:38:17.076087
+2019,,5,52,100,2558052,Kenny Golladay,WR,DET,4,Christian Mingle,Craig,,snake,2025-07-01T16:38:17.076225
+2019,,5,53,101,2561000,Derrius Guice,RB,WAS,5,Jacobs' Ladder,Benjy,,snake,2025-07-01T16:38:17.076361
+2019,,5,54,102,2562722,Miles Sanders,RB,PHI,7,Zach and the Fucked by JuJu,Zach,,snake,2025-07-01T16:38:17.076497
+2019,,5,55,103,2543773,James White,RB,NE,12,Fast Times at Ridley High,James,,snake,2025-07-01T16:38:17.076632
+2019,,5,56,104,2560813,D.J. Moore,WR,CAR,2,Taupe Blougholes,Ryan,,snake,2025-07-01T16:38:17.076765
+2019,,5,57,105,2562734,Devin Singletary,RB,BUF,3,Macker Barrel Ol Country Store,Cameron,,snake,2025-07-01T16:38:17.076896
+2019,,5,58,106,2555230,Kenyan Drake,RB,ARI,8,Breezin,Nick,,snake,2025-07-01T16:38:17.077026
+2019,,5,59,107,2552461,Duke Johnson,RB,HOU,10,MaHomes Depot,Benjamin,,snake,2025-07-01T16:38:17.077157
+2019,,5,60,108,2552469,Melvin Gordon,RB,LAC,6,Free Melvy,Alexander,,snake,2025-07-01T16:38:17.077302
+2019,,6,61,121,2559169,Austin Ekeler,RB,LAC,6,Free Melvy,Alexander,,snake,2025-07-01T16:38:17.894031
+2019,,6,62,122,2555466,Tyler Boyd,WR,CIN,10,MaHomes Depot,Benjamin,,snake,2025-07-01T16:38:17.894169
+2019,,6,63,123,2533039,Alshon Jeffery,WR,PHI,8,Breezin,Nick,,snake,2025-07-01T16:38:17.894300
+2019,,6,64,124,2537931,Josh Gordon,WR,SEA,3,Macker Barrel Ol Country Store,Cameron,,snake,2025-07-01T16:38:17.894428
+2019,,6,65,125,2506363,Aaron Rodgers,QB,GB,2,Taupe Blougholes,Ryan,,snake,2025-07-01T16:38:17.894556
+2019,,6,66,126,2560854,Calvin Ridley,WR,ATL,12,Fast Times at Ridley High,James,,snake,2025-07-01T16:38:17.894685
+2019,,6,67,127,2558063,Deshaun Watson,QB,HOU,7,Zach and the Fucked by JuJu,Zach,,snake,2025-07-01T16:38:17.894816
+2019,,6,68,128,2560781,Christian Kirk,WR,ARI,5,Jacobs' Ladder,Benjy,,snake,2025-07-01T16:38:17.894933
+2019,,6,69,129,2558918,Matt Breida,RB,SF,4,Christian Mingle,Craig,,snake,2025-07-01T16:38:17.895059
+2019,,6,70,130,2557858,Evan Engram,TE,NYG,9,Avengers Engram,Kyle,,snake,2025-07-01T16:38:17.895186
+2019,,6,71,131,2556462,Robby Anderson,WR,NYJ,11,Sasquontch,Jake,,snake,2025-07-01T16:38:17.895306
+2019,,6,72,132,2543509,Allen Robinson,WR,CHI,1,Califournettecation,Matt,,snake,2025-07-01T16:38:17.895428
+2019,,7,73,145,2560800,Baker Mayfield,QB,CLE,1,Califournettecation,Matt,,snake,2025-07-01T16:38:18.712476
+2019,,7,74,146,2555259,Carson Wentz,QB,PHI,11,Sasquontch,Jake,,snake,2025-07-01T16:38:18.712621
+2019,,7,75,147,2495450,A.J. Green,WR,CIN,9,Avengers Engram,Kyle,,snake,2025-07-01T16:38:18.712755
+2019,,7,76,148,310,Matt Ryan,QB,ATL,4,Christian Mingle,Craig,,snake,2025-07-01T16:38:18.712891
+2019,,7,77,149,2555341,Hunter Henry,TE,LAC,5,Jacobs' Ladder,Benjy,,snake,2025-07-01T16:38:18.713021
+2019,,7,78,150,2541161,Latavius Murray,RB,NO,7,Zach and the Fucked by JuJu,Zach,,snake,2025-07-01T16:38:18.713151
+2019,,7,79,151,2558250,Tarik Cohen,RB,CHI,12,Fast Times at Ridley High,James,,snake,2025-07-01T16:38:18.713291
+2019,,7,80,152,2543488,Jarvis Landry,WR,CLE,2,Taupe Blougholes,Ryan,,snake,2025-07-01T16:38:18.713424
+2019,,7,81,153,2495455,Cam Newton,QB,CAR,3,Macker Barrel Ol Country Store,Cameron,,snake,2025-07-01T16:38:18.713558
+2019,,7,82,154,2543457,Sammy Watkins,WR,KC,8,Breezin,Nick,,snake,2025-07-01T16:38:18.713692
+2019,,7,83,155,71265,Jared Cook,TE,NO,10,MaHomes Depot,Benjamin,,snake,2025-07-01T16:38:18.713825
+2019,,7,84,156,2560756,Justin Jackson,RB,LAC,6,Free Melvy,Alexander,,snake,2025-07-01T16:38:18.713962
+2019,,8,85,169,2560733,Royce Freeman,RB,DEN,6,Free Melvy,Alexander,,snake,2025-07-01T16:38:19.532792
+2019,,8,86,170,2557848,Corey Davis,WR,TEN,10,MaHomes Depot,Benjamin,,snake,2025-07-01T16:38:19.532936
+2019,,8,87,171,2504775,Drew Brees,QB,NO,8,Breezin,Nick,,snake,2025-07-01T16:38:19.533062
+2019,,8,88,172,2555346,Will Fuller,WR,HOU,3,Macker Barrel Ol Country Store,Cameron,,snake,2025-07-01T16:38:19.533196
+2019,,8,89,173,2562685,D.K. Metcalf,WR,SEA,2,Taupe Blougholes,Ryan,,snake,2025-07-01T16:38:19.533326
+2019,,8,90,174,2532975,Russell Wilson,QB,SEA,12,Fast Times at Ridley High,James,,snake,2025-07-01T16:38:19.533458
+2019,,8,91,175,2540215,Vance McDonald,TE,PIT,7,Zach and the Fucked by JuJu,Zach,,snake,2025-07-01T16:38:19.533577
+2019,,8,92,176,2560907,Marquez Valdes-Scantling,WR,GB,5,Jacobs' Ladder,Benjy,,snake,2025-07-01T16:38:19.533705
+2019,,8,93,177,2557986,David Njoku,TE,CLE,4,Christian Mingle,Craig,,snake,2025-07-01T16:38:19.533829
+2019,,8,94,178,2560835,Rashaad Penny,RB,SEA,9,Avengers Engram,Kyle,,snake,2025-07-01T16:38:19.533961
+2019,,8,95,179,2557895,Dede Westbrook,WR,JAX,11,Sasquontch,Jake,,snake,2025-07-01T16:38:19.534087
+2019,,8,96,180,2560888,Courtland Sutton,WR,DEN,1,Califournettecation,Matt,,snake,2025-07-01T16:38:19.534210
+2019,,9,97,193,2562574,Darrell Henderson,RB,LA,1,Califournettecation,Matt,,snake,2025-07-01T16:38:20.287956
+2019,,9,98,194,79607,LeSean McCoy,RB,KC,11,Sasquontch,Jake,,snake,2025-07-01T16:38:20.288105
+2019,,9,99,195,2555418,Jordan Howard,RB,PHI,9,Avengers Engram,Kyle,,snake,2025-07-01T16:38:20.288240
+2019,,9,100,196,2555295,Sterling Shepard,WR,NYG,4,Christian Mingle,Craig,,snake,2025-07-01T16:38:20.288370
+2019,,9,101,197,2556466,Peyton Barber,RB,TB,5,Jacobs' Ladder,Benjy,,snake,2025-07-01T16:38:20.288503
+2019,,9,102,198,2558066,Curtis Samuel,WR,CAR,7,Zach and the Fucked by JuJu,Zach,,snake,2025-07-01T16:38:20.288640
+2019,,9,103,199,2532884,Marvin Jones,WR,DET,12,Fast Times at Ridley High,James,,snake,2025-07-01T16:38:20.288771
+2019,,9,104,200,497322,Emmanuel Sanders,WR,SF,2,Taupe Blougholes,Ryan,,snake,2025-07-01T16:38:20.288901
+2019,,9,105,201,2560836,Dante Pettis,WR,SF,3,Macker Barrel Ol Country Store,Cameron,,snake,2025-07-01T16:38:20.289028
+2019,,9,106,202,2506106,Larry Fitzgerald,WR,ARI,8,Breezin,Nick,,snake,2025-07-01T16:38:20.289161
+2019,,9,107,203,100005,Chicago Bears,,,10,MaHomes Depot,Benjamin,,snake,2025-07-01T16:38:20.289288
+2019,,9,108,204,2562382,Kyler Murray,QB,ARI,6,Free Melvy,Alexander,,snake,2025-07-01T16:38:20.289424
+2019,,10,109,217,2556460,Geronimo Allison,WR,GB,6,Free Melvy,Alexander,,snake,2025-07-01T16:38:21.033827
+2019,,10,110,218,2555334,Jared Goff,QB,LA,10,MaHomes Depot,Benjamin,,snake,2025-07-01T16:38:21.033964
+2019,,10,111,219,100015,Jacksonville Jaguars,,,8,Breezin,Nick,,snake,2025-07-01T16:38:21.034089
+2019,,10,112,220,2559924,Ito Smith,RB,ATL,3,Macker Barrel Ol Country Store,Cameron,,snake,2025-07-01T16:38:21.034217
+2019,,10,113,221,2557917,Kareem Hunt,RB,CLE,2,Taupe Blougholes,Ryan,,snake,2025-07-01T16:38:21.034341
+2019,,10,114,222,2560967,Kalen Ballage,RB,MIA,12,Fast Times at Ridley High,James,,snake,2025-07-01T16:38:21.034463
+2019,,10,115,223,2507164,Adrian Peterson,RB,WAS,7,Zach and the Fucked by JuJu,Zach,,snake,2025-07-01T16:38:21.034585
+2019,,10,116,224,2560757,Lamar Jackson,QB,BAL,5,Jacobs' Ladder,Benjy,,snake,2025-07-01T16:38:21.034717
+2019,,10,117,225,2543743,Carlos Hyde,RB,HOU,4,Christian Mingle,Craig,,snake,2025-07-01T16:38:21.034842
+2019,,10,118,226,2552033,Jameis Winston,QB,TB,9,Avengers Engram,Kyle,,snake,2025-07-01T16:38:21.034967
+2019,,10,119,227,2560735,Michael Gallup,WR,DAL,11,Sasquontch,Jake,,snake,2025-07-01T16:38:21.035093
+2019,,10,120,228,1581,DeSean Jackson,WR,PHI,1,Califournettecation,Matt,,snake,2025-07-01T16:38:21.035225
+2019,,11,121,241,2495966,Delanie Walker,TE,TEN,1,Califournettecation,Matt,,snake,2025-07-01T16:38:21.838895
+2019,,11,122,242,2560920,James Washington,WR,PIT,11,Sasquontch,Jake,,snake,2025-07-01T16:38:21.839062
+2019,,11,123,243,2560810,Anthony Miller,WR,CHI,9,Avengers Engram,Kyle,,snake,2025-07-01T16:38:21.839218
+2019,,11,124,244,100017,Los Angeles Rams,,,4,Christian Mingle,Craig,,snake,2025-07-01T16:38:21.839373
+2019,,11,125,245,2543847,John Brown,WR,BUF,5,Jacobs' Ladder,Benjy,,snake,2025-07-01T16:38:21.839522
+2019,,11,126,246,2562682,Alexander Mattison,RB,MIN,7,Zach and the Fucked by JuJu,Zach,,snake,2025-07-01T16:38:21.839670
+2019,,11,127,247,2555415,Austin Hooper,TE,ATL,12,Fast Times at Ridley High,James,,snake,2025-07-01T16:38:21.839876
+2019,,11,128,248,2562832,Darwin Thompson,RB,KC,2,Taupe Blougholes,Ryan,,snake,2025-07-01T16:38:21.840114
+2019,,11,129,249,2540011,Chris Thompson,RB,WAS,3,Macker Barrel Ol Country Store,Cameron,,snake,2025-07-01T16:38:21.840330
+2019,,11,130,250,2552409,DeVante Parker,WR,MIA,8,Breezin,Nick,,snake,2025-07-01T16:38:21.840507
+2019,,11,131,251,2534797,Greg Zuerlein,K,LA,10,MaHomes Depot,Benjamin,,snake,2025-07-01T16:38:21.840660
+2019,,11,132,252,497328,Demaryius Thomas,WR,NYJ,6,Free Melvy,Alexander,,snake,2025-07-01T16:38:21.840808
+2019,,12,133,265,497236,Jimmy Graham,TE,GB,6,Free Melvy,Alexander,,snake,2025-07-01T16:38:22.590012
+2019,,12,134,266,2543614,Donte Moncrief,,,10,MaHomes Depot,Benjamin,,snake,2025-07-01T16:38:22.590157
+2019,,12,135,267,2536340,Justin Tucker,K,BAL,8,Breezin,Nick,,snake,2025-07-01T16:38:22.590290
+2019,,12,136,268,2539964,Marquise Goodwin,WR,SF,3,Macker Barrel Ol Country Store,Cameron,,snake,2025-07-01T16:38:22.590422
+2019,,12,137,269,2559362,Dare Ogunbowale,RB,TB,2,Taupe Blougholes,Ryan,,snake,2025-07-01T16:38:22.590544
+2019,,12,138,270,2552415,Jamison Crowder,WR,NYJ,12,Fast Times at Ridley High,James,,snake,2025-07-01T16:38:22.590667
+2019,,12,139,271,2550272,Albert Wilson,WR,MIA,7,Zach and the Fucked by JuJu,Zach,,snake,2025-07-01T16:38:22.590790
+2019,,12,140,272,2495469,Dion Lewis,RB,TEN,5,Jacobs' Ladder,Benjy,,snake,2025-07-01T16:38:22.590916
+2019,,12,141,273,2540269,C.J. Anderson,,,4,Christian Mingle,Craig,,snake,2025-07-01T16:38:22.591088
+2019,,12,142,274,2506109,Ben Roethlisberger,QB,PIT,9,Avengers Engram,Kyle,,snake,2025-07-01T16:38:22.591235
+2019,,12,143,275,2553913,Tyrell Williams,WR,LV,11,Sasquontch,Jake,,snake,2025-07-01T16:38:22.591373
+2019,,12,144,276,2506404,Frank Gore,RB,BUF,1,Califournettecation,Matt,,snake,2025-07-01T16:38:22.591513
+2019,,13,145,289,2495700,Greg Olsen,TE,CAR,1,Califournettecation,Matt,,snake,2025-07-01T16:38:23.372042
+2019,,13,146,290,2562407,Justice Hill,RB,BAL,11,Sasquontch,Jake,,snake,2025-07-01T16:38:23.372193
+2019,,13,147,291,2560770,Ronald Jones,RB,TB,9,Avengers Engram,Kyle,,snake,2025-07-01T16:38:23.372322
+2019,,13,148,292,2558245,Harrison Butker,K,KC,4,Christian Mingle,Craig,,snake,2025-07-01T16:38:23.372457
+2019,,13,149,293,2560862,Jaylen Samuels,RB,PIT,5,Jacobs' Ladder,Benjy,,snake,2025-07-01T16:38:23.372594
+2019,,13,150,294,100002,Baltimore Ravens,,,7,Zach and the Fucked by JuJu,Zach,,snake,2025-07-01T16:38:23.372719
+2019,,13,151,295,100020,Minnesota Vikings,,,12,Fast Times at Ridley High,James,,snake,2025-07-01T16:38:23.372847
+2019,,13,152,296,100007,Cleveland Browns,,,2,Taupe Blougholes,Ryan,,snake,2025-07-01T16:38:23.372973
+2019,,13,153,297,2560878,Tre'Quan Smith,WR,NO,3,Macker Barrel Ol Country Store,Cameron,,snake,2025-07-01T16:38:23.373167
+2019,,13,154,298,2555260,Dak Prescott,QB,DAL,8,Breezin,Nick,,snake,2025-07-01T16:38:23.373307
+2019,,13,155,299,2560957,Mark Andrews,TE,BAL,10,MaHomes Depot,Benjamin,,snake,2025-07-01T16:38:23.373438
+2019,,13,156,300,2506121,Philip Rivers,QB,LAC,6,Free Melvy,Alexander,,snake,2025-07-01T16:38:23.373572
+2019,,14,157,313,100025,Philadelphia Eagles,,,6,Free Melvy,Alexander,,snake,2025-07-01T16:38:24.105116
+2019,,14,158,314,2561029,Keke Coutee,WR,HOU,10,MaHomes Depot,Benjamin,,snake,2025-07-01T16:38:24.105329
+2019,,14,159,315,2562699,Tony Pollard,RB,DAL,8,Breezin,Nick,,snake,2025-07-01T16:38:24.105538
+2019,,14,160,316,2558172,Jake Elliott,K,PHI,3,Macker Barrel Ol Country Store,Cameron,,snake,2025-07-01T16:38:24.105796
+2019,,14,161,317,2556601,Wil Lutz,K,NO,2,Taupe Blougholes,Ryan,,snake,2025-07-01T16:38:24.106017
+2019,,14,162,318,2556521,Ka'imi Fairbairn,K,HOU,12,Fast Times at Ridley High,James,,snake,2025-07-01T16:38:24.106212
+2019,,14,163,319,2562721,Deebo Samuel,WR,SF,7,Zach and the Fucked by JuJu,Zach,,snake,2025-07-01T16:38:24.106402
+2019,,14,164,320,2506922,Stephen Gostkowski,K,NE,5,Jacobs' Ladder,Benjy,,snake,2025-07-01T16:38:24.106552
+2019,,14,165,321,2553895,Adam Humphries,WR,TEN,4,Christian Mingle,Craig,,snake,2025-07-01T16:38:24.106678
+2019,,14,166,322,100022,New Orleans Saints,,,9,Avengers Engram,Kyle,,snake,2025-07-01T16:38:24.106807
+2019,,14,167,323,100008,Dallas Cowboys,,,11,Sasquontch,Jake,,snake,2025-07-01T16:38:24.106933
+2019,,14,168,324,100013,Houston Texans,,,1,Califournettecation,Matt,,snake,2025-07-01T16:38:24.107065
+2019,,15,169,337,2507232,Mason Crosby,K,GB,1,Califournettecation,Matt,,snake,2025-07-01T16:38:24.863928
+2019,,15,170,338,2556771,Aldrick Rosas,K,NYG,11,Sasquontch,Jake,,snake,2025-07-01T16:38:24.864077
+2019,,15,171,339,2540243,Brett Maher,,,9,Avengers Engram,Kyle,,snake,2025-07-01T16:38:24.864215
+2019,,15,172,340,2560742,Nyheim Hines,RB,IND,4,Christian Mingle,Craig,,snake,2025-07-01T16:38:24.864350
+2019,,15,173,341,100030,Seattle Seahawks,,,5,Jacobs' Ladder,Benjy,,snake,2025-07-01T16:38:24.864483
+2019,,15,174,342,2560965,Mike Badgley,K,LAC,7,Zach and the Fucked by JuJu,Zach,,snake,2025-07-01T16:38:24.864614
+2019,,15,175,343,2540202,Kenny Stills,WR,HOU,12,Fast Times at Ridley High,James,,snake,2025-07-01T16:38:24.864754
+2019,,15,176,344,2532820,Kirk Cousins,QB,MIN,2,Taupe Blougholes,Ryan,,snake,2025-07-01T16:38:24.864889
+2019,,15,177,345,100018,Las Vegas Raiders,,,3,Macker Barrel Ol Country Store,Cameron,,snake,2025-07-01T16:38:24.865022
+2019,,15,178,346,2533444,Randy Bullock,K,CIN,8,Breezin,Nick,,snake,2025-07-01T16:38:24.865146
+2019,,15,179,347,2550545,Chris Boswell,K,PIT,10,MaHomes Depot,Benjamin,,snake,2025-07-01T16:38:24.865282
+2019,,15,180,348,2495259,Dan Bailey,K,MIN,6,Free Melvy,Alexander,,snake,2025-07-01T16:38:24.865414

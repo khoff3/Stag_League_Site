@@ -1,0 +1,68 @@
+{
+  "games": [
+    {
+      "away_points": 70.32,
+      "away_rank": 8,
+      "away_record": "6-7-0",
+      "away_team": "Joey Bosa Shrug Emoji",
+      "away_team_id": "5",
+      "game_id": "20161485",
+      "home_points": 60.18,
+      "home_rank": 9,
+      "home_record": "6-7-0",
+      "home_team": "Miller High Lyfe",
+      "home_team_id": "8",
+      "scraped_at": "2025-06-22T05:31:52.799Z",
+      "season": 2016,
+      "week": 14
+    },
+    {
+      "away_points": 102.7,
+      "away_rank": 7,
+      "away_record": "6-7-0",
+      "away_team": "The PTY's",
+      "away_team_id": "4",
+      "game_id": "201614124",
+      "home_points": 104.14,
+      "home_rank": 10,
+      "home_record": "6-7-0",
+      "home_team": "theres something about Mathews",
+      "home_team_id": "12",
+      "scraped_at": "2025-06-22T05:31:52.799Z",
+      "season": 2016,
+      "week": 14
+    },
+    {
+      "away_points": 81.92,
+      "away_rank": 5,
+      "away_record": "7-6-0",
+      "away_team": "Latavius Maximus",
+      "away_team_id": "1",
+      "game_id": "201614111",
+      "home_points": 112.04,
+      "home_rank": 4,
+      "home_record": "7-6-0",
+      "home_team": "Outback Jakehouse",
+      "home_team_id": "11",
+      "scraped_at": "2025-06-22T05:31:52.799Z",
+      "season": 2016,
+      "week": 14
+    },
+    {
+      "away_points": 64.94,
+      "away_rank": 6,
+      "away_record": "7-6-0",
+      "away_team": "LCD Stagsystem",
+      "away_team_id": "7",
+      "game_id": "20161437",
+      "home_points": 85.88,
+      "home_rank": 3,
+      "home_record": "8-5-0",
+      "home_team": "Aiken' for the ThreePeat",
+      "home_team_id": "3",
+      "scraped_at": "2025-06-22T05:31:52.799Z",
+      "season": 2016,
+      "week": 14
+    }
+  ]
+}

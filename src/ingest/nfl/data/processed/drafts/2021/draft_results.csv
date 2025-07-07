@@ -1,0 +1,361 @@
+year,nomination,player_id,player_name,position,nfl_team,fantasy_team_id,fantasy_team_name,owner_name,auction_cost,draft_type,scraped_at
+2021,1,2565276,Antonio Gibson,RB,WAS,8,Taylor Swift,Nick,49,auction,2025-07-01T16:39:00.067703
+2021,2,2540258,Travis Kelce,TE,KC,12,The Kyler Sisters,James,48,auction,2025-07-01T16:39:00.067882
+2021,3,2558019,Alvin Kamara,RB,NO,3,Hockensockem Robots,Cameron,66,auction,2025-07-01T16:39:00.068041
+2021,4,2562685,DK Metcalf,WR,SEA,6,Hydroslayers,Alexander,34,auction,2025-07-01T16:39:00.068210
+2021,5,2555224,Ezekiel Elliott,RB,DAL,10,Tom and Terry,Cole,69,auction,2025-07-01T16:39:00.068352
+2021,6,2558116,Aaron Jones,RB,GB,4,I Tonyan,Craig,64,auction,2025-07-01T16:39:00.068503
+2021,7,2557991,Dalvin Cook,RB,MIN,2,Dalvin and Hobbs,Ryan,71,auction,2025-07-01T16:39:00.068662
+2021,8,2557997,Christian McCaffrey,RB,CAR,5,Chubb Scouts,Benjy,74,auction,2025-07-01T16:39:00.068826
+2021,9,2552608,Stefon Diggs,WR,BUF,9,Dak Flashes,Kyle,40,auction,2025-07-01T16:39:00.068971
+2021,10,2556214,Tyreek Hill,WR,MIA,11,Tyrannosaurus Reek II,Jake,45,auction,2025-07-01T16:39:00.069144
+2021,11,2559169,Austin Ekeler,RB,LAC,1,The Uncanny Eks-Men,Matt,56,auction,2025-07-01T16:39:00.069373
+2021,12,2543468,Mike Evans,WR,TB,7,SLamb Dunkin',Zach,21,auction,2025-07-01T16:39:00.069536
+2021,13,2564148,Jonathan Taylor,RB,IND,8,Taylor Swift,Nick,59,auction,2025-07-01T16:39:00.069700
+2021,14,2543495,Davante Adams,WR,LV,12,The Kyler Sisters,James,54,auction,2025-07-01T16:39:00.069860
+2021,15,2560968,Saquon Barkley,RB,NYG,3,Hockensockem Robots,Cameron,63,auction,2025-07-01T16:39:00.070019
+2021,16,2562377,Josh Jacobs,RB,LV,6,Hydroslayers,Alexander,41,auction,2025-07-01T16:39:00.070188
+2021,17,2558865,Chris Carson,RB,SEA,10,Tom and Terry,Cole,34,auction,2025-07-01T16:39:00.070354
+2021,18,2552408,Darren Waller,TE,LV,4,I Tonyan,Craig,40,auction,2025-07-01T16:39:00.070518
+2021,19,2556075,Derrick Henry,RB,TEN,2,Dalvin and Hobbs,Ryan,75,auction,2025-07-01T16:39:00.070683
+2021,20,2561021,Nick Chubb,RB,CLE,5,Chubb Scouts,Benjy,64,auction,2025-07-01T16:39:00.070849
+2021,21,2564271,Clyde Edwards-Helaire,RB,KC,9,Dak Flashes,Kyle,56,auction,2025-07-01T16:39:00.071017
+2021,22,2562238,A.J. Brown,WR,PHI,11,Tyrannosaurus Reek II,Jake,37,auction,2025-07-01T16:39:00.071173
+2021,23,2564556,Justin Jefferson,WR,MIN,1,The Uncanny Eks-Men,Matt,36,auction,2025-07-01T16:39:00.071348
+2021,24,2557976,Joe Mixon,RB,CIN,7,SLamb Dunkin',Zach,47,auction,2025-07-01T16:39:00.071510
+2021,25,2558125,Patrick Mahomes,QB,KC,8,Taylor Swift,Nick,41,auction,2025-07-01T16:39:00.071680
+2021,26,2562382,Kyler Murray,QB,ARI,12,The Kyler Sisters,James,24,auction,2025-07-01T16:39:00.071829
+2021,27,2540165,DeAndre Hopkins,WR,ARI,3,Hockensockem Robots,Cameron,35,auction,2025-07-01T16:39:00.071988
+2021,28,2562502,David Montgomery,RB,CHI,6,Hydroslayers,Alexander,40,auction,2025-07-01T16:39:00.072131
+2021,29,2562489,Terry McLaurin,WR,WAS,10,Tom and Terry,Cole,31,auction,2025-07-01T16:39:00.072279
+2021,30,2560955,Josh Allen,QB,BUF,4,I Tonyan,Craig,18,auction,2025-07-01T16:39:00.072437
+2021,31,2495454,Julio Jones,WR,TEN,2,Dalvin and Hobbs,Ryan,10,auction,2025-07-01T16:39:00.072569
+2021,32,2560854,Calvin Ridley,WR,ATL,5,Chubb Scouts,Benjy,41,auction,2025-07-01T16:39:00.072733
+2021,33,2552487,Amari Cooper,WR,CLE,9,Dak Flashes,Kyle,11,auction,2025-07-01T16:39:00.072889
+2021,34,2566448,Najee Harris,RB,PIT,11,Tyrannosaurus Reek II,Jake,60,auction,2025-07-01T16:39:00.073032
+2021,35,2543509,Allen Robinson,WR,LA,1,The Uncanny Eks-Men,Matt,18,auction,2025-07-01T16:39:00.073163
+2021,36,2561324,Gus Edwards,RB,BAL,7,SLamb Dunkin',Zach,41,auction,2025-07-01T16:39:00.073309
+2021,37,2563965,D'Andre Swift,RB,DET,8,Taylor Swift,Nick,37,auction,2025-07-01T16:39:00.073445
+2021,38,2540154,Keenan Allen,WR,LAC,12,The Kyler Sisters,James,26,auction,2025-07-01T16:39:00.073577
+2021,39,2506363,Aaron Rodgers,QB,GB,3,Hockensockem Robots,Cameron,8,auction,2025-07-01T16:39:00.073714
+2021,40,2560957,Mark Andrews,TE,BAL,6,Hydroslayers,Alexander,16,auction,2025-07-01T16:39:00.073857
+2021,41,2560757,Lamar Jackson,QB,BAL,10,Tom and Terry,Cole,19,auction,2025-07-01T16:39:00.073993
+2021,42,2560813,D.J. Moore,WR,CAR,4,I Tonyan,Craig,17,auction,2025-07-01T16:39:00.074134
+2021,43,2558105,Chris Godwin,WR,TB,2,Dalvin and Hobbs,Ryan,10,auction,2025-07-01T16:39:00.074271
+2021,44,2565941,Ja'Marr Chase,WR,CIN,5,Chubb Scouts,Benjy,5,auction,2025-07-01T16:39:00.074411
+2021,45,2555260,Dak Prescott,QB,DAL,9,Dak Flashes,Kyle,11,auction,2025-07-01T16:39:00.074593
+2021,46,2558266,George Kittle,TE,SF,11,Tyrannosaurus Reek II,Jake,33,auction,2025-07-01T16:39:00.074800
+2021,47,2562722,Miles Sanders,RB,PHI,1,The Uncanny Eks-Men,Matt,26,auction,2025-07-01T16:39:00.074962
+2021,48,2563848,CeeDee Lamb,WR,DAL,7,SLamb Dunkin',Zach,27,auction,2025-07-01T16:39:00.075130
+2021,49,2536340,Justin Tucker,K,BAL,8,Taylor Swift,Nick,3,auction,2025-07-01T16:39:00.075304
+2021,50,2564223,James Robinson,RB,JAX,12,The Kyler Sisters,James,36,auction,2025-07-01T16:39:00.075481
+2021,51,2562378,T.J. Hockenson,TE,DET,3,Hockensockem Robots,Cameron,10,auction,2025-07-01T16:39:00.075657
+2021,52,2562574,Darrell Henderson,RB,LA,6,Hydroslayers,Alexander,12,auction,2025-07-01T16:39:00.075814
+2021,53,2562674,Diontae Johnson,WR,PIT,10,Tom and Terry,Cole,10,auction,2025-07-01T16:39:00.075977
+2021,54,2541785,Adam Thielen,WR,MIN,4,I Tonyan,Craig,12,auction,2025-07-01T16:39:00.076141
+2021,55,100002,Baltimore Ravens,,,2,Dalvin and Hobbs,Ryan,1,auction,2025-07-01T16:39:00.076304
+2021,56,2564433,Henry Ruggs III,,,5,Chubb Scouts,Benjy,1,auction,2025-07-01T16:39:00.076460
+2021,57,2566049,Javonte Williams,RB,DEN,9,Dak Flashes,Kyle,10,auction,2025-07-01T16:39:00.076623
+2021,58,2563617,Zack Moss,RB,BUF,11,Tyrannosaurus Reek II,Jake,4,auction,2025-07-01T16:39:00.076790
+2021,59,2565830,Kyle Pitts,TE,ATL,1,The Uncanny Eks-Men,Matt,13,auction,2025-07-01T16:39:00.076954
+2021,60,2540169,Robert Woods,WR,TEN,7,SLamb Dunkin',Zach,15,auction,2025-07-01T16:39:00.077099
+2021,61,2560995,Dallas Goedert,TE,PHI,8,Taylor Swift,Nick,2,auction,2025-07-01T16:39:00.077303
+2021,62,2557973,Leonard Fournette,RB,TB,12,The Kyler Sisters,James,3,auction,2025-07-01T16:39:00.077502
+2021,63,2558149,JuJu Smith-Schuster,WR,KC,3,Hockensockem Robots,Cameron,2,auction,2025-07-01T16:39:00.077642
+2021,64,2565045,Justin Herbert,QB,LAC,6,Hydroslayers,Alexander,7,auction,2025-07-01T16:39:00.077780
+2021,65,2557898,Cooper Kupp,WR,LA,10,Tom and Terry,Cole,8,auction,2025-07-01T16:39:00.077916
+2021,66,2562270,Myles Gaskin,RB,MIA,4,I Tonyan,Craig,18,auction,2025-07-01T16:39:00.078048
+2021,67,2558052,Kenny Golladay,WR,NYG,2,Dalvin and Hobbs,Ryan,4,auction,2025-07-01T16:39:00.078183
+2021,68,2557848,Corey Davis,WR,NYJ,5,Chubb Scouts,Benjy,3,auction,2025-07-01T16:39:00.078317
+2021,69,2557917,Kareem Hunt,RB,CLE,9,Dak Flashes,Kyle,7,auction,2025-07-01T16:39:00.078454
+2021,70,2564232,Laviska Shenault Jr.,WR,JAX,11,Tyrannosaurus Reek II,Jake,3,auction,2025-07-01T16:39:00.078647
+2021,71,2532975,Russell Wilson,QB,DEN,1,The Uncanny Eks-Men,Matt,18,auction,2025-07-01T16:39:00.078834
+2021,72,2552430,Tyler Lockett,WR,SEA,7,SLamb Dunkin',Zach,9,auction,2025-07-01T16:39:00.078985
+2021,73,2560735,Michael Gallup,WR,DAL,8,Taylor Swift,Nick,1,auction,2025-07-01T16:39:00.079132
+2021,74,2565899,Chuba Hubbard,RB,CAR,12,The Kyler Sisters,James,1,auction,2025-07-01T16:39:00.079284
+2021,75,79860,Matthew Stafford,QB,LA,3,Hockensockem Robots,Cameron,1,auction,2025-07-01T16:39:00.079422
+2021,76,2543496,Odell Beckham Jr.,WR,LA,6,Hydroslayers,Alexander,7,auction,2025-07-01T16:39:00.079567
+2021,77,497240,Rob Gronkowski,TE,TB,10,Tom and Terry,Cole,5,auction,2025-07-01T16:39:00.079704
+2021,78,2553439,Mike Davis,RB,ATL,4,I Tonyan,Craig,11,auction,2025-07-01T16:39:00.079844
+2021,79,2560770,Ronald Jones,RB,KC,2,Dalvin and Hobbs,Ryan,7,auction,2025-07-01T16:39:00.079981
+2021,80,2562383,Noah Fant,TE,SEA,5,Chubb Scouts,Benjy,2,auction,2025-07-01T16:39:00.080112
+2021,81,2563731,Tee Higgins,WR,CIN,9,Dak Flashes,Kyle,7,auction,2025-07-01T16:39:00.080243
+2021,82,2566382,Michael Carter,RB,NYJ,11,Tyrannosaurus Reek II,Jake,5,auction,2025-07-01T16:39:00.080451
+2021,83,2562281,Damien Harris,RB,NE,1,The Uncanny Eks-Men,Matt,15,auction,2025-07-01T16:39:00.080617
+2021,84,2553728,Raheem Mostert,RB,MIA,7,SLamb Dunkin',Zach,13,auction,2025-07-01T16:39:00.080790
+2021,85,2552409,DeVante Parker,WR,NE,8,Taylor Swift,Nick,1,auction,2025-07-01T16:39:00.080926
+2021,86,2562699,Tony Pollard,RB,DAL,12,The Kyler Sisters,James,1,auction,2025-07-01T16:39:00.081063
+2021,87,2556462,Robby Anderson,WR,CAR,3,Hockensockem Robots,Cameron,4,auction,2025-07-01T16:39:00.081197
+2021,88,2562721,Deebo Samuel,WR,SF,6,Hydroslayers,Alexander,6,auction,2025-07-01T16:39:00.081361
+2021,89,2564970,Chase Claypool,WR,PIT,10,Tom and Terry,Cole,5,auction,2025-07-01T16:39:00.081499
+2021,90,100031,Tampa Bay Buccaneers,,,4,I Tonyan,Craig,2,auction,2025-07-01T16:39:00.081648
+2021,91,2532956,Ryan Tannehill,QB,TEN,2,Dalvin and Hobbs,Ryan,2,auction,2025-07-01T16:39:00.081785
+2021,92,2563596,Tyler Bass,K,BUF,5,Chubb Scouts,Benjy,1,auction,2025-07-01T16:39:00.081922
+2021,93,2552469,Melvin Gordon,RB,DEN,9,Dak Flashes,Kyle,5,auction,2025-07-01T16:39:00.082058
+2021,94,100009,Denver Broncos,,,11,Tyrannosaurus Reek II,Jake,1,auction,2025-07-01T16:39:00.082260
+2021,95,100027,Pittsburgh Steelers,,,1,The Uncanny Eks-Men,Matt,1,auction,2025-07-01T16:39:00.082414
+2021,96,2560711,Chase Edmonds,RB,MIA,7,SLamb Dunkin',Zach,9,auction,2025-07-01T16:39:00.082556
+2021,97,2555341,Hunter Henry,TE,NE,8,Taylor Swift,Nick,1,auction,2025-07-01T16:39:00.082693
+2021,98,2566397,Kenneth Gainwell,RB,PHI,12,The Kyler Sisters,James,1,auction,2025-07-01T16:39:00.082830
+2021,99,2543498,Brandin Cooks,WR,HOU,3,Hockensockem Robots,Cameron,5,auction,2025-07-01T16:39:00.082968
+2021,100,100032,Washington Football Team,,,6,Hydroslayers,Alexander,2,auction,2025-07-01T16:39:00.083103
+2021,101,100029,San Francisco 49ers,,,10,Tom and Terry,Cole,1,auction,2025-07-01T16:39:00.083245
+2021,102,2563986,AJ Dillon,RB,GB,4,I Tonyan,Craig,6,auction,2025-07-01T16:39:00.083397
+2021,103,2560888,Courtland Sutton,WR,DEN,2,Dalvin and Hobbs,Ryan,11,auction,2025-07-01T16:39:00.083545
+2021,104,2564832,Jalen Hurts,QB,PHI,5,Chubb Scouts,Benjy,2,auction,2025-07-01T16:39:00.083719
+2021,105,100017,Los Angeles Rams,,,9,Dak Flashes,Kyle,2,auction,2025-07-01T16:39:00.083886
+2021,106,2565310,Marquez Callaway,WR,NO,11,Tyrannosaurus Reek II,Jake,3,auction,2025-07-01T16:39:00.084053
+2021,107,2506264,Robbie Gould,K,SF,1,The Uncanny Eks-Men,Matt,1,auction,2025-07-01T16:39:00.084212
+2021,108,2556370,Michael Thomas,WR,NO,7,SLamb Dunkin',Zach,4,auction,2025-07-01T16:39:00.084373
+2021,109,2560800,Baker Mayfield,QB,CLE,8,Taylor Swift,Nick,1,auction,2025-07-01T16:39:00.084535
+2021,110,2566073,Amon-Ra St. Brown,WR,DET,12,The Kyler Sisters,James,1,auction,2025-07-01T16:39:00.084678
+2021,111,2564106,Rodrigo Blankenship,K,IND,3,Hockensockem Robots,Cameron,1,auction,2025-07-01T16:39:00.084814
+2021,112,2561018,D.J. Chark,WR,DET,6,Hydroslayers,Alexander,7,auction,2025-07-01T16:39:00.084974
+2021,113,2559205,Younghoe Koo,K,ATL,10,Tom and Terry,Cole,2,auction,2025-07-01T16:39:00.085129
+2021,114,2543488,Jarvis Landry,WR,CLE,4,I Tonyan,Craig,1,auction,2025-07-01T16:39:00.085291
+2021,115,2555230,Kenyan Drake,RB,LV,2,Dalvin and Hobbs,Ryan,2,auction,2025-07-01T16:39:00.085449
+2021,116,2559947,Phillip Lindsay,RB,MIA,5,Chubb Scouts,Benjy,2,auction,2025-07-01T16:39:00.085611
+2021,117,2563896,Jerry Jeudy,WR,DEN,9,Dak Flashes,Kyle,9,auction,2025-07-01T16:39:00.085759
+2021,118,2565953,Evan McPherson,K,CIN,11,Tyrannosaurus Reek II,Jake,1,auction,2025-07-01T16:39:00.085894
+2021,119,2564136,Michael Pittman,WR,IND,1,The Uncanny Eks-Men,Matt,2,auction,2025-07-01T16:39:00.086030
+2021,120,100003,Buffalo Bills,,,7,SLamb Dunkin',Zach,1,auction,2025-07-01T16:39:00.086165
+2021,121,100007,Cleveland Browns,,,8,Taylor Swift,Nick,1,auction,2025-07-01T16:39:00.086302
+2021,122,2566433,Rondale Moore,WR,ARI,12,The Kyler Sisters,James,1,auction,2025-07-01T16:39:00.086441
+2021,123,2560844,Byron Pringle,WR,CHI,3,Hockensockem Robots,Cameron,1,auction,2025-07-01T16:39:00.086578
+2021,124,2557978,James Conner,RB,ARI,6,Hydroslayers,Alexander,7,auction,2025-07-01T16:39:00.086712
+2021,125,2558204,Jamaal Williams,RB,DET,10,Tom and Terry,Cole,2,auction,2025-07-01T16:39:00.086847
+2021,126,2561153,Jason Sanders,K,MIA,4,I Tonyan,Craig,1,auction,2025-07-01T16:39:00.086982
+2021,127,2534797,Greg Zuerlein,K,NYJ,2,Dalvin and Hobbs,Ryan,2,auction,2025-07-01T16:39:00.087119
+2021,128,2553435,David Johnson,RB,HOU,5,Chubb Scouts,Benjy,1,auction,2025-07-01T16:39:00.087254
+2021,129,2565093,Brandon Aiyuk,WR,SF,9,Dak Flashes,Kyle,10,auction,2025-07-01T16:39:00.087577
+2021,130,2564679,Tony Jones,RB,NO,11,Tyrannosaurus Reek II,Jake,2,auction,2025-07-01T16:39:00.087870
+2021,131,2566292,Jaylen Waddle,WR,MIA,1,The Uncanny Eks-Men,Matt,3,auction,2025-07-01T16:39:00.088114
+2021,132,2555364,Tyler Higbee,TE,LA,7,SLamb Dunkin',Zach,5,auction,2025-07-01T16:39:00.088280
+2021,133,2562682,Alexander Mattison,RB,MIN,8,Taylor Swift,Nick,1,auction,2025-07-01T16:39:00.088442
+2021,134,2561061,Russell Gage,WR,TB,12,The Kyler Sisters,James,1,auction,2025-07-01T16:39:00.088587
+2021,135,2560878,Tre'Quan Smith,WR,NO,3,Hockensockem Robots,Cameron,1,auction,2025-07-01T16:39:00.088738
+2021,136,2558846,Mike Williams,WR,LAC,6,Hydroslayers,Alexander,3,auction,2025-07-01T16:39:00.088898
+2021,137,2504211,Tom Brady,QB,TB,10,Tom and Terry,Cole,2,auction,2025-07-01T16:39:00.089127
+2021,138,2562492,Jakobi Meyers,WR,NE,4,I Tonyan,Craig,1,auction,2025-07-01T16:39:00.089284
+2021,139,2558066,Curtis Samuel,WR,WAS,2,Dalvin and Hobbs,Ryan,2,auction,2025-07-01T16:39:00.089452
+2021,140,2560835,Rashaad Penny,RB,SEA,5,Chubb Scouts,Benjy,1,auction,2025-07-01T16:39:00.089608
+2021,141,2558245,Harrison Butker,K,KC,9,Dak Flashes,Kyle,2,auction,2025-07-01T16:39:00.089784
+2021,142,2565920,Justin Fields,QB,CHI,11,Tyrannosaurus Reek II,Jake,1,auction,2025-07-01T16:39:00.089944
+2021,143,2562379,Marquise Brown,WR,ARI,1,The Uncanny Eks-Men,Matt,1,auction,2025-07-01T16:39:00.090089
+2021,144,2555346,Will Fuller,WR,MIA,7,SLamb Dunkin',Zach,2,auction,2025-07-01T16:39:00.090238
+2021,145,2535698,Cole Beasley,WR,BUF,8,Taylor Swift,Nick,1,auction,2025-07-01T16:39:00.090388
+2021,146,2558123,Marlon Mack,RB,HOU,12,The Kyler Sisters,James,1,auction,2025-07-01T16:39:00.090529
+2021,147,2566385,Elijah Moore,WR,NYJ,3,Hockensockem Robots,Cameron,1,auction,2025-07-01T16:39:00.090667
+2021,148,2560809,Sony Michel,RB,LA,6,Hydroslayers,Alexander,5,auction,2025-07-01T16:39:00.090807
+2021,149,2560994,Mike Gesicki,TE,MIA,10,Tom and Terry,Cole,1,auction,2025-07-01T16:39:00.090952
+2021,150,2562580,Mecole Hardman,WR,KC,4,I Tonyan,Craig,1,auction,2025-07-01T16:39:00.091090
+2021,151,2558207,Jonnu Smith,TE,NE,2,Dalvin and Hobbs,Ryan,1,auction,2025-07-01T16:39:00.091231
+2021,152,2532884,Marvin Jones,WR,JAX,5,Chubb Scouts,Benjy,1,auction,2025-07-01T16:39:00.091370
+2021,153,2566544,Trey Sermon,RB,SF,9,Dak Flashes,Kyle,25,auction,2025-07-01T16:39:00.091546
+2021,154,2564418,Bryan Edwards,WR,LV,11,Tyrannosaurus Reek II,Jake,2,auction,2025-07-01T16:39:00.091700
+2021,155,2566163,Trevor Lawrence,QB,JAX,1,The Uncanny Eks-Men,Matt,2,auction,2025-07-01T16:39:00.091854
+2021,156,2566532,Trey Lance,QB,SF,7,SLamb Dunkin',Zach,4,auction,2025-07-01T16:39:00.092007
+2021,157,2556440,J.D. McKissic,RB,WAS,8,Taylor Swift,Nick,1,auction,2025-07-01T16:39:00.092149
+2021,158,2495448,Randall Cobb,WR,GB,12,The Kyler Sisters,James,1,auction,2025-07-01T16:39:00.092286
+2021,159,100014,Indianapolis Colts,,,3,Hockensockem Robots,Cameron,1,auction,2025-07-01T16:39:00.092454
+2021,160,2508061,Antonio Brown,,,6,Hydroslayers,Alexander,2,auction,2025-07-01T16:39:00.092591
+2021,161,2555466,Tyler Boyd,WR,CIN,10,Tom and Terry,Cole,2,auction,2025-07-01T16:39:00.092737
+2021,162,2559270,Robert Tonyan,TE,GB,4,I Tonyan,Craig,1,auction,2025-07-01T16:39:00.092886
+2021,163,2552033,Jameis Winston,QB,NO,2,Dalvin and Hobbs,Ryan,1,auction,2025-07-01T16:39:00.093037
+2021,164,100021,New England Patriots,,,5,Chubb Scouts,Benjy,1,auction,2025-07-01T16:39:00.093169
+2021,165,2543767,Logan Thomas,TE,WAS,9,Dak Flashes,Kyle,1,auction,2025-07-01T16:39:00.093307
+2021,166,2563707,Darnell Mooney,WR,CHI,11,Tyrannosaurus Reek II,Jake,1,auction,2025-07-01T16:39:00.093465
+2021,167,2560742,Nyheim Hines,RB,IND,1,The Uncanny Eks-Men,Matt,2,auction,2025-07-01T16:39:00.093625
+2021,168,2532820,Kirk Cousins,QB,MIN,7,SLamb Dunkin',Zach,1,auction,2025-07-01T16:39:00.093780
+2021,169,2555223,Devontae Booker,RB,NYG,8,Taylor Swift,Nick,1,auction,2025-07-01T16:39:00.093971
+2021,170,2495450,A.J. Green,WR,ARI,12,The Kyler Sisters,James,1,auction,2025-07-01T16:39:00.094108
+2021,171,2541161,Latavius Murray,RB,BAL,3,Hockensockem Robots,Cameron,1,auction,2025-07-01T16:39:00.094245
+2021,172,89802,Ryan Succop,K,TB,6,Hydroslayers,Alexander,11,auction,2025-07-01T16:39:00.094401
+2021,173,2562734,Devin Singletary,RB,BUF,10,Tom and Terry,Cole,7,auction,2025-07-01T16:39:00.094536
+2021,174,2566343,Rhamondre Stevenson,RB,NE,4,I Tonyan,Craig,2,auction,2025-07-01T16:39:00.094683
+2021,175,2552600,Nelson Agholor,WR,NE,2,Dalvin and Hobbs,Ryan,1,auction,2025-07-01T16:39:00.094818
+2021,176,2565542,Ty'Son Williams,RB,BAL,5,Chubb Scouts,Benjy,1,auction,2025-07-01T16:39:00.094948
+2021,177,2566409,DeVonta Smith,WR,PHI,9,Dak Flashes,Kyle,4,auction,2025-07-01T16:39:00.095084
+2021,178,2563722,Joe Burrow,QB,CIN,11,Tyrannosaurus Reek II,Jake,1,auction,2025-07-01T16:39:00.095223
+2021,179,2552453,Tevin Coleman,RB,NYJ,1,The Uncanny Eks-Men,Matt,1,auction,2025-07-01T16:39:00.095376
+2021,180,2553112,Jason Myers,K,SEA,7,SLamb Dunkin',Zach,1,auction,2025-07-01T16:39:00.095521
+2021,1,2565276,Antonio Gibson,RB,WAS,8,Taylor Swift,Nick,49,auction,2025-07-01T16:39:01.426884
+2021,2,2540258,Travis Kelce,TE,KC,12,The Kyler Sisters,James,48,auction,2025-07-01T16:39:01.427217
+2021,3,2558019,Alvin Kamara,RB,NO,3,Hockensockem Robots,Cameron,66,auction,2025-07-01T16:39:01.427385
+2021,4,2562685,DK Metcalf,WR,SEA,6,Hydroslayers,Alexander,34,auction,2025-07-01T16:39:01.427540
+2021,5,2555224,Ezekiel Elliott,RB,DAL,10,Tom and Terry,Cole,69,auction,2025-07-01T16:39:01.427707
+2021,6,2558116,Aaron Jones,RB,GB,4,I Tonyan,Craig,64,auction,2025-07-01T16:39:01.427867
+2021,7,2557991,Dalvin Cook,RB,MIN,2,Dalvin and Hobbs,Ryan,71,auction,2025-07-01T16:39:01.428023
+2021,8,2557997,Christian McCaffrey,RB,CAR,5,Chubb Scouts,Benjy,74,auction,2025-07-01T16:39:01.428178
+2021,9,2552608,Stefon Diggs,WR,BUF,9,Dak Flashes,Kyle,40,auction,2025-07-01T16:39:01.428332
+2021,10,2556214,Tyreek Hill,WR,MIA,11,Tyrannosaurus Reek II,Jake,45,auction,2025-07-01T16:39:01.428485
+2021,11,2559169,Austin Ekeler,RB,LAC,1,The Uncanny Eks-Men,Matt,56,auction,2025-07-01T16:39:01.428632
+2021,12,2543468,Mike Evans,WR,TB,7,SLamb Dunkin',Zach,21,auction,2025-07-01T16:39:01.428817
+2021,13,2564148,Jonathan Taylor,RB,IND,8,Taylor Swift,Nick,59,auction,2025-07-01T16:39:02.720719
+2021,14,2543495,Davante Adams,WR,LV,12,The Kyler Sisters,James,54,auction,2025-07-01T16:39:02.720918
+2021,15,2560968,Saquon Barkley,RB,NYG,3,Hockensockem Robots,Cameron,63,auction,2025-07-01T16:39:02.721082
+2021,16,2562377,Josh Jacobs,RB,LV,6,Hydroslayers,Alexander,41,auction,2025-07-01T16:39:02.721257
+2021,17,2558865,Chris Carson,RB,SEA,10,Tom and Terry,Cole,34,auction,2025-07-01T16:39:02.721423
+2021,18,2552408,Darren Waller,TE,LV,4,I Tonyan,Craig,40,auction,2025-07-01T16:39:02.721589
+2021,19,2556075,Derrick Henry,RB,TEN,2,Dalvin and Hobbs,Ryan,75,auction,2025-07-01T16:39:02.721755
+2021,20,2561021,Nick Chubb,RB,CLE,5,Chubb Scouts,Benjy,64,auction,2025-07-01T16:39:02.721917
+2021,21,2564271,Clyde Edwards-Helaire,RB,KC,9,Dak Flashes,Kyle,56,auction,2025-07-01T16:39:02.722075
+2021,22,2562238,A.J. Brown,WR,PHI,11,Tyrannosaurus Reek II,Jake,37,auction,2025-07-01T16:39:02.722240
+2021,23,2564556,Justin Jefferson,WR,MIN,1,The Uncanny Eks-Men,Matt,36,auction,2025-07-01T16:39:02.722401
+2021,24,2557976,Joe Mixon,RB,CIN,7,SLamb Dunkin',Zach,47,auction,2025-07-01T16:39:02.722563
+2021,25,2558125,Patrick Mahomes,QB,KC,8,Taylor Swift,Nick,41,auction,2025-07-01T16:39:03.985523
+2021,26,2562382,Kyler Murray,QB,ARI,12,The Kyler Sisters,James,24,auction,2025-07-01T16:39:03.985738
+2021,27,2540165,DeAndre Hopkins,WR,ARI,3,Hockensockem Robots,Cameron,35,auction,2025-07-01T16:39:03.985961
+2021,28,2562502,David Montgomery,RB,CHI,6,Hydroslayers,Alexander,40,auction,2025-07-01T16:39:03.986234
+2021,29,2562489,Terry McLaurin,WR,WAS,10,Tom and Terry,Cole,31,auction,2025-07-01T16:39:03.986516
+2021,30,2560955,Josh Allen,QB,BUF,4,I Tonyan,Craig,18,auction,2025-07-01T16:39:03.986802
+2021,31,2495454,Julio Jones,WR,TEN,2,Dalvin and Hobbs,Ryan,10,auction,2025-07-01T16:39:03.987022
+2021,32,2560854,Calvin Ridley,WR,ATL,5,Chubb Scouts,Benjy,41,auction,2025-07-01T16:39:03.987209
+2021,33,2552487,Amari Cooper,WR,CLE,9,Dak Flashes,Kyle,11,auction,2025-07-01T16:39:03.987394
+2021,34,2566448,Najee Harris,RB,PIT,11,Tyrannosaurus Reek II,Jake,60,auction,2025-07-01T16:39:03.987566
+2021,35,2543509,Allen Robinson,WR,LA,1,The Uncanny Eks-Men,Matt,18,auction,2025-07-01T16:39:03.987763
+2021,36,2561324,Gus Edwards,RB,BAL,7,SLamb Dunkin',Zach,41,auction,2025-07-01T16:39:03.987950
+2021,37,2563965,D'Andre Swift,RB,DET,8,Taylor Swift,Nick,37,auction,2025-07-01T16:39:05.260879
+2021,38,2540154,Keenan Allen,WR,LAC,12,The Kyler Sisters,James,26,auction,2025-07-01T16:39:05.261188
+2021,39,2506363,Aaron Rodgers,QB,GB,3,Hockensockem Robots,Cameron,8,auction,2025-07-01T16:39:05.261528
+2021,40,2560957,Mark Andrews,TE,BAL,6,Hydroslayers,Alexander,16,auction,2025-07-01T16:39:05.261856
+2021,41,2560757,Lamar Jackson,QB,BAL,10,Tom and Terry,Cole,19,auction,2025-07-01T16:39:05.262174
+2021,42,2560813,D.J. Moore,WR,CAR,4,I Tonyan,Craig,17,auction,2025-07-01T16:39:05.262413
+2021,43,2558105,Chris Godwin,WR,TB,2,Dalvin and Hobbs,Ryan,10,auction,2025-07-01T16:39:05.262635
+2021,44,2565941,Ja'Marr Chase,WR,CIN,5,Chubb Scouts,Benjy,5,auction,2025-07-01T16:39:05.262856
+2021,45,2555260,Dak Prescott,QB,DAL,9,Dak Flashes,Kyle,11,auction,2025-07-01T16:39:05.263068
+2021,46,2558266,George Kittle,TE,SF,11,Tyrannosaurus Reek II,Jake,33,auction,2025-07-01T16:39:05.263292
+2021,47,2562722,Miles Sanders,RB,PHI,1,The Uncanny Eks-Men,Matt,26,auction,2025-07-01T16:39:05.263507
+2021,48,2563848,CeeDee Lamb,WR,DAL,7,SLamb Dunkin',Zach,27,auction,2025-07-01T16:39:05.263732
+2021,49,2536340,Justin Tucker,K,BAL,8,Taylor Swift,Nick,3,auction,2025-07-01T16:39:06.514331
+2021,50,2564223,James Robinson,RB,JAX,12,The Kyler Sisters,James,36,auction,2025-07-01T16:39:06.514557
+2021,51,2562378,T.J. Hockenson,TE,DET,3,Hockensockem Robots,Cameron,10,auction,2025-07-01T16:39:06.514746
+2021,52,2562574,Darrell Henderson,RB,LA,6,Hydroslayers,Alexander,12,auction,2025-07-01T16:39:06.515013
+2021,53,2562674,Diontae Johnson,WR,PIT,10,Tom and Terry,Cole,10,auction,2025-07-01T16:39:06.515196
+2021,54,2541785,Adam Thielen,WR,MIN,4,I Tonyan,Craig,12,auction,2025-07-01T16:39:06.515383
+2021,55,100002,Baltimore Ravens,,,2,Dalvin and Hobbs,Ryan,1,auction,2025-07-01T16:39:06.515563
+2021,56,2564433,Henry Ruggs III,,,5,Chubb Scouts,Benjy,1,auction,2025-07-01T16:39:06.515737
+2021,57,2566049,Javonte Williams,RB,DEN,9,Dak Flashes,Kyle,10,auction,2025-07-01T16:39:06.515908
+2021,58,2563617,Zack Moss,RB,BUF,11,Tyrannosaurus Reek II,Jake,4,auction,2025-07-01T16:39:06.516077
+2021,59,2565830,Kyle Pitts,TE,ATL,1,The Uncanny Eks-Men,Matt,13,auction,2025-07-01T16:39:06.516248
+2021,60,2540169,Robert Woods,WR,TEN,7,SLamb Dunkin',Zach,15,auction,2025-07-01T16:39:06.516528
+2021,61,2560995,Dallas Goedert,TE,PHI,8,Taylor Swift,Nick,2,auction,2025-07-01T16:39:07.825112
+2021,62,2557973,Leonard Fournette,RB,TB,12,The Kyler Sisters,James,3,auction,2025-07-01T16:39:07.825342
+2021,63,2558149,JuJu Smith-Schuster,WR,KC,3,Hockensockem Robots,Cameron,2,auction,2025-07-01T16:39:07.825499
+2021,64,2565045,Justin Herbert,QB,LAC,6,Hydroslayers,Alexander,7,auction,2025-07-01T16:39:07.825659
+2021,65,2557898,Cooper Kupp,WR,LA,10,Tom and Terry,Cole,8,auction,2025-07-01T16:39:07.825816
+2021,66,2562270,Myles Gaskin,RB,MIA,4,I Tonyan,Craig,18,auction,2025-07-01T16:39:07.825964
+2021,67,2558052,Kenny Golladay,WR,NYG,2,Dalvin and Hobbs,Ryan,4,auction,2025-07-01T16:39:07.826110
+2021,68,2557848,Corey Davis,WR,NYJ,5,Chubb Scouts,Benjy,3,auction,2025-07-01T16:39:07.826259
+2021,69,2557917,Kareem Hunt,RB,CLE,9,Dak Flashes,Kyle,7,auction,2025-07-01T16:39:07.826408
+2021,70,2564232,Laviska Shenault Jr.,WR,JAX,11,Tyrannosaurus Reek II,Jake,3,auction,2025-07-01T16:39:07.826554
+2021,71,2532975,Russell Wilson,QB,DEN,1,The Uncanny Eks-Men,Matt,18,auction,2025-07-01T16:39:07.826705
+2021,72,2552430,Tyler Lockett,WR,SEA,7,SLamb Dunkin',Zach,9,auction,2025-07-01T16:39:07.826852
+2021,73,2560735,Michael Gallup,WR,DAL,8,Taylor Swift,Nick,1,auction,2025-07-01T16:39:09.127408
+2021,74,2565899,Chuba Hubbard,RB,CAR,12,The Kyler Sisters,James,1,auction,2025-07-01T16:39:09.127692
+2021,75,79860,Matthew Stafford,QB,LA,3,Hockensockem Robots,Cameron,1,auction,2025-07-01T16:39:09.128044
+2021,76,2543496,Odell Beckham Jr.,WR,LA,6,Hydroslayers,Alexander,7,auction,2025-07-01T16:39:09.128898
+2021,77,497240,Rob Gronkowski,TE,TB,10,Tom and Terry,Cole,5,auction,2025-07-01T16:39:09.129798
+2021,78,2553439,Mike Davis,RB,ATL,4,I Tonyan,Craig,11,auction,2025-07-01T16:39:09.131123
+2021,79,2560770,Ronald Jones,RB,KC,2,Dalvin and Hobbs,Ryan,7,auction,2025-07-01T16:39:09.132111
+2021,80,2562383,Noah Fant,TE,SEA,5,Chubb Scouts,Benjy,2,auction,2025-07-01T16:39:09.133180
+2021,81,2563731,Tee Higgins,WR,CIN,9,Dak Flashes,Kyle,7,auction,2025-07-01T16:39:09.134091
+2021,82,2566382,Michael Carter,RB,NYJ,11,Tyrannosaurus Reek II,Jake,5,auction,2025-07-01T16:39:09.134633
+2021,83,2562281,Damien Harris,RB,NE,1,The Uncanny Eks-Men,Matt,15,auction,2025-07-01T16:39:09.134860
+2021,84,2553728,Raheem Mostert,RB,MIA,7,SLamb Dunkin',Zach,13,auction,2025-07-01T16:39:09.135832
+2021,85,2552409,DeVante Parker,WR,NE,8,Taylor Swift,Nick,1,auction,2025-07-01T16:39:10.394232
+2021,86,2562699,Tony Pollard,RB,DAL,12,The Kyler Sisters,James,1,auction,2025-07-01T16:39:10.394464
+2021,87,2556462,Robby Anderson,WR,CAR,3,Hockensockem Robots,Cameron,4,auction,2025-07-01T16:39:10.394742
+2021,88,2562721,Deebo Samuel,WR,SF,6,Hydroslayers,Alexander,6,auction,2025-07-01T16:39:10.395000
+2021,89,2564970,Chase Claypool,WR,PIT,10,Tom and Terry,Cole,5,auction,2025-07-01T16:39:10.395226
+2021,90,100031,Tampa Bay Buccaneers,,,4,I Tonyan,Craig,2,auction,2025-07-01T16:39:10.395443
+2021,91,2532956,Ryan Tannehill,QB,TEN,2,Dalvin and Hobbs,Ryan,2,auction,2025-07-01T16:39:10.395640
+2021,92,2563596,Tyler Bass,K,BUF,5,Chubb Scouts,Benjy,1,auction,2025-07-01T16:39:10.395827
+2021,93,2552469,Melvin Gordon,RB,DEN,9,Dak Flashes,Kyle,5,auction,2025-07-01T16:39:10.396014
+2021,94,100009,Denver Broncos,,,11,Tyrannosaurus Reek II,Jake,1,auction,2025-07-01T16:39:10.396206
+2021,95,100027,Pittsburgh Steelers,,,1,The Uncanny Eks-Men,Matt,1,auction,2025-07-01T16:39:10.396380
+2021,96,2560711,Chase Edmonds,RB,MIA,7,SLamb Dunkin',Zach,9,auction,2025-07-01T16:39:10.396559
+2021,97,2555341,Hunter Henry,TE,NE,8,Taylor Swift,Nick,1,auction,2025-07-01T16:39:11.665391
+2021,98,2566397,Kenneth Gainwell,RB,PHI,12,The Kyler Sisters,James,1,auction,2025-07-01T16:39:11.665578
+2021,99,2543498,Brandin Cooks,WR,HOU,3,Hockensockem Robots,Cameron,5,auction,2025-07-01T16:39:11.665741
+2021,100,100032,Washington Football Team,,,6,Hydroslayers,Alexander,2,auction,2025-07-01T16:39:11.665897
+2021,101,100029,San Francisco 49ers,,,10,Tom and Terry,Cole,1,auction,2025-07-01T16:39:11.666067
+2021,102,2563986,AJ Dillon,RB,GB,4,I Tonyan,Craig,6,auction,2025-07-01T16:39:11.666224
+2021,103,2560888,Courtland Sutton,WR,DEN,2,Dalvin and Hobbs,Ryan,11,auction,2025-07-01T16:39:11.666388
+2021,104,2564832,Jalen Hurts,QB,PHI,5,Chubb Scouts,Benjy,2,auction,2025-07-01T16:39:11.666539
+2021,105,100017,Los Angeles Rams,,,9,Dak Flashes,Kyle,2,auction,2025-07-01T16:39:11.666707
+2021,106,2565310,Marquez Callaway,WR,NO,11,Tyrannosaurus Reek II,Jake,3,auction,2025-07-01T16:39:11.666855
+2021,107,2506264,Robbie Gould,K,SF,1,The Uncanny Eks-Men,Matt,1,auction,2025-07-01T16:39:11.667006
+2021,108,2556370,Michael Thomas,WR,NO,7,SLamb Dunkin',Zach,4,auction,2025-07-01T16:39:11.667162
+2021,109,2560800,Baker Mayfield,QB,CLE,8,Taylor Swift,Nick,1,auction,2025-07-01T16:39:12.943895
+2021,110,2566073,Amon-Ra St. Brown,WR,DET,12,The Kyler Sisters,James,1,auction,2025-07-01T16:39:12.944120
+2021,111,2564106,Rodrigo Blankenship,K,IND,3,Hockensockem Robots,Cameron,1,auction,2025-07-01T16:39:12.944334
+2021,112,2561018,D.J. Chark,WR,DET,6,Hydroslayers,Alexander,7,auction,2025-07-01T16:39:12.944631
+2021,113,2559205,Younghoe Koo,K,ATL,10,Tom and Terry,Cole,2,auction,2025-07-01T16:39:12.944907
+2021,114,2543488,Jarvis Landry,WR,CLE,4,I Tonyan,Craig,1,auction,2025-07-01T16:39:12.945121
+2021,115,2555230,Kenyan Drake,RB,LV,2,Dalvin and Hobbs,Ryan,2,auction,2025-07-01T16:39:12.945310
+2021,116,2559947,Phillip Lindsay,RB,MIA,5,Chubb Scouts,Benjy,2,auction,2025-07-01T16:39:12.945495
+2021,117,2563896,Jerry Jeudy,WR,DEN,9,Dak Flashes,Kyle,9,auction,2025-07-01T16:39:12.945685
+2021,118,2565953,Evan McPherson,K,CIN,11,Tyrannosaurus Reek II,Jake,1,auction,2025-07-01T16:39:12.945890
+2021,119,2564136,Michael Pittman,WR,IND,1,The Uncanny Eks-Men,Matt,2,auction,2025-07-01T16:39:12.946089
+2021,120,100003,Buffalo Bills,,,7,SLamb Dunkin',Zach,1,auction,2025-07-01T16:39:12.946285
+2021,121,100007,Cleveland Browns,,,8,Taylor Swift,Nick,1,auction,2025-07-01T16:39:14.237514
+2021,122,2566433,Rondale Moore,WR,ARI,12,The Kyler Sisters,James,1,auction,2025-07-01T16:39:14.237764
+2021,123,2560844,Byron Pringle,WR,CHI,3,Hockensockem Robots,Cameron,1,auction,2025-07-01T16:39:14.237987
+2021,124,2557978,James Conner,RB,ARI,6,Hydroslayers,Alexander,7,auction,2025-07-01T16:39:14.238202
+2021,125,2558204,Jamaal Williams,RB,DET,10,Tom and Terry,Cole,2,auction,2025-07-01T16:39:14.238414
+2021,126,2561153,Jason Sanders,K,MIA,4,I Tonyan,Craig,1,auction,2025-07-01T16:39:14.238610
+2021,127,2534797,Greg Zuerlein,K,NYJ,2,Dalvin and Hobbs,Ryan,2,auction,2025-07-01T16:39:14.238803
+2021,128,2553435,David Johnson,RB,HOU,5,Chubb Scouts,Benjy,1,auction,2025-07-01T16:39:14.239015
+2021,129,2565093,Brandon Aiyuk,WR,SF,9,Dak Flashes,Kyle,10,auction,2025-07-01T16:39:14.239215
+2021,130,2564679,Tony Jones,RB,NO,11,Tyrannosaurus Reek II,Jake,2,auction,2025-07-01T16:39:14.239414
+2021,131,2566292,Jaylen Waddle,WR,MIA,1,The Uncanny Eks-Men,Matt,3,auction,2025-07-01T16:39:14.239612
+2021,132,2555364,Tyler Higbee,TE,LA,7,SLamb Dunkin',Zach,5,auction,2025-07-01T16:39:14.239809
+2021,133,2562682,Alexander Mattison,RB,MIN,8,Taylor Swift,Nick,1,auction,2025-07-01T16:39:15.561910
+2021,134,2561061,Russell Gage,WR,TB,12,The Kyler Sisters,James,1,auction,2025-07-01T16:39:15.562219
+2021,135,2560878,Tre'Quan Smith,WR,NO,3,Hockensockem Robots,Cameron,1,auction,2025-07-01T16:39:15.562502
+2021,136,2558846,Mike Williams,WR,LAC,6,Hydroslayers,Alexander,3,auction,2025-07-01T16:39:15.562745
+2021,137,2504211,Tom Brady,QB,TB,10,Tom and Terry,Cole,2,auction,2025-07-01T16:39:15.562962
+2021,138,2562492,Jakobi Meyers,WR,NE,4,I Tonyan,Craig,1,auction,2025-07-01T16:39:15.563168
+2021,139,2558066,Curtis Samuel,WR,WAS,2,Dalvin and Hobbs,Ryan,2,auction,2025-07-01T16:39:15.563396
+2021,140,2560835,Rashaad Penny,RB,SEA,5,Chubb Scouts,Benjy,1,auction,2025-07-01T16:39:15.563616
+2021,141,2558245,Harrison Butker,K,KC,9,Dak Flashes,Kyle,2,auction,2025-07-01T16:39:15.563826
+2021,142,2565920,Justin Fields,QB,CHI,11,Tyrannosaurus Reek II,Jake,1,auction,2025-07-01T16:39:15.564038
+2021,143,2562379,Marquise Brown,WR,ARI,1,The Uncanny Eks-Men,Matt,1,auction,2025-07-01T16:39:15.564258
+2021,144,2555346,Will Fuller,WR,MIA,7,SLamb Dunkin',Zach,2,auction,2025-07-01T16:39:15.564471
+2021,145,2535698,Cole Beasley,WR,BUF,8,Taylor Swift,Nick,1,auction,2025-07-01T16:39:16.872620
+2021,146,2558123,Marlon Mack,RB,HOU,12,The Kyler Sisters,James,1,auction,2025-07-01T16:39:16.873060
+2021,147,2566385,Elijah Moore,WR,NYJ,3,Hockensockem Robots,Cameron,1,auction,2025-07-01T16:39:16.873302
+2021,148,2560809,Sony Michel,RB,LA,6,Hydroslayers,Alexander,5,auction,2025-07-01T16:39:16.873506
+2021,149,2560994,Mike Gesicki,TE,MIA,10,Tom and Terry,Cole,1,auction,2025-07-01T16:39:16.873715
+2021,150,2562580,Mecole Hardman,WR,KC,4,I Tonyan,Craig,1,auction,2025-07-01T16:39:16.873913
+2021,151,2558207,Jonnu Smith,TE,NE,2,Dalvin and Hobbs,Ryan,1,auction,2025-07-01T16:39:16.874119
+2021,152,2532884,Marvin Jones,WR,JAX,5,Chubb Scouts,Benjy,1,auction,2025-07-01T16:39:16.874323
+2021,153,2566544,Trey Sermon,RB,SF,9,Dak Flashes,Kyle,25,auction,2025-07-01T16:39:16.874513
+2021,154,2564418,Bryan Edwards,WR,LV,11,Tyrannosaurus Reek II,Jake,2,auction,2025-07-01T16:39:16.874792
+2021,155,2566163,Trevor Lawrence,QB,JAX,1,The Uncanny Eks-Men,Matt,2,auction,2025-07-01T16:39:16.875024
+2021,156,2566532,Trey Lance,QB,SF,7,SLamb Dunkin',Zach,4,auction,2025-07-01T16:39:16.875238
+2021,157,2556440,J.D. McKissic,RB,WAS,8,Taylor Swift,Nick,1,auction,2025-07-01T16:39:18.221598
+2021,158,2495448,Randall Cobb,WR,GB,12,The Kyler Sisters,James,1,auction,2025-07-01T16:39:18.221802
+2021,159,100014,Indianapolis Colts,,,3,Hockensockem Robots,Cameron,1,auction,2025-07-01T16:39:18.221962
+2021,160,2508061,Antonio Brown,,,6,Hydroslayers,Alexander,2,auction,2025-07-01T16:39:18.222128
+2021,161,2555466,Tyler Boyd,WR,CIN,10,Tom and Terry,Cole,2,auction,2025-07-01T16:39:18.222296
+2021,162,2559270,Robert Tonyan,TE,GB,4,I Tonyan,Craig,1,auction,2025-07-01T16:39:18.222457
+2021,163,2552033,Jameis Winston,QB,NO,2,Dalvin and Hobbs,Ryan,1,auction,2025-07-01T16:39:18.222631
+2021,164,100021,New England Patriots,,,5,Chubb Scouts,Benjy,1,auction,2025-07-01T16:39:18.222791
+2021,165,2543767,Logan Thomas,TE,WAS,9,Dak Flashes,Kyle,1,auction,2025-07-01T16:39:18.222961
+2021,166,2563707,Darnell Mooney,WR,CHI,11,Tyrannosaurus Reek II,Jake,1,auction,2025-07-01T16:39:18.223129
+2021,167,2560742,Nyheim Hines,RB,IND,1,The Uncanny Eks-Men,Matt,2,auction,2025-07-01T16:39:18.223303
+2021,168,2532820,Kirk Cousins,QB,MIN,7,SLamb Dunkin',Zach,1,auction,2025-07-01T16:39:18.223469
+2021,169,2555223,Devontae Booker,RB,NYG,8,Taylor Swift,Nick,1,auction,2025-07-01T16:39:19.526381
+2021,170,2495450,A.J. Green,WR,ARI,12,The Kyler Sisters,James,1,auction,2025-07-01T16:39:19.526572
+2021,171,2541161,Latavius Murray,RB,BAL,3,Hockensockem Robots,Cameron,1,auction,2025-07-01T16:39:19.526750
+2021,172,89802,Ryan Succop,K,TB,6,Hydroslayers,Alexander,11,auction,2025-07-01T16:39:19.526960
+2021,173,2562734,Devin Singletary,RB,BUF,10,Tom and Terry,Cole,7,auction,2025-07-01T16:39:19.527166
+2021,174,2566343,Rhamondre Stevenson,RB,NE,4,I Tonyan,Craig,2,auction,2025-07-01T16:39:19.527350
+2021,175,2552600,Nelson Agholor,WR,NE,2,Dalvin and Hobbs,Ryan,1,auction,2025-07-01T16:39:19.527529
+2021,176,2565542,Ty'Son Williams,RB,BAL,5,Chubb Scouts,Benjy,1,auction,2025-07-01T16:39:19.527721
+2021,177,2566409,DeVonta Smith,WR,PHI,9,Dak Flashes,Kyle,4,auction,2025-07-01T16:39:19.527948
+2021,178,2563722,Joe Burrow,QB,CIN,11,Tyrannosaurus Reek II,Jake,1,auction,2025-07-01T16:39:19.528174
+2021,179,2552453,Tevin Coleman,RB,NYJ,1,The Uncanny Eks-Men,Matt,1,auction,2025-07-01T16:39:19.528367
+2021,180,2553112,Jason Myers,K,SEA,7,SLamb Dunkin',Zach,1,auction,2025-07-01T16:39:19.528546

@@ -1,0 +1,46 @@
+[
+  {
+    "team_id": "7",
+    "team_name": "Knowshon's Eleven",
+    "week_15_points": 120.1,
+    "week_16_points": 82.38,
+    "total_points": 202.48,
+    "week_15_opponent": null,
+    "week_16_opponent": null,
+    "place": 1,
+    "label": "1st Place"
+  },
+  {
+    "team_id": "9",
+    "team_name": "Chuck-E-Brees",
+    "week_15_points": 95.1,
+    "week_16_points": 76.62,
+    "total_points": 171.72,
+    "week_15_opponent": null,
+    "week_16_opponent": null,
+    "place": 2,
+    "label": "2nd Place"
+  },
+  {
+    "team_id": "6",
+    "team_name": "SweatyandEddiesQuestfortheStag",
+    "week_15_points": 88.08,
+    "week_16_points": 83.48,
+    "total_points": 171.56,
+    "week_15_opponent": null,
+    "week_16_opponent": null,
+    "place": 3,
+    "label": "3rd Place"
+  },
+  {
+    "team_id": "11",
+    "team_name": "Christopher Welken",
+    "week_15_points": 76.42,
+    "week_16_points": 54.34,
+    "total_points": 130.76,
+    "week_15_opponent": null,
+    "week_16_opponent": null,
+    "place": 4,
+    "label": "4th Place"
+  }
+]

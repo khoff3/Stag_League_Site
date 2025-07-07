@@ -1,0 +1,62 @@
+[
+  {
+    "place": 3,
+    "label": "Third Place",
+    "team_id": "2",
+    "team_name": "Granger Danger",
+    "points": 124.06,
+    "week_15_points": 0.0,
+    "week_16_points": 124.06
+  },
+  {
+    "place": 4,
+    "label": "Fourth Place",
+    "team_id": "5",
+    "team_name": "Fencing Beats Football",
+    "points": 211.12,
+    "week_15_points": 108.78,
+    "week_16_points": 102.34
+  },
+  {
+    "place": 7,
+    "label": "Seventh Place",
+    "team_id": "9",
+    "team_name": "Go Pack Go",
+    "points": 0.0
+  },
+  {
+    "place": 8,
+    "label": "Eighth Place",
+    "team_id": "6",
+    "team_name": "Swagger Badgers",
+    "points": 0.0
+  },
+  {
+    "place": 9,
+    "label": "Ninth Place",
+    "team_id": "7",
+    "team_name": "Big Bird's Barbarians",
+    "points": 0.0
+  },
+  {
+    "place": 10,
+    "label": "Tenth Place",
+    "team_id": "3",
+    "team_name": "D Street Corsairs",
+    "points": 0.0
+  },
+  {
+    "place": 11,
+    "label": "Eleventh Place",
+    "team_id": "8",
+    "team_name": "Free DOME",
+    "points": 0.0
+  },
+  {
+    "place": 12,
+    "label": "Twelfth Place",
+    "team_id": "4",
+    "team_name": "HOLDEN CAUFIELDS",
+    "points": 0.0
+  }
+]

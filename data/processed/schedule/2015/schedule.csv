@@ -1,0 +1,93 @@
+game_id,season,week,home_team,home_team_id,home_points,home_record,home_rank,away_team,away_team_id,away_points,away_record,away_rank,scraped_at
+20150152,2015,1,Keenan and Dion Memorial Squad,5,103.34,0-1-0,7,MI6 Quest for the Repeat,2,106.72,1-0-0,3,2025-06-22T05:22:45.274Z
+201501107,2015,1,Cole's Drafted Players,10,109.22,1-0-0,2,The Walking Dead,7,56.1,0-1-0,12,2025-06-22T05:22:45.274Z
+20150191,2015,1,Cooper Scoopers,9,89.84,1-0-0,6,Guardians of the Gostkowski,1,87.66,0-1-0,8,2025-06-22T05:22:45.274Z
+2015011112,2015,1,Licence to Hill,11,75.42,0-1-0,10,I Want to Berees,12,93.7,1-0-0,4,2025-06-22T05:22:45.275Z
+20150143,2015,1,The NFL All-Underperformers,4,74.54,0-1-0,11,Mange and Julio DBTSY,3,129.44,1-0-0,1,2025-06-22T05:22:45.275Z
+20150186,2015,1,Bend it Like Beckham,8,78.92,0-1-0,9,The Iron Bryants,6,93.5,1-0-0,5,2025-06-22T05:22:45.275Z
+201502711,2015,2,The Walking Dead,7,76.24,1-1-0,9,Licence to Hill,11,75.78,0-2-0,11,2025-06-22T05:22:58.195Z
+20150223,2015,2,MI6 Quest for the Repeat,2,101.84,2-0-0,1,Mange and Julio DBTSY,3,93.6,1-1-0,4,2025-06-22T05:22:58.195Z
+201502110,2015,2,Guardians of the Gostkowski,1,118.36,1-1-0,6,Cole's Drafted Players,10,75.1,1-1-0,7,2025-06-22T05:22:58.195Z
+201502128,2015,2,I Want to Berees,12,68.6,2-0-0,3,Bend it Like Beckham,8,64.92,0-2-0,12,2025-06-22T05:22:58.195Z
+20150269,2015,2,The Iron Bryants,6,88.4,2-0-0,2,Cooper Scoopers,9,60.76,1-1-0,8,2025-06-22T05:22:58.195Z
+20150245,2015,2,The NFL All-Underperformers,4,86.84,0-2-0,10,Keenan and Dion Memorial Squad,5,108.76,1-1-0,5,2025-06-22T05:22:58.195Z
+201503712,2015,3,The Walking Dead,7,144.76,2-1-0,6,I Want to Berees,12,47.28,2-1-0,8,2025-06-22T05:23:10.814Z
+20150326,2015,3,MI6 Quest for the Repeat,2,114.02,2-1-0,4,The Iron Bryants,6,153.7,3-0-0,1,2025-06-22T05:23:10.814Z
+20150314,2015,3,Guardians of the Gostkowski,1,138.02,2-1-0,3,The NFL All-Underperformers,4,126,0-3-0,10,2025-06-22T05:23:10.814Z
+2015031110,2015,3,Licence to Hill,11,54.66,0-3-0,12,Cole's Drafted Players,10,90.68,2-1-0,7,2025-06-22T05:23:10.814Z
+20150393,2015,3,Cooper Scoopers,9,62.64,1-2-0,9,Mange and Julio DBTSY,3,123.28,2-1-0,2,2025-06-22T05:23:10.814Z
+20150385,2015,3,Bend it Like Beckham,8,73.2,0-3-0,11,Keenan and Dion Memorial Squad,5,80.98,2-1-0,5,2025-06-22T05:23:10.814Z
+201504210,2015,4,MI6 Quest for the Repeat,2,53.62,3-1-0,5,Cole's Drafted Players,10,50.5,2-2-0,7,2025-06-22T05:23:23.985Z
+201504912,2015,4,Cooper Scoopers,9,103.64,2-2-0,8,I Want to Berees,12,55.84,2-2-0,9,2025-06-22T05:23:23.985Z
+20150457,2015,4,Keenan and Dion Memorial Squad,5,77.84,2-2-0,6,The Walking Dead,7,106.52,3-1-0,4,2025-06-22T05:23:23.985Z
+201504111,2015,4,Licence to Hill,11,92.78,0-4-0,11,Guardians of the Gostkowski,1,104.56,3-1-0,1,2025-06-22T05:23:23.985Z
+20150446,2015,4,The NFL All-Underperformers,4,69.88,1-3-0,10,The Iron Bryants,6,66.16,3-1-0,3,2025-06-22T05:23:23.985Z
+20150438,2015,4,Mange and Julio DBTSY,3,79.96,3-1-0,2,Bend it Like Beckham,8,63.24,0-4-0,12,2025-06-22T05:23:23.985Z
+201505103,2015,5,Cole's Drafted Players,10,73.48,2-3-0,8,Mange and Julio DBTSY,3,99.26,4-1-0,2,2025-06-22T05:23:36.816Z
+20150559,2015,5,Keenan and Dion Memorial Squad,5,76.34,2-3-0,7,Cooper Scoopers,9,92.52,3-2-0,6,2025-06-22T05:23:36.816Z
+201505112,2015,5,Licence to Hill,11,112.64,1-4-0,11,MI6 Quest for the Repeat,2,64.9,3-2-0,5,2025-06-22T05:23:36.816Z
+201505126,2015,5,I Want to Berees,12,79.3,2-3-0,9,The Iron Bryants,6,97.9,4-1-0,3,2025-06-22T05:23:36.816Z
+20150581,2015,5,Bend it Like Beckham,8,105.26,0-5-0,12,Guardians of the Gostkowski,1,119.94,4-1-0,1,2025-06-22T05:23:36.816Z
+20150547,2015,5,The NFL All-Underperformers,4,76.12,1-4-0,10,The Walking Dead,7,92.94,4-1-0,4,2025-06-22T05:23:36.816Z
+201506104,2015,6,Cole's Drafted Players,10,110.4,3-3-0,7,The NFL All-Underperformers,4,86.46,1-5-0,10,2025-06-22T05:23:49.926Z
+201506511,2015,6,Keenan and Dion Memorial Squad,5,103.42,3-3-0,5,Licence to Hill,11,74.26,1-5-0,11,2025-06-22T05:23:49.926Z
+20150612,2015,6,Guardians of the Gostkowski,1,126,5-1-0,1,MI6 Quest for the Repeat,2,79.88,3-3-0,6,2025-06-22T05:23:49.926Z
+20150698,2015,6,Cooper Scoopers,9,67.8,3-3-0,8,Bend it Like Beckham,8,96.2,1-5-0,12,2025-06-22T05:23:49.926Z
+20150667,2015,6,The Iron Bryants,6,66.26,4-2-0,4,The Walking Dead,7,111.9,5-1-0,3,2025-06-22T05:23:49.926Z
+201506312,2015,6,Mange and Julio DBTSY,3,101.42,5-1-0,2,I Want to Berees,12,94.78,2-4-0,9,2025-06-22T05:23:49.926Z
+20150779,2015,7,The Walking Dead,7,125.58,6-1-0,2,Cooper Scoopers,9,107.86,3-4-0,8,2025-06-22T05:24:03.073Z
+20150728,2015,7,MI6 Quest for the Repeat,2,90.5,4-3-0,6,Bend it Like Beckham,8,42.24,1-6-0,12,2025-06-22T05:24:03.073Z
+2015071210,2015,7,I Want to Berees,12,50.2,2-5-0,10,Cole's Drafted Players,10,67.86,4-3-0,7,2025-06-22T05:24:03.073Z
+20150761,2015,7,The Iron Bryants,6,73.38,4-3-0,5,Guardians of the Gostkowski,1,108.8,6-1-0,1,2025-06-22T05:24:03.073Z
+20150735,2015,7,Mange and Julio DBTSY,3,88.6,5-2-0,3,Keenan and Dion Memorial Squad,5,127.74,4-3-0,4,2025-06-22T05:24:03.073Z
+201507411,2015,7,The NFL All-Underperformers,4,95.9,1-6-0,11,Licence to Hill,11,97.4,2-5-0,9,2025-06-22T05:24:03.073Z
+201508105,2015,8,Cole's Drafted Players,10,64.24,4-4-0,8,Keenan and Dion Memorial Squad,5,102.98,5-3-0,4,2025-06-22T05:24:15.960Z
+201508112,2015,8,Guardians of the Gostkowski,1,128.06,7-1-0,1,I Want to Berees,12,74.14,2-6-0,11,2025-06-22T05:24:15.960Z
+20150872,2015,8,The Walking Dead,7,108.76,7-1-0,2,MI6 Quest for the Repeat,2,64.44,4-4-0,7,2025-06-22T05:24:15.960Z
+201508119,2015,8,Licence to Hill,11,83.1,2-6-0,9,Cooper Scoopers,9,108.82,4-4-0,6,2025-06-22T05:24:15.961Z
+20150863,2015,8,The Iron Bryants,6,76.32,4-4-0,5,Mange and Julio DBTSY,3,94.04,6-2-0,3,2025-06-22T05:24:15.961Z
+20150884,2015,8,Bend it Like Beckham,8,132.74,2-6-0,10,The NFL All-Underperformers,4,70.5,1-7-0,12,2025-06-22T05:24:15.961Z
+201509109,2015,9,Cole's Drafted Players,10,107.58,5-4-0,7,Cooper Scoopers,9,96.34,4-5-0,8,2025-06-22T05:24:28.998Z
+201509512,2015,9,Keenan and Dion Memorial Squad,5,86.36,6-3-0,4,I Want to Berees,12,84.36,2-7-0,11,2025-06-22T05:24:28.998Z
+20150924,2015,9,MI6 Quest for the Repeat,2,110.96,5-4-0,6,The NFL All-Underperformers,4,92.88,1-8-0,12,2025-06-22T05:24:28.998Z
+20150913,2015,9,Guardians of the Gostkowski,1,127.76,8-1-0,1,Mange and Julio DBTSY,3,108.64,6-3-0,3,2025-06-22T05:24:28.998Z
+201509116,2015,9,Licence to Hill,11,88.08,2-7-0,9,The Iron Bryants,6,105.08,5-4-0,5,2025-06-22T05:24:28.998Z
+20150987,2015,9,Bend it Like Beckham,8,70.9,2-7-0,10,The Walking Dead,7,76.44,8-1-0,2,2025-06-22T05:24:28.998Z
+201510106,2015,10,Cole's Drafted Players,10,72.52,5-5-0,8,The Iron Bryants,6,85.18,6-4-0,5,2025-06-22T05:24:41.880Z
+20151051,2015,10,Keenan and Dion Memorial Squad,5,127.96,7-3-0,4,Guardians of the Gostkowski,1,105.02,8-2-0,1,2025-06-22T05:24:41.880Z
+201510118,2015,10,Licence to Hill,11,80.42,2-8-0,10,Bend it Like Beckham,8,108.06,3-7-0,9,2025-06-22T05:24:41.880Z
+201510122,2015,10,I Want to Berees,12,76.48,2-8-0,11,MI6 Quest for the Repeat,2,112.06,6-4-0,6,2025-06-22T05:24:41.880Z
+20151094,2015,10,Cooper Scoopers,9,90.68,5-5-0,7,The NFL All-Underperformers,4,84.76,1-9-0,12,2025-06-22T05:24:41.880Z
+20151037,2015,10,Mange and Julio DBTSY,3,78.52,7-3-0,3,The Walking Dead,7,65.44,8-2-0,2,2025-06-22T05:24:41.880Z
+20151125,2015,11,MI6 Quest for the Repeat,2,51.18,6-5-0,6,Keenan and Dion Memorial Squad,5,94.58,8-3-0,2,2025-06-22T05:24:54.928Z
+201511710,2015,11,The Walking Dead,7,65.06,8-3-0,4,Cole's Drafted Players,10,75.6,6-5-0,7,2025-06-22T05:24:54.928Z
+20151119,2015,11,Guardians of the Gostkowski,1,87.88,9-2-0,1,Cooper Scoopers,9,60.86,5-6-0,8,2025-06-22T05:24:54.928Z
+2015111211,2015,11,I Want to Berees,12,77.3,2-9-0,11,Licence to Hill,11,96.88,3-8-0,9,2025-06-22T05:24:54.928Z
+20151134,2015,11,Mange and Julio DBTSY,3,85.14,8-3-0,3,The NFL All-Underperformers,4,36.08,1-10-0,12,2025-06-22T05:24:54.928Z
+20151168,2015,11,The Iron Bryants,6,135.84,7-4-0,5,Bend it Like Beckham,8,66.72,3-8-0,10,2025-06-22T05:24:54.928Z
+20151271,2015,12,The Walking Dead,7,67.34,8-4-0,5,Guardians of the Gostkowski,1,91.68,10-2-0,1,2025-06-22T05:25:08.079Z
+20151292,2015,12,Cooper Scoopers,9,109.4,6-6-0,6,MI6 Quest for the Repeat,2,91.5,6-6-0,7,2025-06-22T05:25:08.079Z
+201512810,2015,12,Bend it Like Beckham,8,101.6,4-8-0,10,Cole's Drafted Players,10,86,6-6-0,8,2025-06-22T05:25:08.079Z
+20151265,2015,12,The Iron Bryants,6,81.62,8-4-0,4,Keenan and Dion Memorial Squad,5,80.64,8-4-0,3,2025-06-22T05:25:08.079Z
+201512412,2015,12,The NFL All-Underperformers,4,71.44,2-10-0,11,I Want to Berees,12,68.82,2-10-0,12,2025-06-22T05:25:08.079Z
+201512311,2015,12,Mange and Julio DBTSY,3,91.12,8-4-0,2,Licence to Hill,11,114.04,4-8-0,9,2025-06-22T05:25:08.079Z
+201513510,2015,13,Keenan and Dion Memorial Squad,5,132.26,9-4-0,2,Cole's Drafted Players,10,68.68,6-7-0,8,2025-06-22T05:25:21.107Z
+20151327,2015,13,MI6 Quest for the Repeat,2,97.98,7-6-0,6,The Walking Dead,7,73.44,8-5-0,5,2025-06-22T05:25:21.107Z
+201513121,2015,13,I Want to Berees,12,61,2-11-0,12,Guardians of the Gostkowski,1,116.42,11-2-0,1,2025-06-22T05:25:21.107Z
+201513911,2015,13,Cooper Scoopers,9,73.42,6-7-0,7,Licence to Hill,11,83.28,5-8-0,9,2025-06-22T05:25:21.107Z
+20151348,2015,13,The NFL All-Underperformers,4,117.46,3-10-0,11,Bend it Like Beckham,8,93.88,4-9-0,10,2025-06-22T05:25:21.107Z
+20151336,2015,13,Mange and Julio DBTSY,3,107.92,8-5-0,4,The Iron Bryants,6,113.24,9-4-0,3,2025-06-22T05:25:21.107Z
+20151483,2015,14,Bend it Like Beckham,8,87.62,4-10-0,10,Mange and Julio DBTSY,3,88.32,9-5-0,4,2025-06-22T05:25:33.981Z
+20151464,2015,14,The Iron Bryants,6,102.1,10-4-0,2,The NFL All-Underperformers,4,87.38,3-11-0,11,2025-06-22T05:25:33.981Z
+20151475,2015,14,The Walking Dead,7,108.44,9-5-0,5,Keenan and Dion Memorial Squad,5,96.38,9-5-0,3,2025-06-22T05:25:33.981Z
+201514102,2015,14,Cole's Drafted Players,10,79.9,6-8-0,8,MI6 Quest for the Repeat,2,91.44,8-6-0,6,2025-06-22T05:25:33.981Z
+201514111,2015,14,Guardians of the Gostkowski,1,92.02,12-2-0,1,Licence to Hill,11,72.7,5-9-0,9,2025-06-22T05:25:33.981Z
+201514129,2015,14,I Want to Berees,12,57.36,2-12-0,12,Cooper Scoopers,9,75,7-7-0,7,2025-06-22T05:25:33.981Z
+201515710,2015,15,The Walking Dead,7,100.34,9-5-0,5,Cole's Drafted Players,10,99.94,6-8-0,8,2025-06-22T05:25:46.745Z
+20151529,2015,15,MI6 Quest for the Repeat,2,77.58,8-6-0,6,Cooper Scoopers,9,84.84,7-7-0,7,2025-06-22T05:25:46.745Z
+20151513,2015,15,Guardians of the Gostkowski,1,102.36,12-2-0,1,Mange and Julio DBTSY,3,122,9-5-0,4,2025-06-22T05:25:46.745Z
+20151565,2015,15,The Iron Bryants,6,127.7,10-4-0,2,Keenan and Dion Memorial Squad,5,95.5,9-5-0,3,2025-06-22T05:25:46.745Z
+20151679,2015,16,The Walking Dead,7,127.66,9-5-0,5,Cooper Scoopers,9,43.86,7-7-0,7,2025-06-22T05:25:59.569Z
+201516102,2015,16,Cole's Drafted Players,10,71.64,6-8-0,8,MI6 Quest for the Repeat,2,58.64,8-6-0,6,2025-06-22T05:25:59.569Z
+20151636,2015,16,Mange and Julio DBTSY,3,120.46,9-5-0,4,The Iron Bryants,6,81.48,10-4-0,2,2025-06-22T05:25:59.569Z
+20151615,2015,16,Guardians of the Gostkowski,1,106.1,12-2-0,1,Keenan and Dion Memorial Squad,5,89.8,9-5-0,3,2025-06-22T05:25:59.569Z

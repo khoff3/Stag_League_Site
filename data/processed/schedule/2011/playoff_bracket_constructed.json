@@ -1,0 +1,71 @@
+{
+  "season": 2011,
+  "league_id": "864504",
+  "seeds": [
+    {
+      "seed": 1,
+      "team_id": "2",
+      "team_name": "Granger Danger"
+    },
+    {
+      "seed": 2,
+      "team_id": "5",
+      "team_name": "Fencing Beats Football"
+    },
+    {
+      "seed": 3,
+      "team_id": "1",
+      "team_name": "The REVolution"
+    },
+    {
+      "seed": 4,
+      "team_id": "6",
+      "team_name": "Swagger Badgers"
+    }
+  ],
+  "semifinals": [
+    {
+      "home_team_id": "2",
+      "away_team_id": "6",
+      "home_points": 98.4,
+      "away_points": 74.0,
+      "winner_id": "2",
+      "week": 15,
+      "round_name": "Semifinal 1",
+      "game_type": "semifinal"
+    },
+    {
+      "home_team_id": "5",
+      "away_team_id": "1",
+      "home_points": 120.06,
+      "away_points": 113.86,
+      "winner_id": "5",
+      "week": 15,
+      "round_name": "Semifinal 2",
+      "game_type": "semifinal"
+    }
+  ],
+  "final": {
+    "home_team_id": "2",
+    "away_team_id": "5",
+    "home_points": 0.0,
+    "away_points": 0.0,
+    "winner_id": "5",
+    "week": 16,
+    "round_name": "Championship",
+    "game_type": "final"
+  },
+  "third_place": {
+    "home_team_id": "6",
+    "away_team_id": "1",
+    "home_points": 0.0,
+    "away_points": 0.0,
+    "winner_id": "1",
+    "week": 16,
+    "round_name": "Third Place",
+    "game_type": "third_place"
+  },
+  "consolation_games": [],
+  "championship_week": 15,
+  "consolation_week": 16
+}

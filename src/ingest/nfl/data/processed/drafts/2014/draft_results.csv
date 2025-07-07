@@ -1,0 +1,181 @@
+year,nomination,round,pick,overall_pick,player_id,player_name,position,nfl_team,fantasy_team_id,fantasy_team_name,owner_name,auction_cost,draft_type,scraped_at
+2014,,1,1,1,79607,LeSean McCoy,RB,PHI,8,The Real McCoy,Nick,,snake,2025-07-01T16:35:23.934171
+2014,,1,2,2,925,Jamaal Charles,RB,KC,9,Chuck-E-Brees,Kyle,,snake,2025-07-01T16:35:23.934459
+2014,,1,3,3,2507164,Adrian Peterson,RB,MIN,11,Christopher Welken,Jake,,snake,2025-07-01T16:35:23.934674
+2014,,1,4,4,234,Matt Forte,RB,CHI,10,Forte's Foreplay,Cole,,snake,2025-07-01T16:35:23.934875
+2014,,1,5,5,2540168,Eddie Lacy,RB,GB,6,SweatyandEddiesQuestfortheStag,Alexander,,snake,2025-07-01T16:35:23.935074
+2014,,1,6,6,497236,Jimmy Graham,TE,NO,1,InstaGraham,Matt,,snake,2025-07-01T16:35:23.935274
+2014,,1,7,7,2495647,Calvin Johnson,WR,DET,3,Stills Harvin Some Woodhead,Cameron,,snake,2025-07-01T16:35:23.935468
+2014,,1,8,8,497328,Demaryius Thomas,WR,DEN,5,My Dinner with Andre,Benjy,,snake,2025-07-01T16:35:23.935664
+2014,,1,9,9,497278,Dez Bryant,WR,DAL,7,Knowshon's Eleven,Zach,,snake,2025-07-01T16:35:23.935865
+2014,,1,10,10,2495663,Marshawn Lynch,RB,SEA,2,Cloudy With A Chance of Montee,Ryan,,snake,2025-07-01T16:35:23.936060
+2014,,1,11,11,2495450,A.J. Green,WR,CIN,4,The Watkins Diet,Craig,,snake,2025-07-01T16:35:23.936261
+2014,,1,12,12,2495893,Brandon Marshall,WR,CHI,12,Taco's Bell,JACOB,,snake,2025-07-01T16:35:23.936465
+2014,,2,13,25,2540175,Le'Veon Bell,RB,PIT,12,Taco's Bell,JACOB,,snake,2025-07-01T16:35:24.709090
+2014,,2,14,26,2495454,Julio Jones,WR,ATL,4,The Watkins Diet,Craig,,snake,2025-07-01T16:35:24.709303
+2014,,2,15,27,2539341,Montee Ball,RB,DEN,2,Cloudy With A Chance of Montee,Ryan,,snake,2025-07-01T16:35:24.709490
+2014,,2,16,28,2540156,Giovani Bernard,RB,CIN,7,Knowshon's Eleven,Zach,,snake,2025-07-01T16:35:24.709675
+2014,,2,17,29,1032,Jordy Nelson,WR,GB,5,My Dinner with Andre,Benjy,,snake,2025-07-01T16:35:24.709863
+2014,,2,18,30,79555,Arian Foster,RB,HOU,3,Stills Harvin Some Woodhead,Cameron,,snake,2025-07-01T16:35:24.710045
+2014,,2,19,31,2495207,DeMarco Murray,RB,DAL,1,InstaGraham,Matt,,snake,2025-07-01T16:35:24.710232
+2014,,2,20,32,2506363,Aaron Rodgers,QB,GB,6,SweatyandEddiesQuestfortheStag,Alexander,,snake,2025-07-01T16:35:24.710425
+2014,,2,21,33,2508061,Antonio Brown,WR,PIT,10,Forte's Foreplay,Cole,,snake,2025-07-01T16:35:24.710608
+2014,,2,22,34,2501863,Peyton Manning,QB,DEN,11,Christopher Welken,Jake,,snake,2025-07-01T16:35:24.710788
+2014,,2,23,35,2532899,Doug Martin,RB,TB,9,Chuck-E-Brees,Kyle,,snake,2025-07-01T16:35:24.710973
+2014,,2,24,36,2533457,Alfred Morris,RB,WAS,8,The Real McCoy,Nick,,snake,2025-07-01T16:35:24.711163
+2014,,3,25,49,2533039,Alshon Jeffery,WR,CHI,8,The Real McCoy,Nick,,snake,2025-07-01T16:35:25.497416
+2014,,3,26,50,2504775,Drew Brees,QB,NO,9,Chuck-E-Brees,Kyle,,snake,2025-07-01T16:35:25.497697
+2014,,3,27,51,2539217,Andre Ellington,RB,ARI,11,Christopher Welken,Jake,,snake,2025-07-01T16:35:25.497933
+2014,,3,28,52,2495448,Randall Cobb,WR,GB,10,Forte's Foreplay,Cole,,snake,2025-07-01T16:35:25.498151
+2014,,3,29,53,2540273,Zac Stacy,RB,STL,6,SweatyandEddiesQuestfortheStag,Alexander,,snake,2025-07-01T16:35:25.498367
+2014,,3,30,54,2540154,Keenan Allen,WR,LAC,1,InstaGraham,Matt,,snake,2025-07-01T16:35:25.498581
+2014,,3,31,55,2506404,Frank Gore,RB,SF,3,Stills Harvin Some Woodhead,Cameron,,snake,2025-07-01T16:35:25.498797
+2014,,3,32,56,497176,Toby Gerhart,RB,JAC,5,My Dinner with Andre,Benjy,,snake,2025-07-01T16:35:25.499005
+2014,,3,33,57,2506874,Reggie Bush,RB,DET,7,Knowshon's Eleven,Zach,,snake,2025-07-01T16:35:25.499212
+2014,,3,34,58,2506106,Larry Fitzgerald,WR,ARI,2,Cloudy With A Chance of Montee,Ryan,,snake,2025-07-01T16:35:25.499422
+2014,,3,35,59,497204,C.J. Spiller,RB,BUF,4,The Watkins Diet,Craig,,snake,2025-07-01T16:35:25.499636
+2014,,3,36,60,2533033,Robert Griffin III,QB,WAS,12,Taco's Bell,JACOB,,snake,2025-07-01T16:35:25.499850
+2014,,4,37,73,941,Ray Rice,,,12,Taco's Bell,JACOB,,snake,2025-07-01T16:35:26.304776
+2014,,4,38,74,2495353,Julius Thomas,TE,DEN,4,The Watkins Diet,Craig,,snake,2025-07-01T16:35:26.305034
+2014,,4,39,75,2540145,Cordarrelle Patterson,WR,MIN,2,Cloudy With A Chance of Montee,Ryan,,snake,2025-07-01T16:35:26.305255
+2014,,4,40,76,497240,Rob Gronkowski,TE,NE,7,Knowshon's Eleven,Zach,,snake,2025-07-01T16:35:26.305476
+2014,,4,41,77,71345,Rashad Jennings,RB,NYG,5,My Dinner with Andre,Benjy,,snake,2025-07-01T16:35:26.305689
+2014,,4,42,78,80425,Percy Harvin,WR,NYJ,3,Stills Harvin Some Woodhead,Cameron,,snake,2025-07-01T16:35:26.305906
+2014,,4,43,79,2533031,Andrew Luck,QB,IND,1,InstaGraham,Matt,,snake,2025-07-01T16:35:26.306121
+2014,,4,44,80,2346,Pierre Garcon,WR,WAS,6,SweatyandEddiesQuestfortheStag,Alexander,,snake,2025-07-01T16:35:26.306338
+2014,,4,45,81,262,Chris Johnson,RB,NYJ,10,Forte's Foreplay,Cole,,snake,2025-07-01T16:35:26.306551
+2014,,4,46,82,2506366,Roddy White,WR,ATL,11,Christopher Welken,Jake,,snake,2025-07-01T16:35:26.306763
+2014,,4,47,83,2506400,Vincent Jackson,WR,TB,9,Chuck-E-Brees,Kyle,,snake,2025-07-01T16:35:26.306975
+2014,,4,48,84,1581,DeSean Jackson,WR,WAS,8,The Real McCoy,Nick,,snake,2025-07-01T16:35:26.307191
+2014,,5,49,97,79860,Matthew Stafford,QB,DET,8,The Real McCoy,Nick,,snake,2025-07-01T16:35:27.155701
+2014,,5,50,98,2533032,Trent Richardson,RB,IND,9,Chuck-E-Brees,Kyle,,snake,2025-07-01T16:35:27.155957
+2014,,5,51,99,2505790,Wes Welker,WR,DEN,11,Christopher Welken,Jake,,snake,2025-07-01T16:35:27.156189
+2014,,5,52,100,2495186,Colin Kaepernick,QB,SF,10,Forte's Foreplay,Cole,,snake,2025-07-01T16:35:27.156407
+2014,,5,53,101,71269,Michael Crabtree,WR,SF,6,SweatyandEddiesQuestfortheStag,Alexander,,snake,2025-07-01T16:35:27.156615
+2014,,5,54,102,497208,Ben Tate,RB,PIT,1,InstaGraham,Matt,,snake,2025-07-01T16:35:27.156821
+2014,,5,55,103,2495826,Vernon Davis,TE,SF,3,Stills Harvin Some Woodhead,Cameron,,snake,2025-07-01T16:35:27.157028
+2014,,5,56,104,2505551,Andre Johnson,WR,HOU,5,My Dinner with Andre,Benjy,,snake,2025-07-01T16:35:27.157241
+2014,,5,57,105,2532841,Michael Floyd,WR,ARI,7,Knowshon's Eleven,Zach,,snake,2025-07-01T16:35:27.157456
+2014,,5,58,106,497188,Ryan Mathews,RB,LAC,2,Cloudy With A Chance of Montee,Ryan,,snake,2025-07-01T16:35:27.157666
+2014,,5,59,107,2495473,Shane Vereen,RB,NE,4,The Watkins Diet,Craig,,snake,2025-07-01T16:35:27.157859
+2014,,5,60,108,2507855,Victor Cruz,WR,NYG,12,Taco's Bell,JACOB,,snake,2025-07-01T16:35:27.158041
+2014,,6,61,121,2495267,Jordan Cameron,TE,CLE,12,Taco's Bell,JACOB,,snake,2025-07-01T16:35:28.023731
+2014,,6,62,122,2543682,Bishop Sankey,RB,TEN,4,The Watkins Diet,Craig,,snake,2025-07-01T16:35:28.023956
+2014,,6,63,123,497145,Joique Bell,RB,DET,2,Cloudy With A Chance of Montee,Ryan,,snake,2025-07-01T16:35:28.024147
+2014,,6,64,124,2532865,T.Y. Hilton,WR,IND,7,Knowshon's Eleven,Zach,,snake,2025-07-01T16:35:28.024409
+2014,,6,65,125,2495470,Stevan Ridley,RB,NE,5,My Dinner with Andre,Benjy,,snake,2025-07-01T16:35:28.024599
+2014,,6,66,126,497284,Eric Decker,WR,NYJ,3,Stills Harvin Some Woodhead,Cameron,,snake,2025-07-01T16:35:28.024799
+2014,,6,67,127,2495459,Torrey Smith,WR,BAL,1,InstaGraham,Matt,,snake,2025-07-01T16:35:28.024991
+2014,,6,68,128,80429,Jeremy Maclin,WR,PHI,6,SweatyandEddiesQuestfortheStag,Alexander,,snake,2025-07-01T16:35:28.025173
+2014,,6,69,129,2542022,Khiry Robinson,RB,NO,10,Forte's Foreplay,Cole,,snake,2025-07-01T16:35:28.025360
+2014,,6,70,130,2543498,Brandin Cooks,WR,NO,11,Christopher Welken,Jake,,snake,2025-07-01T16:35:28.025546
+2014,,6,71,131,238498,Julian Edelman,WR,NE,9,Chuck-E-Brees,Kyle,,snake,2025-07-01T16:35:28.025730
+2014,,6,72,132,497322,Emmanuel Sanders,WR,DEN,8,The Real McCoy,Nick,,snake,2025-07-01T16:35:28.025917
+2014,,7,73,145,2505936,Steven Jackson,RB,ATL,8,The Real McCoy,Nick,,snake,2025-07-01T16:35:28.836706
+2014,,7,74,146,2505629,Jason Witten,TE,DAL,9,Chuck-E-Brees,Kyle,,snake,2025-07-01T16:35:28.836918
+2014,,7,75,147,2504211,Tom Brady,QB,NE,11,Christopher Welken,Jake,,snake,2025-07-01T16:35:28.837180
+2014,,7,76,148,497326,Golden Tate,WR,DET,10,Forte's Foreplay,Cole,,snake,2025-07-01T16:35:28.837374
+2014,,7,77,149,2495831,Maurice Jones-Drew,RB,LV,6,SweatyandEddiesQuestfortheStag,Alexander,,snake,2025-07-01T16:35:28.837580
+2014,,7,78,150,2507763,Mike Wallace,WR,MIA,1,InstaGraham,Matt,,snake,2025-07-01T16:35:28.837783
+2014,,7,79,151,4327,Danny Woodhead,RB,LAC,3,Stills Harvin Some Woodhead,Cameron,,snake,2025-07-01T16:35:28.837975
+2014,,7,80,152,2532977,Kendall Wright,WR,TEN,5,My Dinner with Andre,Benjy,,snake,2025-07-01T16:35:28.838179
+2014,,7,81,153,2495821,Marques Colston,WR,NO,7,Knowshon's Eleven,Zach,,snake,2025-07-01T16:35:28.838380
+2014,,7,82,154,2539205,Terrance Williams,WR,DAL,2,Cloudy With A Chance of Montee,Ryan,,snake,2025-07-01T16:35:28.838571
+2014,,7,83,155,2532842,Nick Foles,QB,PHI,4,The Watkins Diet,Craig,,snake,2025-07-01T16:35:28.838776
+2014,,7,84,156,2506871,Fred Jackson,RB,BUF,12,Taco's Bell,JACOB,,snake,2025-07-01T16:35:28.838993
+2014,,8,85,169,2504747,Reggie Wayne,WR,IND,12,Taco's Bell,JACOB,,snake,2025-07-01T16:35:29.611075
+2014,,8,86,170,2543457,Sammy Watkins,WR,BUF,4,The Watkins Diet,Craig,,snake,2025-07-01T16:35:29.611321
+2014,,8,87,171,2540165,DeAndre Hopkins,WR,HOU,2,Cloudy With A Chance of Montee,Ryan,,snake,2025-07-01T16:35:29.611542
+2014,,8,88,172,2507141,Pierre Thomas,RB,NO,7,Knowshon's Eleven,Zach,,snake,2025-07-01T16:35:29.611757
+2014,,8,89,173,2495700,Greg Olsen,TE,CAR,5,My Dinner with Andre,Benjy,,snake,2025-07-01T16:35:29.611968
+2014,,8,90,174,2506121,Philip Rivers,QB,LAC,3,Stills Harvin Some Woodhead,Cameron,,snake,2025-07-01T16:35:29.612178
+2014,,8,91,175,2533545,Bernard Pierce,RB,BAL,1,InstaGraham,Matt,,snake,2025-07-01T16:35:29.612476
+2014,,8,92,176,100030,Seattle Seahawks,,,6,SweatyandEddiesQuestfortheStag,Alexander,,snake,2025-07-01T16:35:29.612740
+2014,,8,93,177,2495438,Kyle Rudolph,TE,MIN,10,Forte's Foreplay,Cole,,snake,2025-07-01T16:35:29.612943
+2014,,8,94,178,2543603,Jeremy Hill,RB,CIN,11,Christopher Welken,Jake,,snake,2025-07-01T16:35:29.613156
+2014,,8,95,179,2540151,Justin Hunter,WR,TEN,9,Chuck-E-Brees,Kyle,,snake,2025-07-01T16:35:29.613354
+2014,,8,96,180,1062,Martellus Bennett,TE,CHI,8,The Real McCoy,Nick,,snake,2025-07-01T16:35:29.613554
+2014,,9,97,193,100029,San Francisco 49ers,,,8,The Real McCoy,Nick,,snake,2025-07-01T16:35:30.406629
+2014,,9,98,194,2533034,Lamar Miller,RB,MIA,9,Chuck-E-Brees,Kyle,,snake,2025-07-01T16:35:30.406906
+2014,,9,99,195,2540158,Zach Ertz,TE,PHI,11,Christopher Welken,Jake,,snake,2025-07-01T16:35:30.407121
+2014,,9,100,196,497282,Riley Cooper,WR,PHI,10,Forte's Foreplay,Cole,,snake,2025-07-01T16:35:30.407335
+2014,,9,101,197,2532853,Ladarius Green,TE,LAC,6,SweatyandEddiesQuestfortheStag,Alexander,,snake,2025-07-01T16:35:30.407554
+2014,,9,102,198,2543583,Devonta Freeman,RB,ATL,1,InstaGraham,Matt,,snake,2025-07-01T16:35:30.407767
+2014,,9,103,199,2506467,Darren Sproles,RB,PHI,3,Stills Harvin Some Woodhead,Cameron,,snake,2025-07-01T16:35:30.407982
+2014,,9,104,200,2533533,Rueben Randle,WR,NYG,5,My Dinner with Andre,Benjy,,snake,2025-07-01T16:35:30.408203
+2014,,9,105,201,310,Matt Ryan,QB,ATL,7,Knowshon's Eleven,Zach,,snake,2025-07-01T16:35:30.408407
+2014,,9,106,202,2543743,Carlos Hyde,RB,SF,2,Cloudy With A Chance of Montee,Ryan,,snake,2025-07-01T16:35:30.408613
+2014,,9,107,203,2539336,Tavon Austin,WR,STL,4,The Watkins Diet,Craig,,snake,2025-07-01T16:35:30.408819
+2014,,9,108,204,2543471,Kelvin Benjamin,WR,CAR,12,Taco's Bell,JACOB,,snake,2025-07-01T16:35:30.409030
+2014,,10,109,217,2543565,Andre Williams,RB,NYG,12,Taco's Bell,JACOB,,snake,2025-07-01T16:35:31.172807
+2014,,10,110,218,2495455,Cam Newton,QB,CAR,4,The Watkins Diet,Craig,,snake,2025-07-01T16:35:31.173039
+2014,,10,111,219,2495824,Jay Cutler,QB,CHI,2,Cloudy With A Chance of Montee,Ryan,,snake,2025-07-01T16:35:31.173222
+2014,,10,112,220,2543468,Mike Evans,WR,TB,7,Knowshon's Eleven,Zach,,snake,2025-07-01T16:35:31.173404
+2014,,10,113,221,2532975,Russell Wilson,QB,SEA,5,My Dinner with Andre,Benjy,,snake,2025-07-01T16:35:31.173590
+2014,,10,114,222,80672,Hakeem Nicks,WR,IND,3,Stills Harvin Some Woodhead,Cameron,,snake,2025-07-01T16:35:31.173768
+2014,,10,115,223,2495558,Dwayne Bowe,WR,KC,1,InstaGraham,Matt,,snake,2025-07-01T16:35:31.173969
+2014,,10,116,224,2649,Danny Amendola,WR,NE,6,SweatyandEddiesQuestfortheStag,Alexander,,snake,2025-07-01T16:35:31.174161
+2014,,10,117,225,2495466,Mark Ingram,RB,NO,10,Forte's Foreplay,Cole,,snake,2025-07-01T16:35:31.174354
+2014,,10,118,226,497149,LeGarrette Blount,RB,NE,11,Christopher Welken,Jake,,snake,2025-07-01T16:35:31.174556
+2014,,10,119,227,2505354,Tony Romo,QB,DAL,9,Chuck-E-Brees,Kyle,,snake,2025-07-01T16:35:31.174749
+2014,,10,120,228,949,Jonathan Stewart,RB,CAR,8,The Real McCoy,Nick,,snake,2025-07-01T16:35:31.174949
+2014,,11,121,241,2495867,Greg Jennings,WR,MIN,8,The Real McCoy,Nick,,snake,2025-07-01T16:35:31.999242
+2014,,11,122,242,2495341,Cecil Shorts,WR,JAC,9,Chuck-E-Brees,Kyle,,snake,2025-07-01T16:35:31.999384
+2014,,11,123,243,100006,Cincinnati Bengals,,,11,Christopher Welken,Jake,,snake,2025-07-01T16:35:31.999521
+2014,,11,124,244,2505587,Anquan Boldin,WR,SF,10,Forte's Foreplay,Cole,,snake,2025-07-01T16:35:31.999646
+2014,,11,125,245,2539256,Aaron Dobson,WR,NE,6,SweatyandEddiesQuestfortheStag,Alexander,,snake,2025-07-01T16:35:31.999774
+2014,,11,126,246,2495143,Andy Dalton,QB,CIN,1,InstaGraham,Matt,,snake,2025-07-01T16:35:31.999897
+2014,,11,127,247,2543500,Jordan Matthews,WR,PHI,3,Stills Harvin Some Woodhead,Cameron,,snake,2025-07-01T16:35:32.000020
+2014,,11,128,248,2543664,Terrance West,RB,CLE,5,My Dinner with Andre,Benjy,,snake,2025-07-01T16:35:32.000146
+2014,,11,129,249,79619,Knowshon Moreno,RB,MIA,7,Knowshon's Eleven,Zach,,snake,2025-07-01T16:35:32.000273
+2014,,11,130,250,100026,Arizona Cardinals,,,2,Cloudy With A Chance of Montee,Ryan,,snake,2025-07-01T16:35:32.000394
+2014,,11,131,251,2495979,DeAngelo Williams,RB,CAR,4,The Watkins Diet,Craig,,snake,2025-07-01T16:35:32.000510
+2014,,11,132,252,2506581,Ryan Fitzpatrick,QB,HOU,12,Taco's Bell,JACOB,,snake,2025-07-01T16:35:32.000628
+2014,,12,133,265,2540160,Jordan Reed,TE,WAS,12,Taco's Bell,JACOB,,snake,2025-07-01T16:35:32.772196
+2014,,12,134,266,100009,Denver Broncos,,,4,The Watkins Diet,Craig,,snake,2025-07-01T16:35:32.772462
+2014,,12,135,267,2543502,Tre Mason,RB,STL,2,Cloudy With A Chance of Montee,Ryan,,snake,2025-07-01T16:35:32.772688
+2014,,12,136,268,100017,St. Louis Rams,,,7,Knowshon's Eleven,Zach,,snake,2025-07-01T16:35:32.772912
+2014,,12,137,269,2495560,Ahmad Bradshaw,RB,IND,5,My Dinner with Andre,Benjy,,snake,2025-07-01T16:35:32.773122
+2014,,12,138,270,2540202,Kenny Stills,WR,NO,3,Stills Harvin Some Woodhead,Cameron,,snake,2025-07-01T16:35:32.773334
+2014,,12,139,271,2539322,Christine Michael,RB,SEA,1,InstaGraham,Matt,,snake,2025-07-01T16:35:32.773558
+2014,,12,140,272,79563,Shonn Greene,RB,TEN,6,SweatyandEddiesQuestfortheStag,Alexander,,snake,2025-07-01T16:35:32.773776
+2014,,12,141,273,2505785,Malcom Floyd,WR,LAC,10,Forte's Foreplay,Cole,,snake,2025-07-01T16:35:32.773986
+2014,,12,142,274,81831,Brian Hartline,WR,MIA,11,Christopher Welken,Jake,,snake,2025-07-01T16:35:32.774200
+2014,,12,143,275,100004,Carolina Panthers,,,9,Chuck-E-Brees,Kyle,,snake,2025-07-01T16:35:32.774410
+2014,,12,144,276,2539291,Markus Wheaton,WR,PIT,8,The Real McCoy,Nick,,snake,2025-07-01T16:35:32.774622
+2014,,13,145,289,2506677,Matt Prater,K,DET,8,The Real McCoy,Nick,,snake,2025-07-01T16:35:33.621347
+2014,,13,146,290,497254,Dennis Pitta,TE,BAL,9,Chuck-E-Brees,Kyle,,snake,2025-07-01T16:35:33.621566
+2014,,13,147,291,2495139,Charles Clay,TE,MIA,11,Christopher Welken,Jake,,snake,2025-07-01T16:35:33.621753
+2014,,13,148,292,2506369,Heath Miller,TE,PIT,10,Forte's Foreplay,Cole,,snake,2025-07-01T16:35:33.621947
+2014,,13,149,293,2543496,Odell Beckham,WR,NYG,6,SweatyandEddiesQuestfortheStag,Alexander,,snake,2025-07-01T16:35:33.622139
+2014,,13,150,294,2506922,Stephen Gostkowski,K,NE,1,InstaGraham,Matt,,snake,2025-07-01T16:35:33.622329
+2014,,13,151,295,2507374,Steven Hauschka,K,SEA,3,Stills Harvin Some Woodhead,Cameron,,snake,2025-07-01T16:35:33.622524
+2014,,13,152,296,2506194,Nick Novak,K,LAC,5,My Dinner with Andre,Benjy,,snake,2025-07-01T16:35:33.622712
+2014,,13,153,297,2495259,Dan Bailey,K,DAL,7,Knowshon's Eleven,Zach,,snake,2025-07-01T16:35:33.622907
+2014,,13,154,298,2540258,Travis Kelce,TE,KC,2,Cloudy With A Chance of Montee,Ryan,,snake,2025-07-01T16:35:33.623103
+2014,,13,155,299,2507999,Chris Ivory,RB,NYJ,4,The Watkins Diet,Craig,,snake,2025-07-01T16:35:33.623297
+2014,,13,156,300,2500351,Phil Dawson,K,SF,12,Taco's Bell,JACOB,,snake,2025-07-01T16:35:33.623497
+2014,,14,157,313,100021,New England Patriots,,,12,Taco's Bell,JACOB,,snake,2025-07-01T16:35:34.423214
+2014,,14,158,314,2506386,Mike Nugent,K,CIN,4,The Watkins Diet,Craig,,snake,2025-07-01T16:35:34.423535
+2014,,14,159,315,284,Darren McFadden,RB,LV,2,Cloudy With A Chance of Montee,Ryan,,snake,2025-07-01T16:35:34.423752
+2014,,14,160,316,2539228,EJ Manuel,QB,BUF,7,Knowshon's Eleven,Zach,,snake,2025-07-01T16:35:34.423974
+2014,,14,161,317,100016,Kansas City Chiefs,,,5,My Dinner with Andre,Benjy,,snake,2025-07-01T16:35:34.424201
+2014,,14,162,318,100024,New York Jets,,,3,Stills Harvin Some Woodhead,Cameron,,snake,2025-07-01T16:35:34.424425
+2014,,14,163,319,100005,Chicago Bears,,,1,InstaGraham,Matt,,snake,2025-07-01T16:35:34.424646
+2014,,14,164,320,2507232,Mason Crosby,K,GB,6,SweatyandEddiesQuestfortheStag,Alexander,,snake,2025-07-01T16:35:34.424884
+2014,,14,165,321,2504797,Matt Bryant,K,ATL,10,Forte's Foreplay,Cole,,snake,2025-07-01T16:35:34.425111
+2014,,14,166,322,2506264,Robbie Gould,K,CHI,11,Christopher Welken,Jake,,snake,2025-07-01T16:35:34.425337
+2014,,14,167,323,2508097,Andrew Hawkins,WR,CLE,9,Chuck-E-Brees,Kyle,,snake,2025-07-01T16:35:34.425546
+2014,,14,168,324,2506109,Ben Roethlisberger,QB,PIT,8,The Real McCoy,Nick,,snake,2025-07-01T16:35:34.425760
+2014,,15,169,337,929,BenJarvus Green-Ellis,,,8,The Real McCoy,Nick,,snake,2025-07-01T16:35:35.205386
+2014,,15,170,338,2536340,Justin Tucker,K,BAL,9,Chuck-E-Brees,Kyle,,snake,2025-07-01T16:35:35.205609
+2014,,15,171,339,2532851,Cyrus Gray,RB,KC,11,Christopher Welken,Jake,,snake,2025-07-01T16:35:35.205805
+2014,,15,172,340,100028,Los Angeles Chargers,,,10,Forte's Foreplay,Cole,,snake,2025-07-01T16:35:35.206009
+2014,,15,173,341,2537931,Josh Gordon,WR,CLE,6,SweatyandEddiesQuestfortheStag,Alexander,,snake,2025-07-01T16:35:35.206214
+2014,,15,174,342,2535708,Lance Dunbar,RB,DAL,1,InstaGraham,Matt,,snake,2025-07-01T16:35:35.206403
+2014,,15,175,343,2505299,Antonio Gates,TE,LAC,3,Stills Harvin Some Woodhead,Cameron,,snake,2025-07-01T16:35:35.206594
+2014,,15,176,344,2532956,Ryan Tannehill,QB,MIA,5,My Dinner with Andre,Benjy,,snake,2025-07-01T16:35:35.206789
+2014,,15,177,345,2495161,Roy Helu,RB,WAS,7,Knowshon's Eleven,Zach,,snake,2025-07-01T16:35:35.206979
+2014,,15,178,346,2495162,Alex Henery,,,2,Cloudy With A Chance of Montee,Ryan,,snake,2025-07-01T16:35:35.207169
+2014,,15,179,347,2495801,Miles Austin,WR,CLE,4,The Watkins Diet,Craig,,snake,2025-07-01T16:35:35.207367
+2014,,15,180,348,2543462,Johnny Manziel,QB,CLE,12,Taco's Bell,JACOB,,snake,2025-07-01T16:35:35.207554

@@ -1,0 +1,68 @@
+{
+  "games": [
+    {
+      "away_points": 65.22,
+      "away_rank": 11,
+      "away_record": "5-9-0",
+      "away_team": "Dalvin and Hobbs",
+      "away_team_id": "2",
+      "game_id": "202115112",
+      "home_points": 85.92,
+      "home_rank": 10,
+      "home_record": "6-8-0",
+      "home_team": "Tyrannosaurus Reek II",
+      "home_team_id": "11",
+      "scraped_at": "2025-07-01T02:03:41.505Z",
+      "season": 2021,
+      "week": 15
+    },
+    {
+      "away_points": 80.06,
+      "away_rank": 12,
+      "away_record": "5-9-0",
+      "away_team": "Hockensockem Robots",
+      "away_team_id": "3",
+      "game_id": "20211553",
+      "home_points": 87.34,
+      "home_rank": 9,
+      "home_record": "7-7-0",
+      "home_team": "Chubb Scouts",
+      "home_team_id": "5",
+      "scraped_at": "2025-07-01T02:03:41.505Z",
+      "season": 2021,
+      "week": 15
+    },
+    {
+      "away_points": 78.86,
+      "away_rank": 5,
+      "away_record": "7-7-0",
+      "away_team": "Tom and Terry",
+      "away_team_id": "10",
+      "game_id": "202115910",
+      "home_points": 78.28,
+      "home_rank": 4,
+      "home_record": "7-6-1",
+      "home_team": "Dak Flashes",
+      "home_team_id": "9",
+      "scraped_at": "2025-07-01T02:03:41.505Z",
+      "season": 2021,
+      "week": 15
+    },
+    {
+      "away_points": 84.74,
+      "away_rank": 6,
+      "away_record": "7-7-0",
+      "away_team": "The Uncanny Eks-Men",
+      "away_team_id": "1",
+      "game_id": "202115121",
+      "home_points": 103.58,
+      "home_rank": 3,
+      "home_record": "8-6-0",
+      "home_team": "The Kyler Sisters",
+      "home_team_id": "12",
+      "scraped_at": "2025-07-01T02:03:41.505Z",
+      "season": 2021,
+      "week": 15
+    }
+  ]
+}

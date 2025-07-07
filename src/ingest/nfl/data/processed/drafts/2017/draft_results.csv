@@ -1,0 +1,151 @@
+year,nomination,round,pick,overall_pick,player_id,player_name,position,nfl_team,fantasy_team_id,fantasy_team_name,owner_name,auction_cost,draft_type,scraped_at
+2017,,1,1,1,2553435,David Johnson,RB,ARI,11,Suicide Squad,Jake,,snake,2025-07-01T16:37:05.921092
+2017,,1,2,2,2508061,Antonio Brown,WR,PIT,6,Roaring Rivers,Alexander,,snake,2025-07-01T16:37:05.921321
+2017,,1,3,3,2540175,Le'Veon Bell,RB,PIT,5,Ultralight Kareem,Benjy,,snake,2025-07-01T16:37:05.921541
+2017,,1,4,4,79607,LeSean McCoy,RB,BUF,7,New Gurley,Zach,,snake,2025-07-01T16:37:05.921755
+2017,,1,5,5,2495454,Julio Jones,WR,ATL,12,Hooked on a Thielen,James,,snake,2025-07-01T16:37:05.921966
+2017,,1,6,6,2543468,Mike Evans,WR,TB,9,Diggs It,Kyle,,snake,2025-07-01T16:37:05.922177
+2017,,1,7,7,2552469,Melvin Gordon,RB,LAC,3,Allen the Family,Cameron,,snake,2025-07-01T16:37:05.922388
+2017,,1,8,8,2495450,A.J. Green,WR,CIN,1,Nuthin but a Green Thang,Matt,,snake,2025-07-01T16:37:05.922598
+2017,,1,9,9,2543496,Odell Beckham,WR,NYG,8,O Beckham Where Art Thou,Nick,,snake,2025-07-01T16:37:05.922806
+2017,,1,10,10,2495663,Marshawn Lynch,RB,LV,2,Don't Check My Pryors,Ryan,,snake,2025-07-01T16:37:05.923022
+2017,,2,11,23,2543583,Devonta Freeman,RB,ATL,2,Don't Check My Pryors,Ryan,,snake,2025-07-01T16:37:06.671502
+2017,,2,12,24,2555418,Jordan Howard,RB,CHI,8,O Beckham Where Art Thou,Nick,,snake,2025-07-01T16:37:06.671823
+2017,,2,13,25,1032,Jordy Nelson,WR,GB,1,Nuthin but a Green Thang,Matt,,snake,2025-07-01T16:37:06.672133
+2017,,2,14,26,2495207,DeMarco Murray,RB,TEN,3,Allen the Family,Cameron,,snake,2025-07-01T16:37:06.672531
+2017,,2,15,27,2552582,Jay Ajayi,RB,PHI,9,Diggs It,Kyle,,snake,2025-07-01T16:37:06.672786
+2017,,2,16,28,2556370,Michael Thomas,WR,NO,12,Hooked on a Thielen,James,,snake,2025-07-01T16:37:06.673037
+2017,,2,17,29,2552475,Todd Gurley,RB,LA,7,New Gurley,Zach,,snake,2025-07-01T16:37:06.673286
+2017,,2,18,30,497278,Dez Bryant,WR,DAL,5,Ultralight Kareem,Benjy,,snake,2025-07-01T16:37:06.673530
+2017,,2,19,31,2555224,Ezekiel Elliott,RB,DAL,6,Roaring Rivers,Alexander,,snake,2025-07-01T16:37:06.673773
+2017,,2,20,32,2532865,T.Y. Hilton,WR,IND,11,Suicide Squad,Jake,,snake,2025-07-01T16:37:06.674023
+2017,,3,21,45,2552487,Amari Cooper,WR,LV,11,Suicide Squad,Jake,,snake,2025-07-01T16:37:07.409635
+2017,,3,22,46,2540165,DeAndre Hopkins,WR,HOU,6,Roaring Rivers,Alexander,,snake,2025-07-01T16:37:07.409968
+2017,,3,23,47,2543498,Brandin Cooks,WR,NE,5,Ultralight Kareem,Benjy,,snake,2025-07-01T16:37:07.410275
+2017,,3,24,48,497240,Rob Gronkowski,TE,NE,7,New Gurley,Zach,,snake,2025-07-01T16:37:07.410580
+2017,,3,25,49,2533034,Lamar Miller,RB,HOU,12,Hooked on a Thielen,James,,snake,2025-07-01T16:37:07.410874
+2017,,3,26,50,2530747,Doug Baldwin,WR,SEA,9,Diggs It,Kyle,,snake,2025-07-01T16:37:07.411125
+2017,,3,27,51,71269,Michael Crabtree,WR,LV,3,Allen the Family,Cameron,,snake,2025-07-01T16:37:07.411372
+2017,,3,28,52,2550189,Isaiah Crowell,RB,CLE,1,Nuthin but a Green Thang,Matt,,snake,2025-07-01T16:37:07.411620
+2017,,3,29,53,2557973,Leonard Fournette,RB,JAX,8,O Beckham Where Art Thou,Nick,,snake,2025-07-01T16:37:07.411870
+2017,,3,30,54,2531332,Terrelle Pryor,WR,WAS,2,Don't Check My Pryors,Ryan,,snake,2025-07-01T16:37:07.412129
+2017,,4,31,67,2506363,Aaron Rodgers,QB,GB,2,Don't Check My Pryors,Ryan,,snake,2025-07-01T16:37:08.178451
+2017,,4,32,68,2504211,Tom Brady,QB,NE,8,O Beckham Where Art Thou,Nick,,snake,2025-07-01T16:37:08.178727
+2017,,4,33,69,2543743,Carlos Hyde,RB,SF,1,Nuthin but a Green Thang,Matt,,snake,2025-07-01T16:37:08.179004
+2017,,4,34,70,497326,Golden Tate,WR,DET,3,Allen the Family,Cameron,,snake,2025-07-01T16:37:08.179308
+2017,,4,35,71,2533039,Alshon Jeffery,WR,PHI,9,Diggs It,Kyle,,snake,2025-07-01T16:37:08.179605
+2017,,4,36,72,2557997,Christian McCaffrey,RB,CAR,12,Hooked on a Thielen,James,,snake,2025-07-01T16:37:08.179854
+2017,,4,37,73,2504775,Drew Brees,QB,NO,7,New Gurley,Zach,,snake,2025-07-01T16:37:08.180098
+2017,,4,38,74,2557917,Kareem Hunt,RB,KC,5,Ultralight Kareem,Benjy,,snake,2025-07-01T16:37:08.180344
+2017,,4,39,75,2556414,Rob Kelley,RB,WAS,6,Roaring Rivers,Alexander,,snake,2025-07-01T16:37:08.180589
+2017,,4,40,76,2495466,Mark Ingram,RB,NO,11,Suicide Squad,Jake,,snake,2025-07-01T16:37:08.180842
+2017,,5,41,89,2557991,Dalvin Cook,RB,MIN,11,Suicide Squad,Jake,,snake,2025-07-01T16:37:08.931904
+2017,,5,42,90,2540154,Keenan Allen,WR,LAC,6,Roaring Rivers,Alexander,,snake,2025-07-01T16:37:08.932286
+2017,,5,43,91,497328,Demaryius Thomas,WR,DEN,5,Ultralight Kareem,Benjy,,snake,2025-07-01T16:37:08.932677
+2017,,5,44,92,2543488,Jarvis Landry,WR,MIA,7,New Gurley,Zach,,snake,2025-07-01T16:37:08.933101
+2017,,5,45,93,2543509,Allen Robinson,WR,JAX,12,Hooked on a Thielen,James,,snake,2025-07-01T16:37:08.933468
+2017,,5,46,94,2540258,Travis Kelce,TE,KC,9,Diggs It,Kyle,,snake,2025-07-01T16:37:08.933829
+2017,,5,47,95,2543471,Kelvin Benjamin,WR,BUF,3,Allen the Family,Cameron,,snake,2025-07-01T16:37:08.934195
+2017,,5,48,96,2540160,Jordan Reed,TE,WAS,1,Nuthin but a Green Thang,Matt,,snake,2025-07-01T16:37:08.934522
+2017,,5,49,97,2556214,Tyreek Hill,WR,KC,8,O Beckham Where Art Thou,Nick,,snake,2025-07-01T16:37:08.934685
+2017,,5,50,98,2552429,Ty Montgomery,RB,GB,2,Don't Check My Pryors,Ryan,,snake,2025-07-01T16:37:08.934834
+2017,,6,51,111,2543572,Martavis Bryant,WR,PIT,2,Don't Check My Pryors,Ryan,,snake,2025-07-01T16:37:09.688568
+2017,,6,52,112,497322,Emmanuel Sanders,WR,DEN,8,O Beckham Where Art Thou,Nick,,snake,2025-07-01T16:37:09.688873
+2017,,6,53,113,2540269,C.J. Anderson,RB,DEN,1,Nuthin but a Green Thang,Matt,,snake,2025-07-01T16:37:09.689152
+2017,,6,54,114,2552409,DeVante Parker,WR,MIA,3,Allen the Family,Cameron,,snake,2025-07-01T16:37:09.689436
+2017,,6,55,115,2552374,Ameer Abdullah,RB,DET,9,Diggs It,Kyle,,snake,2025-07-01T16:37:09.689699
+2017,,6,56,116,2539663,Mike Gillislee,RB,NE,12,Hooked on a Thielen,James,,snake,2025-07-01T16:37:09.690069
+2017,,6,57,117,2506106,Larry Fitzgerald,WR,ARI,7,New Gurley,Zach,,snake,2025-07-01T16:37:09.690420
+2017,,6,58,118,2557976,Joe Mixon,RB,CIN,5,Ultralight Kareem,Benjy,,snake,2025-07-01T16:37:09.690673
+2017,,6,59,119,2540168,Eddie Lacy,RB,SEA,6,Roaring Rivers,Alexander,,snake,2025-07-01T16:37:09.690918
+2017,,6,60,120,2543495,Davante Adams,WR,GB,11,Suicide Squad,Jake,,snake,2025-07-01T16:37:09.691157
+2017,,7,61,133,2495700,Greg Olsen,TE,CAR,11,Suicide Squad,Jake,,snake,2025-07-01T16:37:10.439489
+2017,,7,62,134,497149,LeGarrette Blount,RB,PHI,6,Roaring Rivers,Alexander,,snake,2025-07-01T16:37:10.439815
+2017,,7,63,135,497236,Jimmy Graham,TE,SEA,5,Ultralight Kareem,Benjy,,snake,2025-07-01T16:37:10.440116
+2017,,7,64,136,2543457,Sammy Watkins,WR,LA,7,New Gurley,Zach,,snake,2025-07-01T16:37:10.440376
+2017,,7,65,137,2495966,Delanie Walker,TE,TEN,12,Hooked on a Thielen,James,,snake,2025-07-01T16:37:10.440621
+2017,,7,66,138,2552608,Stefon Diggs,WR,MIN,9,Diggs It,Kyle,,snake,2025-07-01T16:37:10.440867
+2017,,7,67,139,2555460,Paul Perkins,RB,NYG,3,Allen the Family,Cameron,,snake,2025-07-01T16:37:10.441115
+2017,,7,68,140,1581,DeSean Jackson,WR,TB,1,Nuthin but a Green Thang,Matt,,snake,2025-07-01T16:37:10.441359
+2017,,7,69,141,2507164,Adrian Peterson,RB,ARI,8,O Beckham Where Art Thou,Nick,,snake,2025-07-01T16:37:10.441603
+2017,,7,70,142,2495893,Brandon Marshall,WR,NYG,2,Don't Check My Pryors,Ryan,,snake,2025-07-01T16:37:10.441857
+2017,,8,71,155,2553733,Thomas Rawls,RB,SEA,2,Don't Check My Pryors,Ryan,,snake,2025-07-01T16:37:11.221143
+2017,,8,72,156,2540148,Tyler Eifert,TE,CIN,8,O Beckham Where Art Thou,Nick,,snake,2025-07-01T16:37:11.221283
+2017,,8,73,157,2552466,Marcus Mariota,QB,TEN,1,Nuthin but a Green Thang,Matt,,snake,2025-07-01T16:37:11.221414
+2017,,8,74,158,4327,Danny Woodhead,RB,BAL,3,Allen the Family,Cameron,,snake,2025-07-01T16:37:11.221543
+2017,,8,75,159,310,Matt Ryan,QB,ATL,9,Diggs It,Kyle,,snake,2025-07-01T16:37:11.221677
+2017,,8,76,160,284,Darren McFadden,,,12,Hooked on a Thielen,James,,snake,2025-07-01T16:37:11.221808
+2017,,8,77,161,2495328,Bilal Powell,RB,NYJ,7,New Gurley,Zach,,snake,2025-07-01T16:37:11.221936
+2017,,8,78,162,2532975,Russell Wilson,QB,SEA,5,Ultralight Kareem,Benjy,,snake,2025-07-01T16:37:11.222062
+2017,,8,79,163,2532899,Doug Martin,RB,TB,6,Roaring Rivers,Alexander,,snake,2025-07-01T16:37:11.222190
+2017,,8,80,164,2495455,Cam Newton,QB,CAR,11,Suicide Squad,Jake,,snake,2025-07-01T16:37:11.222325
+2017,,9,81,177,2556075,Derrick Henry,RB,TEN,11,Suicide Squad,Jake,,snake,2025-07-01T16:37:11.981758
+2017,,9,82,178,80429,Jeremy Maclin,WR,BAL,6,Roaring Rivers,Alexander,,snake,2025-07-01T16:37:11.981898
+2017,,9,83,179,2552415,Jamison Crowder,WR,WAS,5,Ultralight Kareem,Benjy,,snake,2025-07-01T16:37:11.982028
+2017,,9,84,180,2543500,Jordan Matthews,WR,BUF,7,New Gurley,Zach,,snake,2025-07-01T16:37:11.982153
+2017,,9,85,181,2532820,Kirk Cousins,QB,WAS,12,Hooked on a Thielen,James,,snake,2025-07-01T16:37:11.982280
+2017,,9,86,182,2506404,Frank Gore,RB,IND,9,Diggs It,Kyle,,snake,2025-07-01T16:37:11.982410
+2017,,9,87,183,2553913,Tyrell Williams,WR,LAC,3,Allen the Family,Cameron,,snake,2025-07-01T16:37:11.982535
+2017,,9,88,184,2552453,Tevin Coleman,RB,ATL,1,Nuthin but a Green Thang,Matt,,snake,2025-07-01T16:37:11.982657
+2017,,9,89,185,2540020,Theo Riddick,RB,DET,8,O Beckham Where Art Thou,Nick,,snake,2025-07-01T16:37:11.982833
+2017,,9,90,186,2543847,John Brown,WR,ARI,2,Don't Check My Pryors,Ryan,,snake,2025-07-01T16:37:11.983086
+2017,,10,91,199,925,Jamaal Charles,RB,DEN,2,Don't Check My Pryors,Ryan,,snake,2025-07-01T16:37:12.736987
+2017,,10,92,200,497284,Eric Decker,WR,TEN,8,O Beckham Where Art Thou,Nick,,snake,2025-07-01T16:37:12.737261
+2017,,10,93,201,2346,Pierre Garcon,WR,SF,1,Nuthin but a Green Thang,Matt,,snake,2025-07-01T16:37:12.737592
+2017,,10,94,202,2555333,Corey Coleman,WR,CLE,3,Allen the Family,Cameron,,snake,2025-07-01T16:37:12.738004
+2017,,10,95,203,2543664,Terrance West,RB,BAL,9,Diggs It,Kyle,,snake,2025-07-01T16:37:12.738243
+2017,,10,96,204,2557863,Zay Jones,WR,BUF,12,Hooked on a Thielen,James,,snake,2025-07-01T16:37:12.738464
+2017,,10,97,205,2495471,Jacquizz Rodgers,RB,TB,7,New Gurley,Zach,,snake,2025-07-01T16:37:12.738689
+2017,,10,98,206,2552461,Duke Johnson,RB,CLE,5,Ultralight Kareem,Benjy,,snake,2025-07-01T16:37:12.738941
+2017,,10,99,207,2557848,Corey Davis,WR,TEN,6,Roaring Rivers,Alexander,,snake,2025-07-01T16:37:12.739188
+2017,,10,100,208,2550256,Willie Snead,WR,NO,11,Suicide Squad,Jake,,snake,2025-07-01T16:37:12.739444
+2017,,11,101,221,2543603,Jeremy Hill,RB,CIN,11,Suicide Squad,Jake,,snake,2025-07-01T16:37:13.505136
+2017,,11,102,222,2552033,Jameis Winston,QB,TB,6,Roaring Rivers,Alexander,,snake,2025-07-01T16:37:13.505412
+2017,,11,103,223,2506109,Ben Roethlisberger,QB,PIT,5,Ultralight Kareem,Benjy,,snake,2025-07-01T16:37:13.505667
+2017,,11,104,224,100009,Denver Broncos,,,7,New Gurley,Zach,,snake,2025-07-01T16:37:13.505917
+2017,,11,105,225,949,Jonathan Stewart,RB,CAR,12,Hooked on a Thielen,James,,snake,2025-07-01T16:37:13.506174
+2017,,11,106,226,2530515,Chris Hogan,WR,NE,9,Diggs It,Kyle,,snake,2025-07-01T16:37:13.506425
+2017,,11,107,227,2555341,Hunter Henry,TE,LAC,3,Allen the Family,Cameron,,snake,2025-07-01T16:37:13.506667
+2017,,11,108,228,2506467,Darren Sproles,RB,PHI,1,Nuthin but a Green Thang,Matt,,snake,2025-07-01T16:37:13.506910
+2017,,11,109,229,100030,Seattle Seahawks,,,8,O Beckham Where Art Thou,Nick,,snake,2025-07-01T16:37:13.507153
+2017,,11,110,230,100016,Kansas City Chiefs,,,2,Don't Check My Pryors,Ryan,,snake,2025-07-01T16:37:13.507409
+2017,,12,111,243,2506922,Stephen Gostkowski,K,NE,2,Don't Check My Pryors,Ryan,,snake,2025-07-01T16:37:14.316581
+2017,,12,112,244,2536340,Justin Tucker,K,BAL,8,O Beckham Where Art Thou,Nick,,snake,2025-07-01T16:37:14.316912
+2017,,12,113,245,2495438,Kyle Rudolph,TE,MIN,1,Nuthin but a Green Thang,Matt,,snake,2025-07-01T16:37:14.317212
+2017,,12,114,246,2558204,Jamaal Williams,RB,GB,3,Allen the Family,Cameron,,snake,2025-07-01T16:37:14.317511
+2017,,12,115,247,100013,Houston Texans,,,9,Diggs It,Kyle,,snake,2025-07-01T16:37:14.317805
+2017,,12,116,248,2541785,Adam Thielen,WR,MIN,12,Hooked on a Thielen,James,,snake,2025-07-01T16:37:14.318054
+2017,,12,117,249,2495259,Dan Bailey,K,DAL,7,New Gurley,Zach,,snake,2025-07-01T16:37:14.318305
+2017,,12,118,250,71217,Kenny Britt,WR,NE,5,Ultralight Kareem,Benjy,,snake,2025-07-01T16:37:14.318552
+2017,,12,119,251,100020,Minnesota Vikings,,,6,Roaring Rivers,Alexander,,snake,2025-07-01T16:37:14.318799
+2017,,12,120,252,100026,Arizona Cardinals,,,11,Suicide Squad,Jake,,snake,2025-07-01T16:37:14.319049
+2017,,13,121,265,234,Matt Forte,RB,NYJ,11,Suicide Squad,Jake,,snake,2025-07-01T16:37:15.088443
+2017,,13,122,266,1062,Martellus Bennett,TE,NE,6,Roaring Rivers,Alexander,,snake,2025-07-01T16:37:15.088756
+2017,,13,123,267,2539265,Rex Burkhead,RB,NE,5,Ultralight Kareem,Benjy,,snake,2025-07-01T16:37:15.089047
+2017,,13,124,268,2532903,Rishard Matthews,WR,TEN,7,New Gurley,Zach,,snake,2025-07-01T16:37:15.089340
+2017,,13,125,269,2555417,C.J. Prosise,RB,SEA,12,Hooked on a Thielen,James,,snake,2025-07-01T16:37:15.089631
+2017,,13,126,270,2555461,Wendell Smallwood,RB,PHI,9,Diggs It,Kyle,,snake,2025-07-01T16:37:15.089779
+2017,,13,127,271,2543499,Derek Carr,QB,LV,3,Allen the Family,Cameron,,snake,2025-07-01T16:37:15.089950
+2017,,13,128,272,2504797,Matt Bryant,K,ATL,1,Nuthin but a Green Thang,Matt,,snake,2025-07-01T16:37:15.090113
+2017,,13,129,273,2507763,Mike Wallace,WR,BAL,8,O Beckham Where Art Thou,Nick,,snake,2025-07-01T16:37:15.090249
+2017,,13,130,274,2540232,Jack Doyle,TE,IND,2,Don't Check My Pryors,Ryan,,snake,2025-07-01T16:37:15.090376
+2017,,14,131,287,2557994,D'Onta Foreman,RB,HOU,2,Don't Check My Pryors,Ryan,,snake,2025-07-01T16:37:15.921191
+2017,,14,132,288,2495473,Shane Vereen,RB,NYG,8,O Beckham Where Art Thou,Nick,,snake,2025-07-01T16:37:15.921513
+2017,,14,133,289,100021,New England Patriots,,,1,Nuthin but a Green Thang,Matt,,snake,2025-07-01T16:37:15.921811
+2017,,14,134,290,2550636,Cairo Santos,K,CHI,3,Allen the Family,Cameron,,snake,2025-07-01T16:37:15.922072
+2017,,14,135,291,2543614,Donte Moncrief,WR,IND,9,Diggs It,Kyle,,snake,2025-07-01T16:37:15.922324
+2017,,14,136,292,100028,Los Angeles Chargers,,,12,Hooked on a Thielen,James,,snake,2025-07-01T16:37:15.922571
+2017,,14,137,293,2558138,Samaje Perine,RB,WAS,7,New Gurley,Zach,,snake,2025-07-01T16:37:15.922818
+2017,,14,138,294,2539227,Dustin Hopkins,K,WAS,5,Ultralight Kareem,Benjy,,snake,2025-07-01T16:37:15.923069
+2017,,14,139,295,2506121,Philip Rivers,QB,LAC,6,Roaring Rivers,Alexander,,snake,2025-07-01T16:37:15.923316
+2017,,14,140,296,2507232,Mason Crosby,K,GB,11,Suicide Squad,Jake,,snake,2025-07-01T16:37:15.923473
+2017,,15,141,309,2495139,Charles Clay,TE,BUF,11,Suicide Squad,Jake,,snake,2025-07-01T16:37:16.671054
+2017,,15,142,310,2504257,Sebastian Janikowski,K,LV,6,Roaring Rivers,Alexander,,snake,2025-07-01T16:37:16.671366
+2017,,15,143,311,100017,Los Angeles Rams,,,5,Ultralight Kareem,Benjy,,snake,2025-07-01T16:37:16.671760
+2017,,15,144,312,2541161,Latavius Murray,RB,MIN,7,New Gurley,Zach,,snake,2025-07-01T16:37:16.672065
+2017,,15,145,313,2503471,Adam Vinatieri,K,IND,12,Hooked on a Thielen,James,,snake,2025-07-01T16:37:16.672361
+2017,,15,146,314,2556601,Wil Lutz,K,NO,9,Diggs It,Kyle,,snake,2025-07-01T16:37:16.672659
+2017,,15,147,315,100027,Pittsburgh Steelers,,,3,Allen the Family,Cameron,,snake,2025-07-01T16:37:16.672932
+2017,,15,148,316,2553432,Kevin White,WR,CHI,1,Nuthin but a Green Thang,Matt,,snake,2025-07-01T16:37:16.673176
+2017,,15,149,317,2495448,Randall Cobb,WR,GB,8,O Beckham Where Art Thou,Nick,,snake,2025-07-01T16:37:16.673420
+2017,,15,150,318,2555415,Austin Hooper,TE,ATL,2,Don't Check My Pryors,Ryan,,snake,2025-07-01T16:37:16.673671

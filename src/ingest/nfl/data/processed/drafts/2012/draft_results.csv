@@ -1,0 +1,181 @@
+year,nomination,round,pick,overall_pick,player_id,player_name,position,nfl_team,fantasy_team_id,fantasy_team_name,owner_name,auction_cost,draft_type,scraped_at
+2012,,1,1,1,79555,Arian Foster,RB,HOU,9,Gimme the docta,Kyle,,snake,2025-07-01T16:34:15.559523
+2012,,1,2,2,941,Ray Rice,RB,BAL,11,Taco,Jake,,snake,2025-07-01T16:34:15.559726
+2012,,1,3,3,2506363,Aaron Rodgers,QB,GB,12,Swagger Badgers,Ross,,snake,2025-07-01T16:34:15.559912
+2012,,1,4,4,2504211,Tom Brady,QB,NE,4,BedonkaGronk,Craig,,snake,2025-07-01T16:34:15.560096
+2012,,1,5,5,79607,LeSean McCoy,RB,PHI,7,I Got Weeden My Pocket,Dylan,,snake,2025-07-01T16:34:15.560281
+2012,,1,6,6,284,Darren McFadden,RB,LV,2,Forte Percent Chance of Wayne,Ryan,,snake,2025-07-01T16:34:15.560464
+2012,,1,7,7,2495647,Calvin Johnson,WR,DET,8,Recepticons,Nick,,snake,2025-07-01T16:34:15.560644
+2012,,1,8,8,2504775,Drew Brees,QB,NO,10,ENDER,Andrew,,snake,2025-07-01T16:34:15.560825
+2012,,1,9,9,262,Chris Johnson,RB,TEN,1,Forgetting Brandon Marshall,Matt,,snake,2025-07-01T16:34:15.561014
+2012,,1,10,10,2495663,Marshawn Lynch,RB,SEA,5,Fifty Shades of Garay,Benjy,,snake,2025-07-01T16:34:15.561191
+2012,,1,11,11,2495455,Cam Newton,QB,CAR,3,Hardball with Ryan Mathews,Cameron,,snake,2025-07-01T16:34:15.561419
+2012,,1,12,12,925,Jamaal Charles,RB,KC,6,Dragon Army,Alexander,,snake,2025-07-01T16:34:15.561598
+2012,,2,13,25,79860,Matthew Stafford,QB,DET,6,Dragon Army,Alexander,,snake,2025-07-01T16:34:16.324965
+2012,,2,14,26,497188,Ryan Mathews,RB,LAC,3,Hardball with Ryan Mathews,Cameron,,snake,2025-07-01T16:34:16.325198
+2012,,2,15,27,2506366,Roddy White,WR,ATL,5,Fifty Shades of Garay,Benjy,,snake,2025-07-01T16:34:16.325413
+2012,,2,16,28,497236,Jimmy Graham,TE,NO,1,Forgetting Brandon Marshall,Matt,,snake,2025-07-01T16:34:16.325622
+2012,,2,17,29,234,Matt Forte,RB,CHI,10,ENDER,Andrew,,snake,2025-07-01T16:34:16.325828
+2012,,2,18,30,2495207,DeMarco Murray,RB,DAL,8,Recepticons,Nick,,snake,2025-07-01T16:34:16.326034
+2012,,2,19,31,2507164,Adrian Peterson,RB,MIN,2,Forte Percent Chance of Wayne,Ryan,,snake,2025-07-01T16:34:16.326255
+2012,,2,20,32,2506106,Larry Fitzgerald,WR,ARI,7,I Got Weeden My Pocket,Dylan,,snake,2025-07-01T16:34:16.326460
+2012,,2,21,33,497240,Rob Gronkowski,TE,NE,4,BedonkaGronk,Craig,,snake,2025-07-01T16:34:16.326678
+2012,,2,22,34,2506871,Fred Jackson,RB,BUF,12,Swagger Badgers,Ross,,snake,2025-07-01T16:34:16.326890
+2012,,2,23,35,2495831,Maurice Jones-Drew,RB,JAC,11,Taco,Jake,,snake,2025-07-01T16:34:16.327098
+2012,,2,24,36,310,Matt Ryan,QB,ATL,9,Gimme the docta,Kyle,,snake,2025-07-01T16:34:16.327321
+2012,,3,25,49,2505936,Steven Jackson,RB,STL,9,Gimme the docta,Kyle,,snake,2025-07-01T16:34:17.094500
+2012,,3,26,50,2505790,Wes Welker,WR,NE,11,Taco,Jake,,snake,2025-07-01T16:34:17.094707
+2012,,3,27,51,2495454,Julio Jones,WR,ATL,12,Swagger Badgers,Ross,,snake,2025-07-01T16:34:17.094908
+2012,,3,28,52,2533032,Trent Richardson,RB,CLE,4,BedonkaGronk,Craig,,snake,2025-07-01T16:34:17.095106
+2012,,3,29,53,2505551,Andre Johnson,WR,HOU,7,I Got Weeden My Pocket,Dylan,,snake,2025-07-01T16:34:17.095300
+2012,,3,30,54,2505354,Tony Romo,QB,DAL,2,Forte Percent Chance of Wayne,Ryan,,snake,2025-07-01T16:34:17.095494
+2012,,3,31,55,2506404,Frank Gore,RB,SF,8,Recepticons,Nick,,snake,2025-07-01T16:34:17.095697
+2012,,3,32,56,2495867,Greg Jennings,WR,GB,10,ENDER,Andrew,,snake,2025-07-01T16:34:17.095888
+2012,,3,33,57,2495450,A.J. Green,WR,CIN,1,Forgetting Brandon Marshall,Matt,,snake,2025-07-01T16:34:17.096077
+2012,,3,34,58,2506014,Michael Turner,RB,ATL,5,Fifty Shades of Garay,Benjy,,snake,2025-07-01T16:34:17.096270
+2012,,3,35,59,2495560,Ahmad Bradshaw,RB,NYG,3,Hardball with Ryan Mathews,Cameron,,snake,2025-07-01T16:34:17.096462
+2012,,3,36,60,2495893,Brandon Marshall,WR,CHI,6,Dragon Army,Alexander,,snake,2025-07-01T16:34:17.096664
+2012,,4,37,73,2506467,Darren Sproles,RB,NO,6,Dragon Army,Alexander,,snake,2025-07-01T16:34:17.877295
+2012,,4,38,74,2507855,Victor Cruz,WR,NYG,3,Hardball with Ryan Mathews,Cameron,,snake,2025-07-01T16:34:17.877526
+2012,,4,39,75,2501863,Peyton Manning,QB,DEN,5,Fifty Shades of Garay,Benjy,,snake,2025-07-01T16:34:17.877744
+2012,,4,40,76,2506874,Reggie Bush,RB,MIA,1,Forgetting Brandon Marshall,Matt,,snake,2025-07-01T16:34:17.878017
+2012,,4,41,77,2532899,Doug Martin,RB,TB,10,ENDER,Andrew,,snake,2025-07-01T16:34:17.878241
+2012,,4,42,78,2505996,Eli Manning,QB,NYG,8,Recepticons,Nick,,snake,2025-07-01T16:34:17.878453
+2012,,4,43,79,2507763,Mike Wallace,WR,PIT,2,Forte Percent Chance of Wayne,Ryan,,snake,2025-07-01T16:34:17.878665
+2012,,4,44,80,79563,Shonn Greene,RB,NYJ,7,I Got Weeden My Pocket,Dylan,,snake,2025-07-01T16:34:17.878883
+2012,,4,45,81,1032,Jordy Nelson,WR,GB,4,BedonkaGronk,Craig,,snake,2025-07-01T16:34:17.879101
+2012,,4,46,82,497284,Eric Decker,WR,DEN,12,Swagger Badgers,Ross,,snake,2025-07-01T16:34:17.879322
+2012,,4,47,83,2504531,Michael Vick,QB,PHI,11,Taco,Jake,,snake,2025-07-01T16:34:17.879510
+2012,,4,48,84,80672,Hakeem Nicks,WR,NYG,9,Gimme the docta,Kyle,,snake,2025-07-01T16:34:17.879711
+2012,,5,49,97,497278,Dez Bryant,WR,DAL,9,Gimme the docta,Kyle,,snake,2025-07-01T16:34:18.653113
+2012,,5,50,98,497244,Aaron Hernandez,TE,NE,11,Taco,Jake,,snake,2025-07-01T16:34:18.653356
+2012,,5,51,99,2504595,Steve Smith,WR,CAR,12,Swagger Badgers,Ross,,snake,2025-07-01T16:34:18.653574
+2012,,5,52,100,1581,DeSean Jackson,WR,PHI,4,BedonkaGronk,Craig,,snake,2025-07-01T16:34:18.653867
+2012,,5,53,101,2506121,Philip Rivers,QB,LAC,7,I Got Weeden My Pocket,Dylan,,snake,2025-07-01T16:34:18.654147
+2012,,5,54,102,80425,Percy Harvin,WR,MIN,2,Forte Percent Chance of Wayne,Ryan,,snake,2025-07-01T16:34:18.654385
+2012,,5,55,103,2505299,Antonio Gates,TE,LAC,8,Recepticons,Nick,,snake,2025-07-01T16:34:18.654622
+2012,,5,56,104,2495821,Marques Colston,WR,NO,10,ENDER,Andrew,,snake,2025-07-01T16:34:18.654855
+2012,,5,57,105,2508061,Antonio Brown,WR,PIT,1,Forgetting Brandon Marshall,Matt,,snake,2025-07-01T16:34:18.655090
+2012,,5,58,106,2506400,Vincent Jackson,WR,TB,5,Fifty Shades of Garay,Benjy,,snake,2025-07-01T16:34:18.655325
+2012,,5,59,107,497328,Demaryius Thomas,WR,DEN,3,Hardball with Ryan Mathews,Cameron,,snake,2025-07-01T16:34:18.655552
+2012,,5,60,108,2505674,Willis McGahee,RB,DEN,6,Dragon Army,Alexander,,snake,2025-07-01T16:34:18.655798
+2012,,6,61,121,2495558,Dwayne Bowe,WR,KC,6,Dragon Army,Alexander,,snake,2025-07-01T16:34:19.433753
+2012,,6,62,122,100029,San Francisco 49ers,,,3,Hardball with Ryan Mathews,Cameron,,snake,2025-07-01T16:34:19.433985
+2012,,6,63,123,2495826,Vernon Davis,TE,SF,5,Fifty Shades of Garay,Benjy,,snake,2025-07-01T16:34:19.434212
+2012,,6,64,124,929,BenJarvus Green-Ellis,RB,CIN,1,Forgetting Brandon Marshall,Matt,,snake,2025-07-01T16:34:19.434424
+2012,,6,65,125,1072,Jermichael Finley,TE,GB,10,ENDER,Andrew,,snake,2025-07-01T16:34:19.434636
+2012,,6,66,126,2505600,Brandon Lloyd,WR,NE,8,Recepticons,Nick,,snake,2025-07-01T16:34:19.434852
+2012,,6,67,127,949,Jonathan Stewart,RB,CAR,2,Forte Percent Chance of Wayne,Ryan,,snake,2025-07-01T16:34:19.435059
+2012,,6,68,128,2495801,Miles Austin,WR,DAL,7,I Got Weeden My Pocket,Dylan,,snake,2025-07-01T16:34:19.435250
+2012,,6,69,129,2495470,Stevan Ridley,RB,NE,4,BedonkaGronk,Craig,,snake,2025-07-01T16:34:19.435428
+2012,,6,70,130,497208,Ben Tate,RB,HOU,12,Swagger Badgers,Ross,,snake,2025-07-01T16:34:19.435608
+2012,,6,71,131,80429,Jeremy Maclin,WR,PHI,11,Taco,Jake,,snake,2025-07-01T16:34:19.435790
+2012,,6,72,132,2495253,Titus Young,WR,DET,9,Gimme the docta,Kyle,,snake,2025-07-01T16:34:19.435977
+2012,,7,73,145,2506343,Cedric Benson,RB,GB,9,Gimme the docta,Kyle,,snake,2025-07-01T16:34:20.211758
+2012,,7,74,146,79661,Beanie Wells,RB,ARI,11,Taco,Jake,,snake,2025-07-01T16:34:20.212020
+2012,,7,75,147,2505629,Jason Witten,TE,DAL,12,Swagger Badgers,Ross,,snake,2025-07-01T16:34:20.212264
+2012,,7,76,148,2495824,Jay Cutler,QB,CHI,4,BedonkaGronk,Craig,,snake,2025-07-01T16:34:20.212487
+2012,,7,77,149,2500835,Tony Gonzalez,TE,ATL,7,I Got Weeden My Pocket,Dylan,,snake,2025-07-01T16:34:20.212713
+2012,,7,78,150,2505982,Matt Schaub,QB,HOU,2,Forte Percent Chance of Wayne,Ryan,,snake,2025-07-01T16:34:20.212954
+2012,,7,79,151,2507476,Kevin Smith,RB,DET,8,Recepticons,Nick,,snake,2025-07-01T16:34:20.213187
+2012,,7,80,152,2495676,Robert Meachem,WR,LAC,10,ENDER,Andrew,,snake,2025-07-01T16:34:20.213422
+2012,,7,81,153,71217,Kenny Britt,WR,TEN,1,Forgetting Brandon Marshall,Matt,,snake,2025-07-01T16:34:20.213647
+2012,,7,82,154,497204,C.J. Spiller,RB,BUF,5,Fifty Shades of Garay,Benjy,,snake,2025-07-01T16:34:20.213853
+2012,,7,83,155,216,Fred Davis,TE,WAS,3,Hardball with Ryan Mathews,Cameron,,snake,2025-07-01T16:34:20.214060
+2012,,7,84,156,2495459,Torrey Smith,WR,BAL,6,Dragon Army,Alexander,,snake,2025-07-01T16:34:20.214274
+2012,,8,85,169,100002,Baltimore Ravens,,,6,Dragon Army,Alexander,,snake,2025-07-01T16:34:21.041055
+2012,,8,86,170,2504257,Sebastian Janikowski,K,LV,3,Hardball with Ryan Mathews,Cameron,,snake,2025-07-01T16:34:21.041293
+2012,,8,87,171,2507192,Michael Bush,RB,CHI,5,Fifty Shades of Garay,Benjy,,snake,2025-07-01T16:34:21.041512
+2012,,8,88,172,2507779,Donald Brown,RB,IND,1,Forgetting Brandon Marshall,Matt,,snake,2025-07-01T16:34:21.041726
+2012,,8,89,173,2507591,Isaac Redman,RB,PIT,10,ENDER,Andrew,,snake,2025-07-01T16:34:21.041938
+2012,,8,90,174,768,Steve Johnson,WR,BUF,8,Recepticons,Nick,,snake,2025-07-01T16:34:21.042147
+2012,,8,91,175,100013,Houston Texans,,,2,Forte Percent Chance of Wayne,Ryan,,snake,2025-07-01T16:34:21.042354
+2012,,8,92,176,2495466,Mark Ingram,RB,NO,7,I Got Weeden My Pocket,Dylan,,snake,2025-07-01T16:34:21.042567
+2012,,8,93,177,2346,Pierre Garcon,WR,WAS,4,BedonkaGronk,Craig,,snake,2025-07-01T16:34:21.042785
+2012,,8,94,178,100005,Chicago Bears,,,12,Swagger Badgers,Ross,,snake,2025-07-01T16:34:21.042998
+2012,,8,95,179,497176,Toby Gerhart,RB,MIN,11,Taco,Jake,,snake,2025-07-01T16:34:21.043210
+2012,,8,96,180,71431,Brandon Pettigrew,TE,DET,9,Gimme the docta,Kyle,,snake,2025-07-01T16:34:21.043426
+2012,,9,97,193,100025,Philadelphia Eagles,,,9,Gimme the docta,Kyle,,snake,2025-07-01T16:34:21.808829
+2012,,9,98,194,100030,Seattle Seahawks,,,11,Taco,Jake,,snake,2025-07-01T16:34:21.809048
+2012,,9,99,195,2505937,Nate Kaeding,K,MIA,12,Swagger Badgers,Ross,,snake,2025-07-01T16:34:21.809258
+2012,,9,100,196,2495161,Roy Helu,RB,WAS,4,BedonkaGronk,Craig,,snake,2025-07-01T16:34:21.809460
+2012,,9,101,197,100011,Green Bay Packers,,,7,I Got Weeden My Pocket,Dylan,,snake,2025-07-01T16:34:21.809668
+2012,,9,102,198,2495315,Denarius Moore,WR,LV,2,Forte Percent Chance of Wayne,Ryan,,snake,2025-07-01T16:34:21.809872
+2012,,9,103,199,100027,Pittsburgh Steelers,,,8,Recepticons,Nick,,snake,2025-07-01T16:34:21.810078
+2012,,9,104,200,100001,Atlanta Falcons,,,10,ENDER,Andrew,,snake,2025-07-01T16:34:21.810285
+2012,,9,105,201,100023,New York Giants,,,1,Forgetting Brandon Marshall,Matt,,snake,2025-07-01T16:34:21.810485
+2012,,9,106,202,2506287,Lance Moore,WR,NO,5,Fifty Shades of Garay,Benjy,,snake,2025-07-01T16:34:21.810698
+2012,,9,107,203,2532841,Michael Floyd,WR,ARI,3,Hardball with Ryan Mathews,Cameron,,snake,2025-07-01T16:34:21.810892
+2012,,9,108,204,2506341,Ronnie Brown,RB,LAC,6,Dragon Army,Alexander,,snake,2025-07-01T16:34:21.811084
+2012,,10,109,217,71345,Rashad Jennings,RB,JAC,6,Dragon Army,Alexander,,snake,2025-07-01T16:34:22.580786
+2012,,10,110,218,2506885,Santonio Holmes,WR,NYJ,3,Hardball with Ryan Mathews,Cameron,,snake,2025-07-01T16:34:22.581011
+2012,,10,111,219,100024,New York Jets,,,5,Fifty Shades of Garay,Benjy,,snake,2025-07-01T16:34:22.581208
+2012,,10,112,220,2504747,Reggie Wayne,WR,IND,1,Forgetting Brandon Marshall,Matt,,snake,2025-07-01T16:34:22.581392
+2012,,10,113,221,2505587,Anquan Boldin,WR,BAL,10,ENDER,Andrew,,snake,2025-07-01T16:34:22.581582
+2012,,10,114,222,71269,Michael Crabtree,WR,SF,8,Recepticons,Nick,,snake,2025-07-01T16:34:22.581769
+2012,,10,115,223,324,Jacob Tamme,TE,DEN,2,Forte Percent Chance of Wayne,Ryan,,snake,2025-07-01T16:34:22.581959
+2012,,10,116,224,80427,Darrius Heyward-Bey,WR,LV,7,I Got Weeden My Pocket,Dylan,,snake,2025-07-01T16:34:22.582148
+2012,,10,117,225,2495979,DeAngelo Williams,RB,CAR,4,BedonkaGronk,Craig,,snake,2025-07-01T16:34:22.582341
+2012,,10,118,226,2507884,David Nelson,WR,BUF,12,Swagger Badgers,Ross,,snake,2025-07-01T16:34:22.582533
+2012,,10,119,227,2495194,Jake Locker,QB,TEN,11,Taco,Jake,,snake,2025-07-01T16:34:22.582726
+2012,,10,120,228,2533033,Robert Griffin III,QB,WAS,9,Gimme the docta,Kyle,,snake,2025-07-01T16:34:22.582919
+2012,,11,121,241,2505453,Kevin Walter,WR,HOU,9,Gimme the docta,Kyle,,snake,2025-07-01T16:34:23.451081
+2012,,11,122,242,2495445,Jon Baldwin,WR,KC,11,Taco,Jake,,snake,2025-07-01T16:34:23.451323
+2012,,11,123,243,2533031,Andrew Luck,QB,IND,12,Swagger Badgers,Ross,,snake,2025-07-01T16:34:23.451540
+2012,,11,124,244,2506313,Nate Washington,WR,TEN,4,BedonkaGronk,Craig,,snake,2025-07-01T16:34:23.451727
+2012,,11,125,245,2495192,Greg Little,WR,CLE,7,I Got Weeden My Pocket,Dylan,,snake,2025-07-01T16:34:23.451912
+2012,,11,126,246,2499370,David Akers,K,SF,2,Forte Percent Chance of Wayne,Ryan,,snake,2025-07-01T16:34:23.452102
+2012,,11,127,247,2495474,Ryan Williams,RB,ARI,8,Recepticons,Nick,,snake,2025-07-01T16:34:23.452283
+2012,,11,128,248,2495473,Shane Vereen,RB,NE,10,ENDER,Andrew,,snake,2025-07-01T16:34:23.452464
+2012,,11,129,249,2506109,Ben Roethlisberger,QB,PIT,1,Forgetting Brandon Marshall,Matt,,snake,2025-07-01T16:34:23.452659
+2012,,11,130,250,2495718,Sidney Rice,WR,SEA,5,Fifty Shades of Garay,Benjy,,snake,2025-07-01T16:34:23.452845
+2012,,11,131,251,2533035,David Wilson,RB,NYG,3,Hardball with Ryan Mathews,Cameron,,snake,2025-07-01T16:34:23.453030
+2012,,11,132,252,2532838,Coby Fleener,TE,IND,6,Dragon Army,Alexander,,snake,2025-07-01T16:34:23.453227
+2012,,12,133,265,2533038,Justin Blackmon,WR,JAC,6,Dragon Army,Alexander,,snake,2025-07-01T16:34:24.327259
+2012,,12,134,266,2506340,Alex Smith,QB,SF,3,Hardball with Ryan Mathews,Cameron,,snake,2025-07-01T16:34:24.327463
+2012,,12,135,267,931,Felix Jones,RB,DAL,5,Fifty Shades of Garay,Benjy,,snake,2025-07-01T16:34:24.327658
+2012,,12,136,268,2495471,Jacquizz Rodgers,RB,ATL,1,Forgetting Brandon Marshall,Matt,,snake,2025-07-01T16:34:24.327853
+2012,,12,137,269,79557,Josh Freeman,QB,TB,10,ENDER,Andrew,,snake,2025-07-01T16:34:24.328045
+2012,,12,138,270,2495143,Andy Dalton,QB,CIN,8,Recepticons,Nick,,snake,2025-07-01T16:34:24.328234
+2012,,12,139,271,100010,Detroit Lions,,,2,Forte Percent Chance of Wayne,Ryan,,snake,2025-07-01T16:34:24.328435
+2012,,12,140,272,1980,Peyton Hillis,RB,KC,7,I Got Weeden My Pocket,Dylan,,snake,2025-07-01T16:34:24.328623
+2012,,12,141,273,2506264,Robbie Gould,K,CHI,4,BedonkaGronk,Craig,,snake,2025-07-01T16:34:24.328815
+2012,,12,142,274,2507141,Pierre Thomas,RB,NO,12,Swagger Badgers,Ross,,snake,2025-07-01T16:34:24.329006
+2012,,12,143,275,2506922,Stephen Gostkowski,K,NE,11,Taco,Jake,,snake,2025-07-01T16:34:24.329193
+2012,,12,144,276,2532926,Isaiah Pead,RB,STL,9,Gimme the docta,Kyle,,snake,2025-07-01T16:34:24.329406
+2012,,13,145,289,497238,Jermaine Gresham,TE,CIN,9,Gimme the docta,Kyle,,snake,2025-07-01T16:34:25.110189
+2012,,13,146,290,2495467,Taiwan Jones,RB,LV,11,Taco,Jake,,snake,2025-07-01T16:34:25.110428
+2012,,13,147,291,2495468,Mikel Leshoure,RB,DET,12,Swagger Badgers,Ross,,snake,2025-07-01T16:34:25.110644
+2012,,13,148,292,100009,Denver Broncos,,,4,BedonkaGronk,Craig,,snake,2025-07-01T16:34:25.110854
+2012,,13,149,293,2507232,Mason Crosby,K,GB,7,I Got Weeden My Pocket,Dylan,,snake,2025-07-01T16:34:25.111063
+2012,,13,150,294,71265,Jared Cook,TE,TEN,2,Forte Percent Chance of Wayne,Ryan,,snake,2025-07-01T16:34:25.111272
+2012,,13,151,295,2495825,Owen Daniels,TE,HOU,8,Recepticons,Nick,,snake,2025-07-01T16:34:25.111482
+2012,,13,152,296,4381,Garrett Hartley,K,NO,10,ENDER,Andrew,,snake,2025-07-01T16:34:25.111691
+2012,,13,153,297,2502220,Randy Moss,WR,SF,1,Forgetting Brandon Marshall,Matt,,snake,2025-07-01T16:34:25.111901
+2012,,13,154,298,1030,Mario Manningham,WR,SF,5,Fifty Shades of Garay,Benjy,,snake,2025-07-01T16:34:25.112113
+2012,,13,155,299,81869,Bernard Scott,RB,CIN,3,Hardball with Ryan Mathews,Cameron,,snake,2025-07-01T16:34:25.112332
+2012,,13,156,300,2532975,Russell Wilson,QB,SEA,6,Dragon Army,Alexander,,snake,2025-07-01T16:34:25.112564
+2012,,14,157,313,2649,Danny Amendola,WR,STL,6,Dragon Army,Alexander,,snake,2025-07-01T16:34:25.926707
+2012,,14,158,314,2495158,Leonard Hankerson,WR,WAS,3,Hardball with Ryan Mathews,Cameron,,snake,2025-07-01T16:34:25.926882
+2012,,14,159,315,382,Joe Flacco,QB,BAL,5,Fifty Shades of Garay,Benjy,,snake,2025-07-01T16:34:25.927038
+2012,,14,160,316,2506677,Matt Prater,K,DEN,1,Forgetting Brandon Marshall,Matt,,snake,2025-07-01T16:34:25.927191
+2012,,14,161,317,2508048,Mike Williams,WR,TB,10,ENDER,Andrew,,snake,2025-07-01T16:34:25.927346
+2012,,14,162,318,2495259,Dan Bailey,K,DAL,8,Recepticons,Nick,,snake,2025-07-01T16:34:25.927497
+2012,,14,163,319,2495162,Alex Henery,K,PHI,2,Forte Percent Chance of Wayne,Ryan,,snake,2025-07-01T16:34:25.927647
+2012,,14,164,320,2505245,Carson Palmer,QB,LV,7,I Got Weeden My Pocket,Dylan,,snake,2025-07-01T16:34:25.927800
+2012,,14,165,321,2533533,Rueben Randle,WR,NYG,4,BedonkaGronk,Craig,,snake,2025-07-01T16:34:25.927965
+2012,,14,166,322,2505511,Nate Burleson,WR,DET,12,Swagger Badgers,Ross,,snake,2025-07-01T16:34:25.928132
+2012,,14,167,323,2532977,Kendall Wright,WR,TEN,11,Taco,Jake,,snake,2025-07-01T16:34:25.928294
+2012,,14,168,324,2503158,Brandon Stokley,WR,DEN,9,Gimme the docta,Kyle,,snake,2025-07-01T16:34:25.928464
+2012,,15,169,337,100003,Buffalo Bills,,,9,Gimme the docta,Kyle,,snake,2025-07-01T16:34:26.680905
+2012,,15,170,338,2507218,Brent Celek,TE,PHI,11,Taco,Jake,,snake,2025-07-01T16:34:26.681156
+2012,,15,171,339,1062,Martellus Bennett,TE,NYG,12,Swagger Badgers,Ross,,snake,2025-07-01T16:34:26.681381
+2012,,15,172,340,497149,LeGarrette Blount,RB,TB,4,BedonkaGronk,Craig,,snake,2025-07-01T16:34:26.681603
+2012,,15,173,341,1074,Dustin Keller,TE,NYJ,7,I Got Weeden My Pocket,Dylan,,snake,2025-07-01T16:34:26.681820
+2012,,15,174,342,2506149,Shaun Suisham,K,PIT,2,Forte Percent Chance of Wayne,Ryan,,snake,2025-07-01T16:34:26.682042
+2012,,15,175,343,318,Jerome Simpson,WR,MIN,8,Recepticons,Nick,,snake,2025-07-01T16:34:26.682254
+2012,,15,176,344,497224,Ed Dickson,TE,BAL,10,ENDER,Andrew,,snake,2025-07-01T16:34:26.682470
+2012,,15,177,345,2506581,Ryan Fitzpatrick,QB,BUF,1,Forgetting Brandon Marshall,Matt,,snake,2025-07-01T16:34:26.682685
+2012,,15,178,346,2504934,Rob Bironas,K,TEN,5,Fifty Shades of Garay,Benjy,,snake,2025-07-01T16:34:26.682902
+2012,,15,179,347,80670,Louis Murphy,WR,CAR,3,Hardball with Ryan Mathews,Cameron,,snake,2025-07-01T16:34:26.683123
+2012,,15,180,348,2504797,Matt Bryant,K,ATL,6,Dragon Army,Alexander,,snake,2025-07-01T16:34:26.683342

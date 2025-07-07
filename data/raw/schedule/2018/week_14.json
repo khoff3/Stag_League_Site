@@ -1,0 +1,68 @@
+{
+  "games": [
+    {
+      "away_points": 111.38,
+      "away_rank": 11,
+      "away_record": "4-9-0",
+      "away_team": "Pop Lockett Drop It",
+      "away_team_id": "8",
+      "game_id": "20181428",
+      "home_points": 104.88,
+      "home_rank": 10,
+      "home_record": "4-9-0",
+      "home_team": "ZekeZone",
+      "home_team_id": "2",
+      "scraped_at": "2025-06-30T22:48:10.502Z",
+      "season": 2018,
+      "week": 14
+    },
+    {
+      "away_points": 42.02,
+      "away_rank": 12,
+      "away_record": "3-10-0",
+      "away_team": "No League for Old Men",
+      "away_team_id": "12",
+      "game_id": "201814712",
+      "home_points": 113.48,
+      "home_rank": 9,
+      "home_record": "5-8-0",
+      "home_team": "The Great Gronksby",
+      "home_team_id": "7",
+      "scraped_at": "2025-06-30T22:48:10.502Z",
+      "season": 2018,
+      "week": 14
+    },
+    {
+      "away_points": 67.54,
+      "away_rank": 5,
+      "away_record": "7-6-0",
+      "away_team": "BreesCassidyandtheStefonDiggs",
+      "away_team_id": "11",
+      "game_id": "201814111",
+      "home_points": 80.74,
+      "home_rank": 4,
+      "home_record": "7-6-0",
+      "home_team": "Johnson and Johnson",
+      "home_team_id": "1",
+      "scraped_at": "2025-06-30T22:48:10.502Z",
+      "season": 2018,
+      "week": 14
+    },
+    {
+      "away_points": 86.22,
+      "away_rank": 6,
+      "away_record": "6-7-0",
+      "away_team": "Capn' Geno's",
+      "away_team_id": "3",
+      "game_id": "20181443",
+      "home_points": 72.28,
+      "home_rank": 3,
+      "home_record": "8-5-0",
+      "home_team": "Watson on Sunshine",
+      "home_team_id": "4",
+      "scraped_at": "2025-06-30T22:48:10.502Z",
+      "season": 2018,
+      "week": 14
+    }
+  ]
+}

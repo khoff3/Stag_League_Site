@@ -1,0 +1,385 @@
+year,nomination,player_id,player_name,position,nfl_team,fantasy_team_id,fantasy_team_name,owner_name,auction_cost,draft_type,scraped_at
+2022,1,2560968,Saquon Barkley,RB,NYG,1,The Wrath of Quon,Matt,31.0,auction,2025-07-01T16:39:21.215878
+2022,2,2560955,Josh Allen,QB,BUF,2,Chubbinator 2 Judgment Day,Ryan,34.0,auction,2025-07-01T16:39:21.216152
+2022,3,2557991,Dalvin Cook,RB,MIN,3,Lazy Lazard Saloon,Cameron,46.0,auction,2025-07-01T16:39:21.216400
+2022,4,2559169,Austin Ekeler,RB,LAC,4,Super Lamario Sunshine,Craig,58.0,auction,2025-07-01T16:39:21.216581
+2022,5,2566448,Najee Harris,RB,PIT,5,The Najee Trois,Benjy,42.0,auction,2025-07-01T16:39:21.216803
+2022,6,2543495,Davante Adams,WR,LV,6,Koo D'etat,Alexander,32.0,auction,2025-07-01T16:39:21.216986
+2022,7,2565941,Ja'Marr Chase,WR,CIN,7,Ja'marroquai,Zach,41.0,auction,2025-07-01T16:39:21.217157
+2022,8,2564148,Jonathan Taylor,RB,IND,8,Bot boy,Nick,77.0,auction,2025-07-01T16:39:21.217319
+2022,9,2557997,Christian McCaffrey,RB,SF,9,Magnum TI,Kyle,58.0,auction,2025-07-01T16:39:21.217482
+2022,10,2558019,Alvin Kamara,RB,NO,10,Tom and Terry,Cole,37.0,auction,2025-07-01T16:39:21.217646
+2022,11,2556075,Derrick Henry,RB,TEN,11,JJ the Jet Plane,Jake,66.0,auction,2025-07-01T16:39:21.217826
+2022,12,2557976,Joe Mixon,RB,CIN,12,Mad Mixon,James,47.0,auction,2025-07-01T16:39:21.217996
+2022,13,2565276,Antonio Gibson,RB,WAS,1,The Wrath of Quon,Matt,28.0,auction,2025-07-01T16:39:21.218157
+2022,14,2562502,David Montgomery,RB,DET,2,Chubbinator 2 Judgment Day,Ryan,31.0,auction,2025-07-01T16:39:21.218319
+2022,15,2556214,Tyreek Hill,WR,MIA,3,Lazy Lazard Saloon,Cameron,25.0,auction,2025-07-01T16:39:21.218477
+2022,16,2557973,Leonard Fournette,RB,TB,4,Super Lamario Sunshine,Craig,36.0,auction,2025-07-01T16:39:21.218638
+2022,17,2557898,Cooper Kupp,WR,LA,5,The Najee Trois,Benjy,51.0,auction,2025-07-01T16:39:21.218788
+2022,18,2555224,Ezekiel Elliott,RB,DAL,6,Koo D'etat,Alexander,28.0,auction,2025-07-01T16:39:21.218926
+2022,19,2563965,D'Andre Swift,RB,PHI,7,Ja'marroquai,Zach,31.0,auction,2025-07-01T16:39:21.219203
+2022,20,2561021,Nick Chubb,RB,CLE,8,Bot boy,Nick,36.0,auction,2025-07-01T16:39:21.219403
+2022,21,2563731,Tee Higgins,WR,CIN,9,Magnum TI,Kyle,24.0,auction,2025-07-01T16:39:21.219574
+2022,22,2563548,J.K. Dobbins,RB,BAL,10,Tom and Terry,Cole,24.0,auction,2025-07-01T16:39:21.219735
+2022,23,2564556,Justin Jefferson,WR,MIN,11,JJ the Jet Plane,Jake,41.0,auction,2025-07-01T16:39:21.219890
+2022,24,2552608,Stefon Diggs,WR,BUF,12,Mad Mixon,James,29.0,auction,2025-07-01T16:39:21.220100
+2022,25,2563848,CeeDee Lamb,WR,DAL,1,The Wrath of Quon,Matt,27.0,auction,2025-07-01T16:39:21.220335
+2022,26,2566049,Javonte Williams,RB,DEN,2,Chubbinator 2 Judgment Day,Ryan,33.0,auction,2025-07-01T16:39:21.220516
+2022,27,2566157,Travis Etienne,RB,JAX,3,Lazy Lazard Saloon,Cameron,21.0,auction,2025-07-01T16:39:21.220688
+2022,28,2558116,Aaron Jones,RB,GB,4,Super Lamario Sunshine,Craig,36.0,auction,2025-07-01T16:39:21.220849
+2022,29,2563602,Gabe Davis,WR,BUF,5,The Najee Trois,Benjy,16.0,auction,2025-07-01T16:39:21.220987
+2022,30,2543468,Mike Evans,WR,TB,6,Koo D'etat,Alexander,27.0,auction,2025-07-01T16:39:21.221126
+2022,31,2564832,Jalen Hurts,QB,PHI,7,Ja'marroquai,Zach,19.0,auction,2025-07-01T16:39:21.221266
+2022,32,2557978,James Conner,RB,ARI,8,Bot boy,Nick,36.0,auction,2025-07-01T16:39:21.221415
+2022,33,2555260,Dak Prescott,QB,DAL,9,Magnum TI,Kyle,16.0,auction,2025-07-01T16:39:21.221550
+2022,34,2558846,Mike Williams,WR,LAC,10,Tom and Terry,Cole,20.0,auction,2025-07-01T16:39:21.221687
+2022,35,2562382,Kyler Murray,QB,ARI,11,JJ the Jet Plane,Jake,19.0,auction,2025-07-01T16:39:21.221826
+2022,36,2562674,Diontae Johnson,WR,PIT,12,Mad Mixon,James,15.0,auction,2025-07-01T16:39:21.221968
+2022,37,2558125,Patrick Mahomes,QB,KC,1,The Wrath of Quon,Matt,26.0,auction,2025-07-01T16:39:21.222105
+2022,38,2562721,Deebo Samuel,WR,SF,2,Chubbinator 2 Judgment Day,Ryan,40.0,auction,2025-07-01T16:39:21.222242
+2022,39,2568030,Breece Hall,RB,NYJ,3,Lazy Lazard Saloon,Cameron,23.0,auction,2025-07-01T16:39:21.222379
+2022,40,2560757,Lamar Jackson,QB,BAL,4,Super Lamario Sunshine,Craig,20.0,auction,2025-07-01T16:39:21.222516
+2022,41,2566073,Amon-Ra St. Brown,WR,DET,5,The Najee Trois,Benjy,12.0,auction,2025-07-01T16:39:21.222653
+2022,42,2564319,Cam Akers,RB,LA,6,Koo D'etat,Alexander,26.0,auction,2025-07-01T16:39:21.222792
+2022,43,2564271,Clyde Edwards-Helaire,RB,KC,7,Ja'marroquai,Zach,12.0,auction,2025-07-01T16:39:21.222929
+2022,44,2563722,Joe Burrow,QB,CIN,8,Bot boy,Nick,12.0,auction,2025-07-01T16:39:21.223061
+2022,45,2557917,Kareem Hunt,RB,CLE,9,Magnum TI,Kyle,10.0,auction,2025-07-01T16:39:21.223197
+2022,46,2562685,DK Metcalf,WR,SEA,10,Tom and Terry,Cole,17.0,auction,2025-07-01T16:39:21.223336
+2022,47,2540145,Cordarrelle Patterson,RB,ATL,11,JJ the Jet Plane,Jake,16.0,auction,2025-07-01T16:39:21.223473
+2022,48,2532975,Russell Wilson,QB,DEN,12,Mad Mixon,James,8.0,auction,2025-07-01T16:39:21.223612
+2022,49,2560813,D.J. Moore,WR,CHI,1,The Wrath of Quon,Matt,18.0,auction,2025-07-01T16:39:21.223746
+2022,50,2566538,Elijah Mitchell,RB,SF,2,Chubbinator 2 Judgment Day,Ryan,25.0,auction,2025-07-01T16:39:21.223882
+2022,51,310,Matt Ryan,QB,IND,3,Lazy Lazard Saloon,Cameron,,auction,2025-07-01T16:39:21.224014
+2022,52,2540154,Keenan Allen,WR,LAC,4,Super Lamario Sunshine,Craig,17.0,auction,2025-07-01T16:39:21.224148
+2022,53,2543509,Allen Robinson,WR,PIT,5,The Najee Trois,Benjy,8.0,auction,2025-07-01T16:39:21.224285
+2022,54,2562377,Josh Jacobs,RB,LV,6,Koo D'etat,Alexander,24.0,auction,2025-07-01T16:39:21.224426
+2022,55,2564136,Michael Pittman,WR,IND,7,Ja'marroquai,Zach,19.0,auction,2025-07-01T16:39:21.224577
+2022,56,2562378,T.J. Hockenson,TE,MIN,8,Bot boy,Nick,7.0,auction,2025-07-01T16:39:21.224759
+2022,57,2558149,JuJu Smith-Schuster,WR,NE,9,Magnum TI,Kyle,8.0,auction,2025-07-01T16:39:21.224907
+2022,58,2540258,Travis Kelce,TE,KC,10,Tom and Terry,Cole,39.0,auction,2025-07-01T16:39:21.225049
+2022,59,2562379,Marquise Brown,WR,ARI,11,JJ the Jet Plane,Jake,12.0,auction,2025-07-01T16:39:21.225197
+2022,60,2560711,Chase Edmonds,RB,TB,12,Mad Mixon,James,9.0,auction,2025-07-01T16:39:21.225361
+2022,61,2560888,Courtland Sutton,WR,DEN,1,The Wrath of Quon,Matt,14.0,auction,2025-07-01T16:39:21.225541
+2022,62,2560835,Rashaad Penny,RB,PHI,2,Chubbinator 2 Judgment Day,Ryan,18.0,auction,2025-07-01T16:39:21.225706
+2022,63,2556370,Michael Thomas,WR,NO,3,Lazy Lazard Saloon,Cameron,,auction,2025-07-01T16:39:21.225854
+2022,64,2558105,Chris Godwin,WR,TB,4,Super Lamario Sunshine,Craig,10.0,auction,2025-07-01T16:39:21.225989
+2022,65,2566382,Michael Carter,RB,NYJ,5,The Najee Trois,Benjy,6.0,auction,2025-07-01T16:39:21.226139
+2022,66,2562238,A.J. Brown,WR,PHI,6,Koo D'etat,Alexander,22.0,auction,2025-07-01T16:39:21.226313
+2022,67,2566292,Jaylen Waddle,WR,MIA,7,Ja'marroquai,Zach,13.0,auction,2025-07-01T16:39:21.226477
+2022,68,2543488,Jarvis Landry,WR,NO,8,Bot boy,Nick,,auction,2025-07-01T16:39:21.226634
+2022,69,2567250,Drake London,WR,ATL,9,Magnum TI,Kyle,6.0,auction,2025-07-01T16:39:21.226795
+2022,70,2504211,Tom Brady,QB,TB,10,Tom and Terry,Cole,16.0,auction,2025-07-01T16:39:21.226952
+2022,71,2565093,Brandon Aiyuk,WR,SF,11,JJ the Jet Plane,Jake,4.0,auction,2025-07-01T16:39:21.227113
+2022,72,2563707,Darnell Mooney,WR,CHI,12,Mad Mixon,James,11.0,auction,2025-07-01T16:39:21.227255
+2022,73,2560995,Dallas Goedert,TE,PHI,1,The Wrath of Quon,Matt,11.0,auction,2025-07-01T16:39:21.227394
+2022,74,2543498,Brandin Cooks,WR,DAL,2,Chubbinator 2 Judgment Day,Ryan,17.0,auction,2025-07-01T16:39:21.227541
+2022,75,2560787,Allen Lazard,WR,NYJ,3,Lazy Lazard Saloon,Cameron,,auction,2025-07-01T16:39:21.227705
+2022,76,2540165,DeAndre Hopkins,WR,ARI,4,Super Lamario Sunshine,Craig,2.0,auction,2025-07-01T16:39:21.227869
+2022,77,2553728,Raheem Mostert,RB,MIA,5,The Najee Trois,Benjy,5.0,auction,2025-07-01T16:39:21.228023
+2022,78,2565045,Justin Herbert,QB,LAC,6,Koo D'etat,Alexander,21.0,auction,2025-07-01T16:39:21.228195
+2022,79,2555341,Hunter Henry,TE,NE,7,Ja'marroquai,Zach,6.0,auction,2025-07-01T16:39:21.228362
+2022,80,2552409,DeVante Parker,WR,NE,8,Bot boy,Nick,2.0,auction,2025-07-01T16:39:21.228518
+2022,81,2560957,Mark Andrews,TE,BAL,9,Magnum TI,Kyle,37.0,auction,2025-07-01T16:39:21.228681
+2022,82,2563896,Jerry Jeudy,WR,DEN,10,Tom and Terry,Cole,14.0,auction,2025-07-01T16:39:21.228850
+2022,83,2557986,David Njoku,TE,CLE,11,JJ the Jet Plane,Jake,,auction,2025-07-01T16:39:21.229019
+2022,84,2562681,Dawson Knox,TE,BUF,12,Mad Mixon,James,6.0,auction,2025-07-01T16:39:21.229234
+2022,85,2541785,Adam Thielen,WR,CAR,1,The Wrath of Quon,Matt,10.0,auction,2025-07-01T16:39:21.229395
+2022,86,2552408,Darren Waller,TE,NYG,2,Chubbinator 2 Judgment Day,Ryan,16.0,auction,2025-07-01T16:39:21.229557
+2022,87,2558245,Harrison Butker,K,KC,3,Lazy Lazard Saloon,Cameron,,auction,2025-07-01T16:39:21.229713
+2022,88,2560866,Dalton Schultz,TE,HOU,4,Super Lamario Sunshine,Craig,14.0,auction,2025-07-01T16:39:21.229876
+2022,89,2566163,Trevor Lawrence,QB,JAX,5,The Najee Trois,Benjy,,auction,2025-07-01T16:39:21.230077
+2022,90,2563704,Cole Kmet,TE,CHI,6,Koo D'etat,Alexander,,auction,2025-07-01T16:39:21.230310
+2022,91,2562722,Miles Sanders,RB,CAR,7,Ja'marroquai,Zach,21.0,auction,2025-07-01T16:39:21.230500
+2022,92,2561018,DJ Chark,WR,CAR,8,Bot boy,Nick,,auction,2025-07-01T16:39:21.230674
+2022,93,2565830,Kyle Pitts,TE,ATL,9,Magnum TI,Kyle,19.0,auction,2025-07-01T16:39:21.230844
+2022,94,2562281,Damien Harris,RB,BUF,10,Tom and Terry,Cole,22.0,auction,2025-07-01T16:39:21.231013
+2022,95,2567643,Treylon Burks,WR,TEN,11,JJ the Jet Plane,Jake,6.0,auction,2025-07-01T16:39:21.231182
+2022,96,2563986,AJ Dillon,RB,GB,12,Mad Mixon,James,16.0,auction,2025-07-01T16:39:21.231347
+2022,97,2506677,Matt Prater,K,ARI,1,The Wrath of Quon,Matt,,auction,2025-07-01T16:39:21.231505
+2022,98,2562734,Devin Singletary,RB,HOU,2,Chubbinator 2 Judgment Day,Ryan,16.0,auction,2025-07-01T16:39:21.231677
+2022,99,100031,Tampa Bay Buccaneers,,,3,Lazy Lazard Saloon,Cameron,,auction,2025-07-01T16:39:21.231843
+2022,100,2563596,Tyler Bass,K,BUF,4,Super Lamario Sunshine,Craig,,auction,2025-07-01T16:39:21.232003
+2022,101,2562738,Irv Smith,TE,CIN,5,The Najee Trois,Benjy,,auction,2025-07-01T16:39:21.232165
+2022,102,2559205,Younghoe Koo,K,ATL,6,Koo D'etat,Alexander,,auction,2025-07-01T16:39:21.232326
+2022,103,2564106,Rodrigo Blankenship,,,7,Ja'marroquai,Zach,,auction,2025-07-01T16:39:21.232482
+2022,104,2565953,Evan McPherson,K,CIN,8,Bot boy,Nick,,auction,2025-07-01T16:39:21.232611
+2022,105,2562271,Matt Gay,K,IND,9,Magnum TI,Kyle,,auction,2025-07-01T16:39:21.232751
+2022,106,2536340,Justin Tucker,K,BAL,10,Tom and Terry,Cole,,auction,2025-07-01T16:39:21.232897
+2022,107,2539227,Dustin Hopkins,K,LAC,11,JJ the Jet Plane,Jake,,auction,2025-07-01T16:39:21.233066
+2022,108,100022,New Orleans Saints,,,12,Mad Mixon,James,,auction,2025-07-01T16:39:21.233223
+2022,109,100012,Tennessee Titans,,,1,The Wrath of Quon,Matt,,auction,2025-07-01T16:39:21.233377
+2022,110,2562489,Terry McLaurin,WR,WAS,2,Chubbinator 2 Judgment Day,Ryan,14.0,auction,2025-07-01T16:39:21.233554
+2022,111,2567685,Dameon Pierce,RB,HOU,3,Lazy Lazard Saloon,Cameron,,auction,2025-07-01T16:39:21.233719
+2022,112,100017,Los Angeles Rams,,,4,Super Lamario Sunshine,Craig,,auction,2025-07-01T16:39:21.233886
+2022,113,2541556,Brandon McManus,K,DEN,5,The Najee Trois,Benjy,,auction,2025-07-01T16:39:21.234046
+2022,114,100011,Green Bay Packers,,,6,Koo D'etat,Alexander,,auction,2025-07-01T16:39:21.234211
+2022,115,100028,Los Angeles Chargers,,,7,Ja'marroquai,Zach,,auction,2025-07-01T16:39:21.234375
+2022,116,100027,Pittsburgh Steelers,,,8,Bot boy,Nick,,auction,2025-07-01T16:39:21.234530
+2022,117,2565836,Rashod Bateman,WR,BAL,9,Magnum TI,Kyle,7.0,auction,2025-07-01T16:39:21.234694
+2022,118,100021,New England Patriots,,,10,Tom and Terry,Cole,,auction,2025-07-01T16:39:21.234843
+2022,119,100014,Indianapolis Colts,,,11,JJ the Jet Plane,Jake,,auction,2025-07-01T16:39:21.234976
+2022,120,2568282,Kenneth Walker III,RB,SEA,12,Mad Mixon,James,,auction,2025-07-01T16:39:21.235124
+2022,121,2560781,Christian Kirk,WR,JAX,1,The Wrath of Quon,Matt,5.0,auction,2025-07-01T16:39:21.235290
+2022,122,2562699,Tony Pollard,RB,DAL,2,Chubbinator 2 Judgment Day,Ryan,14.0,auction,2025-07-01T16:39:21.235456
+2022,123,2562580,Mecole Hardman,WR,NYJ,3,Lazy Lazard Saloon,Cameron,,auction,2025-07-01T16:39:21.235611
+2022,124,2506363,Aaron Rodgers,QB,NYJ,4,Super Lamario Sunshine,Craig,10.0,auction,2025-07-01T16:39:21.235777
+2022,125,100029,San Francisco 49ers,,,5,The Najee Trois,Benjy,,auction,2025-07-01T16:39:21.235909
+2022,126,2560735,Michael Gallup,WR,DAL,6,Koo D'etat,Alexander,2.0,auction,2025-07-01T16:39:21.236056
+2022,127,2560907,Marquez Valdes-Scantling,WR,KC,7,Ja'marroquai,Zach,,auction,2025-07-01T16:39:21.236214
+2022,128,2543499,Derek Carr,QB,NO,8,Bot boy,Nick,,auction,2025-07-01T16:39:21.236370
+2022,129,2566385,Elijah Moore,WR,CLE,9,Magnum TI,Kyle,11.0,auction,2025-07-01T16:39:21.236557
+2022,130,2552430,Tyler Lockett,WR,SEA,10,Tom and Terry,Cole,12.0,auction,2025-07-01T16:39:21.236739
+2022,131,2562712,Hunter Renfrow,WR,LV,11,JJ the Jet Plane,Jake,8.0,auction,2025-07-01T16:39:21.236910
+2022,132,2566409,DeVonta Smith,WR,PHI,12,Mad Mixon,James,6.0,auction,2025-07-01T16:39:21.237081
+2022,133,2566343,Rhamondre Stevenson,RB,NE,1,The Wrath of Quon,Matt,,auction,2025-07-01T16:39:21.237233
+2022,134,2552487,Amari Cooper,WR,CLE,2,Chubbinator 2 Judgment Day,Ryan,11.0,auction,2025-07-01T16:39:21.237394
+2022,135,2567538,Montrell Washington,WR,DEN,3,Lazy Lazard Saloon,Cameron,,auction,2025-07-01T16:39:21.237551
+2022,136,2564970,Chase Claypool,WR,CHI,4,Super Lamario Sunshine,Craig,6.0,auction,2025-07-01T16:39:21.237704
+2022,137,2550512,Damien Williams,,,5,The Najee Trois,Benjy,,auction,2025-07-01T16:39:21.237863
+2022,138,2495454,Julio Jones,WR,TB,6,Koo D'etat,Alexander,,auction,2025-07-01T16:39:21.238024
+2022,139,2568321,Jahan Dotson,WR,WAS,7,Ja'marroquai,Zach,,auction,2025-07-01T16:39:21.238182
+2022,140,2567808,Isiah Pacheco,RB,KC,8,Bot boy,Nick,,auction,2025-07-01T16:39:21.238335
+2022,141,2567973,Chris Olave,WR,NO,9,Magnum TI,Kyle,,auction,2025-07-01T16:39:21.238495
+2022,142,79860,Matthew Stafford,QB,LA,10,Tom and Terry,Cole,10.0,auction,2025-07-01T16:39:21.238662
+2022,143,2568159,George Pickens,WR,PIT,11,JJ the Jet Plane,Jake,,auction,2025-07-01T16:39:21.238822
+2022,144,2552469,Melvin Gordon,RB,KC,12,Mad Mixon,James,11.0,auction,2025-07-01T16:39:21.238996
+2022,145,2558129,Isaiah McKenzie,WR,IND,1,The Wrath of Quon,Matt,,auction,2025-07-01T16:39:21.239155
+2022,146,2560993,Daniel Carlson,K,LV,2,Chubbinator 2 Judgment Day,Ryan,,auction,2025-07-01T16:39:21.239312
+2022,147,2557848,Corey Davis,WR,NYJ,3,Lazy Lazard Saloon,Cameron,,auction,2025-07-01T16:39:21.239472
+2022,148,2555466,Tyler Boyd,WR,CIN,4,Super Lamario Sunshine,Craig,,auction,2025-07-01T16:39:21.239635
+2022,149,2567232,Tyler Allgeier,RB,ATL,5,The Najee Trois,Benjy,,auction,2025-07-01T16:39:21.239791
+2022,150,2540158,Zach Ertz,TE,ARI,6,Koo D'etat,Alexander,5.0,auction,2025-07-01T16:39:21.239929
+2022,151,2567637,Christian Watson,WR,GB,7,Ja'marroquai,Zach,,auction,2025-07-01T16:39:21.240083
+2022,152,2558052,Kenny Golladay,WR,NYG,8,Bot boy,Nick,,auction,2025-07-01T16:39:21.240252
+2022,153,2562574,Darrell Henderson,,,9,Magnum TI,Kyle,6.0,auction,2025-07-01T16:39:21.240430
+2022,154,2568048,Garrett Wilson,WR,NYJ,10,Tom and Terry,Cole,1.0,auction,2025-07-01T16:39:21.240601
+2022,155,2566376,Kadarius Toney,WR,KC,11,JJ the Jet Plane,Jake,,auction,2025-07-01T16:39:21.240738
+2022,156,2540169,Robert Woods,WR,HOU,12,Mad Mixon,James,8.0,auction,2025-07-01T16:39:21.240873
+2022,157,2567883,Zamir White,RB,LV,1,The Wrath of Quon,Matt,,auction,2025-07-01T16:39:21.241002
+2022,158,100003,Buffalo Bills,,,2,Chubbinator 2 Judgment Day,Ryan,,auction,2025-07-01T16:39:21.241133
+2022,159,2560994,Mike Gesicki,TE,NE,3,Lazy Lazard Saloon,Cameron,4.0,auction,2025-07-01T16:39:21.241271
+2022,160,2560742,Nyheim Hines,RB,BUF,4,Super Lamario Sunshine,Craig,,auction,2025-07-01T16:39:21.241413
+2022,161,2567715,Alec Pierce,WR,IND,5,The Najee Trois,Benjy,,auction,2025-07-01T16:39:21.241557
+2022,162,2568348,Brian Robinson,RB,WAS,6,Koo D'etat,Alexander,,auction,2025-07-01T16:39:21.241696
+2022,163,2567508,Jalen Tolbert,WR,DAL,7,Ja'marroquai,Zach,,auction,2025-07-01T16:39:21.241833
+2022,164,2567565,Jameson Williams,WR,DET,8,Bot boy,Nick,,auction,2025-07-01T16:39:21.241982
+2022,165,2566532,Trey Lance,QB,SF,9,Magnum TI,Kyle,9.0,auction,2025-07-01T16:39:21.242120
+2022,166,2566442,Pat Freiermuth,TE,PIT,10,Tom and Terry,Cole,2.0,auction,2025-07-01T16:39:21.242259
+2022,167,2567328,James Cook,RB,BUF,11,JJ the Jet Plane,Jake,,auction,2025-07-01T16:39:21.242394
+2022,168,2563911,Albert Okwuegbunam,TE,DEN,12,Mad Mixon,James,,auction,2025-07-01T16:39:21.242531
+2022,169,2566433,Rondale Moore,WR,ARI,1,The Wrath of Quon,Matt,,auction,2025-07-01T16:39:21.242668
+2022,170,2567805,Skyy Moore,WR,KC,2,Chubbinator 2 Judgment Day,Ryan,,auction,2025-07-01T16:39:21.242803
+2022,171,2560770,Ronald Jones,RB,DAL,3,Lazy Lazard Saloon,Cameron,5.0,auction,2025-07-01T16:39:21.242937
+2022,172,2567586,Romeo Doubs,WR,GB,4,Super Lamario Sunshine,Craig,,auction,2025-07-01T16:39:21.243070
+2022,173,2566127,Nico Collins,WR,HOU,5,The Najee Trois,Benjy,,auction,2025-07-01T16:39:21.243207
+2022,174,2566502,Josh Palmer,WR,LAC,6,Koo D'etat,Alexander,,auction,2025-07-01T16:39:21.243339
+2022,175,2564889,Eno Benjamin,RB,NO,7,Ja'marroquai,Zach,,auction,2025-07-01T16:39:21.243470
+2022,176,2555364,Tyler Higbee,TE,LA,8,Bot boy,Nick,,auction,2025-07-01T16:39:21.243597
+2022,177,2568315,Rachaad White,RB,TB,9,Magnum TI,Kyle,,auction,2025-07-01T16:39:21.243728
+2022,178,2532820,Kirk Cousins,QB,MIN,10,Tom and Terry,Cole,6.0,auction,2025-07-01T16:39:21.243867
+2022,179,2568189,Isaiah Spiller,RB,LAC,11,JJ the Jet Plane,Jake,,auction,2025-07-01T16:39:21.243998
+2022,180,2495466,Mark Ingram,RB,NO,12,Mad Mixon,James,,auction,2025-07-01T16:39:21.244145
+2022,181,2568207,Tyrion Davis-Price,RB,SF,1,The Wrath of Quon,Matt,,auction,2025-07-01T16:39:21.244276
+2022,182,2561061,Russell Gage,WR,TB,2,Chubbinator 2 Judgment Day,Ryan,,auction,2025-07-01T16:39:21.244409
+2022,183,2558266,George Kittle,TE,SF,3,Lazy Lazard Saloon,Cameron,16.0,auction,2025-07-01T16:39:21.244553
+2022,184,2558204,Jamaal Williams,RB,NO,4,Super Lamario Sunshine,Craig,,auction,2025-07-01T16:39:21.244709
+2022,185,2552033,Jameis Winston,QB,NO,5,The Najee Trois,Benjy,,auction,2025-07-01T16:39:21.244844
+2022,186,2558123,Marlon Mack,RB,DEN,6,Koo D'etat,Alexander,,auction,2025-07-01T16:39:21.244976
+2022,187,2568012,Wan'Dale Robinson,WR,NYG,7,Ja'marroquai,Zach,,auction,2025-07-01T16:39:21.245128
+2022,188,2565899,Chuba Hubbard,RB,CAR,8,Bot boy,Nick,,auction,2025-07-01T16:39:21.245293
+2022,189,2565926,Khalil Herbert,RB,CHI,9,Magnum TI,Kyle,,auction,2025-07-01T16:39:21.245435
+2022,190,2564223,James Robinson,RB,NE,10,Tom and Terry,Cole,7.0,auction,2025-07-01T16:39:21.245616
+2022,191,2566397,Kenneth Gainwell,RB,PHI,11,JJ the Jet Plane,Jake,,auction,2025-07-01T16:39:21.245789
+2022,192,2562682,Alexander Mattison,RB,MIN,12,Mad Mixon,James,4.0,auction,2025-07-01T16:39:21.245935
+2022,1,2560968,Saquon Barkley,RB,NYG,1,The Wrath of Quon,Matt,31.0,auction,2025-07-01T16:39:22.510826
+2022,2,2560955,Josh Allen,QB,BUF,2,Chubbinator 2 Judgment Day,Ryan,34.0,auction,2025-07-01T16:39:22.511015
+2022,3,2557991,Dalvin Cook,RB,MIN,3,Lazy Lazard Saloon,Cameron,46.0,auction,2025-07-01T16:39:22.511202
+2022,4,2559169,Austin Ekeler,RB,LAC,4,Super Lamario Sunshine,Craig,58.0,auction,2025-07-01T16:39:22.511502
+2022,5,2566448,Najee Harris,RB,PIT,5,The Najee Trois,Benjy,42.0,auction,2025-07-01T16:39:22.511779
+2022,6,2543495,Davante Adams,WR,LV,6,Koo D'etat,Alexander,32.0,auction,2025-07-01T16:39:22.512048
+2022,7,2565941,Ja'Marr Chase,WR,CIN,7,Ja'marroquai,Zach,41.0,auction,2025-07-01T16:39:22.512298
+2022,8,2564148,Jonathan Taylor,RB,IND,8,Bot boy,Nick,77.0,auction,2025-07-01T16:39:22.512545
+2022,9,2557997,Christian McCaffrey,RB,SF,9,Magnum TI,Kyle,58.0,auction,2025-07-01T16:39:22.512721
+2022,10,2558019,Alvin Kamara,RB,NO,10,Tom and Terry,Cole,37.0,auction,2025-07-01T16:39:22.512905
+2022,11,2556075,Derrick Henry,RB,TEN,11,JJ the Jet Plane,Jake,66.0,auction,2025-07-01T16:39:22.513109
+2022,12,2557976,Joe Mixon,RB,CIN,12,Mad Mixon,James,47.0,auction,2025-07-01T16:39:22.513306
+2022,13,2565276,Antonio Gibson,RB,WAS,1,The Wrath of Quon,Matt,28.0,auction,2025-07-01T16:39:23.847555
+2022,14,2562502,David Montgomery,RB,DET,2,Chubbinator 2 Judgment Day,Ryan,31.0,auction,2025-07-01T16:39:23.847818
+2022,15,2556214,Tyreek Hill,WR,MIA,3,Lazy Lazard Saloon,Cameron,25.0,auction,2025-07-01T16:39:23.848055
+2022,16,2557973,Leonard Fournette,RB,TB,4,Super Lamario Sunshine,Craig,36.0,auction,2025-07-01T16:39:23.848277
+2022,17,2557898,Cooper Kupp,WR,LA,5,The Najee Trois,Benjy,51.0,auction,2025-07-01T16:39:23.848510
+2022,18,2555224,Ezekiel Elliott,RB,DAL,6,Koo D'etat,Alexander,28.0,auction,2025-07-01T16:39:23.848747
+2022,19,2563965,D'Andre Swift,RB,PHI,7,Ja'marroquai,Zach,31.0,auction,2025-07-01T16:39:23.848971
+2022,20,2561021,Nick Chubb,RB,CLE,8,Bot boy,Nick,36.0,auction,2025-07-01T16:39:23.849193
+2022,21,2563731,Tee Higgins,WR,CIN,9,Magnum TI,Kyle,24.0,auction,2025-07-01T16:39:23.849426
+2022,22,2563548,J.K. Dobbins,RB,BAL,10,Tom and Terry,Cole,24.0,auction,2025-07-01T16:39:23.849648
+2022,23,2564556,Justin Jefferson,WR,MIN,11,JJ the Jet Plane,Jake,41.0,auction,2025-07-01T16:39:23.849974
+2022,24,2552608,Stefon Diggs,WR,BUF,12,Mad Mixon,James,29.0,auction,2025-07-01T16:39:23.850256
+2022,25,2563848,CeeDee Lamb,WR,DAL,1,The Wrath of Quon,Matt,27.0,auction,2025-07-01T16:39:25.144267
+2022,26,2566049,Javonte Williams,RB,DEN,2,Chubbinator 2 Judgment Day,Ryan,33.0,auction,2025-07-01T16:39:25.144543
+2022,27,2566157,Travis Etienne,RB,JAX,3,Lazy Lazard Saloon,Cameron,21.0,auction,2025-07-01T16:39:25.144796
+2022,28,2558116,Aaron Jones,RB,GB,4,Super Lamario Sunshine,Craig,36.0,auction,2025-07-01T16:39:25.145025
+2022,29,2563602,Gabe Davis,WR,BUF,5,The Najee Trois,Benjy,16.0,auction,2025-07-01T16:39:25.145248
+2022,30,2543468,Mike Evans,WR,TB,6,Koo D'etat,Alexander,27.0,auction,2025-07-01T16:39:25.145492
+2022,31,2564832,Jalen Hurts,QB,PHI,7,Ja'marroquai,Zach,19.0,auction,2025-07-01T16:39:25.145714
+2022,32,2557978,James Conner,RB,ARI,8,Bot boy,Nick,36.0,auction,2025-07-01T16:39:25.145935
+2022,33,2555260,Dak Prescott,QB,DAL,9,Magnum TI,Kyle,16.0,auction,2025-07-01T16:39:25.146154
+2022,34,2558846,Mike Williams,WR,LAC,10,Tom and Terry,Cole,20.0,auction,2025-07-01T16:39:25.146386
+2022,35,2562382,Kyler Murray,QB,ARI,11,JJ the Jet Plane,Jake,19.0,auction,2025-07-01T16:39:25.146614
+2022,36,2562674,Diontae Johnson,WR,PIT,12,Mad Mixon,James,15.0,auction,2025-07-01T16:39:25.146830
+2022,37,2558125,Patrick Mahomes,QB,KC,1,The Wrath of Quon,Matt,26.0,auction,2025-07-01T16:39:26.413094
+2022,38,2562721,Deebo Samuel,WR,SF,2,Chubbinator 2 Judgment Day,Ryan,40.0,auction,2025-07-01T16:39:26.413291
+2022,39,2568030,Breece Hall,RB,NYJ,3,Lazy Lazard Saloon,Cameron,23.0,auction,2025-07-01T16:39:26.413463
+2022,40,2560757,Lamar Jackson,QB,BAL,4,Super Lamario Sunshine,Craig,20.0,auction,2025-07-01T16:39:26.413630
+2022,41,2566073,Amon-Ra St. Brown,WR,DET,5,The Najee Trois,Benjy,12.0,auction,2025-07-01T16:39:26.413787
+2022,42,2564319,Cam Akers,RB,LA,6,Koo D'etat,Alexander,26.0,auction,2025-07-01T16:39:26.413947
+2022,43,2564271,Clyde Edwards-Helaire,RB,KC,7,Ja'marroquai,Zach,12.0,auction,2025-07-01T16:39:26.414103
+2022,44,2563722,Joe Burrow,QB,CIN,8,Bot boy,Nick,12.0,auction,2025-07-01T16:39:26.414259
+2022,45,2557917,Kareem Hunt,RB,CLE,9,Magnum TI,Kyle,10.0,auction,2025-07-01T16:39:26.414420
+2022,46,2562685,DK Metcalf,WR,SEA,10,Tom and Terry,Cole,17.0,auction,2025-07-01T16:39:26.414575
+2022,47,2540145,Cordarrelle Patterson,RB,ATL,11,JJ the Jet Plane,Jake,16.0,auction,2025-07-01T16:39:26.414742
+2022,48,2532975,Russell Wilson,QB,DEN,12,Mad Mixon,James,8.0,auction,2025-07-01T16:39:26.414903
+2022,49,2560813,D.J. Moore,WR,CHI,1,The Wrath of Quon,Matt,18.0,auction,2025-07-01T16:39:27.835879
+2022,50,2566538,Elijah Mitchell,RB,SF,2,Chubbinator 2 Judgment Day,Ryan,25.0,auction,2025-07-01T16:39:27.836065
+2022,51,310,Matt Ryan,QB,IND,3,Lazy Lazard Saloon,Cameron,,auction,2025-07-01T16:39:27.836224
+2022,52,2540154,Keenan Allen,WR,LAC,4,Super Lamario Sunshine,Craig,17.0,auction,2025-07-01T16:39:27.836383
+2022,53,2543509,Allen Robinson,WR,PIT,5,The Najee Trois,Benjy,8.0,auction,2025-07-01T16:39:27.836546
+2022,54,2562377,Josh Jacobs,RB,LV,6,Koo D'etat,Alexander,24.0,auction,2025-07-01T16:39:27.836706
+2022,55,2564136,Michael Pittman,WR,IND,7,Ja'marroquai,Zach,19.0,auction,2025-07-01T16:39:27.836864
+2022,56,2562378,T.J. Hockenson,TE,MIN,8,Bot boy,Nick,7.0,auction,2025-07-01T16:39:27.837023
+2022,57,2558149,JuJu Smith-Schuster,WR,NE,9,Magnum TI,Kyle,8.0,auction,2025-07-01T16:39:27.837185
+2022,58,2540258,Travis Kelce,TE,KC,10,Tom and Terry,Cole,39.0,auction,2025-07-01T16:39:27.837344
+2022,59,2562379,Marquise Brown,WR,ARI,11,JJ the Jet Plane,Jake,12.0,auction,2025-07-01T16:39:27.837502
+2022,60,2560711,Chase Edmonds,RB,TB,12,Mad Mixon,James,9.0,auction,2025-07-01T16:39:27.837664
+2022,61,2560888,Courtland Sutton,WR,DEN,1,The Wrath of Quon,Matt,14.0,auction,2025-07-01T16:39:29.106851
+2022,62,2560835,Rashaad Penny,RB,PHI,2,Chubbinator 2 Judgment Day,Ryan,18.0,auction,2025-07-01T16:39:29.107042
+2022,63,2556370,Michael Thomas,WR,NO,3,Lazy Lazard Saloon,Cameron,,auction,2025-07-01T16:39:29.107205
+2022,64,2558105,Chris Godwin,WR,TB,4,Super Lamario Sunshine,Craig,10.0,auction,2025-07-01T16:39:29.107374
+2022,65,2566382,Michael Carter,RB,NYJ,5,The Najee Trois,Benjy,6.0,auction,2025-07-01T16:39:29.107539
+2022,66,2562238,A.J. Brown,WR,PHI,6,Koo D'etat,Alexander,22.0,auction,2025-07-01T16:39:29.107707
+2022,67,2566292,Jaylen Waddle,WR,MIA,7,Ja'marroquai,Zach,13.0,auction,2025-07-01T16:39:29.107868
+2022,68,2543488,Jarvis Landry,WR,NO,8,Bot boy,Nick,,auction,2025-07-01T16:39:29.108032
+2022,69,2567250,Drake London,WR,ATL,9,Magnum TI,Kyle,6.0,auction,2025-07-01T16:39:29.108197
+2022,70,2504211,Tom Brady,QB,TB,10,Tom and Terry,Cole,16.0,auction,2025-07-01T16:39:29.108348
+2022,71,2565093,Brandon Aiyuk,WR,SF,11,JJ the Jet Plane,Jake,4.0,auction,2025-07-01T16:39:29.108502
+2022,72,2563707,Darnell Mooney,WR,CHI,12,Mad Mixon,James,11.0,auction,2025-07-01T16:39:29.108655
+2022,73,2560995,Dallas Goedert,TE,PHI,1,The Wrath of Quon,Matt,11.0,auction,2025-07-01T16:39:30.406434
+2022,74,2543498,Brandin Cooks,WR,DAL,2,Chubbinator 2 Judgment Day,Ryan,17.0,auction,2025-07-01T16:39:30.406709
+2022,75,2560787,Allen Lazard,WR,NYJ,3,Lazy Lazard Saloon,Cameron,,auction,2025-07-01T16:39:30.406964
+2022,76,2540165,DeAndre Hopkins,WR,ARI,4,Super Lamario Sunshine,Craig,2.0,auction,2025-07-01T16:39:30.407274
+2022,77,2553728,Raheem Mostert,RB,MIA,5,The Najee Trois,Benjy,5.0,auction,2025-07-01T16:39:30.407521
+2022,78,2565045,Justin Herbert,QB,LAC,6,Koo D'etat,Alexander,21.0,auction,2025-07-01T16:39:30.407751
+2022,79,2555341,Hunter Henry,TE,NE,7,Ja'marroquai,Zach,6.0,auction,2025-07-01T16:39:30.407970
+2022,80,2552409,DeVante Parker,WR,NE,8,Bot boy,Nick,2.0,auction,2025-07-01T16:39:30.408186
+2022,81,2560957,Mark Andrews,TE,BAL,9,Magnum TI,Kyle,37.0,auction,2025-07-01T16:39:30.408392
+2022,82,2563896,Jerry Jeudy,WR,DEN,10,Tom and Terry,Cole,14.0,auction,2025-07-01T16:39:30.408596
+2022,83,2557986,David Njoku,TE,CLE,11,JJ the Jet Plane,Jake,,auction,2025-07-01T16:39:30.408790
+2022,84,2562681,Dawson Knox,TE,BUF,12,Mad Mixon,James,6.0,auction,2025-07-01T16:39:30.409003
+2022,85,2541785,Adam Thielen,WR,CAR,1,The Wrath of Quon,Matt,10.0,auction,2025-07-01T16:39:31.664286
+2022,86,2552408,Darren Waller,TE,NYG,2,Chubbinator 2 Judgment Day,Ryan,16.0,auction,2025-07-01T16:39:31.664540
+2022,87,2558245,Harrison Butker,K,KC,3,Lazy Lazard Saloon,Cameron,,auction,2025-07-01T16:39:31.664759
+2022,88,2560866,Dalton Schultz,TE,HOU,4,Super Lamario Sunshine,Craig,14.0,auction,2025-07-01T16:39:31.664950
+2022,89,2566163,Trevor Lawrence,QB,JAX,5,The Najee Trois,Benjy,,auction,2025-07-01T16:39:31.665115
+2022,90,2563704,Cole Kmet,TE,CHI,6,Koo D'etat,Alexander,,auction,2025-07-01T16:39:31.665281
+2022,91,2562722,Miles Sanders,RB,CAR,7,Ja'marroquai,Zach,21.0,auction,2025-07-01T16:39:31.665440
+2022,92,2561018,DJ Chark,WR,CAR,8,Bot boy,Nick,,auction,2025-07-01T16:39:31.665600
+2022,93,2565830,Kyle Pitts,TE,ATL,9,Magnum TI,Kyle,19.0,auction,2025-07-01T16:39:31.665766
+2022,94,2562281,Damien Harris,RB,BUF,10,Tom and Terry,Cole,22.0,auction,2025-07-01T16:39:31.665927
+2022,95,2567643,Treylon Burks,WR,TEN,11,JJ the Jet Plane,Jake,6.0,auction,2025-07-01T16:39:31.666090
+2022,96,2563986,AJ Dillon,RB,GB,12,Mad Mixon,James,16.0,auction,2025-07-01T16:39:31.666249
+2022,97,2506677,Matt Prater,K,ARI,1,The Wrath of Quon,Matt,,auction,2025-07-01T16:39:32.931865
+2022,98,2562734,Devin Singletary,RB,HOU,2,Chubbinator 2 Judgment Day,Ryan,16.0,auction,2025-07-01T16:39:32.932023
+2022,99,100031,Tampa Bay Buccaneers,,,3,Lazy Lazard Saloon,Cameron,,auction,2025-07-01T16:39:32.932160
+2022,100,2563596,Tyler Bass,K,BUF,4,Super Lamario Sunshine,Craig,,auction,2025-07-01T16:39:32.932297
+2022,101,2562738,Irv Smith,TE,CIN,5,The Najee Trois,Benjy,,auction,2025-07-01T16:39:32.932432
+2022,102,2559205,Younghoe Koo,K,ATL,6,Koo D'etat,Alexander,,auction,2025-07-01T16:39:32.932565
+2022,103,2564106,Rodrigo Blankenship,,,7,Ja'marroquai,Zach,,auction,2025-07-01T16:39:32.932702
+2022,104,2565953,Evan McPherson,K,CIN,8,Bot boy,Nick,,auction,2025-07-01T16:39:32.932837
+2022,105,2562271,Matt Gay,K,IND,9,Magnum TI,Kyle,,auction,2025-07-01T16:39:32.932972
+2022,106,2536340,Justin Tucker,K,BAL,10,Tom and Terry,Cole,,auction,2025-07-01T16:39:32.933220
+2022,107,2539227,Dustin Hopkins,K,LAC,11,JJ the Jet Plane,Jake,,auction,2025-07-01T16:39:32.933374
+2022,108,100022,New Orleans Saints,,,12,Mad Mixon,James,,auction,2025-07-01T16:39:32.933511
+2022,109,100012,Tennessee Titans,,,1,The Wrath of Quon,Matt,,auction,2025-07-01T16:39:34.209786
+2022,110,2562489,Terry McLaurin,WR,WAS,2,Chubbinator 2 Judgment Day,Ryan,14.0,auction,2025-07-01T16:39:34.210134
+2022,111,2567685,Dameon Pierce,RB,HOU,3,Lazy Lazard Saloon,Cameron,,auction,2025-07-01T16:39:34.210517
+2022,112,100017,Los Angeles Rams,,,4,Super Lamario Sunshine,Craig,,auction,2025-07-01T16:39:34.210667
+2022,113,2541556,Brandon McManus,K,DEN,5,The Najee Trois,Benjy,,auction,2025-07-01T16:39:34.210820
+2022,114,100011,Green Bay Packers,,,6,Koo D'etat,Alexander,,auction,2025-07-01T16:39:34.211016
+2022,115,100028,Los Angeles Chargers,,,7,Ja'marroquai,Zach,,auction,2025-07-01T16:39:34.211311
+2022,116,100027,Pittsburgh Steelers,,,8,Bot boy,Nick,,auction,2025-07-01T16:39:34.211627
+2022,117,2565836,Rashod Bateman,WR,BAL,9,Magnum TI,Kyle,7.0,auction,2025-07-01T16:39:34.211951
+2022,118,100021,New England Patriots,,,10,Tom and Terry,Cole,,auction,2025-07-01T16:39:34.212252
+2022,119,100014,Indianapolis Colts,,,11,JJ the Jet Plane,Jake,,auction,2025-07-01T16:39:34.212568
+2022,120,2568282,Kenneth Walker III,RB,SEA,12,Mad Mixon,James,,auction,2025-07-01T16:39:34.212826
+2022,121,2560781,Christian Kirk,WR,JAX,1,The Wrath of Quon,Matt,5.0,auction,2025-07-01T16:39:35.491538
+2022,122,2562699,Tony Pollard,RB,DAL,2,Chubbinator 2 Judgment Day,Ryan,14.0,auction,2025-07-01T16:39:35.491770
+2022,123,2562580,Mecole Hardman,WR,NYJ,3,Lazy Lazard Saloon,Cameron,,auction,2025-07-01T16:39:35.491936
+2022,124,2506363,Aaron Rodgers,QB,NYJ,4,Super Lamario Sunshine,Craig,10.0,auction,2025-07-01T16:39:35.492103
+2022,125,100029,San Francisco 49ers,,,5,The Najee Trois,Benjy,,auction,2025-07-01T16:39:35.492262
+2022,126,2560735,Michael Gallup,WR,DAL,6,Koo D'etat,Alexander,2.0,auction,2025-07-01T16:39:35.492427
+2022,127,2560907,Marquez Valdes-Scantling,WR,KC,7,Ja'marroquai,Zach,,auction,2025-07-01T16:39:35.492640
+2022,128,2543499,Derek Carr,QB,NO,8,Bot boy,Nick,,auction,2025-07-01T16:39:35.492804
+2022,129,2566385,Elijah Moore,WR,CLE,9,Magnum TI,Kyle,11.0,auction,2025-07-01T16:39:35.492965
+2022,130,2552430,Tyler Lockett,WR,SEA,10,Tom and Terry,Cole,12.0,auction,2025-07-01T16:39:35.493124
+2022,131,2562712,Hunter Renfrow,WR,LV,11,JJ the Jet Plane,Jake,8.0,auction,2025-07-01T16:39:35.493284
+2022,132,2566409,DeVonta Smith,WR,PHI,12,Mad Mixon,James,6.0,auction,2025-07-01T16:39:35.493450
+2022,133,2566343,Rhamondre Stevenson,RB,NE,1,The Wrath of Quon,Matt,,auction,2025-07-01T16:39:36.807913
+2022,134,2552487,Amari Cooper,WR,CLE,2,Chubbinator 2 Judgment Day,Ryan,11.0,auction,2025-07-01T16:39:36.808093
+2022,135,2567538,Montrell Washington,WR,DEN,3,Lazy Lazard Saloon,Cameron,,auction,2025-07-01T16:39:36.808292
+2022,136,2564970,Chase Claypool,WR,CHI,4,Super Lamario Sunshine,Craig,6.0,auction,2025-07-01T16:39:36.808450
+2022,137,2550512,Damien Williams,,,5,The Najee Trois,Benjy,,auction,2025-07-01T16:39:36.808606
+2022,138,2495454,Julio Jones,WR,TB,6,Koo D'etat,Alexander,,auction,2025-07-01T16:39:36.808757
+2022,139,2568321,Jahan Dotson,WR,WAS,7,Ja'marroquai,Zach,,auction,2025-07-01T16:39:36.808907
+2022,140,2567808,Isiah Pacheco,RB,KC,8,Bot boy,Nick,,auction,2025-07-01T16:39:36.809058
+2022,141,2567973,Chris Olave,WR,NO,9,Magnum TI,Kyle,,auction,2025-07-01T16:39:36.809206
+2022,142,79860,Matthew Stafford,QB,LA,10,Tom and Terry,Cole,10.0,auction,2025-07-01T16:39:36.809360
+2022,143,2568159,George Pickens,WR,PIT,11,JJ the Jet Plane,Jake,,auction,2025-07-01T16:39:36.809509
+2022,144,2552469,Melvin Gordon,RB,KC,12,Mad Mixon,James,11.0,auction,2025-07-01T16:39:36.809668
+2022,145,2558129,Isaiah McKenzie,WR,IND,1,The Wrath of Quon,Matt,,auction,2025-07-01T16:39:38.179772
+2022,146,2560993,Daniel Carlson,K,LV,2,Chubbinator 2 Judgment Day,Ryan,,auction,2025-07-01T16:39:38.180028
+2022,147,2557848,Corey Davis,WR,NYJ,3,Lazy Lazard Saloon,Cameron,,auction,2025-07-01T16:39:38.180244
+2022,148,2555466,Tyler Boyd,WR,CIN,4,Super Lamario Sunshine,Craig,,auction,2025-07-01T16:39:38.180457
+2022,149,2567232,Tyler Allgeier,RB,ATL,5,The Najee Trois,Benjy,,auction,2025-07-01T16:39:38.180670
+2022,150,2540158,Zach Ertz,TE,ARI,6,Koo D'etat,Alexander,5.0,auction,2025-07-01T16:39:38.180895
+2022,151,2567637,Christian Watson,WR,GB,7,Ja'marroquai,Zach,,auction,2025-07-01T16:39:38.181103
+2022,152,2558052,Kenny Golladay,WR,NYG,8,Bot boy,Nick,,auction,2025-07-01T16:39:38.181323
+2022,153,2562574,Darrell Henderson,,,9,Magnum TI,Kyle,6.0,auction,2025-07-01T16:39:38.181526
+2022,154,2568048,Garrett Wilson,WR,NYJ,10,Tom and Terry,Cole,1.0,auction,2025-07-01T16:39:38.181743
+2022,155,2566376,Kadarius Toney,WR,KC,11,JJ the Jet Plane,Jake,,auction,2025-07-01T16:39:38.181945
+2022,156,2540169,Robert Woods,WR,HOU,12,Mad Mixon,James,8.0,auction,2025-07-01T16:39:38.182145
+2022,157,2567883,Zamir White,RB,LV,1,The Wrath of Quon,Matt,,auction,2025-07-01T16:39:39.551169
+2022,158,100003,Buffalo Bills,,,2,Chubbinator 2 Judgment Day,Ryan,,auction,2025-07-01T16:39:39.551386
+2022,159,2560994,Mike Gesicki,TE,NE,3,Lazy Lazard Saloon,Cameron,4.0,auction,2025-07-01T16:39:39.551540
+2022,160,2560742,Nyheim Hines,RB,BUF,4,Super Lamario Sunshine,Craig,,auction,2025-07-01T16:39:39.551687
+2022,161,2567715,Alec Pierce,WR,IND,5,The Najee Trois,Benjy,,auction,2025-07-01T16:39:39.551832
+2022,162,2568348,Brian Robinson,RB,WAS,6,Koo D'etat,Alexander,,auction,2025-07-01T16:39:39.551976
+2022,163,2567508,Jalen Tolbert,WR,DAL,7,Ja'marroquai,Zach,,auction,2025-07-01T16:39:39.552124
+2022,164,2567565,Jameson Williams,WR,DET,8,Bot boy,Nick,,auction,2025-07-01T16:39:39.552265
+2022,165,2566532,Trey Lance,QB,SF,9,Magnum TI,Kyle,9.0,auction,2025-07-01T16:39:39.552419
+2022,166,2566442,Pat Freiermuth,TE,PIT,10,Tom and Terry,Cole,2.0,auction,2025-07-01T16:39:39.552578
+2022,167,2567328,James Cook,RB,BUF,11,JJ the Jet Plane,Jake,,auction,2025-07-01T16:39:39.552739
+2022,168,2563911,Albert Okwuegbunam,TE,DEN,12,Mad Mixon,James,,auction,2025-07-01T16:39:39.552901
+2022,169,2566433,Rondale Moore,WR,ARI,1,The Wrath of Quon,Matt,,auction,2025-07-01T16:39:40.798858
+2022,170,2567805,Skyy Moore,WR,KC,2,Chubbinator 2 Judgment Day,Ryan,,auction,2025-07-01T16:39:40.799042
+2022,171,2560770,Ronald Jones,RB,DAL,3,Lazy Lazard Saloon,Cameron,5.0,auction,2025-07-01T16:39:40.799226
+2022,172,2567586,Romeo Doubs,WR,GB,4,Super Lamario Sunshine,Craig,,auction,2025-07-01T16:39:40.799391
+2022,173,2566127,Nico Collins,WR,HOU,5,The Najee Trois,Benjy,,auction,2025-07-01T16:39:40.799548
+2022,174,2566502,Josh Palmer,WR,LAC,6,Koo D'etat,Alexander,,auction,2025-07-01T16:39:40.799707
+2022,175,2564889,Eno Benjamin,RB,NO,7,Ja'marroquai,Zach,,auction,2025-07-01T16:39:40.799865
+2022,176,2555364,Tyler Higbee,TE,LA,8,Bot boy,Nick,,auction,2025-07-01T16:39:40.800022
+2022,177,2568315,Rachaad White,RB,TB,9,Magnum TI,Kyle,,auction,2025-07-01T16:39:40.800179
+2022,178,2532820,Kirk Cousins,QB,MIN,10,Tom and Terry,Cole,6.0,auction,2025-07-01T16:39:40.800335
+2022,179,2568189,Isaiah Spiller,RB,LAC,11,JJ the Jet Plane,Jake,,auction,2025-07-01T16:39:40.800489
+2022,180,2495466,Mark Ingram,RB,NO,12,Mad Mixon,James,,auction,2025-07-01T16:39:40.800655
+2022,181,2568207,Tyrion Davis-Price,RB,SF,1,The Wrath of Quon,Matt,,auction,2025-07-01T16:39:42.123373
+2022,182,2561061,Russell Gage,WR,TB,2,Chubbinator 2 Judgment Day,Ryan,,auction,2025-07-01T16:39:42.123593
+2022,183,2558266,George Kittle,TE,SF,3,Lazy Lazard Saloon,Cameron,16.0,auction,2025-07-01T16:39:42.123794
+2022,184,2558204,Jamaal Williams,RB,NO,4,Super Lamario Sunshine,Craig,,auction,2025-07-01T16:39:42.123990
+2022,185,2552033,Jameis Winston,QB,NO,5,The Najee Trois,Benjy,,auction,2025-07-01T16:39:42.124201
+2022,186,2558123,Marlon Mack,RB,DEN,6,Koo D'etat,Alexander,,auction,2025-07-01T16:39:42.124405
+2022,187,2568012,Wan'Dale Robinson,WR,NYG,7,Ja'marroquai,Zach,,auction,2025-07-01T16:39:42.124616
+2022,188,2565899,Chuba Hubbard,RB,CAR,8,Bot boy,Nick,,auction,2025-07-01T16:39:42.124813
+2022,189,2565926,Khalil Herbert,RB,CHI,9,Magnum TI,Kyle,,auction,2025-07-01T16:39:42.125011
+2022,190,2564223,James Robinson,RB,NE,10,Tom and Terry,Cole,7.0,auction,2025-07-01T16:39:42.125210
+2022,191,2566397,Kenneth Gainwell,RB,PHI,11,JJ the Jet Plane,Jake,,auction,2025-07-01T16:39:42.125401
+2022,192,2562682,Alexander Mattison,RB,MIN,12,Mad Mixon,James,4.0,auction,2025-07-01T16:39:42.125594

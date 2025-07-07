@@ -1,0 +1,58 @@
+{
+  "seeds": [
+    {
+      "seed": 1,
+      "team_id": "2",
+      "team_name": "Granger Danger"
+    },
+    {
+      "seed": 2,
+      "team_id": "5",
+      "team_name": "Fencing Beats Football"
+    },
+    {
+      "seed": 3,
+      "team_id": "1",
+      "team_name": "The REVolution"
+    },
+    {
+      "seed": 4,
+      "team_id": "6",
+      "team_name": "Swagger Badgers"
+    }
+  ],
+  "semifinals": [
+    {
+      "home_team_id": "2",
+      "away_team_id": "6",
+      "home_points": 122.72,
+      "away_points": 127.52,
+      "winner_id": "6",
+      "week": 15
+    },
+    {
+      "home_team_id": "5",
+      "away_team_id": "1",
+      "home_points": 108.78,
+      "away_points": 105.28,
+      "winner_id": "5",
+      "week": 15
+    }
+  ],
+  "final": {
+    "home_team_id": "6",
+    "away_team_id": "5",
+    "home_points": 127.52,
+    "away_points": 108.78,
+    "winner_id": "6",
+    "week": 16
+  },
+  "third_place": {
+    "home_team_id": "2",
+    "away_team_id": "1",
+    "home_points": 122.72,
+    "away_points": 105.28,
+    "winner_id": "2",
+    "week": 16
+  }
+}

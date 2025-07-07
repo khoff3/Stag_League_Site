@@ -1,0 +1,239 @@
+{
+  "winners_bracket": {
+    "round_1": [
+      {
+        "game_id": "20121541",
+        "home_team": {
+          "id": "4",
+          "name": "BedonkaGronk",
+          "points": 69.52
+        },
+        "away_team": {
+          "id": "1",
+          "name": "Forgetting Brandon Marshall",
+          "points": 65.86
+        },
+        "winner": "4"
+      },
+      {
+        "game_id": "2012151110",
+        "home_team": {
+          "id": "11",
+          "name": "Taco",
+          "points": 142.5
+        },
+        "away_team": {
+          "id": "10",
+          "name": "ENDER",
+          "points": 63.26
+        },
+        "winner": "11"
+      }
+    ],
+    "championship_week": {
+      "championship": [
+        {
+          "game_id": "201216411",
+          "home_team": {
+            "id": "4",
+            "name": "BedonkaGronk",
+            "points": 75.78
+          },
+          "away_team": {
+            "id": "11",
+            "name": "Taco",
+            "points": 91.34
+          },
+          "winner": "11"
+        }
+      ],
+      "third_place": [
+        {
+          "game_id": "201216110",
+          "home_team": {
+            "id": "1",
+            "name": "Forgetting Brandon Marshall",
+            "points": 95.1
+          },
+          "away_team": {
+            "id": "10",
+            "name": "ENDER",
+            "points": 101.38
+          },
+          "winner": "10"
+        }
+      ],
+      "consolation": []
+    }
+  },
+  "middle_teams_bracket": {
+    "round_1": [],
+    "mediocre_bowl": []
+  },
+  "consolation_bracket": {
+    "round_1": [
+      {
+        "game_id": "20121565",
+        "home_team": {
+          "id": "6",
+          "name": "Dragon Army",
+          "points": 73.74
+        },
+        "away_team": {
+          "id": "5",
+          "name": "Fifty Shades of Garay",
+          "points": 94.24
+        },
+        "winner": "5"
+      },
+      {
+        "game_id": "201215128",
+        "home_team": {
+          "id": "12",
+          "name": "Swagger Badgers",
+          "points": 97.94
+        },
+        "away_team": {
+          "id": "8",
+          "name": "Recepticons",
+          "points": 135.08
+        },
+        "winner": "8"
+      }
+    ],
+    "toilet_bowl": [
+      {
+        "game_id": "20121658",
+        "home_team": {
+          "id": "5",
+          "name": "Fifty Shades of Garay",
+          "points": 163.74
+        },
+        "away_team": {
+          "id": "8",
+          "name": "Recepticons",
+          "points": 70.12
+        },
+        "winner": "5"
+      },
+      {
+        "game_id": "201216612",
+        "home_team": {
+          "id": "6",
+          "name": "Dragon Army",
+          "points": 108.42
+        },
+        "away_team": {
+          "id": "12",
+          "name": "Swagger Badgers",
+          "points": 111.38
+        },
+        "winner": "12"
+      }
+    ]
+  },
+  "seeds": {
+    "winners_bracket": [
+      {
+        "seed": 1,
+        "team_id": "4",
+        "team_name": "BedonkaGronk",
+        "record": "9-5-0"
+      },
+      {
+        "seed": 2,
+        "team_id": "11",
+        "team_name": "Taco",
+        "record": "9-5-0"
+      },
+      {
+        "seed": 3,
+        "team_id": "10",
+        "team_name": "ENDER",
+        "record": "9-5-0"
+      },
+      {
+        "seed": 4,
+        "team_id": "1",
+        "team_name": "Forgetting Brandon Marshall",
+        "record": "8-6-0"
+      }
+    ],
+    "consolation_bracket": [
+      {
+        "seed": 5,
+        "team_id": "6",
+        "team_name": "Dragon Army",
+        "record": "8-6-0"
+      },
+      {
+        "seed": 6,
+        "team_id": "12",
+        "team_name": "Swagger Badgers",
+        "record": "8-6-0"
+      },
+      {
+        "seed": 7,
+        "team_id": "8",
+        "team_name": "Recepticons",
+        "record": "8-6-0"
+      },
+      {
+        "seed": 8,
+        "team_id": "3",
+        "team_name": "Hardball with Ryan Mathews",
+        "record": "7-7-0"
+      },
+      {
+        "seed": 9,
+        "team_id": "9",
+        "team_name": "Gimme the docta",
+        "record": "7-7-0"
+      },
+      {
+        "seed": 10,
+        "team_id": "5",
+        "team_name": "Fifty Shades of Garay",
+        "record": "7-7-0"
+      },
+      {
+        "seed": 11,
+        "team_id": "7",
+        "team_name": "I Got Weeden My Pocket",
+        "record": "3-11-0"
+      },
+      {
+        "seed": 12,
+        "team_id": "2",
+        "team_name": "Forte Percent Chance of Wayne",
+        "record": "1-13-0"
+      }
+    ]
+  },
+  "first_round_matchups": [
+    {
+      "home": 1,
+      "away": 4
+    },
+    {
+      "home": 2,
+      "away": 3
+    },
+    {
+      "home": 5,
+      "away": 8
+    },
+    {
+      "home": 6,
+      "away": 7
+    },
+    {
+      "home": 9,
+      "away": 12
+    },
+    {
+      "home": 10,
+      "away": 11
+    }
+  ]
+}

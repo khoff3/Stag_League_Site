@@ -1,0 +1,122 @@
+{
+  "1": {
+    "team_id": "1",
+    "team_name": "The REVolution",
+    "manager_name": "Matt",
+    "user_id": "646819",
+    "league_id": "400491",
+    "season": 2011,
+    "waiver_priority": "10",
+    "moves": "43",
+    "trades": "0",
+    "last_activity": "Sat, Dec 24, 11:27am"
+  },
+  "2": {
+    "team_id": "2",
+    "team_name": "Granger Danger",
+    "manager_name": "Alexander",
+    "user_id": "770387",
+    "league_id": "400491",
+    "season": 2011,
+    "waiver_priority": "8",
+    "moves": "16",
+    "trades": "2",
+    "last_activity": "Tue, Dec 6, 6:11pm"
+  },
+  "3": {
+    "team_id": "3",
+    "team_name": "D Street Corsairs",
+    "manager_name": "Andrew",
+    "user_id": "1573498",
+    "league_id": "400491",
+    "season": 2011,
+    "waiver_priority": "3",
+    "moves": "8",
+    "trades": "2",
+    "last_activity": "Thu, Dec 8, 11:17pm"
+  },
+  "4": {
+    "team_id": "4",
+    "team_name": "HOLDEN CAUFIELDS",
+    "manager_name": "Benjy",
+    "user_id": "1750812",
+    "league_id": "400491",
+    "season": 2011,
+    "waiver_priority": "1",
+    "moves": "28",
+    "trades": "1",
+    "last_activity": "Sat, Dec 17, 11:20am"
+  },
+  "5": {
+    "team_id": "5",
+    "team_name": "Fencing Beats Football",
+    "manager_name": "Cameron",
+    "user_id": "1778244",
+    "league_id": "400491",
+    "season": 2011,
+    "waiver_priority": "7",
+    "moves": "21",
+    "trades": "1",
+    "last_activity": "Tue, Dec 20, 9:56pm"
+  },
+  "6": {
+    "team_id": "6",
+    "team_name": "Swagger Badgers",
+    "manager_name": "Ross",
+    "user_id": "1930156",
+    "league_id": "400491",
+    "season": 2011,
+    "waiver_priority": "6",
+    "moves": "11",
+    "trades": "0",
+    "last_activity": "Thu, Dec 15, 6:05pm"
+  },
+  "7": {
+    "team_id": "7",
+    "team_name": "Big Bird's Barbarians",
+    "manager_name": "Nick",
+    "user_id": "2028716",
+    "league_id": "400491",
+    "season": 2011,
+    "waiver_priority": "4",
+    "moves": "8",
+    "trades": "0",
+    "last_activity": "Sat, Dec 24, 8:37am"
+  },
+  "8": {
+    "team_id": "8",
+    "team_name": "Free DOME",
+    "manager_name": "Tim",
+    "user_id": "2077461",
+    "league_id": "400491",
+    "season": 2011,
+    "waiver_priority": "2",
+    "moves": "0",
+    "trades": "0",
+    "last_activity": ""
+  },
+  "9": {
+    "team_id": "9",
+    "team_name": "Go Pack Go",
+    "manager_name": "Ryan",
+    "user_id": "2126483",
+    "league_id": "400491",
+    "season": 2011,
+    "waiver_priority": "5",
+    "moves": "7",
+    "trades": "1",
+    "last_activity": "Tue, Dec 13, 9:17am"
+  },
+  "10": {
+    "team_id": "10",
+    "team_name": "Village Park Recreational Club",
+    "manager_name": "Craig",
+    "user_id": "2189986",
+    "league_id": "400491",
+    "season": 2011,
+    "waiver_priority": "9",
+    "moves": "43",
+    "trades": "1",
+    "last_activity": "Sun, Dec 25, 2:31am"
+  }
+}

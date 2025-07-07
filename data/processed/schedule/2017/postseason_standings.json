@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "label": "Champion",
+    "team_id": "7",
+    "team_name": "New Gurley",
+    "points": 122.3,
+    "week_15_points": 0.0,
+    "week_16_points": 122.3
+  },
+  {
+    "place": 2,
+    "label": "Runner Up",
+    "team_id": "12",
+    "team_name": "Hooked on a Thielen",
+    "points": 76.84,
+    "week_15_points": 0.0,
+    "week_16_points": 76.84
+  },
+  {
+    "place": 3,
+    "label": "Third Place",
+    "team_id": "6",
+    "team_name": "Roaring Rivers",
+    "points": 85.88,
+    "week_15_points": 0.0,
+    "week_16_points": 85.88
+  },
+  {
+    "place": 4,
+    "label": "Fourth Place",
+    "team_id": "5",
+    "team_name": "Ultralight Kareem",
+    "points": 129.38,
+    "week_15_points": 0.0,
+    "week_16_points": 129.38
+  },
+  {
+    "place": 5,
+    "label": "Fifth Place",
+    "team_id": "3",
+    "team_name": "Allen the Family",
+    "points": 60.36,
+    "week_15_points": 0.0,
+    "week_16_points": 60.36
+  },
+  {
+    "place": 6,
+    "label": "Sixth Place",
+    "team_id": "1",
+    "team_name": "Nuthin but a Green Thang",
+    "points": 59.76,
+    "week_15_points": 0.0,
+    "week_16_points": 59.76
+  },
+  {
+    "place": 7,
+    "label": "Seventh Place",
+    "team_id": "11",
+    "team_name": "Suicide Squad",
+    "points": 67.34,
+    "week_15_points": 0.0,
+    "week_16_points": 67.34
+  },
+  {
+    "place": 8,
+    "label": "Eighth Place",
+    "team_id": "2",
+    "team_name": "Don't Check My Pryors",
+    "points": 71.68,
+    "week_15_points": 0.0,
+    "week_16_points": 71.68
+  },
+  {
+    "place": 9,
+    "label": "Ninth Place",
+    "team_id": "8",
+    "team_name": "O Beckham Where Art Thou",
+    "points": 64.82,
+    "week_15_points": 0.0,
+    "week_16_points": 64.82
+  },
+  {
+    "place": 10,
+    "label": "Tenth Place",
+    "team_id": "9",
+    "team_name": "Diggs It",
+    "points": 96.6,
+    "week_15_points": 0.0,
+    "week_16_points": 96.6
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "label": "Champion",
+    "team_id": "11",
+    "team_name": "Taco",
+    "points": 233.84,
+    "week_15_points": 142.5,
+    "week_16_points": 91.34
+  },
+  {
+    "place": 2,
+    "label": "Runner Up",
+    "team_id": "4",
+    "team_name": "BedonkaGronk",
+    "points": 145.3,
+    "week_15_points": 69.52,
+    "week_16_points": 75.78
+  },
+  {
+    "place": 3,
+    "label": "Third Place",
+    "team_id": "10",
+    "team_name": "ENDER",
+    "points": 164.64,
+    "week_15_points": 63.26,
+    "week_16_points": 101.38
+  },
+  {
+    "place": 4,
+    "label": "Fourth Place",
+    "team_id": "1",
+    "team_name": "Forgetting Brandon Marshall",
+    "points": 160.95999999999998,
+    "week_15_points": 65.86,
+    "week_16_points": 95.1
+  },
+  {
+    "place": 7,
+    "label": "Seventh Place",
+    "team_id": "6",
+    "team_name": "Dragon Army",
+    "points": 0.0
+  },
+  {
+    "place": 8,
+    "label": "Eighth Place",
+    "team_id": "12",
+    "team_name": "Swagger Badgers",
+    "points": 0.0
+  },
+  {
+    "place": 9,
+    "label": "Ninth Place",
+    "team_id": "8",
+    "team_name": "Recepticons",
+    "points": 0.0
+  },
+  {
+    "place": 10,
+    "label": "Tenth Place",
+    "team_id": "3",
+    "team_name": "Hardball with Ryan Mathews",
+    "points": 0.0
+  },
+  {
+    "place": 11,
+    "label": "Eleventh Place",
+    "team_id": "9",
+    "team_name": "Gimme the docta",
+    "points": 0.0
+  },
+  {
+    "place": 12,
+    "label": "Twelfth Place",
+    "team_id": "5",
+    "team_name": "Fifty Shades of Garay",
+    "points": 0.0
+  }
+]

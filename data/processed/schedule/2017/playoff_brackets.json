@@ -1,0 +1,239 @@
+{
+  "winners_bracket": {
+    "round_1": [],
+    "championship_week": {
+      "championship": [
+        {
+          "game_id": "201716712",
+          "home_team": {
+            "id": "7",
+            "name": "New Gurley",
+            "points": 122.3
+          },
+          "away_team": {
+            "id": "12",
+            "name": "Hooked on a Thielen",
+            "points": 76.84
+          },
+          "winner": "7"
+        }
+      ],
+      "third_place": [
+        {
+          "game_id": "20171557",
+          "home_team": {
+            "id": "5",
+            "name": "Ultralight Kareem",
+            "points": 129.38
+          },
+          "away_team": {
+            "id": "7",
+            "name": "New Gurley",
+            "points": 136.74
+          },
+          "winner": "7"
+        },
+        {
+          "game_id": "201715126",
+          "home_team": {
+            "id": "12",
+            "name": "Hooked on a Thielen",
+            "points": 98.98
+          },
+          "away_team": {
+            "id": "6",
+            "name": "Roaring Rivers",
+            "points": 85.88
+          },
+          "winner": "12"
+        },
+        {
+          "game_id": "20171656",
+          "home_team": {
+            "id": "5",
+            "name": "Ultralight Kareem",
+            "points": 73.72
+          },
+          "away_team": {
+            "id": "6",
+            "name": "Roaring Rivers",
+            "points": 104.2
+          },
+          "winner": "6"
+        }
+      ],
+      "mediocre_bowl": []
+    }
+  },
+  "middle_teams_bracket": {
+    "round_1": [],
+    "mediocre_bowl": [
+      {
+        "game_id": "20171613",
+        "home_team": {
+          "id": "1",
+          "name": "Nuthin but a Green Thang",
+          "points": 59.76
+        },
+        "away_team": {
+          "id": "3",
+          "name": "Allen the Family",
+          "points": 60.36
+        },
+        "winner": "3"
+      }
+    ]
+  },
+  "consolation_bracket": {
+    "round_1": [
+      {
+        "game_id": "20171439",
+        "home_team": {
+          "id": "3",
+          "name": "Allen the Family",
+          "points": 67.22
+        },
+        "away_team": {
+          "id": "9",
+          "name": "Diggs It",
+          "points": 82.64
+        },
+        "winner": "9"
+      }
+    ],
+    "toilet_bowl": [
+      {
+        "game_id": "20171582",
+        "home_team": {
+          "id": "8",
+          "name": "O Beckham Where Art Thou",
+          "points": 64.82
+        },
+        "away_team": {
+          "id": "2",
+          "name": "Don't Check My Pryors",
+          "points": 70.84
+        },
+        "winner": "2"
+      },
+      {
+        "game_id": "201715119",
+        "home_team": {
+          "id": "11",
+          "name": "Suicide Squad",
+          "points": 98.14
+        },
+        "away_team": {
+          "id": "9",
+          "name": "Diggs It",
+          "points": 96.6
+        },
+        "winner": "11"
+      },
+      {
+        "game_id": "201716211",
+        "home_team": {
+          "id": "2",
+          "name": "Don't Check My Pryors",
+          "points": 71.68
+        },
+        "away_team": {
+          "id": "11",
+          "name": "Suicide Squad",
+          "points": 67.34
+        },
+        "winner": "2"
+      }
+    ]
+  },
+  "middle_teams": [
+    {
+      "seed": 5,
+      "team_id": "1",
+      "team_name": "Nuthin but a Green Thang",
+      "record": "7-7-0"
+    },
+    {
+      "seed": 6,
+      "team_id": "3",
+      "team_name": "Allen the Family",
+      "record": "6-8-0"
+    }
+  ],
+  "seeds": {
+    "winners_bracket": [
+      {
+        "seed": 1,
+        "team_id": "12",
+        "team_name": "Hooked on a Thielen",
+        "record": "10-4-0"
+      },
+      {
+        "seed": 2,
+        "team_id": "6",
+        "team_name": "Roaring Rivers",
+        "record": "10-4-0"
+      },
+      {
+        "seed": 3,
+        "team_id": "5",
+        "team_name": "Ultralight Kareem",
+        "record": "10-4-0"
+      },
+      {
+        "seed": 4,
+        "team_id": "7",
+        "team_name": "New Gurley",
+        "record": "9-5-0"
+      }
+    ],
+    "consolation_bracket": [
+      {
+        "seed": 7,
+        "team_id": "8",
+        "team_name": "O Beckham Where Art Thou",
+        "record": "6-8-0"
+      },
+      {
+        "seed": 8,
+        "team_id": "11",
+        "team_name": "Suicide Squad",
+        "record": "5-9-0"
+      },
+      {
+        "seed": 9,
+        "team_id": "9",
+        "team_name": "Diggs It",
+        "record": "4-10-0"
+      },
+      {
+        "seed": 10,
+        "team_id": "2",
+        "team_name": "Don't Check My Pryors",
+        "record": "3-11-0"
+      }
+    ]
+  },
+  "first_round_matchups": [
+    {
+      "home": 1,
+      "away": 4
+    },
+    {
+      "home": 2,
+      "away": 3
+    },
+    {
+      "home": 5,
+      "away": 6
+    },
+    {
+      "home": 7,
+      "away": 10
+    },
+    {
+      "home": 8,
+      "away": 9
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "winners_bracket": {
+    "round_1": [
+      {
+        "game_id": "20161437",
+        "home_team": {
+          "id": "3",
+          "name": "Aiken' for the ThreePeat",
+          "points": 85.88
+        },
+        "away_team": {
+          "id": "7",
+          "name": "LCD Stagsystem",
+          "points": 64.94
+        },
+        "winner": "3"
+      }
+    ],
+    "championship_week": {
+      "championship": [
+        {
+          "game_id": "201616113",
+          "home_team": {
+            "id": "11",
+            "name": "Outback Jakehouse",
+            "points": 137.48
+          },
+          "away_team": {
+            "id": "3",
+            "name": "Aiken' for the ThreePeat",
+            "points": 78.08
+          },
+          "winner": "11"
+        }
+      ],
+      "third_place": [
+        {
+          "game_id": "201615611",
+          "home_team": {
+            "id": "6",
+            "name": "HYDROPOWER",
+            "points": 72.88
+          },
+          "away_team": {
+            "id": "11",
+            "name": "Outback Jakehouse",
+            "points": 78.98
+          },
+          "winner": "11"
+        },
+        {
+          "game_id": "20161532",
+          "home_team": {
+            "id": "3",
+            "name": "Aiken' for the ThreePeat",
+            "points": 114.64
+          },
+          "away_team": {
+            "id": "2",
+            "name": "King Goffery",
+            "points": 98.86
+          },
+          "winner": "3"
+        },
+        {
+          "game_id": "20161662",
+          "home_team": {
+            "id": "6",
+            "name": "HYDROPOWER",
+            "points": 68.88
+          },
+          "away_team": {
+            "id": "2",
+            "name": "King Goffery",
+            "points": 102.86
+          },
+          "winner": "2"
+        }
+      ],
+      "fifth_place": []
+    }
+  },
+  "middle_teams_bracket": {
+    "round_1": [],
+    "mediocre_bowl": []
+  },
+  "consolation_bracket": {
+    "round_1": [
+      {
+        "game_id": "201614124",
+        "home_team": {
+          "id": "12",
+          "name": "theres something about Mathews",
+          "points": 104.14
+        },
+        "away_team": {
+          "id": "4",
+          "name": "The PTY's",
+          "points": 102.7
+        },
+        "winner": "12"
+      }
+    ],
+    "toilet_bowl": [
+      {
+        "game_id": "201615108",
+        "home_team": {
+          "id": "10",
+          "name": "Cole's Drafted Players",
+          "points": 109.4
+        },
+        "away_team": {
+          "id": "8",
+          "name": "Miller High Lyfe",
+          "points": 58.38
+        },
+        "winner": "10"
+      },
+      {
+        "game_id": "20161549",
+        "home_team": {
+          "id": "4",
+          "name": "The PTY's",
+          "points": 76.14
+        },
+        "away_team": {
+          "id": "9",
+          "name": "Mon Don't Grief",
+          "points": 91.12
+        },
+        "winner": "9"
+      },
+      {
+        "game_id": "201616109",
+        "home_team": {
+          "id": "10",
+          "name": "Cole's Drafted Players",
+          "points": 112.12
+        },
+        "away_team": {
+          "id": "9",
+          "name": "Mon Don't Grief",
+          "points": 77.48
+        },
+        "winner": "10"
+      },
+      {
+        "game_id": "20161684",
+        "home_team": {
+          "id": "8",
+          "name": "Miller High Lyfe",
+          "points": 95.6
+        },
+        "away_team": {
+          "id": "4",
+          "name": "The PTY's",
+          "points": 108.3
+        },
+        "winner": "4"
+      }
+    ]
+  },
+  "seeds": {
+    "winners_bracket": [
+      {
+        "seed": 1,
+        "team_id": "3",
+        "team_name": "Aiken' for the ThreePeat",
+        "record": "9-5-0"
+      },
+      {
+        "seed": 2,
+        "team_id": "6",
+        "team_name": "HYDROPOWER",
+        "record": "9-4-0"
+      },
+      {
+        "seed": 3,
+        "team_id": "11",
+        "team_name": "Outback Jakehouse",
+        "record": "8-6-0"
+      },
+      {
+        "seed": 4,
+        "team_id": "2",
+        "team_name": "King Goffery",
+        "record": "8-5-0"
+      },
+      {
+        "seed": 5,
+        "team_id": "5",
+        "team_name": "Joey Bosa Shrug Emoji",
+        "record": "7-7-0"
+      },
+      {
+        "seed": 6,
+        "team_id": "7",
+        "team_name": "LCD Stagsystem",
+        "record": "7-7-0"
+      }
+    ],
+    "consolation_bracket": [
+      {
+        "seed": 7,
+        "team_id": "1",
+        "team_name": "Latavius Maximus",
+        "record": "7-7-0"
+      },
+      {
+        "seed": 8,
+        "team_id": "12",
+        "team_name": "theres something about Mathews",
+        "record": "7-7-0"
+      },
+      {
+        "seed": 9,
+        "team_id": "4",
+        "team_name": "The PTY's",
+        "record": "6-8-0"
+      },
+      {
+        "seed": 10,
+        "team_id": "8",
+        "team_name": "Miller High Lyfe",
+        "record": "6-8-0"
+      },
+      {
+        "seed": 11,
+        "team_id": "10",
+        "team_name": "Cole's Drafted Players",
+        "record": "4-9-0"
+      },
+      {
+        "seed": 12,
+        "team_id": "9",
+        "team_name": "Mon Don't Grief",
+        "record": "4-9-0"
+      }
+    ]
+  },
+  "first_round_matchups": [
+    {
+      "home": 1,
+      "away": 4
+    },
+    {
+      "home": 2,
+      "away": 3
+    },
+    {
+      "home": 5,
+      "away": 6
+    },
+    {
+      "home": 7,
+      "away": 10
+    },
+    {
+      "home": 8,
+      "away": 9
+    },
+    {
+      "home": 11,
+      "away": 12
+    }
+  ]
+}

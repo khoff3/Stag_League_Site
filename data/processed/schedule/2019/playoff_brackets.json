@@ -1,0 +1,324 @@
+{
+  "winners_bracket": {
+    "round_1": [
+      {
+        "game_id": "20191449",
+        "home_team": {
+          "id": "4",
+          "name": "Christian Mingle",
+          "points": 88.22
+        },
+        "away_team": {
+          "id": "9",
+          "name": "Avengers Engram",
+          "points": 68.56
+        },
+        "winner": "4"
+      },
+      {
+        "game_id": "20191426",
+        "home_team": {
+          "id": "2",
+          "name": "Taupe Blougholes",
+          "points": 91.64
+        },
+        "away_team": {
+          "id": "6",
+          "name": "Free Melvy",
+          "points": 85.24
+        },
+        "winner": "2"
+      }
+    ],
+    "championship_week": {
+      "championship": [
+        {
+          "game_id": "201916512",
+          "home_team": {
+            "id": "5",
+            "name": "Jacobs' Ladder",
+            "points": 102.62
+          },
+          "away_team": {
+            "id": "12",
+            "name": "Fast Times at Ridley High",
+            "points": 84.56
+          },
+          "winner": "5"
+        }
+      ],
+      "third_place": [
+        {
+          "game_id": "20191554",
+          "home_team": {
+            "id": "5",
+            "name": "Jacobs' Ladder",
+            "points": 117.88
+          },
+          "away_team": {
+            "id": "4",
+            "name": "Christian Mingle",
+            "points": 112.2
+          },
+          "winner": "5"
+        },
+        {
+          "game_id": "201915212",
+          "home_team": {
+            "id": "2",
+            "name": "Taupe Blougholes",
+            "points": 63.68
+          },
+          "away_team": {
+            "id": "12",
+            "name": "Fast Times at Ridley High",
+            "points": 112.74
+          },
+          "winner": "12"
+        },
+        {
+          "game_id": "20191642",
+          "home_team": {
+            "id": "4",
+            "name": "Christian Mingle",
+            "points": 75.12
+          },
+          "away_team": {
+            "id": "2",
+            "name": "Taupe Blougholes",
+            "points": 69.66
+          },
+          "winner": "4"
+        }
+      ],
+      "fifth_place": [
+        {
+          "game_id": "20191696",
+          "home_team": {
+            "id": "9",
+            "name": "Avengers Engram",
+            "points": 89.38
+          },
+          "away_team": {
+            "id": "6",
+            "name": "Free Melvy",
+            "points": 119.18
+          },
+          "winner": "6"
+        }
+      ]
+    }
+  },
+  "middle_teams_bracket": {
+    "round_1": [],
+    "mediocre_bowl": []
+  },
+  "consolation_bracket": {
+    "round_1": [
+      {
+        "game_id": "201914311",
+        "home_team": {
+          "id": "3",
+          "name": "Macker Barrel Ol Country Store",
+          "points": 92.48
+        },
+        "away_team": {
+          "id": "11",
+          "name": "Sasquontch",
+          "points": 98.1
+        },
+        "winner": "11"
+      },
+      {
+        "game_id": "201914108",
+        "home_team": {
+          "id": "10",
+          "name": "MaHomes Depot",
+          "points": 75.32
+        },
+        "away_team": {
+          "id": "8",
+          "name": "Breezin",
+          "points": 122.36
+        },
+        "winner": "8"
+      }
+    ],
+    "toilet_bowl": [
+      {
+        "game_id": "20191517",
+        "home_team": {
+          "id": "1",
+          "name": "Califournettecation",
+          "points": 111.22
+        },
+        "away_team": {
+          "id": "7",
+          "name": "Zach and the Fucked by JuJu",
+          "points": 105.52
+        },
+        "winner": "1"
+      },
+      {
+        "game_id": "201915103",
+        "home_team": {
+          "id": "10",
+          "name": "MaHomes Depot",
+          "points": 92.1
+        },
+        "away_team": {
+          "id": "3",
+          "name": "Macker Barrel Ol Country Store",
+          "points": 81.74
+        },
+        "winner": "10"
+      },
+      {
+        "game_id": "20191617",
+        "home_team": {
+          "id": "1",
+          "name": "Califournettecation",
+          "points": 83.3
+        },
+        "away_team": {
+          "id": "7",
+          "name": "Zach and the Fucked by JuJu",
+          "points": 118.06
+        },
+        "winner": "7"
+      },
+      {
+        "game_id": "201916118",
+        "home_team": {
+          "id": "11",
+          "name": "Sasquontch",
+          "points": 91.36
+        },
+        "away_team": {
+          "id": "8",
+          "name": "Breezin",
+          "points": 52.5
+        },
+        "winner": "11"
+      },
+      {
+        "game_id": "201916103",
+        "home_team": {
+          "id": "10",
+          "name": "MaHomes Depot",
+          "points": 110.34
+        },
+        "away_team": {
+          "id": "3",
+          "name": "Macker Barrel Ol Country Store",
+          "points": 67.54
+        },
+        "winner": "10"
+      }
+    ]
+  },
+  "seeds": {
+    "winners_bracket": [
+      {
+        "seed": 1,
+        "team_id": "5",
+        "team_name": "Jacobs' Ladder",
+        "record": "11-2-0"
+      },
+      {
+        "seed": 2,
+        "team_id": "12",
+        "team_name": "Fast Times at Ridley High",
+        "record": "10-3-0"
+      },
+      {
+        "seed": 3,
+        "team_id": "2",
+        "team_name": "Taupe Blougholes",
+        "record": "9-4-0"
+      },
+      {
+        "seed": 4,
+        "team_id": "9",
+        "team_name": "Avengers Engram",
+        "record": "8-5-0"
+      },
+      {
+        "seed": 5,
+        "team_id": "4",
+        "team_name": "Christian Mingle",
+        "record": "8-4-1"
+      },
+      {
+        "seed": 6,
+        "team_id": "6",
+        "team_name": "Free Melvy",
+        "record": "7-6-0"
+      }
+    ],
+    "consolation_bracket": [
+      {
+        "seed": 7,
+        "team_id": "1",
+        "team_name": "Califournettecation",
+        "record": "6-7-0"
+      },
+      {
+        "seed": 8,
+        "team_id": "7",
+        "team_name": "Zach and the Fucked by JuJu",
+        "record": "5-8-0"
+      },
+      {
+        "seed": 9,
+        "team_id": "10",
+        "team_name": "MaHomes Depot",
+        "record": "5-8-0"
+      },
+      {
+        "seed": 10,
+        "team_id": "3",
+        "team_name": "Macker Barrel Ol Country Store",
+        "record": "4-9-0"
+      },
+      {
+        "seed": 11,
+        "team_id": "11",
+        "team_name": "Sasquontch",
+        "record": "3-10-0"
+      },
+      {
+        "seed": 12,
+        "team_id": "8",
+        "team_name": "Breezin",
+        "record": "1-11-1"
+      }
+    ]
+  },
+  "first_round_matchups": [
+    {
+      "home": 1,
+      "away": 4
+    },
+    {
+      "home": 2,
+      "away": 3
+    },
+    {
+      "home": 5,
+      "away": 6
+    },
+    {
+      "home": 7,
+      "away": 10
+    },
+    {
+      "home": 8,
+      "away": 9
+    },
+    {
+      "home": 11,
+      "away": 12
+    }
+  ]
+}

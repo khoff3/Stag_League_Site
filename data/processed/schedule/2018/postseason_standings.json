@@ -1,0 +1,98 @@
+[
+  {
+    "place": 1,
+    "label": "Champion",
+    "team_id": "9",
+    "team_name": "Mahomes Room",
+    "points": 136.82,
+    "week_15_points": 0.0,
+    "week_16_points": 136.82
+  },
+  {
+    "place": 2,
+    "label": "Runner Up",
+    "team_id": "5",
+    "team_name": "Kamara Obscura",
+    "points": 106.58,
+    "week_15_points": 0.0,
+    "week_16_points": 106.58
+  },
+  {
+    "place": 3,
+    "label": "Third Place",
+    "team_id": "1",
+    "team_name": "Johnson and Johnson",
+    "points": 125.72,
+    "week_15_points": 80.74,
+    "week_16_points": 44.98
+  },
+  {
+    "place": 4,
+    "label": "Fourth Place",
+    "team_id": "3",
+    "team_name": "Capn' Geno's",
+    "points": 153.04,
+    "week_15_points": 86.22,
+    "week_16_points": 66.82
+  },
+  {
+    "place": 5,
+    "label": "Fifth Place",
+    "team_id": "11",
+    "team_name": "BreesCassidyandtheStefonDiggs",
+    "points": 144.18,
+    "week_15_points": 67.54,
+    "week_16_points": 76.64
+  },
+  {
+    "place": 6,
+    "label": "Sixth Place",
+    "team_id": "4",
+    "team_name": "Watson on Sunshine",
+    "points": 145.62,
+    "week_15_points": 72.28,
+    "week_16_points": 73.34
+  },
+  {
+    "place": 7,
+    "label": "Seventh Place",
+    "team_id": "10",
+    "team_name": "Risk It For The Trubiscuit",
+    "points": 0.0
+  },
+  {
+    "place": 8,
+    "label": "Eighth Place",
+    "team_id": "6",
+    "team_name": "Roaring Rivers of Freedom",
+    "points": 0.0
+  },
+  {
+    "place": 9,
+    "label": "Ninth Place",
+    "team_id": "7",
+    "team_name": "The Great Gronksby",
+    "points": 0.0
+  },
+  {
+    "place": 10,
+    "label": "Tenth Place",
+    "team_id": "2",
+    "team_name": "ZekeZone",
+    "points": 0.0
+  },
+  {
+    "place": 11,
+    "label": "Eleventh Place",
+    "team_id": "8",
+    "team_name": "Pop Lockett Drop It",
+    "points": 0.0
+  },
+  {
+    "place": 12,
+    "label": "Twelfth Place",
+    "team_id": "12",
+    "team_name": "No League for Old Men",
+    "points": 0.0
+  }
+]

@@ -1,0 +1,181 @@
+year,nomination,round,pick,overall_pick,player_id,player_name,position,nfl_team,fantasy_team_id,fantasy_team_name,owner_name,auction_cost,draft_type,scraped_at
+2018,,1,1,1,2552475,Todd Gurley,RB,LA,4,Watson on Sunshine,Craig,,snake,2025-07-01T16:37:39.539225
+2018,,1,2,2,2555224,Ezekiel Elliott,RB,DAL,2,ZekeZone,Ryan,,snake,2025-07-01T16:37:39.539383
+2018,,1,3,3,2553435,David Johnson,RB,ARI,1,Johnson and Johnson,Matt,,snake,2025-07-01T16:37:39.539526
+2018,,1,4,4,2540175,Le'Veon Bell,RB,PIT,7,The Great Gronksby,Zach,,snake,2025-07-01T16:37:39.539662
+2018,,1,5,5,2508061,Antonio Brown,WR,PIT,12,No League for Old Men,James,,snake,2025-07-01T16:37:39.539799
+2018,,1,6,6,2560968,Saquon Barkley,RB,NYG,10,Risk It For The Trubiscuit,Benjamin,,snake,2025-07-01T16:37:39.539926
+2018,,1,7,7,2552469,Melvin Gordon,RB,LAC,11,BreesCassidyandtheStefonDiggs,Jake,,snake,2025-07-01T16:37:39.540046
+2018,,1,8,8,2558019,Alvin Kamara,RB,NO,5,Kamara Obscura,Benjy,,snake,2025-07-01T16:37:39.540180
+2018,,1,9,9,2495454,Julio Jones,WR,ATL,8,Pop Lockett Drop It,Nick,,snake,2025-07-01T16:37:39.540314
+2018,,1,10,10,2557973,Leonard Fournette,RB,JAX,9,Mahomes Room,Kyle,,snake,2025-07-01T16:37:39.540445
+2018,,1,11,11,2557917,Kareem Hunt,,,3,Capn' Geno's,Cameron,,snake,2025-07-01T16:37:39.540578
+2018,,1,12,12,2540165,DeAndre Hopkins,WR,HOU,6,Roaring Rivers of Freedom,Alexander,,snake,2025-07-01T16:37:39.540710
+2018,,2,13,25,2543496,Odell Beckham,WR,NYG,6,Roaring Rivers of Freedom,Alexander,,snake,2025-07-01T16:37:40.325903
+2018,,2,14,26,2557997,Christian McCaffrey,RB,CAR,3,Capn' Geno's,Cameron,,snake,2025-07-01T16:37:40.326052
+2018,,2,15,27,2556370,Michael Thomas,WR,NO,9,Mahomes Room,Kyle,,snake,2025-07-01T16:37:40.326219
+2018,,2,16,28,2557991,Dalvin Cook,RB,MIN,8,Pop Lockett Drop It,Nick,,snake,2025-07-01T16:37:40.326468
+2018,,2,17,29,2543495,Davante Adams,WR,GB,5,Kamara Obscura,Benjy,,snake,2025-07-01T16:37:40.326694
+2018,,2,18,30,2557976,Joe Mixon,RB,CIN,11,BreesCassidyandtheStefonDiggs,Jake,,snake,2025-07-01T16:37:40.326907
+2018,,2,19,31,2543583,Devonta Freeman,RB,ATL,10,Risk It For The Trubiscuit,Benjamin,,snake,2025-07-01T16:37:40.327119
+2018,,2,20,32,2495450,A.J. Green,WR,CIN,12,No League for Old Men,James,,snake,2025-07-01T16:37:40.327330
+2018,,2,21,33,2555418,Jordan Howard,RB,CHI,7,The Great Gronksby,Zach,,snake,2025-07-01T16:37:40.327452
+2018,,2,22,34,2540154,Keenan Allen,WR,LAC,1,Johnson and Johnson,Matt,,snake,2025-07-01T16:37:40.327578
+2018,,2,23,35,2543468,Mike Evans,WR,TB,2,ZekeZone,Ryan,,snake,2025-07-01T16:37:40.327759
+2018,,2,24,36,2540258,Travis Kelce,TE,KC,4,Watson on Sunshine,Craig,,snake,2025-07-01T16:37:40.327953
+2018,,3,25,49,2556075,Derrick Henry,RB,TEN,4,Watson on Sunshine,Craig,,snake,2025-07-01T16:37:41.116618
+2018,,3,26,50,2552582,Jay Ajayi,RB,PHI,2,ZekeZone,Ryan,,snake,2025-07-01T16:37:41.116804
+2018,,3,27,51,2556214,Tyreek Hill,WR,KC,1,Johnson and Johnson,Matt,,snake,2025-07-01T16:37:41.116965
+2018,,3,28,52,497240,Rob Gronkowski,TE,NE,7,The Great Gronksby,Zach,,snake,2025-07-01T16:37:41.117099
+2018,,3,29,53,79607,LeSean McCoy,RB,BUF,12,No League for Old Men,James,,snake,2025-07-01T16:37:41.117230
+2018,,3,30,54,2532865,T.Y. Hilton,WR,IND,10,Risk It For The Trubiscuit,Benjamin,,snake,2025-07-01T16:37:41.117357
+2018,,3,31,55,2530747,Doug Baldwin,WR,SEA,11,BreesCassidyandtheStefonDiggs,Jake,,snake,2025-07-01T16:37:41.117489
+2018,,3,32,56,2541785,Adam Thielen,WR,MIN,5,Kamara Obscura,Benjy,,snake,2025-07-01T16:37:41.117618
+2018,,3,33,57,2540158,Zach Ertz,TE,PHI,8,Pop Lockett Drop It,Nick,,snake,2025-07-01T16:37:41.117734
+2018,,3,34,58,2552487,Amari Cooper,WR,DAL,9,Mahomes Room,Kyle,,snake,2025-07-01T16:37:41.117862
+2018,,3,35,59,2530515,Chris Hogan,WR,NE,3,Capn' Geno's,Cameron,,snake,2025-07-01T16:37:41.117990
+2018,,3,36,60,2533034,Lamar Miller,RB,HOU,6,Roaring Rivers of Freedom,Alexander,,snake,2025-07-01T16:37:41.118121
+2018,,4,37,73,2555430,Alex Collins,RB,BAL,6,Roaring Rivers of Freedom,Alexander,,snake,2025-07-01T16:37:41.942464
+2018,,4,38,74,2543498,Brandin Cooks,WR,LA,3,Capn' Geno's,Cameron,,snake,2025-07-01T16:37:41.942590
+2018,,4,39,75,2555230,Kenyan Drake,RB,MIA,9,Mahomes Room,Kyle,,snake,2025-07-01T16:37:41.942704
+2018,,4,40,76,2495466,Mark Ingram,RB,NO,8,Pop Lockett Drop It,Nick,,snake,2025-07-01T16:37:41.942818
+2018,,4,41,77,2560733,Royce Freeman,RB,DEN,5,Kamara Obscura,Benjy,,snake,2025-07-01T16:37:41.942928
+2018,,4,42,78,2552608,Stefon Diggs,WR,MIN,11,BreesCassidyandtheStefonDiggs,Jake,,snake,2025-07-01T16:37:41.943038
+2018,,4,43,79,2543509,Allen Robinson,WR,CHI,10,Risk It For The Trubiscuit,Benjamin,,snake,2025-07-01T16:37:41.943146
+2018,,4,44,80,2495663,Marshawn Lynch,RB,LV,12,No League for Old Men,James,,snake,2025-07-01T16:37:41.943256
+2018,,4,45,81,2539265,Rex Burkhead,RB,NE,7,The Great Gronksby,Zach,,snake,2025-07-01T16:37:41.943380
+2018,,4,46,82,2506363,Aaron Rodgers,QB,GB,1,Johnson and Johnson,Matt,,snake,2025-07-01T16:37:41.943496
+2018,,4,47,83,2558149,JuJu Smith-Schuster,WR,PIT,2,ZekeZone,Ryan,,snake,2025-07-01T16:37:41.943609
+2018,,4,48,84,497328,Demaryius Thomas,WR,HOU,4,Watson on Sunshine,Craig,,snake,2025-07-01T16:37:41.943720
+2018,,5,49,97,2558063,Deshaun Watson,QB,HOU,4,Watson on Sunshine,Craig,,snake,2025-07-01T16:37:42.711799
+2018,,5,50,98,2495469,Dion Lewis,RB,TEN,2,ZekeZone,Ryan,,snake,2025-07-01T16:37:42.711932
+2018,,5,51,99,2560765,Kerryon Johnson,RB,DET,1,Johnson and Johnson,Matt,,snake,2025-07-01T16:37:42.712049
+2018,,5,52,100,2506106,Larry Fitzgerald,WR,ARI,7,The Great Gronksby,Zach,,snake,2025-07-01T16:37:42.712187
+2018,,5,53,101,497236,Jimmy Graham,TE,GB,12,No League for Old Men,James,,snake,2025-07-01T16:37:42.712311
+2018,,5,54,102,497326,Golden Tate,WR,PHI,10,Risk It For The Trubiscuit,Benjamin,,snake,2025-07-01T16:37:42.712443
+2018,,5,55,103,2543743,Carlos Hyde,RB,JAX,11,BreesCassidyandtheStefonDiggs,Jake,,snake,2025-07-01T16:37:42.712572
+2018,,5,56,104,2552453,Tevin Coleman,RB,ATL,5,Kamara Obscura,Benjy,,snake,2025-07-01T16:37:42.712704
+2018,,5,57,105,2537931,Josh Gordon,WR,NE,8,Pop Lockett Drop It,Nick,,snake,2025-07-01T16:37:42.712833
+2018,,5,58,106,2557848,Corey Davis,WR,TEN,9,Mahomes Room,Kyle,,snake,2025-07-01T16:37:42.712962
+2018,,5,59,107,2555346,Will Fuller,WR,HOU,3,Capn' Geno's,Cameron,,snake,2025-07-01T16:37:42.713084
+2018,,5,60,108,2540011,Chris Thompson,RB,WAS,6,Roaring Rivers of Freedom,Alexander,,snake,2025-07-01T16:37:42.713204
+2018,,6,61,121,2560835,Rashaad Penny,RB,SEA,6,Roaring Rivers of Freedom,Alexander,,snake,2025-07-01T16:37:43.493941
+2018,,6,62,122,2539964,Marquise Goodwin,WR,SF,3,Capn' Geno's,Cameron,,snake,2025-07-01T16:37:43.494080
+2018,,6,63,123,2543488,Jarvis Landry,WR,CLE,9,Mahomes Room,Kyle,,snake,2025-07-01T16:37:43.494211
+2018,,6,64,124,2552461,Duke Johnson,RB,CLE,8,Pop Lockett Drop It,Nick,,snake,2025-07-01T16:37:43.494337
+2018,,6,65,125,2532884,Marvin Jones,WR,DET,5,Kamara Obscura,Benjy,,snake,2025-07-01T16:37:43.494460
+2018,,6,66,126,2533039,Alshon Jeffery,WR,PHI,11,BreesCassidyandtheStefonDiggs,Jake,,snake,2025-07-01T16:37:43.494652
+2018,,6,67,127,2558250,Tarik Cohen,RB,CHI,10,Risk It For The Trubiscuit,Benjamin,,snake,2025-07-01T16:37:43.494783
+2018,,6,68,128,2550189,Isaiah Crowell,RB,NYJ,12,No League for Old Men,James,,snake,2025-07-01T16:37:43.494899
+2018,,6,69,129,2552458,Devin Funchess,WR,CAR,7,The Great Gronksby,Zach,,snake,2025-07-01T16:37:43.495011
+2018,,6,70,130,497322,Emmanuel Sanders,WR,DEN,1,Johnson and Johnson,Matt,,snake,2025-07-01T16:37:43.495128
+2018,,6,71,131,71269,Michael Crabtree,WR,BAL,2,ZekeZone,Ryan,,snake,2025-07-01T16:37:43.495244
+2018,,6,72,132,2555343,Josh Doctson,WR,WAS,4,Watson on Sunshine,Craig,,snake,2025-07-01T16:37:43.495378
+2018,,7,73,145,2556466,Peyton Barber,RB,TB,4,Watson on Sunshine,Craig,,snake,2025-07-01T16:37:44.261299
+2018,,7,74,146,2558918,Matt Breida,RB,SF,2,ZekeZone,Ryan,,snake,2025-07-01T16:37:44.261434
+2018,,7,75,147,238498,Julian Edelman,WR,NE,1,Johnson and Johnson,Matt,,snake,2025-07-01T16:37:44.261636
+2018,,7,76,148,2504211,Tom Brady,QB,NE,7,The Great Gronksby,Zach,,snake,2025-07-01T16:37:44.261776
+2018,,7,77,149,2495448,Randall Cobb,WR,GB,12,No League for Old Men,James,,snake,2025-07-01T16:37:44.261898
+2018,,7,78,150,2540169,Robert Woods,WR,LA,10,Risk It For The Trubiscuit,Benjamin,,snake,2025-07-01T16:37:44.262016
+2018,,7,79,151,2543457,Sammy Watkins,WR,KC,11,BreesCassidyandtheStefonDiggs,Jake,,snake,2025-07-01T16:37:44.262132
+2018,,7,80,152,2495455,Cam Newton,QB,CAR,5,Kamara Obscura,Benjy,,snake,2025-07-01T16:37:44.262288
+2018,,7,81,153,2532975,Russell Wilson,QB,SEA,8,Pop Lockett Drop It,Nick,,snake,2025-07-01T16:37:44.262402
+2018,,7,82,154,2558865,Chris Carson,RB,SEA,9,Mahomes Room,Kyle,,snake,2025-07-01T16:37:44.262520
+2018,,7,83,155,2533457,Alfred Morris,RB,SF,3,Capn' Geno's,Cameron,,snake,2025-07-01T16:37:44.262635
+2018,,7,84,156,2495700,Greg Olsen,TE,CAR,6,Roaring Rivers of Freedom,Alexander,,snake,2025-07-01T16:37:44.262755
+2018,,8,85,169,2543801,Jimmy Garoppolo,QB,SF,6,Roaring Rivers of Freedom,Alexander,,snake,2025-07-01T16:37:45.026477
+2018,,8,86,170,2557858,Evan Engram,TE,NYG,3,Capn' Geno's,Cameron,,snake,2025-07-01T16:37:45.026629
+2018,,8,87,171,2495966,Delanie Walker,TE,TEN,9,Mahomes Room,Kyle,,snake,2025-07-01T16:37:45.026755
+2018,,8,88,172,2346,Pierre Garcon,WR,SF,8,Pop Lockett Drop It,Nick,,snake,2025-07-01T16:37:45.026877
+2018,,8,89,173,2560809,Sony Michel,RB,NE,5,Kamara Obscura,Benjy,,snake,2025-07-01T16:37:45.027000
+2018,,8,90,174,2558123,Marlon Mack,RB,IND,11,BreesCassidyandtheStefonDiggs,Jake,,snake,2025-07-01T16:37:45.027123
+2018,,8,91,175,2550284,Trey Burton,TE,CHI,10,Risk It For The Trubiscuit,Benjamin,,snake,2025-07-01T16:37:45.027254
+2018,,8,92,176,2507164,Adrian Peterson,RB,WAS,12,No League for Old Men,James,,snake,2025-07-01T16:37:45.027381
+2018,,8,93,177,2558204,Jamaal Williams,RB,GB,7,The Great Gronksby,Zach,,snake,2025-07-01T16:37:45.027503
+2018,,8,94,178,2495438,Kyle Rudolph,TE,MIN,1,Johnson and Johnson,Matt,,snake,2025-07-01T16:37:45.027630
+2018,,8,95,179,2540269,C.J. Anderson,RB,LA,2,ZekeZone,Ryan,,snake,2025-07-01T16:37:45.027751
+2018,,8,96,180,2552600,Nelson Agholor,WR,PHI,4,Watson on Sunshine,Craig,,snake,2025-07-01T16:37:45.027863
+2018,,9,97,193,2495328,Bilal Powell,RB,NYJ,4,Watson on Sunshine,Craig,,snake,2025-07-01T16:37:45.846442
+2018,,9,98,194,2533031,Andrew Luck,QB,IND,2,ZekeZone,Ryan,,snake,2025-07-01T16:37:45.846611
+2018,,9,99,195,2559150,Corey Clement,RB,PHI,1,Johnson and Johnson,Matt,,snake,2025-07-01T16:37:45.846754
+2018,,9,100,196,2560770,Ronald Jones,RB,TB,7,The Great Gronksby,Zach,,snake,2025-07-01T16:37:45.847039
+2018,,9,101,197,2557898,Cooper Kupp,WR,LA,12,No League for Old Men,James,,snake,2025-07-01T16:37:45.847193
+2018,,9,102,198,2532820,Kirk Cousins,QB,MIN,10,Risk It For The Trubiscuit,Benjamin,,snake,2025-07-01T16:37:45.847362
+2018,,9,103,199,2504775,Drew Brees,QB,NO,11,BreesCassidyandtheStefonDiggs,Jake,,snake,2025-07-01T16:37:45.847585
+2018,,9,104,200,2540160,Jordan Reed,TE,WAS,5,Kamara Obscura,Benjy,,snake,2025-07-01T16:37:45.847784
+2018,,9,105,201,2552430,Tyler Lockett,WR,SEA,8,Pop Lockett Drop It,Nick,,snake,2025-07-01T16:37:45.847951
+2018,,9,106,202,2555259,Carson Wentz,QB,PHI,9,Mahomes Room,Kyle,,snake,2025-07-01T16:37:45.848092
+2018,,9,107,203,2556462,Robby Anderson,WR,NYJ,3,Capn' Geno's,Cameron,,snake,2025-07-01T16:37:45.848270
+2018,,9,108,204,100015,Jacksonville Jaguars,,,6,Roaring Rivers of Freedom,Alexander,,snake,2025-07-01T16:37:45.848416
+2018,,10,109,217,2540202,Kenny Stills,WR,MIA,6,Roaring Rivers of Freedom,Alexander,,snake,2025-07-01T16:37:46.604385
+2018,,10,110,218,2543491,Paul Richardson,WR,WAS,3,Capn' Geno's,Cameron,,snake,2025-07-01T16:37:46.604583
+2018,,10,111,219,2561021,Nick Chubb,RB,CLE,9,Mahomes Room,Kyle,,snake,2025-07-01T16:37:46.604723
+2018,,10,112,220,2560933,Jordan Wilkins,RB,IND,8,Pop Lockett Drop It,Nick,,snake,2025-07-01T16:37:46.604850
+2018,,10,113,221,2552415,Jamison Crowder,WR,WAS,5,Kamara Obscura,Benjy,,snake,2025-07-01T16:37:46.604980
+2018,,10,114,222,2552429,Ty Montgomery,RB,BAL,11,BreesCassidyandtheStefonDiggs,Jake,,snake,2025-07-01T16:37:46.605113
+2018,,10,115,223,2543471,Kelvin Benjamin,WR,KC,10,Risk It For The Trubiscuit,Benjamin,,snake,2025-07-01T16:37:46.605252
+2018,,10,116,224,2558846,Mike Williams,WR,LAC,12,No League for Old Men,James,,snake,2025-07-01T16:37:46.605384
+2018,,10,117,225,1032,Jordy Nelson,WR,LV,7,The Great Gronksby,Zach,,snake,2025-07-01T16:37:46.605512
+2018,,10,118,226,2557986,David Njoku,TE,CLE,1,Johnson and Johnson,Matt,,snake,2025-07-01T16:37:46.605636
+2018,,10,119,227,2559169,Austin Ekeler,RB,LAC,2,ZekeZone,Ryan,,snake,2025-07-01T16:37:46.605764
+2018,,10,120,228,2543614,Donte Moncrief,WR,JAX,4,Watson on Sunshine,Craig,,snake,2025-07-01T16:37:46.605900
+2018,,11,121,241,100020,Minnesota Vikings,,,4,Watson on Sunshine,Craig,,snake,2025-07-01T16:37:47.430959
+2018,,11,122,242,2558266,George Kittle,TE,SF,2,ZekeZone,Ryan,,snake,2025-07-01T16:37:47.431210
+2018,,11,123,243,2555295,Sterling Shepard,WR,NYG,1,Johnson and Johnson,Matt,,snake,2025-07-01T16:37:47.431396
+2018,,11,124,244,2550353,Allen Hurns,WR,DAL,7,The Great Gronksby,Zach,,snake,2025-07-01T16:37:47.431563
+2018,,11,125,245,79860,Matthew Stafford,QB,DET,12,No League for Old Men,James,,snake,2025-07-01T16:37:47.431721
+2018,,11,126,246,2558008,Mitchell Trubisky,QB,CHI,10,Risk It For The Trubiscuit,Benjamin,,snake,2025-07-01T16:37:47.431879
+2018,,11,127,247,2540232,Jack Doyle,TE,IND,11,BreesCassidyandtheStefonDiggs,Jake,,snake,2025-07-01T16:37:47.432038
+2018,,11,128,248,2559153,Keelan Cole,WR,JAX,5,Kamara Obscura,Benjy,,snake,2025-07-01T16:37:47.432190
+2018,,11,129,249,2558116,Aaron Jones,RB,GB,8,Pop Lockett Drop It,Nick,,snake,2025-07-01T16:37:47.432342
+2018,,11,130,250,2558125,Patrick Mahomes,QB,KC,9,Mahomes Room,Kyle,,snake,2025-07-01T16:37:47.432502
+2018,,11,131,251,2540145,Cordarrelle Patterson,WR,NE,3,Capn' Geno's,Cameron,,snake,2025-07-01T16:37:47.432656
+2018,,11,132,252,2506121,Philip Rivers,QB,LAC,6,Roaring Rivers of Freedom,Alexander,,snake,2025-07-01T16:37:47.432798
+2018,,12,133,265,2557895,Dede Westbrook,WR,JAX,6,Roaring Rivers of Freedom,Alexander,,snake,2025-07-01T16:37:48.242033
+2018,,12,134,266,2560854,Calvin Ridley,WR,ATL,3,Capn' Geno's,Cameron,,snake,2025-07-01T16:37:48.242178
+2018,,12,135,267,100017,Los Angeles Rams,,,9,Mahomes Room,Kyle,,snake,2025-07-01T16:37:48.242312
+2018,,12,136,268,100025,Philadelphia Eagles,,,8,Pop Lockett Drop It,Nick,,snake,2025-07-01T16:37:48.242447
+2018,,12,137,269,2543773,James White,RB,NE,5,Kamara Obscura,Benjy,,snake,2025-07-01T16:37:48.242663
+2018,,12,138,270,2506340,Alex Smith,QB,WAS,11,BreesCassidyandtheStefonDiggs,Jake,,snake,2025-07-01T16:37:48.242798
+2018,,12,139,271,100005,Chicago Bears,,,10,Risk It For The Trubiscuit,Benjamin,,snake,2025-07-01T16:37:48.242924
+2018,,12,140,272,2507999,Chris Ivory,RB,BUF,12,No League for Old Men,James,,snake,2025-07-01T16:37:48.243049
+2018,,12,141,273,497149,LeGarrette Blount,RB,DET,7,The Great Gronksby,Zach,,snake,2025-07-01T16:37:48.243177
+2018,,12,142,274,100013,Houston Texans,,,1,Johnson and Johnson,Matt,,snake,2025-07-01T16:37:48.243306
+2018,,12,143,275,310,Matt Ryan,QB,ATL,2,ZekeZone,Ryan,,snake,2025-07-01T16:37:48.243434
+2018,,12,144,276,2552409,DeVante Parker,WR,MIA,4,Watson on Sunshine,Craig,,snake,2025-07-01T16:37:48.243564
+2018,,13,145,289,2534797,Greg Zuerlein,K,LA,4,Watson on Sunshine,Craig,,snake,2025-07-01T16:37:49.005977
+2018,,13,146,290,100028,Los Angeles Chargers,,,2,ZekeZone,Ryan,,snake,2025-07-01T16:37:49.006186
+2018,,13,147,291,2555223,Devontae Booker,RB,DEN,1,Johnson and Johnson,Matt,,snake,2025-07-01T16:37:49.006382
+2018,,13,148,292,100009,Denver Broncos,,,7,The Great Gronksby,Zach,,snake,2025-07-01T16:37:49.006577
+2018,,13,149,293,100002,Baltimore Ravens,,,12,No League for Old Men,James,,snake,2025-07-01T16:37:49.006761
+2018,,13,150,294,2540156,Giovani Bernard,RB,CIN,10,Risk It For The Trubiscuit,Benjamin,,snake,2025-07-01T16:37:49.006936
+2018,,13,151,295,100022,New Orleans Saints,,,11,BreesCassidyandtheStefonDiggs,Jake,,snake,2025-07-01T16:37:49.007117
+2018,,13,152,296,2552466,Marcus Mariota,QB,TEN,5,Kamara Obscura,Benjy,,snake,2025-07-01T16:37:49.007293
+2018,,13,153,297,2506109,Ben Roethlisberger,QB,PIT,8,Pop Lockett Drop It,Nick,,snake,2025-07-01T16:37:49.007469
+2018,,13,154,298,497278,Dez Bryant,WR,NO,9,Mahomes Room,Kyle,,snake,2025-07-01T16:37:49.007640
+2018,,13,155,299,2543499,Derek Carr,QB,LV,3,Capn' Geno's,Cameron,,snake,2025-07-01T16:37:49.007810
+2018,,13,156,300,2506922,Stephen Gostkowski,K,NE,6,Roaring Rivers of Freedom,Alexander,,snake,2025-07-01T16:37:49.007976
+2018,,14,157,313,2540148,Tyler Eifert,TE,CIN,6,Roaring Rivers of Freedom,Alexander,,snake,2025-07-01T16:37:49.840791
+2018,,14,158,314,2556521,Ka'imi Fairbairn,K,HOU,3,Capn' Geno's,Cameron,,snake,2025-07-01T16:37:49.840979
+2018,,14,159,315,2536340,Justin Tucker,K,BAL,9,Mahomes Room,Kyle,,snake,2025-07-01T16:37:49.841160
+2018,,14,160,316,2556601,Wil Lutz,K,NO,8,Pop Lockett Drop It,Nick,,snake,2025-07-01T16:37:49.841391
+2018,,14,161,317,100006,Cincinnati Bengals,,,5,Kamara Obscura,Benjy,,snake,2025-07-01T16:37:49.841567
+2018,,14,162,318,2558052,Kenny Golladay,WR,DET,11,BreesCassidyandtheStefonDiggs,Jake,,snake,2025-07-01T16:37:49.841736
+2018,,14,163,319,2504797,Matt Bryant,K,ATL,10,Risk It For The Trubiscuit,Benjamin,,snake,2025-07-01T16:37:49.841908
+2018,,14,164,320,2532899,Doug Martin,RB,LV,12,No League for Old Men,James,,snake,2025-07-01T16:37:49.842078
+2018,,14,165,321,2560813,D.J. Moore,WR,CAR,7,The Great Gronksby,Zach,,snake,2025-07-01T16:37:49.842244
+2018,,14,166,322,2560735,Michael Gallup,WR,DAL,1,Johnson and Johnson,Matt,,snake,2025-07-01T16:37:49.842405
+2018,,14,167,323,2540204,Spencer Ware,RB,KC,2,ZekeZone,Ryan,,snake,2025-07-01T16:37:49.842572
+2018,,14,168,324,2540020,Theo Riddick,RB,DET,4,Watson on Sunshine,Craig,,snake,2025-07-01T16:37:49.842763
+2018,,15,169,337,2543847,John Brown,WR,BAL,4,Watson on Sunshine,Craig,,snake,2025-07-01T16:37:50.667013
+2018,,15,170,338,2504257,Sebastian Janikowski,K,SEA,2,ZekeZone,Ryan,,snake,2025-07-01T16:37:50.667155
+2018,,15,171,339,2543603,Jeremy Hill,RB,NE,1,Johnson and Johnson,Matt,,snake,2025-07-01T16:37:50.667272
+2018,,15,172,340,2558245,Harrison Butker,K,KC,7,The Great Gronksby,Zach,,snake,2025-07-01T16:37:50.667388
+2018,,15,173,341,2558172,Jake Elliott,K,PHI,12,No League for Old Men,James,,snake,2025-07-01T16:37:50.667503
+2018,,15,174,342,2558105,Chris Godwin,WR,TB,10,Risk It For The Trubiscuit,Benjamin,,snake,2025-07-01T16:37:50.667616
+2018,,15,175,343,2539637,Caleb Sturgis,,,11,BreesCassidyandtheStefonDiggs,Jake,,snake,2025-07-01T16:37:50.667725
+2018,,15,176,344,2557856,O.J. Howard,TE,TB,5,Kamara Obscura,Benjy,,snake,2025-07-01T16:37:50.667836
+2018,,15,177,345,2553568,Cameron Meredith,WR,NO,8,Pop Lockett Drop It,Nick,,snake,2025-07-01T16:37:50.667947
+2018,,15,178,346,2543715,Jerick McKinnon,RB,SF,9,Mahomes Room,Kyle,,snake,2025-07-01T16:37:50.668060
+2018,,15,179,347,100011,Green Bay Packers,,,3,Capn' Geno's,Cameron,,snake,2025-07-01T16:37:50.668172
+2018,,15,180,348,2558010,John Ross,WR,CIN,6,Roaring Rivers of Freedom,Alexander,,snake,2025-07-01T16:37:50.668284

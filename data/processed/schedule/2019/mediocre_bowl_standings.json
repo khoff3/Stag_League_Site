@@ -1,0 +1,22 @@
+[
+  {
+    "team_id": "7",
+    "team_name": "Zach and the Fucked by JuJu",
+    "week_14_points": 105.48000000000002,
+    "week_15_points": 105.52000000000001,
+    "week_16_points": 118.06,
+    "total_points": 329.06000000000006,
+    "place": 1,
+    "label": "1st Place"
+  },
+  {
+    "team_id": "1",
+    "team_name": "Califournettecation",
+    "week_14_points": 108.24000000000001,
+    "week_15_points": 111.22,
+    "week_16_points": 83.3,
+    "total_points": 302.76,
+    "place": 2,
+    "label": "2nd Place"
+  }
+]

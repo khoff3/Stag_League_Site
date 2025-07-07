@@ -1,0 +1,568 @@
+<!doctype html>
+<!--[if lt IE 7]>  <html class="ie ie6 lte9 lte8 lte7 skinId-1"  lang="en" id="template" > <![endif]-->
+<!--[if IE 7]>     <html class="ie ie7 lte9 lte8 lte7 gt6 skinId-1" lang="en" id="template"> <![endif]-->
+<!--[if IE 8]>     <html class="ie ie8 lte9 lte8 gt6 gt7 skinId-1" lang="en" id="template"> <![endif]-->
+<!--[if IE 9]>     <html class="ie ie9 lte9 gt6 gt7 gt8 skinId-1" lang="en" id="template"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html itemscope itemtype="http://schema.org/Organization" lang="en" class="not-ie skinId-1" id="template"  data-headlessui-focus-visible="true">
+<!--<![endif]-->
+<head>
+    
+<!-- app dynamics random number = 7 -->
+    <script src="/static/js/1751389337/bW9kZXJuaXpyLmpz.js" charset="utf-8"></script>
+    <script src="/min/index1?a=230443d8-649d-11e6-8b77-86f30ca893d3&g=ff-base"></script>
+    <link id="nfl-assets" /><script type="text/javascript">
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function() {
+        
+        googletag.pubads().enableSingleRequest();
+
+        // Disable initial load, we will use refresh() to fetch ads.
+        // Calling this function means that display() calls just
+        // register the slot as ready, but do not fetch ads for it.
+        googletag.pubads().disableInitialLoad();
+        googletag.pubads().collapseEmptyDivs();
+        // Enable services
+        googletag.enableServices();
+    });
+    (function() {
+        var gads = document.createElement("script");
+        gads.async = true;
+        gads.type = "text/javascript";
+        var useSSL = "https:" == document.location.protocol;
+        gads.src = (useSSL ? "https:" : "http:") + "//securepubads.g.doubleclick.net/tag/js/gpt.js";
+        var node =document.getElementsByTagName("script")[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+</script>
+<script>
+    /* Adobe recommends adding this snippet to handle the flicker while they change content 
+        https://docs.adobe.com/content/help/en/launch/using/extensions-ref/adobe-extension/target-extension/overview.html#adobe-target-extension-with-an-asynchronous-deployment
+    */
+    ;(function(win, doc, style, timeout) {
+        var STYLE_ID = 'at-body-style';
+        function getParent() {
+            return doc.getElementsByTagName('head')[0];
+        }
+
+        function addStyle(parent, id, def) {
+            if (!parent) {
+            return;
+            }
+
+            var style = doc.createElement('style');
+            style.id = id;
+            style.innerHTML = def;
+            parent.appendChild(style);
+        }
+
+        function removeStyle(parent, id) {
+            if (!parent) {
+            return;
+            }
+
+            var style = doc.getElementById(id);
+
+            if (!style) {
+            return;
+            }
+
+            parent.removeChild(style);
+        }
+        addStyle(getParent(), STYLE_ID, style);
+        window.setTimeout(function() {
+            removeStyle(getParent(), STYLE_ID);
+        }, timeout);
+    }(window, document, "body {opacity: 0 !important}", 4000));
+</script>
+<script src="//assets.adobedtm.com/a5ea4e8f4344/9ef398705f83/launch-767faae3c07e.min.js" async></script>
+<script type="text/javascript">
+window.analyticsData = {
+    "user": {
+        "userID": null,
+        "currentStandings": "",
+        "leagueID": "864504",
+        "teamID": null,
+        "leagueManager": "non-commissioner",
+        "playerType": "anonymous",
+        "leagueType": "private",
+        "QBplayerID": "",
+        "RBplayerID": "",
+        "WRplayerID": "",
+        "TEplayerID": "",
+        "KDEFplayerID": "",
+        "optimizePro": "",
+        "pageState": "registered",
+        "gameState": ""
+    },
+    "page": {
+        "siteName": "nfl fantasy",
+        "siteSection": "league",
+        "siteSubsection": "history",
+        "globalDomain": "fantasy.nfl.com",
+        "contentType": "landing",
+        "pageDetail": "landing",
+        "siteLanguage": "english",
+        "optimizedFor": "desktop",
+        "pageName": "nfl fantasy:league:history:landing"
+    }
+};
+
+</script>
+<!-- OneTrust Consent Manager -->
+<script type="text/javascript" async=true>
+    var showAds = function() {
+        if (googletag) {
+            googletag.cmd.push(function() {
+                googletag.pubads().setPrivacySettings({
+                    "restrictDataProcessing": false
+                });
+                googletag.pubads().refresh();
+            });
+        }
+    };
+    var showNonTargetedAds = function() {
+        if (googletag) {
+            googletag.cmd.push(function() {
+                googletag.pubads().setPrivacySettings({
+                    "restrictDataProcessing": true
+                });
+                googletag.pubads().refresh();
+            });
+        }
+    };
+
+    var iframeConsentDataListener;
+
+    function loadOptanonWrapper() {
+
+        if (window.OptanonWrapper && OptanonWrapper.overwritten) {
+            return;
+        }
+
+        if (!window.OptanonWrapper) {
+            setTimeout(loadOptanonWrapper, 10);
+            return;
+        }
+
+        window.OptanonWrapper = function() {
+
+            // OneTrust banner is visible, until it's dismissed we're not proceeding.
+            var oneTrustBanner = document.getElementById("onetrust-banner-sdk");
+            if (oneTrustBanner && oneTrustBanner.style.display !== "none") {
+                setTimeout(window.OptanonWrapper, 50);
+                return;
+            }
+
+            window.dataLayer.push({
+                event: 'OneTrustGroupsUpdated'
+            });
+            var gdprApplies = window.OptanonActiveGroups.match(/,C0004,/) ? 0 : 1;
+
+            if (gdprApplies) {
+                showNonTargetedAds();
+            } else {
+                showAds();
+            }
+
+            // Ads in iframes need to follow the consent settings of the parent page.
+            if (iframeConsentDataListener) {
+                window.removeEventListener('message', iframeConsentDataListener);
+            }
+            iframeConsentDataListener = function(event) {
+                if (typeof event.data === 'object' && event.data.type === 'getConsent') {
+                    event.source.postMessage({
+                        type: 'consentData',
+                        gdprApplies: gdprApplies
+                    }, '*');
+                }
+            };
+            window.addEventListener('message', iframeConsentDataListener);
+        };
+        window.OptanonWrapper.overwritten = true;
+    }
+    setTimeout(loadOptanonWrapper, 10);
+</script>
+<!-- End OneTrust ConsentManager --><script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "url": "https://fantasy.nfl.com/",
+    "logo": "https://fantasy.nfl.com/jslib/nav/images/fantasy-logo.svg"
+   }
+</script>
+<script type="text/javascript" src="https://cdns.gigya.com/js/gigya.js?apikey=3_WPLZFkJ278FjSau2FfLCrTRUyksAjeYpcva-qIfGl71F4VWrI-7Xb5y0snqKXDva"></script>
+    <script>
+    (function (w) {
+
+        var FF = w.FF = w.FF || {};
+        FF.constants = {
+            AD_ORD:         1751411492,
+            ENV:            "production",
+            RENDER_START:   new Date(),
+            TIME:           1751415092000,
+            PLAYER_CARD_FEATURE: ""
+        };
+
+    }(window));
+    </script>
+    <!-- Loads the NFL constants -->
+    <script src="/static/js/1751389337/bmZsLWNvbnN0YW50cy5qcw...js"></script>
+    <script>
+      // Overwrite nfl constants with system defaults.
+      window.nfl.constants.ID_MANAGER = '/account/sign-in';
+    </script>
+    <title>Managers | NFL Fantasy</title>
+    <meta name="msvalidate.01" content="EDD46A4B9FD14F0A47471FDE9821BA49"/>    <!-- print css -->
+        <!-- shared css -->
+        <link rel="stylesheet" type="text/css" href="/static/css/1751389337/cHVyZS1taW4uY3NzO3lyZXNldC5jc3M7Zm9udHMuY3NzO3NpdGUuY3NzO2ZvbnRmYWNlLmNzcztvdmVybGF5LmNzczt0YWJsZS5jc3M7cGFnaW5hdGlvbi5jc3M7Y2x1YkltYWdlcy5jc3M7bmZsTmF2LmNzcztmb3Jtc05vTGVzcy5jc3M7cGxheWVyQ2FyZC5jc3M7ZHluYW1pY0Vycm9yLmNzcztlcnJvcnMuY3NzO3ZpZGVvLmNzczttaXNjUHRzLmNzcztuYXZCYXIuY3NzO3Bvc2l0aW9uLW5hdi5jc3M7bmF2LWJhci5jc3M7dGFiQmFyLmNzczt0YWItYmFyLmNzcztsZWFybk1vcmUuY3NzO3BhcnRuZXJzLWxvZ2luLmNzcztwb3B1cC5jc3M7bW9kYWwtbG9naW4uY3NzO2ZhbnRhc3ktaGVhZGVyLmNzcztmZi1zYXAtbW9kYWwuY3NzO3l1aTItc2tpbi1zYW0tY2FsZW5kYXItbWluLmNzczt1cHNlbGwuY3Nz.css" />
+        <!-- page css  -->
+        <!-- main css file -->
+    <link rel="stylesheet" type="text/css" href="/static/css/1751389337/bGVhZ3VlT3duZXJzLmNzcztsZWdlbmQuY3NzO2xlYWd1ZUhpc3RvcnlOYXYuY3Nz.css" />
+    
+
+    </head>
+
+<body id="leagueOwnersPage" class="noJs yui-skin-sam yui3-skin-sam g-c">
+
+
+<div id="doc">
+    <a class="skip-to-content-link" href="#bd">
+        Skip to content
+    </a>
+
+        <div id="hd-wrap">
+        <div id="hd">
+            <link type="text/css" rel="stylesheet" href="//fantasy.nfl.com/jslib/nav/index.css" />
+<script src="//fantasy.nfl.com/jslib/nav/index.js"></script>
+<div id="nfl-fantasy-nav"></div>
+<script type="text/javascript">
+    (function() {
+        var nav = window.NFL_FANTASY_NAV('#nfl-fantasy-nav', '864504');
+    }());
+</script>
+<noscript>
+    <div id="noJsMessage">
+        <p>Free Fantasy Football | 2015 Fantasy Football - NFL.com relies heavily on Javascript.</p>
+        <p class="last">For the ultimate experience please enable Javascript in your browser.</p>
+    </div>
+</noscript>
+        </div>
+    </div>
+            <div id="subHd">
+        <style>
+    .g-a #bd, .g-b #bd, .g-c #bd { padding-top: 20px; }
+    #bd h1.title { display: none; }
+</style>
+<div class="subHeaderTOPPERcontainer">
+    <h1>Managers</h1>
+    <span class="halfBg"></span>
+    
+</div>    </div>
+            <div id="bd-wrap">
+    <div id="bd" role="main">
+
+        
+        
+        <h1 class='title'>Managers</h1>
+
+        
+                            <div id="primary"><div id="primaryContent">
+                
+<div id="historySeasonNav" class="mod leagueHistorySeasonNav">
+    <div class="content">
+        <div class="bd">
+            <div class="stat-type-nav"><ul class="nav-bar"><li class="first"><a href="/league/864504/history"  class="s-almanac"><span>Almanac</span></a></li><li id="st2017" class="st-item st-selected last"><a href="/league/864504/history/2017/standings" ><span>2017 SEASON</span></a><i><b></b></i><div class="st-menu"><a class="first" href="/league/864504/history/2022/standings">2022 Season</a><a class="" href="/league/864504/history/2021/standings">2021 Season</a><a class="" href="/league/864504/history/2020/standings">2020 Season</a><a class="" href="/league/864504/history/2019/standings">2019 Season</a><a class="" href="/league/864504/history/2018/standings">2018 Season</a><a class="selected" href="/league/864504/history/2017/standings">2017 Season</a><a class="" href="/league/864504/history/2016/standings">2016 Season</a><a class="" href="/league/864504/history/2015/standings">2015 Season</a><a class="" href="/league/864504/history/2014/standings">2014 Season</a><a class="" href="/league/864504/history/2013/standings">2013 Season</a><a class="" href="/league/864504/history/2012/standings">2012 Season</a><a class="" href="/league/864504/history/2011/standings">2011 Season</a></div></li></ul></div>        </div>
+    </div>
+</div>
+
+
+<div id="historyNav" class="mod leagueHistoryNav tab-bar">
+    <div class="content">
+        <div class="bd">
+            <b></b>
+            <ul><li id="lhnL" class="selected first last"><a href="/league/864504/history/2017/standings" ><span class=effect></span><span class=title><span>League</span></span></a></li></ul>        </div>
+    </div>
+</div>
+
+
+<div id="historySubNav" class="leagueHistorySubNav">
+    <div class="content">
+        <div class="bd">
+            <ul><li class="first"><a href="/league/864504/history/2017/standings" >Standings</a></li><li><a href="/league/864504/history/2017/schedule" >Schedule</a></li><li><a href="/league/864504/history/2017/playoffs" >Playoffs</a></li><li class="selected"><a href="/league/864504/history/2017/owners" >Managers</a></li><li><a href="/league/864504/history/2017/discussions" >Discussions</a></li><li><a href="/league/864504/history/2017/transactions" >Transactions</a></li><li><a href="/league/864504/history/2017/draftresults" >Draft Results</a></li><li><a href="/league/864504/history/2017/settings" >Settings</a></li><li><a href="/league/864504/history/2017/polls" >Polls</a></li><li class="last"><a href="/league/864504/history/2017/story" >Stories</a></li></ul>        </div>
+    </div>
+</div>
+<div id="leagueOwners" class="mod">
+    <div class="content">
+        <div class="bd">
+        <div class="tableWrap"><table cellpadding="0" cellspacing="0" class="tableType-team hasGroups"><thead><tr class="first"><th class="teamImageAndName first">&nbsp;</th><th class="teamOwnerName">&nbsp;</th><th class="teamCoManagerName">&nbsp;</th><th class="teamWaiverPriority numeric">&nbsp;</th><th class="teamTransactionCount numeric">&nbsp;</th><th class="teamTradeCount numeric">&nbsp;</th><th class="teamLastActivityDate last">&nbsp;</th></tr><tr class="last"><th class="teamImageAndName first" scope="col"><span>Team</span></th><th class="teamOwnerName" scope="col"><span>Manager</span></th><th class="teamCoManagerName" scope="col"><span>Co-Manager</span></th><th class="teamWaiverPriority numeric" scope="col"><span>Waiver</span></th><th class="teamTransactionCount numeric" scope="col"><span>Moves</span></th><th class="teamTradeCount numeric" scope="col"><span>Trades</span></th><th class="teamLastActivityDate last" scope="col"><span>Last Activity</span></th></tr></thead><tbody><tr class="team-1 odd first"><td class="teamImageAndName first"><div class="teamImageAndNameWrap"><a href="/league/864504/history/2017/teamhome?teamId=1" class="teamImg teamId-1"><img src="https://fantasy.nfl.com/image/eed804f4d0ce8b14d30fd31a25cc8444.jpg?&x=40&y=40" alt="Nuthin but a Green Thang" width="40" height="40"/><b></b></a> <a href="/league/864504/history/2017/teamhome?teamId=1" class="teamName teamId-1">Nuthin but a Green Thang</a></div></td><td class="teamOwnerName"><ul><li class="leagueOwner first last"><span class="userName userId-646819">Matt</span> <b></b></li></ul></td><td class="teamCoManagerName"></td><td class="teamWaiverPriority numeric">4</td><td class="teamTransactionCount numeric">39</td><td class="teamTradeCount numeric">0</td><td class="teamLastActivityDate last">Wed, Dec 20, 10:31pm</td></tr><tr class="team-6 even"><td class="teamImageAndName first"><div class="teamImageAndNameWrap"><a href="/league/864504/history/2017/teamhome?teamId=6" class="teamImg teamId-6"><img src="https://fantasy.nfl.com/image/17cf5f7ac320415d1a25eece9a641e5e.jpg?&x=40&y=40" alt="Roaring Rivers" width="40" height="40"/><b></b></a> <a href="/league/864504/history/2017/teamhome?teamId=6" class="teamName teamId-6">Roaring Rivers</a></div></td><td class="teamOwnerName"><ul><li class="first last"><span class="userName userId-770387">Alexander</span></li></ul></td><td class="teamCoManagerName"></td><td class="teamWaiverPriority numeric">6</td><td class="teamTransactionCount numeric">39</td><td class="teamTradeCount numeric">0</td><td class="teamLastActivityDate last">Fri, Dec 22, 12:28pm</td></tr><tr class="team-5 odd"><td class="teamImageAndName first"><div class="teamImageAndNameWrap"><a href="/league/864504/history/2017/teamhome?teamId=5" class="teamImg teamId-5"><img src="https://fantasy.nfl.com/image/0f1a9d648ee6599350746eee6bc13b4f.jpg?&x=40&y=40" alt="Ultralight Kareem" width="40" height="40"/><b></b></a> <a href="/league/864504/history/2017/teamhome?teamId=5" class="teamName teamId-5">Ultralight Kareem</a></div></td><td class="teamOwnerName"><ul><li class="first last"><span class="userName userId-1750812">Benjy</span></li></ul></td><td class="teamCoManagerName"></td><td class="teamWaiverPriority numeric">8</td><td class="teamTransactionCount numeric">47</td><td class="teamTradeCount numeric">0</td><td class="teamLastActivityDate last">Thu, Dec 21, 1:15pm</td></tr><tr class="team-3 even"><td class="teamImageAndName first"><div class="teamImageAndNameWrap"><a href="/league/864504/history/2017/teamhome?teamId=3" class="teamImg teamId-3"><img src="https://fantasy.nfl.com/image/6841cc7ffb9717513cd2ffaedd72cff7.jpg?&x=40&y=40" alt="Allen the Family" width="40" height="40"/><b></b></a> <a href="/league/864504/history/2017/teamhome?teamId=3" class="teamName teamId-3">Allen the Family</a></div></td><td class="teamOwnerName"><ul><li class="leagueOwner first last"><span class="userName userId-1778244">Cameron</span> <b></b></li></ul></td><td class="teamCoManagerName"></td><td class="teamWaiverPriority numeric">3</td><td class="teamTransactionCount numeric">29</td><td class="teamTradeCount numeric">0</td><td class="teamLastActivityDate last">Wed, Dec 20, 1:49pm</td></tr><tr class="team-8 odd"><td class="teamImageAndName first"><div class="teamImageAndNameWrap"><a href="/league/864504/history/2017/teamhome?teamId=8" class="teamImg teamId-8"><img src="https://fantasy.nfl.com/image/f0a4fb7d3839d2910350c92f9f198f14.jpg?&x=40&y=40" alt="O Beckham Where Art Thou" width="40" height="40"/><b></b></a> <a href="/league/864504/history/2017/teamhome?teamId=8" class="teamName teamId-8">O Beckham Where Art Thou</a></div></td><td class="teamOwnerName"><ul><li class="first last"><span class="userName userId-2028716">Nick</span></li></ul></td><td class="teamCoManagerName"></td><td class="teamWaiverPriority numeric">2</td><td class="teamTransactionCount numeric">9</td><td class="teamTradeCount numeric">0</td><td class="teamLastActivityDate last">Fri, Dec 22, 10:13am</td></tr><tr class="team-2 even"><td class="teamImageAndName first"><div class="teamImageAndNameWrap"><a href="/league/864504/history/2017/teamhome?teamId=2" class="teamImg teamId-2"><img src="https://fantasy.nfl.com/image/b1d7c1e14ab8ecb574c391aabd89b337.jpg?&x=40&y=40" alt="Don't Check My Pryors" width="40" height="40"/><b></b></a> <a href="/league/864504/history/2017/teamhome?teamId=2" class="teamName teamId-2">Don't Check My Pryors</a></div></td><td class="teamOwnerName"><ul><li class="first last"><span class="userName userId-2821640">Ryan</span></li></ul></td><td class="teamCoManagerName"></td><td class="teamWaiverPriority numeric">7</td><td class="teamTransactionCount numeric">35</td><td class="teamTradeCount numeric">1</td><td class="teamLastActivityDate last">Sun, Dec 17, 12:05pm</td></tr><tr class="team-9 odd"><td class="teamImageAndName first"><div class="teamImageAndNameWrap"><a href="/league/864504/history/2017/teamhome?teamId=9" class="teamImg teamId-9"><img src="https://fantasy.nfl.com/image/71ec33e56ae25866c117c4974f7271fc.jpg?&x=40&y=40" alt="Diggs It" width="40" height="40"/><b></b></a> <a href="/league/864504/history/2017/teamhome?teamId=9" class="teamName teamId-9">Diggs It</a></div></td><td class="teamOwnerName"><ul><li class="first last"><span class="userName userId-3348683">Kyle</span></li></ul></td><td class="teamCoManagerName"></td><td class="teamWaiverPriority numeric">9</td><td class="teamTransactionCount numeric">29</td><td class="teamTradeCount numeric">1</td><td class="teamLastActivityDate last">Mon, Dec 25, 8:22pm</td></tr><tr class="team-7 even"><td class="teamImageAndName first"><div class="teamImageAndNameWrap"><a href="/league/864504/history/2017/teamhome?teamId=7" class="teamImg teamId-7"><img src="https://fantasy.nfl.com/image/37730b3fb3f8bcb260ac0a7f22410a93.jpg?&x=40&y=40" alt="New Gurley" width="40" height="40"/><b></b></a> <a href="/league/864504/history/2017/teamhome?teamId=7" class="teamName teamId-7">New Gurley</a></div></td><td class="teamOwnerName"><ul><li class="first last"><span class="userName userId-3848212">Zach</span></li></ul></td><td class="teamCoManagerName"></td><td class="teamWaiverPriority numeric">10</td><td class="teamTransactionCount numeric">29</td><td class="teamTradeCount numeric">0</td><td class="teamLastActivityDate last">Wed, Dec 20, 1:00pm</td></tr><tr class="team-11 odd"><td class="teamImageAndName first"><div class="teamImageAndNameWrap"><a href="/league/864504/history/2017/teamhome?teamId=11" class="teamImg teamId-11"><img src="https://fantasy.nfl.com/image/3881ed57572d7985986e7aed0464a7bd.jpg?&x=40&y=40" alt="Suicide Squad" width="40" height="40"/><b></b></a> <a href="/league/864504/history/2017/teamhome?teamId=11" class="teamName teamId-11">Suicide Squad</a></div></td><td class="teamOwnerName"><ul><li class="first last"><span class="userName userId-3857345">Jake</span></li></ul></td><td class="teamCoManagerName"></td><td class="teamWaiverPriority numeric">1</td><td class="teamTransactionCount numeric">30</td><td class="teamTradeCount numeric">0</td><td class="teamLastActivityDate last">Sun, Dec 17, 12:21am</td></tr><tr class="team-12 even last"><td class="teamImageAndName first"><div class="teamImageAndNameWrap"><a href="/league/864504/history/2017/teamhome?teamId=12" class="teamImg teamId-12"><img src="https://fantasy.nfl.com/image/c7636be061e9ca03d87153099339ba98.jpg?&x=40&y=40" alt="Hooked on a Thielen" width="40" height="40"/><b></b></a> <a href="/league/864504/history/2017/teamhome?teamId=12" class="teamName teamId-12">Hooked on a Thielen</a></div></td><td class="teamOwnerName"><ul><li class="first last"><span class="userName userId-10235777">James</span></li></ul></td><td class="teamCoManagerName"></td><td class="teamWaiverPriority numeric">5</td><td class="teamTransactionCount numeric">21</td><td class="teamTradeCount numeric">0</td><td class="teamLastActivityDate last">Fri, Dec 15, 10:13pm</td></tr></tbody></table></div>        </div>
+        <div class="ft">
+            <ul class="legend"><li class="leagueOwner first last"><b></b> Commissioner(s)</li></ul>        </div>
+    </div>
+</div>
+
+            </div></div><div id="secondary"><div id="secondaryContent">
+                <div id="googleadtag-SKY367652933" class="ad ad-SKY" style="width: 160px; height: 600px;" >
+    <script >
+    if (window.googletag) {
+        googletag.cmd.push(function() {
+            var path = "/4595/fantasy.nfl.com/league/history",
+                size = [160, 600],
+                id = "googleadtag-SKY367652933",
+                pubService = googletag.pubads();
+            googletag.defineSlot(path, size, id).
+                addService(pubService).
+                setTargeting('s1', 'league').setTargeting('s2', 'history').
+                setTargeting("slot", "top").
+                setTargeting("test", "").
+                setTargeting('leagueSpon', 'default').
+                setTargeting("url", "league_history");
+
+        });
+    }
+    </script>
+</div>            </div></div>
+                        
+                        <div class="sh s"></div>
+        <div class="sh t"></div>
+        </div>
+
+    </div>
+            <div id="ft-wrap">
+        <div id="ft">
+            <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script> 
+window.nflLibHostName = "p.nfltags.com";
+window.nflLibPath = "/nfl/live";
+$(window).on("load", function () {
+    var MutationObserver =
+        window.MutationObserver ||
+        window.WebKitMutationObserver ||
+        window.MozMutationObserver;
+    var reactInited = false;
+    $.ajax({
+        url: "https://www.nfl.com/_libraries/fragments/assets",
+        type: "get",
+        dataType: "html",
+        success: function (data) {
+            data = data.replace(/window\.gigya[^;]*;/g, "");
+            data = data.replace(/"\/compiledassets/g,
+                        '"https://www.nfl.com/compiledassets');
+            var appendTo = $(document.createDocumentFragment());
+            appendTo.append(data);
+            appendTo.find(`link[rel="icon"]`).remove();
+            $("#nfl-assets").replaceWith(appendTo);
+            $.ajax({
+                url: "https://www.nfl.com/_libraries/fragments/footer-fragment",
+                type: "get",
+                dataType: "html",
+                success: function (data) {
+                    $("#nfl-footer").replaceWith(data);
+                },
+            });
+        },
+    });
+    if (MutationObserver) {
+        // check for the require lib
+        var body = document.querySelector("body");
+        var observer = new MutationObserver(function (mutations) {
+            if (
+                window.requirejs &&
+                window.requirejs.config &&
+                window.Y &&
+                window.Y.React &&
+                !reactInited
+            ) {
+                window.Y.React.init();
+                reactInited = true;
+            }
+        });
+        observer.observe(body, { subtree: true, childList: true });
+    } else {
+        // if no browser support, use set timeout to wait for require
+        window.setTimeout(function () {
+            if (window.Y && window.Y.React && !reactInited) {
+                window.Y.React.init();
+                reactInited = true;
+            }
+        }, 2000);
+    }
+});
+</script>
+
+<div id="nfl-footer"></div>
+<img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=265163127283621&ev=PageView&noscript=1"
+/>
+        </div>
+    </div>
+    </div>
+<script type="text/javascript">
+FF.constants.RENDER_END = new Date();
+YEXT = null;
+var SYSTEMENVIRONMENT = "production";
+var ADPATH = "fantasy.nfl.com";
+var VIDEOPLAYERFILENAME = "https://static.nfl.com/static/site/" + nfl.constants.ASSET_VERSION + "/flash/video/inline-video-player.swf";
+var LEAGUEID = '864504';
+var TEAMID = '';
+var VIDEOPLAYERHTML = true;
+var FANTASY_COOKIE_NAME = 'ff';
+var FANTASY_JS_HOST = 'fantasy.nfl.com';
+</script>
+<script>
+(function(){
+    // allow groups in scripts to propagate
+    var yConfigGroups = ( window.YUI_config ) ? window.YUI_config.groups : {};
+
+    window.YUI_config = {
+        comboBase : "/min/index1?a=230443d8-649d-11e6-8b77-86f30ca893d3&b=static/js/yui/3.15.0/build&f=",        combine : true,
+        comboSep : ",",
+        root : "",
+        timeout: 10000,
+        modules:  {
+
+            siteSpecific: {
+               fullpath: "/static/js/1751389337/aGFzaFRhZy5qcztzbHlub2RlLmpzO292ZXJsYXktbW9kYWwuanM7ZGF0YXNjaGVtYUNvbnRlbnQuanM7ZHluYW1pY01vZHVsZS5qczthdXRvY29tcGxldGUuanM7dXRpbC5qcztwYWdlVHJhY2tpbmcuanM7c3dmT2JqZWN0LmpzO3ZpZGVvLmpzO3JlYWN0LmpzO3ZpZGVvUmVhY3QuanM7cGxheWVyLmpzO3BsYXllckNhcmQuanM7YWRzLmpzO3Njb3Jlcy5qcztpbWFnZXMuanM7dGVhbU1hbmFnZXJBc3Npc3QuanM7ZmYtYWpheC1mb3JtLmpzO2ZmLXBhcnRuZXJzLWxvZ2luLmpzO2ZmLWNoYXJ0cy1wbGF5ZXItY2FyZC5qcztmZi1uZmwtdXNlci5qcztkZXYtbG9naW4uanM..js",
+               requires: ["plugin"]
+            }
+,            teamManagerAssistCss : {
+                fullpath:'/static/css/1751389337/dGVhbU1hbmFnZXJBc3Npc3QuY3Nz.css',
+                type:'css'
+            }
+        }
+    };
+    window.YUI_config.groups = yConfigGroups;
+
+if (window.nfl) {
+    NFL_config = window.NFL_config || {},
+    YUI_config = window.YUI_config || {};
+
+    // YUI_config.comboBase = 'http://yui.yahooapis.com/combo?';
+    YUI_config.comboBase = "/min/index1?a=230443d8-649d-11e6-8b77-86f30ca893d3&b=static/js/yui/3.15.0/build&f="
+    YUI_config.combine = true;
+    YUI_config.comboSep = ",";
+    YUI_config.root = "";
+    YUI_config.modules = YUI_config.modules || {};
+    window.isDev = false;//set this to true to run gamecenter against prod endpoints
+    var Constants = nfl.constants;
+    YUI_config.groups.nfl = {
+        base: Constants.SCRIPT_PATH + '/scripts/modules/',
+        combine: true,
+        comboBase: [
+            Constants.NFL_COMBO_URL,
+            "?",
+            encodeURIComponent(Constants.ASSET_VERSION + Constants.ASSET_BUILD),
+            "&b=",
+            encodeURIComponent("yui3/static/" + Constants.ASSET_VERSION + "/scripts/modules"),
+            "&ss=anyraw&f="
+        ].join(""),
+        comboSep: ",",
+        root: "",
+        filter: {
+            searchExp: '([^\\/]+)\\/\\1-min\\.(js|css)',
+            replaceStr: "$1.$2"
+        },
+        modules: {
+            'nfl-carousel': { requires: ['plugin', 'base-build', 'nfl-lang', 'array-extras'], optional: 'anim' },
+            'nfl-centerpiece': { requires: ['node', 'anim', 'widget', 'base-build', 'nfl-lang', 'nfl-carousel', 'nfl-subnav' ], optional: ['nfl-video'] },
+            'nfl-lang': { requires: ['querystring'] },
+            'nfl-pagination': { requires: ['plugin', 'base-build', 'nfl-lang'] },
+            'nfl-subnav': { requires: [ 'node', 'plugin', 'base-build', 'classnamemanager', 'array-extras' ], optional: ['nfl-history-manager'] },
+            'widget-node-builder': { requires: [ 'node-base' ] },
+            'modal-mask': { requires: [ 'base-build', 'base', 'widget', 'widget-stack', 'node' ] },
+            'modal-login': { requires: ['base-build', 'base', 'widget', 'widget-position', 'widget-position-align', 'widget-stack', 'modal-mask', 'widget-node-builder', 'event-touch', 'json-parse', 'transition' ], skinnable : true },
+        }
+    }
+}
+})();
+YUI( YUI_config ).use("siteSpecific",
+"ads",
+"anim",
+"async-queue",
+"autocomplete",
+"base",
+"cache",
+"dataschema",
+"datasource",
+"dump",
+"dynamic-modules",
+"event",
+"event-custom",
+"event-valuechange",
+"history",
+"io",
+"json-parse",
+"loader",
+"node",
+"node-event-simulate",
+"overlay",
+"overlay-modal",
+"page-tracking",
+"player",
+"playerCard",
+"plugin",
+"react-video",
+"slynode",
+"util",
+"video",
+"widget",
+"widget-position",
+"widget-position-align",
+'ac-plugin',
+'ac-widget',
+'ads',
+'dataschema-jsoncontent',
+'datasource-jsoncontentschema',
+'dev-login',
+'dynamic-modules',
+'ff-ajax-form',
+'ff-charts-player-card',
+'ff-nfl-user',
+'ff-partners-login',
+'images',
+'overlay-modal',
+'page-tracking',
+'player',
+'playerCard',
+'react',
+'react-video',
+'scores',
+'slynode',
+'swfobject',
+'team-manager-assist',
+'util',
+'video', function (Y) {
+    FF.constants.YUI_START = new Date();
+    Y.one('#leagueOwnersPage').removeClass('noJs');
+
+        (function () {
+        try { Y.Util.init(document.body) }
+        catch (err) { Y.log('initErrorCatch:' + err.message); return false; }
+    }());
+    (function () {
+        try { Y.PageTracking.init() }
+        catch (err) { Y.log('initErrorCatch:' + err.message); return false; }
+    }());
+    (function () {
+        try { Y.Player.init(); }
+        catch (err) { Y.log('initErrorCatch:' + err.message); return false; }
+    }());
+
+    window.Y = Y;
+
+    // debug info used in full.php
+    FF.constants.YUI_END = new Date();
+    Y.on('domready', function () {
+        // console.log('YUI domready event fired');
+        FF.constants.DOM_READY = new Date();
+    });
+    Y.on('contentready', function () { FF.constants.CONTENT_READY = new Date(); });
+    Y.on('available', function () { FF.constants.AVAILABLE = new Date(); });
+
+});
+</script>
+
+</body>
+</html>
+<!-- prd-fantasy-php-ffc8ddf8-mgxml -->

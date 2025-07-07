@@ -1,0 +1,68 @@
+{
+  "games": [
+    {
+      "away_points": 58.38,
+      "away_rank": 9,
+      "away_record": "6-7-0",
+      "away_team": "Miller High Lyfe",
+      "away_team_id": "8",
+      "game_id": "201615108",
+      "home_points": 109.4,
+      "home_rank": 12,
+      "home_record": "4-9-0",
+      "home_team": "Cole's Drafted Players",
+      "home_team_id": "10",
+      "scraped_at": "2025-06-22T05:32:05.910Z",
+      "season": 2016,
+      "week": 15
+    },
+    {
+      "away_points": 91.12,
+      "away_rank": 11,
+      "away_record": "4-9-0",
+      "away_team": "Mon Don't Grief",
+      "away_team_id": "9",
+      "game_id": "20161549",
+      "home_points": 76.14,
+      "home_rank": 7,
+      "home_record": "6-7-0",
+      "home_team": "The PTY's",
+      "home_team_id": "4",
+      "scraped_at": "2025-06-22T05:32:05.910Z",
+      "season": 2016,
+      "week": 15
+    },
+    {
+      "away_points": 78.98,
+      "away_rank": 4,
+      "away_record": "7-6-0",
+      "away_team": "Outback Jakehouse",
+      "away_team_id": "11",
+      "game_id": "201615611",
+      "home_points": 72.88,
+      "home_rank": 1,
+      "home_record": "9-4-0",
+      "home_team": "HYDROPOWER",
+      "home_team_id": "6",
+      "scraped_at": "2025-06-22T05:32:05.910Z",
+      "season": 2016,
+      "week": 15
+    },
+    {
+      "away_points": 98.86,
+      "away_rank": 2,
+      "away_record": "8-5-0",
+      "away_team": "King Goffery",
+      "away_team_id": "2",
+      "game_id": "20161532",
+      "home_points": 114.64,
+      "home_rank": 3,
+      "home_record": "8-5-0",
+      "home_team": "Aiken' for the ThreePeat",
+      "home_team_id": "3",
+      "scraped_at": "2025-06-22T05:32:05.910Z",
+      "season": 2016,
+      "week": 15
+    }
+  ]
+}

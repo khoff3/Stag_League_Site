@@ -1,0 +1,327 @@
+{
+  "winners_bracket": {
+    "round_1": [
+      {
+        "game_id": "202115910",
+        "home_team": {
+          "id": "9",
+          "name": "Dak Flashes",
+          "points": 78.28
+        },
+        "away_team": {
+          "id": "10",
+          "name": "Tom and Terry",
+          "points": 78.86
+        },
+        "winner": "10"
+      },
+      {
+        "game_id": "202115121",
+        "home_team": {
+          "id": "12",
+          "name": "The Kyler Sisters",
+          "points": 103.58
+        },
+        "away_team": {
+          "id": "1",
+          "name": "The Uncanny Eks-Men",
+          "points": 84.74
+        },
+        "winner": "12"
+      }
+    ],
+    "championship_week": {
+      "championship": [
+        {
+          "game_id": "202117106",
+          "home_team": {
+            "id": "10",
+            "name": "Tom and Terry",
+            "points": 117.9
+          },
+          "away_team": {
+            "id": "6",
+            "name": "Hydroslayers",
+            "points": 118.08
+          },
+          "winner": "6"
+        }
+      ],
+      "third_place": [
+        {
+          "game_id": "202116810",
+          "home_team": {
+            "id": "8",
+            "name": "Taylor Swift",
+            "points": 77.22
+          },
+          "away_team": {
+            "id": "10",
+            "name": "Tom and Terry",
+            "points": 83.78
+          },
+          "winner": "10"
+        },
+        {
+          "game_id": "202116126",
+          "home_team": {
+            "id": "12",
+            "name": "The Kyler Sisters",
+            "points": 96.6
+          },
+          "away_team": {
+            "id": "6",
+            "name": "Hydroslayers",
+            "points": 98.64
+          },
+          "winner": "6"
+        },
+        {
+          "game_id": "202117812",
+          "home_team": {
+            "id": "8",
+            "name": "Taylor Swift",
+            "points": 98.26
+          },
+          "away_team": {
+            "id": "12",
+            "name": "The Kyler Sisters",
+            "points": 122.52
+          },
+          "winner": "12"
+        }
+      ],
+      "fifth_place": [
+        {
+          "game_id": "20211791",
+          "home_team": {
+            "id": "9",
+            "name": "Dak Flashes",
+            "points": 55.84
+          },
+          "away_team": {
+            "id": "1",
+            "name": "The Uncanny Eks-Men",
+            "points": 84.94
+          },
+          "winner": "1"
+        }
+      ]
+    }
+  },
+  "middle_teams_bracket": {
+    "round_1": [],
+    "mediocre_bowl": [
+      {
+        "game_id": "20211674",
+        "home_team": {
+          "id": "7",
+          "name": "SLamb Dunkin'",
+          "points": 88.4
+        },
+        "away_team": {
+          "id": "4",
+          "name": "I Tonyan",
+          "points": 85.96
+        },
+        "winner": "7"
+      },
+      {
+        "game_id": "20211774",
+        "home_team": {
+          "id": "7",
+          "name": "SLamb Dunkin'",
+          "points": 84.06
+        },
+        "away_team": {
+          "id": "4",
+          "name": "I Tonyan",
+          "points": 100.0
+        },
+        "winner": "4"
+      }
+    ]
+  },
+  "consolation_bracket": {
+    "round_1": [
+      {
+        "game_id": "202115112",
+        "home_team": {
+          "id": "11",
+          "name": "Tyrannosaurus Reek II",
+          "points": 85.92
+        },
+        "away_team": {
+          "id": "2",
+          "name": "Dalvin and Hobbs",
+          "points": 65.22
+        },
+        "winner": "11"
+      },
+      {
+        "game_id": "20211553",
+        "home_team": {
+          "id": "5",
+          "name": "Chubb Scouts",
+          "points": 87.34
+        },
+        "away_team": {
+          "id": "3",
+          "name": "Hockensockem Robots",
+          "points": 80.06
+        },
+        "winner": "5"
+      }
+    ],
+    "toilet_bowl": [
+      {
+        "game_id": "20211623",
+        "home_team": {
+          "id": "2",
+          "name": "Dalvin and Hobbs",
+          "points": 77.96
+        },
+        "away_team": {
+          "id": "3",
+          "name": "Hockensockem Robots",
+          "points": 47.98
+        },
+        "winner": "2"
+      },
+      {
+        "game_id": "202117115",
+        "home_team": {
+          "id": "11",
+          "name": "Tyrannosaurus Reek II",
+          "points": 106.42
+        },
+        "away_team": {
+          "id": "5",
+          "name": "Chubb Scouts",
+          "points": 82.26
+        },
+        "winner": "11"
+      },
+      {
+        "game_id": "20211723",
+        "home_team": {
+          "id": "2",
+          "name": "Dalvin and Hobbs",
+          "points": 66.8
+        },
+        "away_team": {
+          "id": "3",
+          "name": "Hockensockem Robots",
+          "points": 97.76
+        },
+        "winner": "3"
+      }
+    ]
+  },
+  "middle_teams": [
+    {
+      "seed": 7,
+      "team_id": "7",
+      "team_name": "SLamb Dunkin'",
+      "record": "7-7-0"
+    },
+    {
+      "seed": 8,
+      "team_id": "4",
+      "team_name": "I Tonyan",
+      "record": "7-7-0"
+    }
+  ],
+  "seeds": {
+    "winners_bracket": [
+      {
+        "seed": 1,
+        "team_id": "8",
+        "team_name": "Taylor Swift",
+        "record": "9-4-1"
+      },
+      {
+        "seed": 2,
+        "team_id": "6",
+        "team_name": "Hydroslayers",
+        "record": "8-6-0"
+      },
+      {
+        "seed": 3,
+        "team_id": "12",
+        "team_name": "The Kyler Sisters",
+        "record": "8-6-0"
+      },
+      {
+        "seed": 4,
+        "team_id": "9",
+        "team_name": "Dak Flashes",
+        "record": "7-6-1"
+      },
+      {
+        "seed": 5,
+        "team_id": "10",
+        "team_name": "Tom and Terry",
+        "record": "7-7-0"
+      },
+      {
+        "seed": 6,
+        "team_id": "1",
+        "team_name": "The Uncanny Eks-Men",
+        "record": "7-7-0"
+      }
+    ],
+    "consolation_bracket": [
+      {
+        "seed": 9,
+        "team_id": "5",
+        "team_name": "Chubb Scouts",
+        "record": "7-7-0"
+      },
+      {
+        "seed": 10,
+        "team_id": "11",
+        "team_name": "Tyrannosaurus Reek II",
+        "record": "6-8-0"
+      },
+      {
+        "seed": 11,
+        "team_id": "2",
+        "team_name": "Dalvin and Hobbs",
+        "record": "5-9-0"
+      },
+      {
+        "seed": 12,
+        "team_id": "3",
+        "team_name": "Hockensockem Robots",
+        "record": "5-9-0"
+      }
+    ]
+  },
+  "first_round_matchups": [
+    {
+      "home": 1,
+      "away": 4
+    },
+    {
+      "home": 2,
+      "away": 3
+    },
+    {
+      "home": 5,
+      "away": 6
+    },
+    {
+      "home": 7,
+      "away": 10
+    },
+    {
+      "home": 8,
+      "away": 9
+    },
+    {
+      "home": 11,
+      "away": 12
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+year,nomination,round,pick,overall_pick,player_id,player_name,position,nfl_team,fantasy_team_id,fantasy_team_name,owner_name,auction_cost,draft_type,scraped_at
+2020,,1,1,1,2557997,Christian McCaffrey,RB,CAR,7,Swimming with the Charks,Zach,,snake,2025-07-01T16:38:47.669717
+2020,,1,2,2,2560968,Saquon Barkley,RB,NYG,4,Big Trouble in Kittle China,Craig,,snake,2025-07-01T16:38:47.669880
+2020,,1,3,3,2555224,Ezekiel Elliott,RB,DAL,12,Godwin Of War,James,,snake,2025-07-01T16:38:47.670069
+2020,,1,4,4,2556075,Derrick Henry,RB,TEN,10,Kupp Pong,Cole,,snake,2025-07-01T16:38:47.670208
+2020,,1,5,5,2557991,Dalvin Cook,RB,MIN,6,HYDROCOOKERS,Alexander,,snake,2025-07-01T16:38:47.670342
+2020,,1,6,6,2561021,Nick Chubb,RB,CLE,8,Judge Jeudy,Nick,,snake,2025-07-01T16:38:47.670475
+2020,,1,7,7,2564271,Clyde Edwards-Helaire,RB,KC,3,Some Like it Hop,Cameron,,snake,2025-07-01T16:38:47.670614
+2020,,1,8,8,2558019,Alvin Kamara,RB,NO,11,Tyrannosaurus Reek,Jake,,snake,2025-07-01T16:38:47.670755
+2020,,1,9,9,2557976,Joe Mixon,RB,CIN,9,RushMoore,Kyle,,snake,2025-07-01T16:38:47.670897
+2020,,1,10,10,2556370,Michael Thomas,WR,NO,5,Courtland's Trailblazers,Benjy,,snake,2025-07-01T16:38:47.671036
+2020,,1,11,11,2562377,Josh Jacobs,RB,LV,1,BDKE,Matt,,snake,2025-07-01T16:38:47.671171
+2020,,1,12,12,2562722,Miles Sanders,RB,PHI,2,WILSON,Ryan,,snake,2025-07-01T16:38:47.671342
+2020,,2,13,25,2556214,Tyreek Hill,WR,KC,2,WILSON,Ryan,,snake,2025-07-01T16:38:48.480708
+2020,,2,14,26,2555230,Kenyan Drake,RB,ARI,1,BDKE,Matt,,snake,2025-07-01T16:38:48.480950
+2020,,2,15,27,2558116,Aaron Jones,RB,GB,5,Courtland's Trailblazers,Benjy,,snake,2025-07-01T16:38:48.481171
+2020,,2,16,28,2543495,Davante Adams,WR,GB,9,RushMoore,Kyle,,snake,2025-07-01T16:38:48.481391
+2020,,2,17,29,2558052,Kenny Golladay,WR,DET,11,Tyrannosaurus Reek,Jake,,snake,2025-07-01T16:38:48.481594
+2020,,2,18,30,2540165,DeAndre Hopkins,WR,ARI,3,Some Like it Hop,Cameron,,snake,2025-07-01T16:38:48.481797
+2020,,2,19,31,2495454,Julio Jones,WR,ATL,8,Judge Jeudy,Nick,,snake,2025-07-01T16:38:48.481997
+2020,,2,20,32,2559169,Austin Ekeler,RB,LAC,6,HYDROCOOKERS,Alexander,,snake,2025-07-01T16:38:48.482183
+2020,,2,21,33,2540258,Travis Kelce,TE,KC,10,Kupp Pong,Cole,,snake,2025-07-01T16:38:48.482381
+2020,,2,22,34,2558105,Chris Godwin,WR,TB,12,Godwin Of War,James,,snake,2025-07-01T16:38:48.482582
+2020,,2,23,35,2558266,George Kittle,TE,SF,4,Big Trouble in Kittle China,Craig,,snake,2025-07-01T16:38:48.482779
+2020,,2,24,36,2558865,Chris Carson,RB,SEA,7,Swimming with the Charks,Zach,,snake,2025-07-01T16:38:48.482983
+2020,,3,25,49,2562238,A.J. Brown,WR,TEN,7,Swimming with the Charks,Zach,,snake,2025-07-01T16:38:49.270551
+2020,,3,26,50,2552487,Amari Cooper,WR,DAL,4,Big Trouble in Kittle China,Craig,,snake,2025-07-01T16:38:49.270777
+2020,,3,27,51,2557978,James Conner,RB,PIT,12,Godwin Of War,James,,snake,2025-07-01T16:38:49.270939
+2020,,3,28,52,2543468,Mike Evans,WR,TB,10,Kupp Pong,Cole,,snake,2025-07-01T16:38:49.271092
+2020,,3,29,53,2558125,Patrick Mahomes,QB,KC,6,HYDROCOOKERS,Alexander,,snake,2025-07-01T16:38:49.271257
+2020,,3,30,54,2541785,Adam Thielen,WR,MIN,8,Judge Jeudy,Nick,,snake,2025-07-01T16:38:49.271413
+2020,,3,31,55,2553435,David Johnson,RB,HOU,3,Some Like it Hop,Cameron,,snake,2025-07-01T16:38:49.271574
+2020,,3,32,56,2560757,Lamar Jackson,QB,BAL,11,Tyrannosaurus Reek,Jake,,snake,2025-07-01T16:38:49.271723
+2020,,3,33,57,2552475,Todd Gurley,RB,ATL,9,RushMoore,Kyle,,snake,2025-07-01T16:38:49.271876
+2020,,3,34,58,2543509,Allen Robinson,WR,CHI,5,Courtland's Trailblazers,Benjy,,snake,2025-07-01T16:38:49.272024
+2020,,3,35,59,2558149,JuJu Smith-Schuster,WR,PIT,1,BDKE,Matt,,snake,2025-07-01T16:38:49.272170
+2020,,3,36,60,2552469,Melvin Gordon,RB,DEN,2,WILSON,Ryan,,snake,2025-07-01T16:38:49.272329
+2020,,4,37,73,2540175,Le'Veon Bell,RB,KC,2,WILSON,Ryan,,snake,2025-07-01T16:38:50.038654
+2020,,4,38,74,2560957,Mark Andrews,TE,BAL,1,BDKE,Matt,,snake,2025-07-01T16:38:50.038890
+2020,,4,39,75,2495466,Mark Ingram,RB,BAL,5,Courtland's Trailblazers,Benjy,,snake,2025-07-01T16:38:50.039030
+2020,,4,40,76,2560813,D.J. Moore,WR,CAR,9,RushMoore,Kyle,,snake,2025-07-01T16:38:50.039167
+2020,,4,41,77,2553728,Raheem Mostert,RB,SF,11,Tyrannosaurus Reek,Jake,,snake,2025-07-01T16:38:50.039310
+2020,,4,42,78,2564319,Cam Akers,RB,LA,3,Some Like it Hop,Cameron,,snake,2025-07-01T16:38:50.039448
+2020,,4,43,79,2543496,Odell Beckham Jr.,WR,CLE,8,Judge Jeudy,Nick,,snake,2025-07-01T16:38:50.039593
+2020,,4,44,80,2560854,Calvin Ridley,WR,ATL,6,HYDROCOOKERS,Alexander,,snake,2025-07-01T16:38:50.039738
+2020,,4,45,81,2564148,Jonathan Taylor,RB,IND,10,Kupp Pong,Cole,,snake,2025-07-01T16:38:50.039882
+2020,,4,46,82,2540169,Robert Woods,WR,LA,12,Godwin Of War,James,,snake,2025-07-01T16:38:50.040030
+2020,,4,47,83,2562502,David Montgomery,RB,CHI,4,Big Trouble in Kittle China,Craig,,snake,2025-07-01T16:38:50.040173
+2020,,4,48,84,2565276,Antonio Gibson,RB,WAS,7,Swimming with the Charks,Zach,,snake,2025-07-01T16:38:50.040320
+2020,,5,49,97,2561018,D.J. Chark,WR,JAX,7,Swimming with the Charks,Zach,,snake,2025-07-01T16:38:50.794340
+2020,,5,50,98,2552430,Tyler Lockett,WR,SEA,4,Big Trouble in Kittle China,Craig,,snake,2025-07-01T16:38:50.794655
+2020,,5,51,99,2562489,Terry McLaurin,WR,WAS,12,Godwin Of War,James,,snake,2025-07-01T16:38:50.794925
+2020,,5,52,100,2557898,Cooper Kupp,WR,LA,10,Kupp Pong,Cole,,snake,2025-07-01T16:38:50.795117
+2020,,5,53,101,2540154,Keenan Allen,WR,LAC,6,HYDROCOOKERS,Alexander,,snake,2025-07-01T16:38:50.795290
+2020,,5,54,102,2562734,Devin Singletary,RB,BUF,8,Judge Jeudy,Nick,,snake,2025-07-01T16:38:50.795469
+2020,,5,55,103,2532865,T.Y. Hilton,WR,IND,3,Some Like it Hop,Cameron,,snake,2025-07-01T16:38:50.795629
+2020,,5,56,104,2562379,Marquise Brown,WR,BAL,11,Tyrannosaurus Reek,Jake,,snake,2025-07-01T16:38:50.795789
+2020,,5,57,105,2540158,Zach Ertz,TE,PHI,9,RushMoore,Kyle,,snake,2025-07-01T16:38:50.795961
+2020,,5,58,106,2560888,Courtland Sutton,WR,DEN,5,Courtland's Trailblazers,Benjy,,snake,2025-07-01T16:38:50.796133
+2020,,5,59,107,2562685,DK Metcalf,WR,SEA,1,BDKE,Matt,,snake,2025-07-01T16:38:50.796297
+2020,,5,60,108,2532975,Russell Wilson,QB,SEA,2,WILSON,Ryan,,snake,2025-07-01T16:38:50.796480
+2020,,6,61,121,2552608,Stefon Diggs,WR,BUF,2,WILSON,Ryan,,snake,2025-07-01T16:38:51.623578
+2020,,6,62,122,2558063,Deshaun Watson,QB,HOU,1,BDKE,Matt,,snake,2025-07-01T16:38:51.623759
+2020,,6,63,123,2555260,Dak Prescott,QB,DAL,5,Courtland's Trailblazers,Benjy,,snake,2025-07-01T16:38:51.623919
+2020,,6,64,124,2562382,Kyler Murray,QB,ARI,9,RushMoore,Kyle,,snake,2025-07-01T16:38:51.624077
+2020,,6,65,125,2555466,Tyler Boyd,WR,CIN,11,Tyrannosaurus Reek,Jake,,snake,2025-07-01T16:38:51.624226
+2020,,6,66,126,238498,Julian Edelman,WR,NE,3,Some Like it Hop,Cameron,,snake,2025-07-01T16:38:51.624398
+2020,,6,67,127,2557973,Leonard Fournette,RB,TB,8,Judge Jeudy,Nick,,snake,2025-07-01T16:38:51.624553
+2020,,6,68,128,2563965,D'Andre Swift,RB,DET,6,HYDROCOOKERS,Alexander,,snake,2025-07-01T16:38:51.624713
+2020,,6,69,129,2560955,Josh Allen,QB,BUF,10,Kupp Pong,Cole,,snake,2025-07-01T16:38:51.624864
+2020,,6,70,130,2557917,Kareem Hunt,RB,CLE,12,Godwin Of War,James,,snake,2025-07-01T16:38:51.625002
+2020,,6,71,131,2552409,DeVante Parker,WR,MIA,4,Big Trouble in Kittle China,Craig,,snake,2025-07-01T16:38:51.625151
+2020,,6,72,132,2495450,A.J. Green,WR,CIN,7,Swimming with the Charks,Zach,,snake,2025-07-01T16:38:51.625297
+2020,,7,73,145,2562721,Deebo Samuel,WR,SF,7,Swimming with the Charks,Zach,,snake,2025-07-01T16:38:52.390610
+2020,,7,74,146,310,Matt Ryan,QB,ATL,4,Big Trouble in Kittle China,Craig,,snake,2025-07-01T16:38:52.390777
+2020,,7,75,147,2557858,Evan Engram,TE,NYG,12,Godwin Of War,James,,snake,2025-07-01T16:38:52.390933
+2020,,7,76,148,2560735,Michael Gallup,WR,DAL,10,Kupp Pong,Cole,,snake,2025-07-01T16:38:52.391086
+2020,,7,77,149,2555418,Jordan Howard,,,6,HYDROCOOKERS,Alexander,,snake,2025-07-01T16:38:52.391235
+2020,,7,78,150,2552408,Darren Waller,TE,LV,8,Judge Jeudy,Nick,,snake,2025-07-01T16:38:52.391378
+2020,,7,79,151,2543488,Jarvis Landry,WR,CLE,3,Some Like it Hop,Cameron,,snake,2025-07-01T16:38:52.391526
+2020,,7,80,152,2563548,J.K. Dobbins,RB,BAL,11,Tyrannosaurus Reek,Jake,,snake,2025-07-01T16:38:52.391672
+2020,,7,81,153,2559947,Phillip Lindsay,RB,DEN,9,RushMoore,Kyle,,snake,2025-07-01T16:38:52.391820
+2020,,7,82,154,2563617,Zack Moss,RB,BUF,5,Courtland's Trailblazers,Benjy,,snake,2025-07-01T16:38:52.391960
+2020,,7,83,155,2555346,Will Fuller,WR,HOU,1,BDKE,Matt,,snake,2025-07-01T16:38:52.392099
+2020,,7,84,156,2543498,Brandin Cooks,WR,HOU,2,WILSON,Ryan,,snake,2025-07-01T16:38:52.392240
+2020,,8,85,169,2541161,Latavius Murray,RB,NO,2,WILSON,Ryan,,snake,2025-07-01T16:38:53.235236
+2020,,8,86,170,2532884,Marvin Jones,WR,DET,1,BDKE,Matt,,snake,2025-07-01T16:38:53.235429
+2020,,8,87,171,2560747,Hayden Hurst,TE,ATL,5,Courtland's Trailblazers,Benjy,,snake,2025-07-01T16:38:53.235599
+2020,,8,88,172,2562674,Diontae Johnson,WR,PIT,9,RushMoore,Kyle,,snake,2025-07-01T16:38:53.235781
+2020,,8,89,173,2558123,Marlon Mack,RB,IND,11,Tyrannosaurus Reek,Jake,,snake,2025-07-01T16:38:53.235964
+2020,,8,90,174,2556462,Robby Anderson,WR,CAR,3,Some Like it Hop,Cameron,,snake,2025-07-01T16:38:53.236133
+2020,,8,91,175,2560765,Kerryon Johnson,RB,DET,8,Judge Jeudy,Nick,,snake,2025-07-01T16:38:53.236307
+2020,,8,92,176,2560781,Christian Kirk,WR,ARI,6,HYDROCOOKERS,Alexander,,snake,2025-07-01T16:38:53.236468
+2020,,8,93,177,2552453,Tevin Coleman,RB,SF,10,Kupp Pong,Cole,,snake,2025-07-01T16:38:53.236632
+2020,,8,94,178,2552415,Jamison Crowder,WR,NYJ,12,Godwin Of War,James,,snake,2025-07-01T16:38:53.236793
+2020,,8,95,179,2543773,James White,RB,NE,4,Big Trouble in Kittle China,Craig,,snake,2025-07-01T16:38:53.236956
+2020,,8,96,180,71265,Jared Cook,TE,NO,7,Swimming with the Charks,Zach,,snake,2025-07-01T16:38:53.237123
+2020,,9,97,193,2560810,Anthony Miller,WR,CHI,7,Swimming with the Charks,Zach,,snake,2025-07-01T16:38:54.032419
+2020,,9,98,194,2562682,Alexander Mattison,RB,MIN,4,Big Trouble in Kittle China,Craig,,snake,2025-07-01T16:38:54.032598
+2020,,9,99,195,2555259,Carson Wentz,QB,PHI,12,Godwin Of War,James,,snake,2025-07-01T16:38:54.032761
+2020,,9,100,196,2543847,John Brown,WR,BUF,10,Kupp Pong,Cole,,snake,2025-07-01T16:38:54.032935
+2020,,9,101,197,497240,Rob Gronkowski,TE,TB,6,HYDROCOOKERS,Alexander,,snake,2025-07-01T16:38:54.033092
+2020,,9,102,198,2504775,Drew Brees,QB,NO,8,Judge Jeudy,Nick,,snake,2025-07-01T16:38:54.033255
+2020,,9,103,199,2555364,Tyler Higbee,TE,LA,3,Some Like it Hop,Cameron,,snake,2025-07-01T16:38:54.033411
+2020,,9,104,200,2562736,Darius Slayton,WR,NYG,11,Tyrannosaurus Reek,Jake,,snake,2025-07-01T16:38:54.033568
+2020,,9,105,201,2558918,Matt Breida,RB,MIA,9,RushMoore,Kyle,,snake,2025-07-01T16:38:54.033718
+2020,,9,106,202,2555295,Sterling Shepard,WR,NYG,5,Courtland's Trailblazers,Benjy,,snake,2025-07-01T16:38:54.033866
+2020,,9,107,203,2560770,Ronald Jones,RB,TB,1,BDKE,Matt,,snake,2025-07-01T16:38:54.034018
+2020,,9,108,204,2563848,CeeDee Lamb,WR,DAL,2,WILSON,Ryan,,snake,2025-07-01T16:38:54.034185
+2020,,10,109,217,497322,Emmanuel Sanders,WR,NO,2,WILSON,Ryan,,snake,2025-07-01T16:38:54.845995
+2020,,10,110,218,2558250,Tarik Cohen,RB,CHI,1,BDKE,Matt,,snake,2025-07-01T16:38:54.846164
+2020,,10,111,219,2561146,Boston Scott,RB,PHI,5,Courtland's Trailblazers,Benjy,,snake,2025-07-01T16:38:54.846307
+2020,,10,112,220,2562805,Preston Williams,WR,MIA,9,RushMoore,Kyle,,snake,2025-07-01T16:38:54.846454
+2020,,10,113,221,2555341,Hunter Henry,TE,LAC,11,Tyrannosaurus Reek,Jake,,snake,2025-07-01T16:38:54.846599
+2020,,10,114,222,2564433,Henry Ruggs III,WR,LV,3,Some Like it Hop,Cameron,,snake,2025-07-01T16:38:54.846744
+2020,,10,115,223,2563896,Jerry Jeudy,WR,DEN,8,Judge Jeudy,Nick,,snake,2025-07-01T16:38:54.846880
+2020,,10,116,224,2562580,Mecole Hardman,WR,KC,6,HYDROCOOKERS,Alexander,,snake,2025-07-01T16:38:54.847009
+2020,,10,117,225,2560809,Sony Michel,RB,NE,10,Kupp Pong,Cole,,snake,2025-07-01T16:38:54.847146
+2020,,10,118,226,2562622,Ryquell Armstead,RB,JAX,12,Godwin Of War,James,,snake,2025-07-01T16:38:54.847283
+2020,,10,119,227,2543457,Sammy Watkins,WR,KC,4,Big Trouble in Kittle China,Craig,,snake,2025-07-01T16:38:54.847415
+2020,,10,120,228,2495455,Cam Newton,QB,NE,7,Swimming with the Charks,Zach,,snake,2025-07-01T16:38:54.847556
+2020,,11,121,241,2562281,Damien Harris,RB,NE,7,Swimming with the Charks,Zach,,snake,2025-07-01T16:38:55.622464
+2020,,11,122,242,100027,Pittsburgh Steelers,,,4,Big Trouble in Kittle China,Craig,,snake,2025-07-01T16:38:55.622636
+2020,,11,123,243,2562574,Darrell Henderson,RB,LA,12,Godwin Of War,James,,snake,2025-07-01T16:38:55.622789
+2020,,11,124,244,2558846,Mike Williams,WR,LAC,10,Kupp Pong,Cole,,snake,2025-07-01T16:38:55.623003
+2020,,11,125,245,2558207,Jonnu Smith,TE,TEN,6,HYDROCOOKERS,Alexander,,snake,2025-07-01T16:38:55.623177
+2020,,11,126,246,497326,Golden Tate,WR,NYG,8,Judge Jeudy,Nick,,snake,2025-07-01T16:38:55.623320
+2020,,11,127,247,2506121,Philip Rivers,QB,IND,3,Some Like it Hop,Cameron,,snake,2025-07-01T16:38:55.623457
+2020,,11,128,248,2565054,Joshua Kelley,RB,LAC,11,Tyrannosaurus Reek,Jake,,snake,2025-07-01T16:38:55.623593
+2020,,11,129,249,2504211,Tom Brady,QB,TB,9,RushMoore,Kyle,,snake,2025-07-01T16:38:55.623720
+2020,,11,130,250,2563033,Steven Sims,WR,WAS,5,Courtland's Trailblazers,Benjy,,snake,2025-07-01T16:38:55.623857
+2020,,11,131,251,2564850,Jalen Reagor,WR,PHI,1,BDKE,Matt,,snake,2025-07-01T16:38:55.623989
+2020,,11,132,252,2560742,Nyheim Hines,RB,IND,2,WILSON,Ryan,,snake,2025-07-01T16:38:55.624132
+2020,,12,133,265,2540232,Jack Doyle,TE,IND,2,WILSON,Ryan,,snake,2025-07-01T16:38:56.397588
+2020,,12,134,266,2560711,Chase Edmonds,RB,ARI,1,BDKE,Matt,,snake,2025-07-01T16:38:56.397738
+2020,,12,135,267,2562406,Bryce Love,RB,WAS,5,Courtland's Trailblazers,Benjy,,snake,2025-07-01T16:38:56.397870
+2020,,12,136,268,2552461,Duke Johnson,RB,HOU,9,RushMoore,Kyle,,snake,2025-07-01T16:38:56.398003
+2020,,12,137,269,2562699,Tony Pollard,RB,DAL,11,Tyrannosaurus Reek,Jake,,snake,2025-07-01T16:38:56.398135
+2020,,12,138,270,2562409,Devine Ozigbo,RB,JAX,3,Some Like it Hop,Cameron,,snake,2025-07-01T16:38:56.398264
+2020,,12,139,271,100029,San Francisco 49ers,,,8,Judge Jeudy,Nick,,snake,2025-07-01T16:38:56.398399
+2020,,12,140,272,2564556,Justin Jefferson,WR,MIN,6,HYDROCOOKERS,Alexander,,snake,2025-07-01T16:38:56.398528
+2020,,12,141,273,1581,DeSean Jackson,WR,PHI,10,Kupp Pong,Cole,,snake,2025-07-01T16:38:56.398661
+2020,,12,142,274,2560787,Allen Lazard,WR,GB,12,Godwin Of War,James,,snake,2025-07-01T16:38:56.398791
+2020,,12,143,275,2506363,Aaron Rodgers,QB,GB,4,Big Trouble in Kittle China,Craig,,snake,2025-07-01T16:38:56.398919
+2020,,12,144,276,2540011,Chris Thompson,RB,JAX,7,Swimming with the Charks,Zach,,snake,2025-07-01T16:38:56.399050
+2020,,13,145,289,2559205,Younghoe Koo,K,ATL,7,Swimming with the Charks,Zach,,snake,2025-07-01T16:38:57.150279
+2020,,13,146,290,2543743,Carlos Hyde,RB,SEA,4,Big Trouble in Kittle China,Craig,,snake,2025-07-01T16:38:57.150427
+2020,,13,147,291,100002,Baltimore Ravens,,,12,Godwin Of War,James,,snake,2025-07-01T16:38:57.150558
+2020,,13,148,292,79860,Matthew Stafford,QB,DET,10,Kupp Pong,Cole,,snake,2025-07-01T16:38:57.150691
+2020,,13,149,293,100003,Buffalo Bills,,,6,HYDROCOOKERS,Alexander,,snake,2025-07-01T16:38:57.150819
+2020,,13,150,294,2560994,Mike Gesicki,TE,MIA,8,Judge Jeudy,Nick,,snake,2025-07-01T16:38:57.150948
+2020,,13,151,295,2553895,Adam Humphries,WR,TEN,3,Some Like it Hop,Cameron,,snake,2025-07-01T16:38:57.151076
+2020,,13,152,296,2559193,Blake Jarwin,TE,DAL,11,Tyrannosaurus Reek,Jake,,snake,2025-07-01T16:38:57.151202
+2020,,13,153,297,2562383,Noah Fant,TE,DEN,9,RushMoore,Kyle,,snake,2025-07-01T16:38:57.151330
+2020,,13,154,298,2564418,Bryan Edwards,WR,LV,5,Courtland's Trailblazers,Benjy,,snake,2025-07-01T16:38:57.151477
+2020,,13,155,299,2558245,Harrison Butker,K,KC,1,BDKE,Matt,,snake,2025-07-01T16:38:57.151628
+2020,,13,156,300,100021,New England Patriots,,,2,WILSON,Ryan,,snake,2025-07-01T16:38:57.151757
+2020,,14,157,313,2562299,Daniel Jones,QB,NYG,2,WILSON,Ryan,,snake,2025-07-01T16:38:57.922911
+2020,,14,158,314,100022,New Orleans Saints,,,1,BDKE,Matt,,snake,2025-07-01T16:38:57.923066
+2020,,14,159,315,100020,Minnesota Vikings,,,5,Courtland's Trailblazers,Benjy,,snake,2025-07-01T16:38:57.923205
+2020,,14,160,316,2536340,Justin Tucker,K,BAL,9,RushMoore,Kyle,,snake,2025-07-01T16:38:57.923350
+2020,,14,161,317,100012,Tennessee Titans,,,11,Tyrannosaurus Reek,Jake,,snake,2025-07-01T16:38:57.923489
+2020,,14,162,318,2556601,Wil Lutz,K,NO,3,Some Like it Hop,Cameron,,snake,2025-07-01T16:38:57.923625
+2020,,14,163,319,2552597,Breshad Perriman,WR,NYJ,8,Judge Jeudy,Nick,,snake,2025-07-01T16:38:57.923762
+2020,,14,164,320,2563722,Joe Burrow,QB,CIN,6,HYDROCOOKERS,Alexander,,snake,2025-07-01T16:38:57.923897
+2020,,14,165,321,2532956,Ryan Tannehill,QB,TEN,10,Kupp Pong,Cole,,snake,2025-07-01T16:38:57.924027
+2020,,14,166,322,2562796,Gardner Minshew,QB,JAX,12,Godwin Of War,James,,snake,2025-07-01T16:38:57.924161
+2020,,14,167,323,2558178,Zane Gonzalez,K,ARI,4,Big Trouble in Kittle China,Craig,,snake,2025-07-01T16:38:57.924299
+2020,,14,168,324,2533039,Alshon Jeffery,WR,PHI,7,Swimming with the Charks,Zach,,snake,2025-07-01T16:38:57.924428
+2020,,15,169,337,100028,Los Angeles Chargers,,,7,Swimming with the Charks,Zach,,snake,2025-07-01T16:38:58.692692
+2020,,15,170,338,2558066,Curtis Samuel,WR,CAR,4,Big Trouble in Kittle China,Craig,,snake,2025-07-01T16:38:58.692831
+2020,,15,171,339,2534797,Greg Zuerlein,K,DAL,12,Godwin Of War,James,,snake,2025-07-01T16:38:58.692963
+2020,,15,172,340,100005,Chicago Bears,,,10,Kupp Pong,Cole,,snake,2025-07-01T16:38:58.693087
+2020,,15,173,341,2495259,Dan Bailey,K,MIN,6,HYDROCOOKERS,Alexander,,snake,2025-07-01T16:38:58.693210
+2020,,15,174,342,2506264,Robbie Gould,K,SF,8,Judge Jeudy,Nick,,snake,2025-07-01T16:38:58.693336
+2020,,15,175,343,100031,Tampa Bay Buccaneers,,,3,Some Like it Hop,Cameron,,snake,2025-07-01T16:38:58.693457
+2020,,15,176,344,2553112,Jason Myers,K,SEA,11,Tyrannosaurus Reek,Jake,,snake,2025-07-01T16:38:58.693579
+2020,,15,177,345,100016,Kansas City Chiefs,,,9,RushMoore,Kyle,,snake,2025-07-01T16:38:58.693710
+2020,,15,178,346,2556521,Ka'imi Fairbairn,K,HOU,5,Courtland's Trailblazers,Benjy,,snake,2025-07-01T16:38:58.693838
+2020,,15,179,347,2562659,N'Keal Harry,WR,NE,1,BDKE,Matt,,snake,2025-07-01T16:38:58.693958
+2020,,15,180,348,2506677,Matt Prater,K,DET,2,WILSON,Ryan,,snake,2025-07-01T16:38:58.694079

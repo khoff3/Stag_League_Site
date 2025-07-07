@@ -1,0 +1,68 @@
+{
+  "games": [
+    {
+      "away_points": 94.24,
+      "away_rank": 8,
+      "away_record": "7-7-0",
+      "away_team": "Fifty Shades of Garay",
+      "away_team_id": "5",
+      "game_id": "20121565",
+      "home_points": 73.74,
+      "home_rank": 5,
+      "home_record": "8-6-0",
+      "home_team": "Dragon Army",
+      "home_team_id": "6",
+      "scraped_at": "2025-06-21T22:35:21.814Z",
+      "season": 2012,
+      "week": 15
+    },
+    {
+      "away_points": 135.08,
+      "away_rank": 7,
+      "away_record": "8-6-0",
+      "away_team": "Recepticons",
+      "away_team_id": "8",
+      "game_id": "201215128",
+      "home_points": 97.94,
+      "home_rank": 6,
+      "home_record": "8-6-0",
+      "home_team": "Swagger Badgers",
+      "home_team_id": "12",
+      "scraped_at": "2025-06-21T22:35:21.814Z",
+      "season": 2012,
+      "week": 15
+    },
+    {
+      "away_points": 65.86,
+      "away_rank": 4,
+      "away_record": "8-6-0",
+      "away_team": "Forgetting Brandon Marshall",
+      "away_team_id": "1",
+      "game_id": "20121541",
+      "home_points": 69.52,
+      "home_rank": 1,
+      "home_record": "9-5-0",
+      "home_team": "BedonkaGronk",
+      "home_team_id": "4",
+      "scraped_at": "2025-06-21T22:35:21.814Z",
+      "season": 2012,
+      "week": 15
+    },
+    {
+      "away_points": 63.26,
+      "away_rank": 3,
+      "away_record": "9-5-0",
+      "away_team": "ENDER",
+      "away_team_id": "10",
+      "game_id": "2012151110",
+      "home_points": 142.5,
+      "home_rank": 2,
+      "home_record": "9-5-0",
+      "home_team": "Taco",
+      "home_team_id": "11",
+      "scraped_at": "2025-06-21T22:35:21.814Z",
+      "season": 2012,
+      "week": 15
+    }
+  ]
+}

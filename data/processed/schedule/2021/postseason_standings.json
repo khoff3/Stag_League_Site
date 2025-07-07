@@ -1,0 +1,102 @@
+[
+  {
+    "place": 1,
+    "label": "Champion",
+    "team_id": "6",
+    "team_name": "Hydroslayers",
+    "points": 118.08,
+    "week_15_points": 0.0,
+    "week_16_points": 118.08
+  },
+  {
+    "place": 2,
+    "label": "Runner Up",
+    "team_id": "10",
+    "team_name": "Tom and Terry",
+    "points": 196.76,
+    "week_15_points": 78.86,
+    "week_16_points": 117.9
+  },
+  {
+    "place": 3,
+    "label": "Third Place",
+    "team_id": "12",
+    "team_name": "The Kyler Sisters",
+    "points": 200.18,
+    "week_15_points": 103.58,
+    "week_16_points": 96.6
+  },
+  {
+    "place": 4,
+    "label": "Fourth Place",
+    "team_id": "8",
+    "team_name": "Taylor Swift",
+    "points": 77.22,
+    "week_15_points": 0.0,
+    "week_16_points": 77.22
+  },
+  {
+    "place": 5,
+    "label": "Fifth Place",
+    "team_id": "9",
+    "team_name": "Dak Flashes",
+    "points": 78.28,
+    "week_15_points": 78.28,
+    "week_16_points": 0.0
+  },
+  {
+    "place": 6,
+    "label": "Sixth Place",
+    "team_id": "1",
+    "team_name": "The Uncanny Eks-Men",
+    "points": 84.74,
+    "week_15_points": 84.74,
+    "week_16_points": 0.0
+  },
+  {
+    "place": 7,
+    "label": "Seventh Place",
+    "team_id": "5",
+    "team_name": "Chubb Scouts",
+    "points": 0.0
+  },
+  {
+    "place": 8,
+    "label": "Eighth Place",
+    "team_id": "11",
+    "team_name": "Tyrannosaurus Reek II",
+    "points": 0.0
+  },
+  {
+    "place": 9,
+    "label": "Ninth Place",
+    "team_id": "2",
+    "team_name": "Dalvin and Hobbs",
+    "points": 0.0
+  },
+  {
+    "place": 10,
+    "label": "Tenth Place",
+    "team_id": "3",
+    "team_name": "Hockensockem Robots",
+    "points": 0.0
+  },
+  {
+    "place": 5,
+    "label": "Fifth Place",
+    "team_id": "1",
+    "team_name": "The Uncanny Eks-Men",
+    "points": 84.94,
+    "week_16_points": 84.94,
+    "week_15_points": 0.0
+  },
+  {
+    "place": 6,
+    "label": "Sixth Place",
+    "team_id": "9",
+    "team_name": "Dak Flashes",
+    "points": 55.84,
+    "week_16_points": 55.84,
+    "week_15_points": 0.0
+  }
+]

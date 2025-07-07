@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "label": "Champion",
+    "team_id": "11",
+    "team_name": "Outback Jakehouse",
+    "points": 137.48,
+    "week_15_points": 0.0,
+    "week_16_points": 137.48
+  },
+  {
+    "place": 2,
+    "label": "Runner Up",
+    "team_id": "3",
+    "team_name": "Aiken' for the ThreePeat",
+    "points": 163.95999999999998,
+    "week_15_points": 85.88,
+    "week_16_points": 78.08
+  },
+  {
+    "place": 3,
+    "label": "Third Place",
+    "team_id": "2",
+    "team_name": "King Goffery",
+    "points": 98.86,
+    "week_15_points": 0.0,
+    "week_16_points": 98.86
+  },
+  {
+    "place": 4,
+    "label": "Fourth Place",
+    "team_id": "6",
+    "team_name": "HYDROPOWER",
+    "points": 72.88,
+    "week_15_points": 0.0,
+    "week_16_points": 72.88
+  },
+  {
+    "place": 7,
+    "label": "Seventh Place",
+    "team_id": "1",
+    "team_name": "Latavius Maximus",
+    "points": 0.0
+  },
+  {
+    "place": 8,
+    "label": "Eighth Place",
+    "team_id": "12",
+    "team_name": "theres something about Mathews",
+    "points": 0.0
+  },
+  {
+    "place": 9,
+    "label": "Ninth Place",
+    "team_id": "4",
+    "team_name": "The PTY's",
+    "points": 0.0
+  },
+  {
+    "place": 10,
+    "label": "Tenth Place",
+    "team_id": "8",
+    "team_name": "Miller High Lyfe",
+    "points": 0.0
+  },
+  {
+    "place": 11,
+    "label": "Eleventh Place",
+    "team_id": "10",
+    "team_name": "Cole's Drafted Players",
+    "points": 0.0
+  },
+  {
+    "place": 12,
+    "label": "Twelfth Place",
+    "team_id": "9",
+    "team_name": "Mon Don't Grief",
+    "points": 0.0
+  }
+]

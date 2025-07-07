@@ -1,0 +1,122 @@
+[
+  {
+    "team_id": "2",
+    "team_name": "Granger Danger",
+    "wins": 11,
+    "losses": 3,
+    "ties": 0,
+    "points_for": 1550.06,
+    "points_against": 1184.8,
+    "place": 1,
+    "record": "11-3-0",
+    "win_pct": 0.7857142857142857
+  },
+  {
+    "team_id": "5",
+    "team_name": "Fencing Beats Football",
+    "wins": 9,
+    "losses": 5,
+    "ties": 0,
+    "points_for": 1383.3399999999997,
+    "points_against": 1329.1599999999999,
+    "place": 2,
+    "record": "9-5-0",
+    "win_pct": 0.6428571428571429
+  },
+  {
+    "team_id": "1",
+    "team_name": "The REVolution",
+    "wins": 9,
+    "losses": 5,
+    "ties": 0,
+    "points_for": 1332.04,
+    "points_against": 1247.02,
+    "place": 3,
+    "record": "9-5-0",
+    "win_pct": 0.6428571428571429
+  },
+  {
+    "team_id": "6",
+    "team_name": "Swagger Badgers",
+    "wins": 8,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1451.78,
+    "points_against": 1401.32,
+    "place": 4,
+    "record": "8-6-0",
+    "win_pct": 0.5714285714285714
+  },
+  {
+    "team_id": "9",
+    "team_name": "Go Pack Go",
+    "wins": 8,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1390.8,
+    "points_against": 1284.5,
+    "place": 5,
+    "record": "8-6-0",
+    "win_pct": 0.5714285714285714
+  },
+  {
+    "team_id": "10",
+    "team_name": "Village Park Recreational Club",
+    "wins": 8,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1239.56,
+    "points_against": 1360.42,
+    "place": 6,
+    "record": "8-6-0",
+    "win_pct": 0.5714285714285714
+  },
+  {
+    "team_id": "7",
+    "team_name": "Big Bird's Barbarians",
+    "wins": 6,
+    "losses": 8,
+    "ties": 0,
+    "points_for": 1358.1799999999998,
+    "points_against": 1308.6799999999998,
+    "place": 7,
+    "record": "6-8-0",
+    "win_pct": 0.42857142857142855
+  },
+  {
+    "team_id": "3",
+    "team_name": "D Street Corsairs",
+    "wins": 5,
+    "losses": 9,
+    "ties": 0,
+    "points_for": 1203.48,
+    "points_against": 1295.52,
+    "place": 8,
+    "record": "5-9-0",
+    "win_pct": 0.35714285714285715
+  },
+  {
+    "team_id": "8",
+    "team_name": "Free DOME",
+    "wins": 4,
+    "losses": 10,
+    "ties": 0,
+    "points_for": 1028.8000000000002,
+    "points_against": 1297.56,
+    "place": 9,
+    "record": "4-10-0",
+    "win_pct": 0.2857142857142857
+  },
+  {
+    "team_id": "4",
+    "team_name": "HOLDEN CAUFIELDS",
+    "wins": 2,
+    "losses": 12,
+    "ties": 0,
+    "points_for": 1151.48,
+    "points_against": 1380.54,
+    "place": 10,
+    "record": "2-12-0",
+    "win_pct": 0.14285714285714285
+  }
+]

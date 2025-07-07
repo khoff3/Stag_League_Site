@@ -1,0 +1,68 @@
+{
+  "games": [
+    {
+      "away_points": 76.42,
+      "away_rank": 8,
+      "away_record": "7-7-0",
+      "away_team": "Christopher Welken",
+      "away_team_id": "11",
+      "game_id": "201415611",
+      "home_points": 88.08,
+      "home_rank": 5,
+      "home_record": "7-7-0",
+      "home_team": "SweatyandEddiesQuestfortheStag",
+      "home_team_id": "6",
+      "scraped_at": "2025-06-22T05:19:03.628Z",
+      "season": 2014,
+      "week": 15
+    },
+    {
+      "away_points": 95.1,
+      "away_rank": 7,
+      "away_record": "7-7-0",
+      "away_team": "Chuck-E-Brees",
+      "away_team_id": "9",
+      "game_id": "20141579",
+      "home_points": 120.1,
+      "home_rank": 6,
+      "home_record": "7-7-0",
+      "home_team": "Knowshon's Eleven",
+      "home_team_id": "7",
+      "scraped_at": "2025-06-22T05:19:03.628Z",
+      "season": 2014,
+      "week": 15
+    },
+    {
+      "away_points": 104.3,
+      "away_rank": 4,
+      "away_record": "8-6-0",
+      "away_team": "My Dinner with Andre",
+      "away_team_id": "5",
+      "game_id": "201415105",
+      "home_points": 76.78,
+      "home_rank": 1,
+      "home_record": "10-4-0",
+      "home_team": "Forte's Foreplay",
+      "home_team_id": "10",
+      "scraped_at": "2025-06-22T05:19:03.628Z",
+      "season": 2014,
+      "week": 15
+    },
+    {
+      "away_points": 114.78,
+      "away_rank": 3,
+      "away_record": "8-6-0",
+      "away_team": "InstaGraham",
+      "away_team_id": "1",
+      "game_id": "20141531",
+      "home_points": 72.48,
+      "home_rank": 2,
+      "home_record": "9-5-0",
+      "home_team": "Stills Harvin Some Woodhead",
+      "home_team_id": "3",
+      "scraped_at": "2025-06-22T05:19:03.628Z",
+      "season": 2014,
+      "week": 15
+    }
+  ]
+}

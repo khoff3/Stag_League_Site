@@ -1,0 +1,110 @@
+[
+  {
+    "place": 1,
+    "label": "Champion",
+    "team_id": "2",
+    "team_name": "Charles in Charge",
+    "points": 265.65999999999997,
+    "week_15_points": 139.16,
+    "week_16_points": 126.5
+  },
+  {
+    "place": 2,
+    "label": "Runner Up",
+    "team_id": "1",
+    "team_name": "Colin The Shots",
+    "points": 227.8,
+    "week_15_points": 108.92,
+    "week_16_points": 118.88
+  },
+  {
+    "place": 3,
+    "label": "Third Place",
+    "team_id": "4",
+    "team_name": "TA-VON-ME",
+    "points": 152.94,
+    "week_15_points": 66.9,
+    "week_16_points": 86.04
+  },
+  {
+    "place": 4,
+    "label": "Fourth Place",
+    "team_id": "5",
+    "team_name": "For Whom Le'Veon Bell Tolls",
+    "points": 142.07999999999998,
+    "week_15_points": 95.6,
+    "week_16_points": 46.48
+  },
+  {
+    "place": 5,
+    "label": "Fifth Place",
+    "team_id": "6",
+    "team_name": "MONDAY Night MURDERERS",
+    "points": 198.32,
+    "week_15_points": 120.94,
+    "week_16_points": 77.38
+  },
+  {
+    "place": 6,
+    "label": "Sixth Place",
+    "team_id": "11",
+    "team_name": "The Green Machine",
+    "points": 182.44,
+    "week_15_points": 87.46,
+    "week_16_points": 94.98
+  },
+  {
+    "place": 7,
+    "label": "Seventh Place",
+    "team_id": "7",
+    "team_name": "Bearing Down",
+    "points": 178.94,
+    "week_15_points": 111.9,
+    "week_16_points": 67.04
+  },
+  {
+    "place": 8,
+    "label": "Eighth Place",
+    "team_id": "8",
+    "team_name": "Marshall Law",
+    "points": 156.88,
+    "week_15_points": 89.44,
+    "week_16_points": 67.44
+  },
+  {
+    "place": 9,
+    "label": "Ninth Place",
+    "team_id": "3",
+    "team_name": "Vincent's Brownies",
+    "points": 173.0,
+    "week_15_points": 85.0,
+    "week_16_points": 88.0
+  },
+  {
+    "place": 10,
+    "label": "Tenth Place",
+    "team_id": "9",
+    "team_name": "Newton's Own",
+    "points": 167.0,
+    "week_15_points": 82.0,
+    "week_16_points": 85.0
+  },
+  {
+    "place": 11,
+    "label": "Eleventh Place",
+    "team_id": "10",
+    "team_name": "Sproling in It",
+    "points": 153.0,
+    "week_15_points": 78.0,
+    "week_16_points": 75.0
+  },
+  {
+    "place": 12,
+    "label": "Twelfth Place",
+    "team_id": "12",
+    "team_name": "Jacob's Super Stars",
+    "points": 145.0,
+    "week_15_points": 75.0,
+    "week_16_points": 70.0
+  }
+]
