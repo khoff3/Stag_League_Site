@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Josh Allen",
       "nfl_team": "BUF",
       "game_result": "Loss",
@@ -13,16 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 12,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 26.36,
-      "touchdowns": 3,
-      "lineup_status": "starter",
-      "player_id": "2560955"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Derrick Henry",
       "nfl_team": "TEN",
       "game_result": "Loss",
@@ -34,15 +33,14 @@
       "rushing_tds": 0,
       "receiving_yards": 6,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 10.9,
-      "lineup_status": "starter",
-      "player_id": "2556075"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Gus Edwards",
       "nfl_team": "BAL",
       "game_result": "Loss",
@@ -54,15 +52,14 @@
       "rushing_tds": 0,
       "receiving_yards": 31,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 7.3,
-      "lineup_status": "starter",
-      "player_id": "2561324"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Cooper Kupp",
       "nfl_team": "LA Q",
       "game_result": "Win",
@@ -74,15 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 50,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 5.0,
-      "lineup_status": "starter",
-      "player_id": "2557898"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Mike Williams",
       "nfl_team": "LAC",
       "game_result": "Loss",
@@ -94,18 +90,15 @@
       "rushing_tds": 0,
       "receiving_yards": 38,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 3.8,
-      "lineup_status": "starter",
-      "player_id": "2558846"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "--empty--",
-      "game_result": "",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -113,18 +106,16 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "R/W/T",
+      "lineup_status": "starter",
       "name": "Frank Gore",
       "nfl_team": "NYJ IR",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -132,15 +123,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2506404"
+      "player_type": "offense"
     },
     {
-      "position": "QB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Ryan Tannehill",
       "nfl_team": "TEN",
       "game_result": "Loss",
@@ -152,16 +142,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 10.78,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2532956"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Chris Carson",
       "nfl_team": "SEA",
       "game_result": "Loss",
@@ -173,15 +161,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2558865"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Sony Michel",
       "nfl_team": "NE",
       "game_result": "Win",
@@ -193,15 +180,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2560809"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Mike Evans",
       "nfl_team": "TB",
       "game_result": "Win",
@@ -213,20 +199,16 @@
       "rushing_tds": 0,
       "receiving_yards": 77,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 13.7,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2543468"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Michael Gallup",
       "nfl_team": "DAL",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -234,19 +216,16 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2560735"
+      "player_type": "offense"
     },
     {
-      "position": "TE",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Travis Kelce",
       "nfl_team": "KC",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -254,13 +233,67 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2540258"
+      "name": "Dan Bailey",
+      "nfl_team": "MIN",
+      "game_result": "Win",
+      "game_score": "19-13",
+      "fg_made": 2,
+      "fg_0_19": 0,
+      "fg_20_29": 0,
+      "fg_30_39": 1,
+      "fg_40_49": 1,
+      "fg_50_plus": 0,
+      "fantasy_points": 7.0,
+      "player_type": "kicker",
+      "pat_made": 1
+    },
+    {
+      "position": "BN",
+      "lineup_status": "bench",
+      "name": "Randy Bullock",
+      "nfl_team": "CIN",
+      "game_result": "Loss",
+      "game_score": "10-36",
+      "fg_made": 1,
+      "fg_0_19": 0,
+      "fg_20_29": 0,
+      "fg_30_39": 1,
+      "fg_40_49": 0,
+      "fg_50_plus": 0,
+      "fantasy_points": 4.0,
+      "player_type": "kicker",
+      "pat_made": 1
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Chicago Bears",
+      "nfl_team": "Chicago Bears",
+      "game_result": "Loss",
+      "game_score": "13-19",
+      "sacks": 1,
+      "interceptions": 1,
+      "fumble_recoveries": 1,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 19,
+      "fantasy_points": 12.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 16,
+    "starters": 9,
+    "bench": 7,
+    "total_points": 72.35999999999999
+  },
   "source": "html_scraping"
 }

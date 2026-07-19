@@ -254,14 +254,15 @@
       "nfl_team": "BAL",
       "game_result": "Win",
       "game_score": "38-6",
-      "fg_made": 5,
+      "fg_made": 1,
       "fg_0_19": 0,
       "fg_20_29": 0,
       "fg_30_39": 0,
       "fg_40_49": 1,
       "fg_50_plus": 0,
       "fantasy_points": 8.0,
-      "player_type": "kicker"
+      "player_type": "kicker",
+      "pat_made": 5
     },
     {
       "position": "DEF",

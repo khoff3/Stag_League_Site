@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Drew Brees",
       "nfl_team": "NO",
       "game_result": "Win",
@@ -13,16 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 1,
       "fantasy_points": 34.88,
-      "touchdowns": 5,
-      "lineup_status": "starter",
-      "player_id": "2504775"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Chris Johnson",
       "nfl_team": "TEN",
       "game_result": "Loss",
@@ -34,15 +33,14 @@
       "rushing_tds": 0,
       "receiving_yards": 54,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 10.9,
-      "lineup_status": "starter",
-      "player_id": "262"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Ahmad Bradshaw",
       "nfl_team": "NYG",
       "game_result": "Loss",
@@ -54,16 +52,14 @@
       "rushing_tds": 1,
       "receiving_yards": 21,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 13.9,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2495560"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Percy Harvin",
       "nfl_team": "MIN",
       "game_result": "Loss",
@@ -75,15 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 8,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.7,
-      "lineup_status": "starter",
-      "player_id": "80425"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Reggie Wayne",
       "nfl_team": "IND",
       "game_result": "Win",
@@ -95,16 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 33,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 9.3,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2504747"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Mike Williams",
       "nfl_team": "TB",
       "game_result": "Loss",
@@ -116,15 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2508048"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Brandon Pettigrew",
       "nfl_team": "DET",
       "game_result": "Win",
@@ -136,15 +128,14 @@
       "rushing_tds": 0,
       "receiving_yards": 49,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.9,
-      "lineup_status": "starter",
-      "player_id": "71431"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Brandon Gibson",
       "nfl_team": "STL",
       "game_result": "Loss",
@@ -156,15 +147,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "81288"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Ben Tate",
       "nfl_team": "HOU",
       "game_result": "Loss",
@@ -176,15 +166,14 @@
       "rushing_tds": 0,
       "receiving_yards": 4,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 3.0,
-      "lineup_status": "starter",
-      "player_id": "497208"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Hines Ward",
       "nfl_team": "PIT",
       "game_result": "Loss",
@@ -196,15 +185,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2503532"
+      "player_type": "offense"
     },
     {
-      "position": "QB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Eli Manning",
       "nfl_team": "NYG",
       "game_result": "Loss",
@@ -216,15 +204,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.28,
-      "lineup_status": "starter",
-      "player_id": "2505996"
+      "player_type": "offense"
     },
     {
-      "position": "TE",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Kellen Winslow",
       "nfl_team": "TB",
       "game_result": "Loss",
@@ -236,15 +223,14 @@
       "rushing_tds": 0,
       "receiving_yards": 37,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 1,
       "fumbles_lost": 0,
       "fantasy_points": 5.7,
-      "lineup_status": "starter",
-      "player_id": "2506107"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Jackie Battle",
       "nfl_team": "KC",
       "game_result": "Win",
@@ -256,14 +242,50 @@
       "rushing_tds": 1,
       "receiving_yards": 7,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 10.4,
-      "touchdowns": 1,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2507278"
+      "name": "Dan Bailey",
+      "nfl_team": "DAL",
+      "game_result": "Win",
+      "game_score": "31-15",
+      "fg_made": 1,
+      "fg_0_19": 0,
+      "fg_20_29": 0,
+      "fg_30_39": 1,
+      "fg_40_49": 0,
+      "fg_50_plus": 0,
+      "fantasy_points": 7.0,
+      "player_type": "kicker",
+      "pat_made": 4
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "New England Patriots",
+      "nfl_team": "New England Patriots",
+      "game_result": "Win",
+      "game_score": "41-23",
+      "sacks": 4,
+      "interceptions": 0,
+      "fumble_recoveries": 3,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 23,
+      "fantasy_points": 10.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 91.58000000000001
+  },
   "source": "html_scraping"
 }

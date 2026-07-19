@@ -1,0 +1,107 @@
+[
+ {
+  "type": "free_agent",
+  "status": "complete",
+  "roster_ids": [
+   7
+  ]
+ },
+ {
+  "type": "free_agent",
+  "status": "complete",
+  "roster_ids": [
+   7
+  ]
+ },
+ {
+  "type": "free_agent",
+  "status": "complete",
+  "roster_ids": [
+   6
+  ]
+ },
+ {
+  "type": "waiver",
+  "status": "complete",
+  "roster_ids": [
+   7
+  ]
+ },
+ {
+  "type": "waiver",
+  "status": "failed",
+  "roster_ids": [
+   7
+  ]
+ },
+ {
+  "type": "waiver",
+  "status": "complete",
+  "roster_ids": [
+   5
+  ]
+ },
+ {
+  "type": "waiver",
+  "status": "complete",
+  "roster_ids": [
+   7
+  ]
+ },
+ {
+  "type": "waiver",
+  "status": "complete",
+  "roster_ids": [
+   7
+  ]
+ },
+ {
+  "type": "free_agent",
+  "status": "complete",
+  "roster_ids": [
+   7
+  ]
+ },
+ {
+  "type": "waiver",
+  "status": "failed",
+  "roster_ids": [
+   11
+  ]
+ },
+ {
+  "type": "waiver",
+  "status": "complete",
+  "roster_ids": [
+   7
+  ]
+ },
+ {
+  "type": "waiver",
+  "status": "failed",
+  "roster_ids": [
+   7
+  ]
+ },
+ {
+  "type": "waiver",
+  "status": "complete",
+  "roster_ids": [
+   8
+  ]
+ },
+ {
+  "type": "free_agent",
+  "status": "complete",
+  "roster_ids": [
+   7
+  ]
+ },
+ {
+  "type": "waiver",
+  "status": "complete",
+  "roster_ids": [
+   5
+  ]
+ }
+]

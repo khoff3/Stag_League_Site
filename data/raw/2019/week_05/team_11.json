@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Carson Wentz",
       "nfl_team": "PHI",
       "game_result": "Win",
@@ -13,16 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 12.06,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2555259"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "LeSean McCoy",
       "nfl_team": "KC",
       "game_result": "Loss",
@@ -34,15 +33,14 @@
       "rushing_tds": 0,
       "receiving_yards": 23,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 1,
       "fantasy_points": 0.3,
-      "lineup_status": "starter",
-      "player_id": "79607"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Chris Carson",
       "nfl_team": "SEA",
       "game_result": "Win",
@@ -54,16 +52,14 @@
       "rushing_tds": 0,
       "receiving_yards": 5,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 18.3,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2558865"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Cooper Kupp",
       "nfl_team": "LA",
       "game_result": "Loss",
@@ -75,16 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 117,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 17.7,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2557898"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Auden Tate",
       "nfl_team": "CIN",
       "game_result": "Loss",
@@ -96,16 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 26,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 8.6,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2560890"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Will Dissly",
       "nfl_team": "SEA",
       "game_result": "Win",
@@ -117,15 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 81,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 8.8,
-      "lineup_status": "starter",
-      "player_id": "2561046"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "R/W/T",
+      "lineup_status": "starter",
       "name": "Terry McLaurin",
       "nfl_team": "WAS",
       "game_result": "Loss",
@@ -137,15 +128,14 @@
       "rushing_tds": 0,
       "receiving_yards": 51,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 5.1,
-      "lineup_status": "starter",
-      "player_id": "2562489"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Tyrell Williams",
       "nfl_team": "LV",
       "game_result": "Win",
@@ -157,39 +147,16 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2553913"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
-      "name": "Robby Anderson",
-      "nfl_team": "NYJ",
-      "game_result": "Loss",
-      "game_score": "6-31",
-      "passing_yards": 0,
-      "passing_tds": 0,
-      "interceptions": 0,
-      "rushing_yards": 0,
-      "rushing_tds": 0,
-      "receiving_yards": 16,
-      "receiving_tds": 0,
-      "fumble_tds": 0,
-      "two_point_conversions": 0,
-      "fumbles_lost": 0,
-      "fantasy_points": 1.6,
-      "lineup_status": "starter",
-      "player_id": "2556462"
-    },
-    {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Kerryon Johnson",
       "nfl_team": "DET",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -197,15 +164,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2560765"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Saquon Barkley",
       "nfl_team": "NYG",
       "game_result": "Loss",
@@ -217,15 +183,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2560968"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Tony Pollard",
       "nfl_team": "DAL",
       "game_result": "Loss",
@@ -237,15 +202,33 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 1.9,
-      "lineup_status": "starter",
-      "player_id": "2562699"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
+      "name": "Robby Anderson",
+      "nfl_team": "NYJ",
+      "game_result": "Loss",
+      "game_score": "6-31",
+      "passing_yards": 0,
+      "passing_tds": 0,
+      "interceptions": 0,
+      "rushing_yards": 0,
+      "rushing_tds": 0,
+      "receiving_yards": 16,
+      "receiving_tds": 0,
+      "two_point_conversions": 0,
+      "fumbles_lost": 0,
+      "fantasy_points": 1.6,
+      "player_type": "offense"
+    },
+    {
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Michael Gallup",
       "nfl_team": "DAL",
       "game_result": "Loss",
@@ -257,14 +240,50 @@
       "rushing_tds": 0,
       "receiving_yards": 113,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 17.3,
-      "touchdowns": 1,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2560735"
+      "name": "Joey Slye",
+      "nfl_team": "CAR",
+      "game_result": "Win",
+      "game_score": "34-27",
+      "fg_made": 0,
+      "fg_0_19": 0,
+      "fg_20_29": 0,
+      "fg_30_39": 0,
+      "fg_40_49": 0,
+      "fg_50_plus": 0,
+      "fantasy_points": 4.0,
+      "player_type": "kicker",
+      "pat_made": 4
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Buffalo Bills",
+      "nfl_team": "Buffalo Bills",
+      "game_result": "Win",
+      "game_score": "14-7",
+      "sacks": 5,
+      "interceptions": 0,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 7,
+      "fantasy_points": 9.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 83.86
+  },
   "source": "html_scraping"
 }

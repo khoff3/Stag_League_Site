@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Drew Brees",
       "nfl_team": "NO",
       "game_result": "Win",
@@ -13,16 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 6.94,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2504775"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Leonard Fournette",
       "nfl_team": "TB",
       "game_result": "Win",
@@ -34,15 +33,14 @@
       "rushing_tds": 0,
       "receiving_yards": 11,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 3.0,
-      "lineup_status": "starter",
-      "player_id": "2557973"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Devin Singletary",
       "nfl_team": "BUF",
       "game_result": "Loss",
@@ -54,15 +52,14 @@
       "rushing_tds": 0,
       "receiving_yards": -5,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 1.0,
-      "lineup_status": "starter",
-      "player_id": "2562734"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Adam Thielen",
       "nfl_team": "MIN",
       "game_result": "Win",
@@ -74,16 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 43,
       "receiving_tds": 2,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 16.3,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "2541785"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Jerry Jeudy",
       "nfl_team": "DEN",
       "game_result": "Loss",
@@ -95,15 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 68,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 6.8,
-      "lineup_status": "starter",
-      "player_id": "2563896"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Darren Waller",
       "nfl_team": "LV",
       "game_result": "Win",
@@ -115,15 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 37,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 3.7,
-      "lineup_status": "starter",
-      "player_id": "2552408"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "R/W/T",
+      "lineup_status": "starter",
       "name": "Michael Thomas",
       "nfl_team": "NO Q",
       "game_result": "Win",
@@ -135,19 +128,16 @@
       "rushing_tds": 0,
       "receiving_yards": 27,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.7,
-      "lineup_status": "starter",
-      "player_id": "2556370"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Julio Jones",
       "nfl_team": "ATL Q",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -155,15 +145,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2495454"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Rashard Higgins",
       "nfl_team": "CLE",
       "game_result": "Win",
@@ -175,15 +164,14 @@
       "rushing_tds": 0,
       "receiving_yards": 48,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.8,
-      "lineup_status": "starter",
-      "player_id": "2555468"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Boston Scott",
       "nfl_team": "PHI",
       "game_result": "Loss",
@@ -195,16 +183,14 @@
       "rushing_tds": 1,
       "receiving_yards": 11,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 13.4,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2561146"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "JaMycal Hasty",
       "nfl_team": "SF IR",
       "game_result": "Loss",
@@ -216,15 +202,14 @@
       "rushing_tds": 0,
       "receiving_yards": -4,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.9,
-      "lineup_status": "starter",
-      "player_id": "2565108"
+      "player_type": "offense"
     },
     {
-      "position": "TE",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Mike Gesicki",
       "nfl_team": "MIA",
       "game_result": "Win",
@@ -236,13 +221,66 @@
       "rushing_tds": 0,
       "receiving_yards": 40,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.0,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2560994"
+      "name": "Daniel Carlson",
+      "nfl_team": "LV",
+      "game_result": "Win",
+      "game_score": "37-12",
+      "fg_made": 3,
+      "fg_0_19": 0,
+      "fg_20_29": 2,
+      "fg_30_39": 0,
+      "fg_40_49": 0,
+      "fg_50_plus": 1,
+      "fantasy_points": 15.0,
+      "player_type": "kicker",
+      "pat_made": 4
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Washington Football Team",
+      "nfl_team": "Washington Football Team",
+      "game_result": "Loss",
+      "game_score": "27-30",
+      "sacks": 1,
+      "interceptions": 0,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 30,
+      "fantasy_points": 0.0,
+      "player_type": "defense"
+    },
+    {
+      "position": "BN",
+      "lineup_status": "bench",
+      "name": "San Francisco 49ers",
+      "nfl_team": "San Francisco 49ers",
+      "game_result": "Loss",
+      "game_score": "13-27",
+      "sacks": 3,
+      "interceptions": 0,
+      "fumble_recoveries": 2,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 27,
+      "fantasy_points": 7.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 55.440000000000005
+  },
   "source": "html_scraping"
 }

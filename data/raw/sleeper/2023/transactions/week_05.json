@@ -1,0 +1,249 @@
+[
+ {
+  "type": "waiver",
+  "status": "failed",
+  "roster_ids": [
+   7
+  ]
+ },
+ {
+  "type": "waiver",
+  "status": "failed",
+  "roster_ids": [
+   7
+  ]
+ },
+ {
+  "type": "waiver",
+  "status": "complete",
+  "roster_ids": [
+   7
+  ]
+ },
+ {
+  "type": "waiver",
+  "status": "failed",
+  "roster_ids": [
+   1
+  ]
+ },
+ {
+  "type": "waiver",
+  "status": "failed",
+  "roster_ids": [
+   2
+  ]
+ },
+ {
+  "type": "waiver",
+  "status": "failed",
+  "roster_ids": [
+   2
+  ]
+ },
+ {
+  "type": "waiver",
+  "status": "failed",
+  "roster_ids": [
+   2
+  ]
+ },
+ {
+  "type": "waiver",
+  "status": "failed",
+  "roster_ids": [
+   2
+  ]
+ },
+ {
+  "type": "waiver",
+  "status": "failed",
+  "roster_ids": [
+   12
+  ]
+ },
+ {
+  "type": "waiver",
+  "status": "complete",
+  "roster_ids": [
+   8
+  ]
+ },
+ {
+  "type": "waiver",
+  "status": "complete",
+  "roster_ids": [
+   2
+  ]
+ },
+ {
+  "type": "waiver",
+  "status": "complete",
+  "roster_ids": [
+   9
+  ]
+ },
+ {
+  "type": "waiver",
+  "status": "complete",
+  "roster_ids": [
+   11
+  ]
+ },
+ {
+  "type": "free_agent",
+  "status": "complete",
+  "roster_ids": [
+   9
+  ]
+ },
+ {
+  "type": "trade",
+  "status": "complete",
+  "roster_ids": [
+   2,
+   9
+  ]
+ },
+ {
+  "type": "waiver",
+  "status": "failed",
+  "roster_ids": [
+   1
+  ]
+ },
+ {
+  "type": "waiver",
+  "status": "complete",
+  "roster_ids": [
+   10
+  ]
+ },
+ {
+  "type": "waiver",
+  "status": "failed",
+  "roster_ids": [
+   8
+  ]
+ },
+ {
+  "type": "waiver",
+  "status": "failed",
+  "roster_ids": [
+   8
+  ]
+ },
+ {
+  "type": "waiver",
+  "status": "complete",
+  "roster_ids": [
+   10
+  ]
+ },
+ {
+  "type": "waiver",
+  "status": "complete",
+  "roster_ids": [
+   4
+  ]
+ },
+ {
+  "type": "free_agent",
+  "status": "complete",
+  "roster_ids": [
+   6
+  ]
+ },
+ {
+  "type": "free_agent",
+  "status": "complete",
+  "roster_ids": [
+   2
+  ]
+ },
+ {
+  "type": "free_agent",
+  "status": "complete",
+  "roster_ids": [
+   2
+  ]
+ },
+ {
+  "type": "free_agent",
+  "status": "complete",
+  "roster_ids": [
+   1
+  ]
+ },
+ {
+  "type": "free_agent",
+  "status": "complete",
+  "roster_ids": [
+   5
+  ]
+ },
+ {
+  "type": "trade",
+  "status": "complete",
+  "roster_ids": [
+   1,
+   6
+  ]
+ },
+ {
+  "type": "free_agent",
+  "status": "complete",
+  "roster_ids": [
+   9
+  ]
+ },
+ {
+  "type": "free_agent",
+  "status": "complete",
+  "roster_ids": [
+   4
+  ]
+ },
+ {
+  "type": "free_agent",
+  "status": "complete",
+  "roster_ids": [
+   4
+  ]
+ },
+ {
+  "type": "free_agent",
+  "status": "complete",
+  "roster_ids": [
+   4
+  ]
+ },
+ {
+  "type": "free_agent",
+  "status": "complete",
+  "roster_ids": [
+   4
+  ]
+ },
+ {
+  "type": "free_agent",
+  "status": "complete",
+  "roster_ids": [
+   10
+  ]
+ },
+ {
+  "type": "free_agent",
+  "status": "complete",
+  "roster_ids": [
+   10
+  ]
+ },
+ {
+  "type": "waiver",
+  "status": "complete",
+  "roster_ids": [
+   1
+  ]
+ }
+]

@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Kevin Kolb",
       "nfl_team": "ARI",
       "game_result": "Loss",
@@ -13,15 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 1,
       "fantasy_points": 4.28,
-      "lineup_status": "starter",
-      "player_id": "2507169"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Darren McFadden",
       "nfl_team": "LV",
       "game_result": "Win",
@@ -33,15 +33,14 @@
       "rushing_tds": 0,
       "receiving_yards": 17,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 6.8,
-      "lineup_status": "starter",
-      "player_id": "284"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Beanie Wells",
       "nfl_team": "ARI",
       "game_result": "Loss",
@@ -53,16 +52,14 @@
       "rushing_tds": 1,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 12.0,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "79661"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Mario Manningham",
       "nfl_team": "NYG",
       "game_result": "Loss",
@@ -74,15 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 56,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 5.6,
-      "lineup_status": "starter",
-      "player_id": "1030"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Hakeem Nicks",
       "nfl_team": "NYG",
       "game_result": "Loss",
@@ -94,16 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 65,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 12.5,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "80672"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Mike Wallace",
       "nfl_team": "PIT",
       "game_result": "Win",
@@ -115,16 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 82,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 15.0,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2507763"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Rob Gronkowski",
       "nfl_team": "NE",
       "game_result": "Win",
@@ -136,15 +128,14 @@
       "rushing_tds": 0,
       "receiving_yards": 31,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 3.1,
-      "lineup_status": "starter",
-      "player_id": "497240"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Rashard Mendenhall",
       "nfl_team": "PIT",
       "game_result": "Win",
@@ -156,15 +147,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "939"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Joseph Addai",
       "nfl_team": "IND",
       "game_result": "Loss",
@@ -176,15 +166,14 @@
       "rushing_tds": 0,
       "receiving_yards": 6,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.5,
-      "lineup_status": "starter",
-      "player_id": "2495793"
+      "player_type": "offense"
     },
     {
-      "position": "TE",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Owen Daniels",
       "nfl_team": "HOU",
       "game_result": "Loss",
@@ -196,19 +185,16 @@
       "rushing_tds": 0,
       "receiving_yards": 89,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 8.9,
-      "lineup_status": "starter",
-      "player_id": "2495825"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Brandon Marshall",
       "nfl_team": "MIA",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -216,19 +202,16 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2495893"
+      "player_type": "offense"
     },
     {
-      "position": "QB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Tony Romo",
       "nfl_team": "DAL",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -236,13 +219,66 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2505354"
+      "name": "Stephen Gostkowski",
+      "nfl_team": "NE",
+      "game_result": "Win",
+      "game_score": "30-21",
+      "fg_made": 3,
+      "fg_0_19": 0,
+      "fg_20_29": 2,
+      "fg_30_39": 0,
+      "fg_40_49": 1,
+      "fg_50_plus": 0,
+      "fantasy_points": 13.0,
+      "player_type": "kicker",
+      "pat_made": 3
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Detroit Lions",
+      "nfl_team": "Detroit Lions",
+      "game_result": "Win",
+      "game_score": "24-13",
+      "sacks": 3,
+      "interceptions": 0,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 13,
+      "fantasy_points": 8.0,
+      "player_type": "defense"
+    },
+    {
+      "position": "BN",
+      "lineup_status": "bench",
+      "name": "Philadelphia Eagles",
+      "nfl_team": "Philadelphia Eagles",
+      "game_result": "Loss",
+      "game_score": "24-31",
+      "sacks": 1,
+      "interceptions": 1,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 25,
+      "fantasy_points": 3.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 80.28
+  },
   "source": "html_scraping"
 }

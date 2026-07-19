@@ -216,14 +216,15 @@
       "nfl_team": "WAS",
       "game_result": "Loss",
       "game_score": "15-20",
-      "fg_made": 0,
+      "fg_made": 1,
       "fg_0_19": 0,
       "fg_20_29": 0,
       "fg_30_39": 0,
       "fg_40_49": 1,
       "fg_50_plus": 0,
       "fantasy_points": 3.0,
-      "player_type": "kicker"
+      "player_type": "kicker",
+      "pat_made": 0
     },
     {
       "position": "DEF",

@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Kirk Cousins",
       "nfl_team": "MIN",
       "game_result": "Win",
@@ -13,16 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 1,
       "fumbles_lost": 0,
       "fantasy_points": 19.3,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "2532820"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Alvin Kamara",
       "nfl_team": "NO",
       "game_result": "Loss",
@@ -34,15 +33,14 @@
       "rushing_tds": 0,
       "receiving_yards": 50,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 7.4,
-      "lineup_status": "starter",
-      "player_id": "2558019"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Aaron Jones",
       "nfl_team": "GB",
       "game_result": "Win",
@@ -54,16 +52,14 @@
       "rushing_tds": 3,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 27.3,
-      "touchdowns": 3,
-      "lineup_status": "starter",
-      "player_id": "2558116"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Odell Beckham",
       "nfl_team": "CLE",
       "game_result": "Win",
@@ -75,15 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 57,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 5.7,
-      "lineup_status": "starter",
-      "player_id": "2543496"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Chris Godwin",
       "nfl_team": "TB",
       "game_result": "Win",
@@ -95,15 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 74,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 7.4,
-      "lineup_status": "starter",
-      "player_id": "2558105"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "O.J. Howard",
       "nfl_team": "TB",
       "game_result": "Win",
@@ -115,16 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 47,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 10.7,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2557856"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "R/W/T",
+      "lineup_status": "starter",
       "name": "Latavius Murray",
       "nfl_team": "NO",
       "game_result": "Loss",
@@ -136,15 +128,14 @@
       "rushing_tds": 0,
       "receiving_yards": 7,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 1.9,
-      "lineup_status": "starter",
-      "player_id": "2541161"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "A.J. Green",
       "nfl_team": "CIN",
       "game_result": "Loss",
@@ -156,19 +147,16 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2495450"
+      "player_type": "offense"
     },
     {
-      "position": "QB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Tom Brady",
       "nfl_team": "NE",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -176,19 +164,16 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2504211"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Jordan Howard",
       "nfl_team": "PHI",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -196,15 +181,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2555418"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Brandin Cooks",
       "nfl_team": "LA",
       "game_result": "Loss",
@@ -216,15 +200,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2543498"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Adam Thielen",
       "nfl_team": "MIN",
       "game_result": "Win",
@@ -236,15 +219,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2541785"
+      "player_type": "offense"
     },
     {
-      "position": "TE",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Evan Engram",
       "nfl_team": "NYG",
       "game_result": "Loss",
@@ -256,13 +238,45 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2557858"
+      "name": "Brett Maher K",
+      "fg_made": 1,
+      "fg_0_19": 0,
+      "fg_20_29": 1,
+      "fg_30_39": 0,
+      "fg_40_49": 0,
+      "fg_50_plus": 0,
+      "fantasy_points": 6.0,
+      "player_type": "kicker",
+      "pat_made": 3
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "New England Patriots",
+      "nfl_team": "New England Patriots",
+      "sacks": 0,
+      "interceptions": 0,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 0,
+      "fantasy_points": 0.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 85.70000000000002
+  },
   "source": "html_scraping"
 }

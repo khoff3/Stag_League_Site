@@ -273,14 +273,15 @@
       "nfl_team": "MIN",
       "game_result": "Win",
       "game_score": "27-24",
-      "fg_made": 3,
+      "fg_made": 2,
       "fg_0_19": 0,
       "fg_20_29": 0,
       "fg_30_39": 0,
       "fg_40_49": 1,
       "fg_50_plus": 1,
       "fantasy_points": 11.0,
-      "player_type": "kicker"
+      "player_type": "kicker",
+      "pat_made": 3
     },
     {
       "position": "DEF",

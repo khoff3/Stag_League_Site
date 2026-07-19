@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Michael Vick",
       "nfl_team": "PHI",
       "game_result": "Loss",
@@ -13,16 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 15.84,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2504531"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Adrian Peterson",
       "nfl_team": "MIN",
       "game_result": "Loss",
@@ -34,16 +33,14 @@
       "rushing_tds": 1,
       "receiving_yards": 4,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 1,
       "fantasy_points": 16.7,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2507164"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Alex Green",
       "nfl_team": "GB",
       "game_result": "Win",
@@ -55,15 +52,14 @@
       "rushing_tds": 0,
       "receiving_yards": 28,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 8.2,
-      "lineup_status": "starter",
-      "player_id": "2508119"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Wes Welker",
       "nfl_team": "NE",
       "game_result": "Win",
@@ -75,15 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 48,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.8,
-      "lineup_status": "starter",
-      "player_id": "2505790"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Mike Wallace",
       "nfl_team": "PIT",
       "game_result": "Win",
@@ -95,15 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 62,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 6.2,
-      "lineup_status": "starter",
-      "player_id": "2507763"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Brent Celek",
       "nfl_team": "PHI",
       "game_result": "Loss",
@@ -115,15 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 32,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 3.2,
-      "lineup_status": "starter",
-      "player_id": "2507218"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "W/R",
+      "lineup_status": "starter",
       "name": "Brian Hartline",
       "nfl_team": "MIA",
       "game_result": "Win",
@@ -135,19 +128,16 @@
       "rushing_tds": 0,
       "receiving_yards": 41,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.1,
-      "lineup_status": "starter",
-      "player_id": "81831"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Ray Rice",
       "nfl_team": "BAL",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -155,15 +145,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "941"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Toby Gerhart",
       "nfl_team": "MIN",
       "game_result": "Loss",
@@ -175,15 +164,14 @@
       "rushing_tds": 0,
       "receiving_yards": 20,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.6,
-      "lineup_status": "starter",
-      "player_id": "497176"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Montario Hardesty",
       "nfl_team": "CLE",
       "game_result": "Win",
@@ -195,15 +183,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.3,
-      "lineup_status": "starter",
-      "player_id": "497178"
+      "player_type": "offense"
     },
     {
-      "position": "TE",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Aaron Hernandez",
       "nfl_team": "NE",
       "game_result": "Win",
@@ -215,15 +202,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "497244"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Maurice Jones-Drew",
       "nfl_team": "JAC",
       "game_result": "Loss",
@@ -235,13 +221,65 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2495831"
+      "name": "Stephen Gostkowski",
+      "nfl_team": "NE",
+      "game_result": "Win",
+      "game_score": "45-7",
+      "fg_made": 1,
+      "fg_0_19": 0,
+      "fg_20_29": 1,
+      "fg_30_39": 0,
+      "fg_40_49": 0,
+      "fg_50_plus": 0,
+      "fantasy_points": 9.0,
+      "player_type": "kicker",
+      "pat_made": 6
+    },
+    {
+      "position": "BN",
+      "lineup_status": "bench",
+      "name": "Justin Tucker",
+      "nfl_team": "BAL",
+      "fg_made": 0,
+      "fg_0_19": 0,
+      "fg_20_29": 0,
+      "fg_30_39": 0,
+      "fg_40_49": 0,
+      "fg_50_plus": 0,
+      "fantasy_points": 0.0,
+      "player_type": "kicker",
+      "pat_made": 0
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Seattle Seahawks",
+      "nfl_team": "Seattle Seahawks",
+      "game_result": "Loss",
+      "game_score": "24-28",
+      "sacks": 2,
+      "interceptions": 1,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 28,
+      "fantasy_points": 3.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 71.03999999999999
+  },
   "source": "html_scraping"
 }

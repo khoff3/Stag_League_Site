@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Kirk Cousins",
       "nfl_team": "MIN",
       "game_result": "Win",
@@ -13,16 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 10.48,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "2532820"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Joe Mixon",
       "nfl_team": "CIN",
       "game_result": "Win",
@@ -34,15 +33,14 @@
       "rushing_tds": 0,
       "receiving_yards": 2,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 6.0,
-      "lineup_status": "starter",
-      "player_id": "2557976"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Antonio Gibson",
       "nfl_team": "WAS",
       "game_result": "Loss",
@@ -54,16 +52,14 @@
       "rushing_tds": 1,
       "receiving_yards": 39,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 12.5,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2565276"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Mike Evans",
       "nfl_team": "TB",
       "game_result": "Loss",
@@ -75,15 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 14,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 1.4,
-      "lineup_status": "starter",
-      "player_id": "2543468"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "CeeDee Lamb",
       "nfl_team": "DAL",
       "game_result": "Win",
@@ -95,15 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 50,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 5.0,
-      "lineup_status": "starter",
-      "player_id": "2563848"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Gerald Everett",
       "nfl_team": "LAC",
       "game_result": "Loss",
@@ -115,15 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 60,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 6.0,
-      "lineup_status": "starter",
-      "player_id": "2557889"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "R/W/T",
+      "lineup_status": "starter",
       "name": "Jordan Howard",
       "nfl_team": "PHI",
       "game_result": "Win",
@@ -135,15 +128,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 6.9,
-      "lineup_status": "starter",
-      "player_id": "2555418"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Emmanuel Sanders",
       "nfl_team": "BUF",
       "game_result": "Win",
@@ -155,15 +147,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "497322"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Devontae Booker",
       "nfl_team": "NYG",
       "game_result": "Loss",
@@ -175,15 +166,14 @@
       "rushing_tds": 0,
       "receiving_yards": 8,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 8.2,
-      "lineup_status": "starter",
-      "player_id": "2555223"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Tre'Quan Smith",
       "nfl_team": "NO",
       "game_result": "Win",
@@ -195,15 +185,14 @@
       "rushing_tds": 0,
       "receiving_yards": 17,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 1.7,
-      "lineup_status": "starter",
-      "player_id": "2560878"
+      "player_type": "offense"
     },
     {
-      "position": "QB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Trey Lance",
       "nfl_team": "SF",
       "game_result": "Win",
@@ -215,15 +204,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2566532"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Kenneth Gainwell",
       "nfl_team": "PHI",
       "game_result": "Win",
@@ -235,15 +223,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2566397"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Tyler Lockett",
       "nfl_team": "SEA",
       "game_result": "Loss",
@@ -255,15 +242,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2552430"
+      "player_type": "offense"
     },
     {
-      "position": "TE",
+      "position": "RES",
+      "lineup_status": "starter",
       "name": "Tyler Higbee",
       "nfl_team": "LA IR",
       "game_result": "Win",
@@ -275,13 +261,50 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2555364"
+      "name": "Daniel Carlson",
+      "nfl_team": "LV",
+      "game_result": "Win",
+      "game_score": "16-14",
+      "fg_made": 3,
+      "fg_0_19": 0,
+      "fg_20_29": 1,
+      "fg_30_39": 0,
+      "fg_40_49": 2,
+      "fg_50_plus": 0,
+      "fantasy_points": 10.0,
+      "player_type": "kicker",
+      "pat_made": 1
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Buffalo Bills",
+      "nfl_team": "Buffalo Bills",
+      "game_result": "Win",
+      "game_score": "31-14",
+      "sacks": 4,
+      "interceptions": 1,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 14,
+      "fantasy_points": 7.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 16,
+    "starters": 10,
+    "bench": 6,
+    "total_points": 65.28
+  },
   "source": "html_scraping"
 }

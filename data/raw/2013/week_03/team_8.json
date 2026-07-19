@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Matt Schaub",
       "nfl_team": "HOU",
       "game_result": "Loss",
@@ -13,15 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 5.76,
-      "lineup_status": "starter",
-      "player_id": "2505982"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Marshawn Lynch",
       "nfl_team": "SEA",
       "game_result": "Win",
@@ -33,15 +33,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 6.9,
-      "lineup_status": "starter",
-      "player_id": "2495663"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Frank Gore",
       "nfl_team": "SF",
       "game_result": "Loss",
@@ -53,15 +52,14 @@
       "rushing_tds": 0,
       "receiving_yards": 21,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 10.3,
-      "lineup_status": "starter",
-      "player_id": "2506404"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Brandon Marshall",
       "nfl_team": "CHI",
       "game_result": "Win",
@@ -73,15 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 52,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 5.2,
-      "lineup_status": "starter",
-      "player_id": "2495893"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Wes Welker",
       "nfl_team": "DEN",
       "game_result": "Win",
@@ -93,16 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 84,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 14.4,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2505790"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Greg Olsen",
       "nfl_team": "CAR",
       "game_result": "Win",
@@ -114,15 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 54,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 5.4,
-      "lineup_status": "starter",
-      "player_id": "2495700"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "W/R",
+      "lineup_status": "starter",
       "name": "Ahmad Bradshaw",
       "nfl_team": "IND",
       "game_result": "Win",
@@ -134,16 +128,14 @@
       "rushing_tds": 1,
       "receiving_yards": 16,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 17.1,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2495560"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Jerome Simpson",
       "nfl_team": "MIN",
       "game_result": "Loss",
@@ -155,15 +147,14 @@
       "rushing_tds": 0,
       "receiving_yards": 29,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.9,
-      "lineup_status": "starter",
-      "player_id": "318"
+      "player_type": "offense"
     },
     {
-      "position": "QB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Josh Freeman",
       "nfl_team": "MIN",
       "game_result": "Loss",
@@ -175,15 +166,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 7.84,
-      "lineup_status": "starter",
-      "player_id": "79557"
+      "player_type": "offense"
     },
     {
-      "position": "TE",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Brandon Myers",
       "nfl_team": "NYG",
       "game_result": "Loss",
@@ -195,15 +185,14 @@
       "rushing_tds": 0,
       "receiving_yards": 33,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 3.3,
-      "lineup_status": "starter",
-      "player_id": "89766"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Lance Moore",
       "nfl_team": "NO",
       "game_result": "Win",
@@ -215,19 +204,16 @@
       "rushing_tds": 0,
       "receiving_yards": 6,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.6,
-      "lineup_status": "starter",
-      "player_id": "2506287"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Isaiah Pead",
       "nfl_team": "STL",
-      "game_result": "@DAL",
-      "status": "Sun 10:00 amGet Tickets",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -235,15 +221,14 @@
       "rushing_tds": 0,
       "receiving_yards": 43,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 6.3,
-      "lineup_status": "starter",
-      "player_id": "2532926"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Montee Ball",
       "nfl_team": "DEN",
       "game_result": "Win",
@@ -255,13 +240,50 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 1,
       "fantasy_points": 4.1,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2539341"
+      "name": "Justin Tucker",
+      "nfl_team": "BAL",
+      "game_result": "Win",
+      "game_score": "30-9",
+      "fg_made": 3,
+      "fg_0_19": 0,
+      "fg_20_29": 1,
+      "fg_30_39": 0,
+      "fg_40_49": 2,
+      "fg_50_plus": 0,
+      "fantasy_points": 12.0,
+      "player_type": "kicker",
+      "pat_made": 3
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "New England Patriots",
+      "nfl_team": "New England Patriots",
+      "game_result": "Win",
+      "game_score": "23-3",
+      "sacks": 3,
+      "interceptions": 1,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 3,
+      "fantasy_points": 12.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 89.06
+  },
   "source": "html_scraping"
 }

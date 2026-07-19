@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Matt Ryan",
       "nfl_team": "ATL",
       "game_result": "Win",
@@ -13,16 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 28.8,
-      "touchdowns": 4,
-      "lineup_status": "starter",
-      "player_id": "310"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Toby Gerhart",
       "nfl_team": "MIN",
       "game_result": "Loss",
@@ -34,16 +33,14 @@
       "rushing_tds": 0,
       "receiving_yards": 19,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 16.9,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "497176"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Marion Barber",
       "nfl_team": "CHI",
       "game_result": "Loss",
@@ -55,16 +52,14 @@
       "rushing_tds": 1,
       "receiving_yards": 32,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 1,
       "fantasy_points": 18.0,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2506447"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Marques Colston",
       "nfl_team": "NO",
       "game_result": "Win",
@@ -76,16 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 105,
       "receiving_tds": 2,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 22.5,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "2495821"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Malcom Floyd",
       "nfl_team": "LAC",
       "game_result": "Win",
@@ -97,15 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 29,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.9,
-      "lineup_status": "starter",
-      "player_id": "2505785"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Larry Fitzgerald",
       "nfl_team": "ARI",
       "game_result": "Win",
@@ -117,16 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 149,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 20.9,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2506106"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Dustin Keller",
       "nfl_team": "NYJ",
       "game_result": "Win",
@@ -138,15 +128,14 @@
       "rushing_tds": 0,
       "receiving_yards": 34,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 3.4,
-      "lineup_status": "starter",
-      "player_id": "1074"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Harry Douglas",
       "nfl_team": "ATL",
       "game_result": "Win",
@@ -158,15 +147,14 @@
       "rushing_tds": 0,
       "receiving_yards": 12,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 1.2,
-      "lineup_status": "starter",
-      "player_id": "222"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Jonathan Stewart",
       "nfl_team": "CAR",
       "game_result": "Loss",
@@ -178,15 +166,14 @@
       "rushing_tds": 0,
       "receiving_yards": 27,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 5.6,
-      "lineup_status": "starter",
-      "player_id": "949"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Lance Moore",
       "nfl_team": "NO",
       "game_result": "Win",
@@ -198,15 +185,14 @@
       "rushing_tds": 0,
       "receiving_yards": 20,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.0,
-      "lineup_status": "starter",
-      "player_id": "2506287"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Pierre Thomas",
       "nfl_team": "NO",
       "game_result": "Win",
@@ -218,13 +204,83 @@
       "rushing_tds": 0,
       "receiving_yards": 35,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 5.7,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2507141"
+      "name": "Robbie Gould",
+      "nfl_team": "CHI",
+      "game_result": "Loss",
+      "game_score": "10-13",
+      "fg_made": 1,
+      "fg_0_19": 0,
+      "fg_20_29": 0,
+      "fg_30_39": 0,
+      "fg_40_49": 0,
+      "fg_50_plus": 1,
+      "fantasy_points": 6.0,
+      "player_type": "kicker",
+      "pat_made": 1
+    },
+    {
+      "position": "BN",
+      "lineup_status": "bench",
+      "name": "Josh Brown",
+      "nfl_team": "STL",
+      "game_result": "Loss",
+      "game_score": "13-30",
+      "fg_made": 2,
+      "fg_0_19": 0,
+      "fg_20_29": 1,
+      "fg_30_39": 0,
+      "fg_40_49": 1,
+      "fg_50_plus": 0,
+      "fantasy_points": 8.0,
+      "player_type": "kicker",
+      "pat_made": 1
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Chicago Bears",
+      "nfl_team": "Chicago Bears",
+      "game_result": "Loss",
+      "game_score": "10-13",
+      "sacks": 5,
+      "interceptions": 1,
+      "fumble_recoveries": 1,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 13,
+      "fantasy_points": 14.0,
+      "player_type": "defense"
+    },
+    {
+      "position": "BN",
+      "lineup_status": "bench",
+      "name": "Seattle Seahawks",
+      "nfl_team": "Seattle Seahawks",
+      "game_result": "Win",
+      "game_score": "30-13",
+      "sacks": 3,
+      "interceptions": 1,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 1,
+      "points_allowed": 13,
+      "fantasy_points": 16.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 133.4
+  },
   "source": "html_scraping"
 }

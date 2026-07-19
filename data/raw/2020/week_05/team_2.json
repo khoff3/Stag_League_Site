@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Russell Wilson",
       "nfl_team": "SEA",
       "game_result": "Win",
@@ -13,16 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 24.48,
-      "touchdowns": 3,
-      "lineup_status": "starter",
-      "player_id": "2532975"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Le'Veon Bell",
       "nfl_team": "KC",
       "game_result": "Loss",
@@ -34,15 +33,14 @@
       "rushing_tds": 0,
       "receiving_yards": 7,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 6.7,
-      "lineup_status": "starter",
-      "player_id": "2540175"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Miles Sanders",
       "nfl_team": "PHI Q",
       "game_result": "Loss",
@@ -54,16 +52,14 @@
       "rushing_tds": 2,
       "receiving_yards": 19,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 21.9,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "2562722"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Stefon Diggs",
       "nfl_team": "BUF",
       "game_result": "Loss",
@@ -75,15 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 106,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 10.6,
-      "lineup_status": "starter",
-      "player_id": "2552608"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Tyreek Hill",
       "nfl_team": "KC",
       "game_result": "Loss",
@@ -95,16 +90,14 @@
       "rushing_tds": 1,
       "receiving_yards": 78,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 15.3,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2556214"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Dalton Schultz",
       "nfl_team": "DAL",
       "game_result": "Win",
@@ -116,15 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 6,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.6,
-      "lineup_status": "starter",
-      "player_id": "2560866"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "R/W/T",
+      "lineup_status": "starter",
       "name": "CeeDee Lamb",
       "nfl_team": "DAL",
       "game_result": "Win",
@@ -136,15 +128,14 @@
       "rushing_tds": 0,
       "receiving_yards": 124,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 12.4,
-      "lineup_status": "starter",
-      "player_id": "2563848"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Emmanuel Sanders",
       "nfl_team": "NO",
       "game_result": "Win",
@@ -156,15 +147,14 @@
       "rushing_tds": 0,
       "receiving_yards": 122,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 12.2,
-      "lineup_status": "starter",
-      "player_id": "497322"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Latavius Murray",
       "nfl_team": "NO Q",
       "game_result": "Win",
@@ -176,19 +166,16 @@
       "rushing_tds": 0,
       "receiving_yards": 23,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 5.7,
-      "lineup_status": "starter",
-      "player_id": "2541161"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Melvin Gordon",
       "nfl_team": "DEN",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -196,35 +183,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2552469"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
-      "name": "Nyheim Hines",
-      "nfl_team": "IND",
-      "game_result": "Loss",
-      "game_score": "23-32",
-      "passing_yards": 0,
-      "passing_tds": 0,
-      "interceptions": 0,
-      "rushing_yards": 8,
-      "rushing_tds": 0,
-      "receiving_yards": 22,
-      "receiving_tds": 0,
-      "fumble_tds": 0,
-      "two_point_conversions": 0,
-      "fumbles_lost": 0,
-      "fantasy_points": 3.0,
-      "lineup_status": "starter",
-      "player_id": "2560742"
-    },
-    {
-      "position": "QB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Baker Mayfield",
       "nfl_team": "CLE",
       "game_result": "Win",
@@ -236,16 +202,33 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 15.58,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "2560800"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
+      "name": "Nyheim Hines",
+      "nfl_team": "IND",
+      "game_result": "Loss",
+      "game_score": "23-32",
+      "passing_yards": 0,
+      "passing_tds": 0,
+      "interceptions": 0,
+      "rushing_yards": 8,
+      "rushing_tds": 0,
+      "receiving_yards": 22,
+      "receiving_tds": 0,
+      "two_point_conversions": 0,
+      "fumbles_lost": 0,
+      "fantasy_points": 3.0,
+      "player_type": "offense"
+    },
+    {
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Brandin Cooks",
       "nfl_team": "HOU",
       "game_result": "Win",
@@ -257,14 +240,50 @@
       "rushing_tds": 0,
       "receiving_yards": 161,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 22.1,
-      "touchdowns": 1,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2543498"
+      "name": "Stephen Gostkowski",
+      "nfl_team": "TEN",
+      "game_result": "Win",
+      "game_score": "42-16",
+      "fg_made": 0,
+      "fg_0_19": 0,
+      "fg_20_29": 0,
+      "fg_30_39": 0,
+      "fg_40_49": 0,
+      "fg_50_plus": 0,
+      "fantasy_points": 6.0,
+      "player_type": "kicker",
+      "pat_made": 6
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Arizona Cardinals",
+      "nfl_team": "Arizona Cardinals",
+      "game_result": "Win",
+      "game_score": "30-10",
+      "sacks": 3,
+      "interceptions": 0,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 10,
+      "fantasy_points": 7.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 104.98
+  },
   "source": "html_scraping"
 }

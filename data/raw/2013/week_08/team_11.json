@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Tom Brady",
       "nfl_team": "NE",
       "game_result": "Win",
@@ -13,16 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 7.14,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2504211"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Darren McFadden",
       "nfl_team": "LV",
       "game_result": "Win",
@@ -34,16 +33,14 @@
       "rushing_tds": 2,
       "receiving_yards": 5,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 19.8,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "284"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Zac Stacy",
       "nfl_team": "STL",
       "game_result": "Loss",
@@ -55,15 +52,14 @@
       "rushing_tds": 0,
       "receiving_yards": -5,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 12.9,
-      "lineup_status": "starter",
-      "player_id": "2540273"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "A.J. Green",
       "nfl_team": "CIN",
       "game_result": "Win",
@@ -75,15 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 115,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 11.5,
-      "lineup_status": "starter",
-      "player_id": "2495450"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Marques Colston",
       "nfl_team": "NO",
       "game_result": "Win",
@@ -95,15 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 18,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 1.8,
-      "lineup_status": "starter",
-      "player_id": "2495821"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Heath Miller",
       "nfl_team": "PIT",
       "game_result": "Loss",
@@ -115,15 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 19,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 1.9,
-      "lineup_status": "starter",
-      "player_id": "2506369"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "W/R",
+      "lineup_status": "starter",
       "name": "Steve Smith",
       "nfl_team": "CAR",
       "game_result": "Win",
@@ -135,15 +128,14 @@
       "rushing_tds": 0,
       "receiving_yards": 42,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.2,
-      "lineup_status": "starter",
-      "player_id": "2504595"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Harry Douglas",
       "nfl_team": "ATL",
       "game_result": "Loss",
@@ -155,19 +147,16 @@
       "rushing_tds": 0,
       "receiving_yards": 121,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 12.1,
-      "lineup_status": "starter",
-      "player_id": "222"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Ray Rice",
       "nfl_team": "BAL",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -175,15 +164,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "941"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Joique Bell",
       "nfl_team": "DET",
       "game_result": "Win",
@@ -195,16 +183,14 @@
       "rushing_tds": 1,
       "receiving_yards": 22,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 11.4,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "497145"
+      "player_type": "offense"
     },
     {
-      "position": "QB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Terrelle Pryor",
       "nfl_team": "LV",
       "game_result": "Win",
@@ -216,20 +202,16 @@
       "rushing_tds": 1,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 16.12,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2531332"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Bernard Pierce",
       "nfl_team": "BAL",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -237,15 +219,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2533545"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Bryce Brown",
       "nfl_team": "PHI",
       "game_result": "Loss",
@@ -257,13 +238,50 @@
       "rushing_tds": 0,
       "receiving_yards": 2,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.1,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2534796"
+      "name": "Matt Prater",
+      "nfl_team": "DEN",
+      "game_result": "Win",
+      "game_score": "45-21",
+      "fg_made": 1,
+      "fg_0_19": 1,
+      "fg_20_29": 0,
+      "fg_30_39": 0,
+      "fg_40_49": 0,
+      "fg_50_plus": 0,
+      "fantasy_points": 9.0,
+      "player_type": "kicker",
+      "pat_made": 6
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Arizona Cardinals",
+      "nfl_team": "Arizona Cardinals",
+      "game_result": "Win",
+      "game_score": "27-13",
+      "sacks": 4,
+      "interceptions": 4,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 13,
+      "fantasy_points": 16.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 84.24000000000001
+  },
   "source": "html_scraping"
 }

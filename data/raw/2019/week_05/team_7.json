@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Deshaun Watson",
       "nfl_team": "HOU",
       "game_result": "Win",
@@ -13,16 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 41.74,
-      "touchdowns": 5,
-      "lineup_status": "starter",
-      "player_id": "2558063"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "David Johnson",
       "nfl_team": "ARI",
       "game_result": "Win",
@@ -34,15 +33,14 @@
       "rushing_tds": 0,
       "receiving_yards": 65,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 15.6,
-      "lineup_status": "starter",
-      "player_id": "2553435"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Miles Sanders",
       "nfl_team": "PHI",
       "game_result": "Win",
@@ -54,15 +52,14 @@
       "rushing_tds": 0,
       "receiving_yards": 49,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 6.4,
-      "lineup_status": "starter",
-      "player_id": "2562722"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Keenan Allen",
       "nfl_team": "LAC",
       "game_result": "Loss",
@@ -74,15 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 18,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 1.8,
-      "lineup_status": "starter",
-      "player_id": "2540154"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Robert Woods",
       "nfl_team": "LA",
       "game_result": "Loss",
@@ -94,15 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 48,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.8,
-      "lineup_status": "starter",
-      "player_id": "2540169"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Vance McDonald",
       "nfl_team": "PIT",
       "game_result": "Loss",
@@ -114,15 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 34,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 3.4,
-      "lineup_status": "starter",
-      "player_id": "2540215"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "R/W/T",
+      "lineup_status": "starter",
       "name": "JuJu Smith-Schuster",
       "nfl_team": "PIT",
       "game_result": "Loss",
@@ -134,16 +128,14 @@
       "rushing_tds": 0,
       "receiving_yards": 75,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 1,
       "fantasy_points": 11.5,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2558149"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Malcolm Brown",
       "nfl_team": "LA",
       "game_result": "Loss",
@@ -155,15 +147,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.3,
-      "lineup_status": "starter",
-      "player_id": "2552382"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Jordan Wilkins",
       "nfl_team": "IND",
       "game_result": "Win",
@@ -175,15 +166,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.8,
-      "lineup_status": "starter",
-      "player_id": "2560933"
+      "player_type": "offense"
     },
     {
-      "position": "TE",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Jordan Akins",
       "nfl_team": "HOU",
       "game_result": "Win",
@@ -195,15 +185,14 @@
       "rushing_tds": 0,
       "receiving_yards": 21,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.1,
-      "lineup_status": "starter",
-      "player_id": "2560951"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Mecole Hardman",
       "nfl_team": "KC",
       "game_result": "Loss",
@@ -215,15 +204,14 @@
       "rushing_tds": 0,
       "receiving_yards": 79,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 7.3,
-      "lineup_status": "starter",
-      "player_id": "2562580"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Curtis Samuel",
       "nfl_team": "CAR",
       "game_result": "Win",
@@ -235,15 +223,14 @@
       "rushing_tds": 0,
       "receiving_yards": 19,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.4,
-      "lineup_status": "starter",
-      "player_id": "2558066"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Mike Williams",
       "nfl_team": "LAC",
       "game_result": "Loss",
@@ -255,13 +242,50 @@
       "rushing_tds": 0,
       "receiving_yards": 74,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 7.4,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2558846"
+      "name": "Matt Gay",
+      "nfl_team": "TB",
+      "game_result": "Loss",
+      "game_score": "24-31",
+      "fg_made": 1,
+      "fg_0_19": 0,
+      "fg_20_29": 0,
+      "fg_30_39": 0,
+      "fg_40_49": 1,
+      "fg_50_plus": 0,
+      "fantasy_points": 6.0,
+      "player_type": "kicker",
+      "pat_made": 3
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Tampa Bay Buccaneers",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "game_result": "Loss",
+      "game_score": "24-31",
+      "sacks": 0,
+      "interceptions": 1,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 31,
+      "fantasy_points": 1.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 92.24000000000001
+  },
   "source": "html_scraping"
 }

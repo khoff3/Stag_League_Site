@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Peyton Manning",
       "nfl_team": "IND",
       "game_result": "Loss",
@@ -13,15 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2501863"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "LeSean McCoy",
       "nfl_team": "PHI",
       "game_result": "Loss",
@@ -33,16 +33,14 @@
       "rushing_tds": 2,
       "receiving_yards": 21,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 23.6,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "79607"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Adrian Peterson",
       "nfl_team": "MIN",
       "game_result": "Loss",
@@ -54,16 +52,14 @@
       "rushing_tds": 2,
       "receiving_yards": 21,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 26.1,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "2507164"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Kenny Britt",
       "nfl_team": "TEN",
       "game_result": "Win",
@@ -75,16 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 135,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 19.5,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "71217"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Miles Austin",
       "nfl_team": "DAL",
       "game_result": "Win",
@@ -96,16 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 143,
       "receiving_tds": 3,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 32.1,
-      "touchdowns": 3,
-      "lineup_status": "starter",
-      "player_id": "2495801"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Roddy White",
       "nfl_team": "ATL",
       "game_result": "Win",
@@ -117,16 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 23,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 8.3,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2506366"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Vernon Davis",
       "nfl_team": "SF",
       "game_result": "Loss",
@@ -138,15 +128,14 @@
       "rushing_tds": 0,
       "receiving_yards": 18,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 1.8,
-      "lineup_status": "starter",
-      "player_id": "2495826"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Tim Hightower",
       "nfl_team": "WAS",
       "game_result": "Win",
@@ -158,15 +147,14 @@
       "rushing_tds": 0,
       "receiving_yards": 10,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 10.6,
-      "lineup_status": "starter",
-      "player_id": "4383"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Jacoby Ford",
       "nfl_team": "LV",
       "game_result": "Loss",
@@ -178,35 +166,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "497288"
+      "player_type": "offense"
     },
     {
-      "position": "TE",
-      "name": "Marcedes Lewis",
-      "nfl_team": "JAC",
-      "game_result": "Loss",
-      "game_score": "3-32",
-      "passing_yards": 0,
-      "passing_tds": 0,
-      "interceptions": 0,
-      "rushing_yards": 0,
-      "rushing_tds": 0,
-      "receiving_yards": 0,
-      "receiving_tds": 0,
-      "fumble_tds": 0,
-      "two_point_conversions": 0,
-      "fumbles_lost": 0,
-      "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2495888"
-    },
-    {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Deion Branch",
       "nfl_team": "NE",
       "game_result": "Win",
@@ -218,15 +185,14 @@
       "rushing_tds": 0,
       "receiving_yards": 129,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 12.9,
-      "lineup_status": "starter",
-      "player_id": "2505062"
+      "player_type": "offense"
     },
     {
-      "position": "QB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Matt Cassel",
       "nfl_team": "KC",
       "game_result": "Loss",
@@ -238,15 +204,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 1,
-      "fantasy_points": 2.68,
-      "lineup_status": "starter",
-      "player_id": "2506562"
+      "fantasy_points": -2.68,
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Reggie Bush",
       "nfl_team": "MIA",
       "game_result": "Loss",
@@ -258,13 +223,69 @@
       "rushing_tds": 0,
       "receiving_yards": 3,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.1,
+      "player_type": "offense"
+    },
+    {
+      "position": "BN",
+      "lineup_status": "bench",
+      "name": "Marcedes Lewis",
+      "nfl_team": "JAC",
+      "game_result": "Loss",
+      "game_score": "3-32",
+      "passing_yards": 0,
+      "passing_tds": 0,
+      "interceptions": 0,
+      "rushing_yards": 0,
+      "rushing_tds": 0,
+      "receiving_yards": 0,
+      "receiving_tds": 0,
+      "two_point_conversions": 0,
+      "fumbles_lost": 0,
+      "fantasy_points": 0.0,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2506874"
+      "name": "Mason Crosby",
+      "nfl_team": "GB",
+      "game_result": "Win",
+      "game_score": "30-23",
+      "fg_made": 3,
+      "fg_0_19": 1,
+      "fg_20_29": 0,
+      "fg_30_39": 2,
+      "fg_40_49": 0,
+      "fg_50_plus": 0,
+      "fantasy_points": 12.0,
+      "player_type": "kicker",
+      "pat_made": 3
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "New York Jets",
+      "nfl_team": "New York Jets",
+      "game_result": "Win",
+      "game_score": "32-3",
+      "sacks": 2,
+      "interceptions": 4,
+      "fumble_recoveries": 0,
+      "safeties": 1,
+      "def_tds": 0,
+      "points_allowed": 3,
+      "fantasy_points": 19.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 142.4
+  },
   "source": "html_scraping"
 }

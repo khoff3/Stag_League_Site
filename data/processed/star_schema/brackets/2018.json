@@ -1,0 +1,365 @@
+{
+  "winners_bracket": {
+    "round_1": [
+      {
+        "game_id": "201814111",
+        "home_team": {
+          "id": "1",
+          "name": "Johnson and Johnson",
+          "points": 80.74
+        },
+        "away_team": {
+          "id": "11",
+          "name": "BreesCassidyandtheStefonDiggs",
+          "points": 67.54
+        },
+        "winner": "1"
+      },
+      {
+        "game_id": "20181443",
+        "home_team": {
+          "id": "4",
+          "name": "Watson on Sunshine",
+          "points": 72.28
+        },
+        "away_team": {
+          "id": "3",
+          "name": "Capn' Geno's",
+          "points": 86.22
+        },
+        "winner": "3"
+      }
+    ],
+    "championship_week": {
+      "championship": [
+        {
+          "game_id": "20181659",
+          "home_team": {
+            "id": "5",
+            "name": "Kamara Obscura",
+            "points": 106.58
+          },
+          "away_team": {
+            "id": "9",
+            "name": "Mahomes Room",
+            "points": 136.82
+          },
+          "winner": "9"
+        }
+      ],
+      "third_place": [
+        {
+          "game_id": "20181553",
+          "home_team": {
+            "id": "5",
+            "name": "Kamara Obscura",
+            "points": 70.94
+          },
+          "away_team": {
+            "id": "3",
+            "name": "Capn' Geno's",
+            "points": 66.82
+          },
+          "winner": "5"
+        },
+        {
+          "game_id": "20181519",
+          "home_team": {
+            "id": "1",
+            "name": "Johnson and Johnson",
+            "points": 44.98
+          },
+          "away_team": {
+            "id": "9",
+            "name": "Mahomes Room",
+            "points": 79.32
+          },
+          "winner": "9"
+        },
+        {
+          "game_id": "20181631",
+          "home_team": {
+            "id": "3",
+            "name": "Capn' Geno's",
+            "points": 81.76
+          },
+          "away_team": {
+            "id": "1",
+            "name": "Johnson and Johnson",
+            "points": 98.68
+          },
+          "winner": "1"
+        },
+        {
+          "game_id": "201816114",
+          "home_team": {
+            "id": "11",
+            "name": "BreesCassidyandtheStefonDiggs",
+            "points": 76.64
+          },
+          "away_team": {
+            "id": "4",
+            "name": "Watson on Sunshine",
+            "points": 73.34
+          },
+          "winner": "11"
+        }
+      ],
+      "fifth_place": []
+    }
+  },
+  "middle_teams_bracket": {
+    "round_1": [],
+    "mediocre_bowl": []
+  },
+  "consolation_bracket": {
+    "round_1": [
+      {
+        "game_id": "20181428",
+        "home_team": {
+          "id": "2",
+          "name": "ZekeZone",
+          "points": 104.88
+        },
+        "away_team": {
+          "id": "8",
+          "name": "Pop Lockett Drop It",
+          "points": 111.38
+        },
+        "winner": "8"
+      },
+      {
+        "game_id": "201814712",
+        "home_team": {
+          "id": "7",
+          "name": "The Great Gronksby",
+          "points": 113.48
+        },
+        "away_team": {
+          "id": "12",
+          "name": "No League for Old Men",
+          "points": 42.02
+        },
+        "winner": "7"
+      },
+      {
+        "game_id": "201814106_mediocre",
+        "home_team": {
+          "id": "10",
+          "name": "Risk It For The Trubiscuit",
+          "points": 136.42000000000002
+        },
+        "away_team": {
+          "id": "6",
+          "name": "Roaring Rivers of Freedom",
+          "points": 75.3
+        },
+        "winner": "10"
+      }
+    ],
+    "toilet_bowl": [
+      {
+        "game_id": "201815212",
+        "home_team": {
+          "id": "2",
+          "name": "ZekeZone",
+          "points": 113.14
+        },
+        "away_team": {
+          "id": "12",
+          "name": "No League for Old Men",
+          "points": 80.12
+        },
+        "winner": "2"
+      },
+      {
+        "game_id": "201815106",
+        "home_team": {
+          "id": "10",
+          "name": "Risk It For The Trubiscuit",
+          "points": 71.9
+        },
+        "away_team": {
+          "id": "6",
+          "name": "Roaring Rivers of Freedom",
+          "points": 75.92
+        },
+        "winner": "6"
+      },
+      {
+        "game_id": "201815610_mediocre",
+        "home_team": {
+          "id": "6",
+          "name": "Roaring Rivers of Freedom",
+          "points": 75.92
+        },
+        "away_team": {
+          "id": "10",
+          "name": "Risk It For The Trubiscuit",
+          "points": 128.24
+        },
+        "winner": "10"
+      },
+      {
+        "game_id": "201816106",
+        "home_team": {
+          "id": "10",
+          "name": "Risk It For The Trubiscuit",
+          "points": 92.02
+        },
+        "away_team": {
+          "id": "6",
+          "name": "Roaring Rivers of Freedom",
+          "points": 45.64
+        },
+        "winner": "10"
+      },
+      {
+        "game_id": "20181678",
+        "home_team": {
+          "id": "7",
+          "name": "The Great Gronksby",
+          "points": 77.44
+        },
+        "away_team": {
+          "id": "8",
+          "name": "Pop Lockett Drop It",
+          "points": 107.6
+        },
+        "winner": "8"
+      },
+      {
+        "game_id": "201816212",
+        "home_team": {
+          "id": "2",
+          "name": "ZekeZone",
+          "points": 93.66
+        },
+        "away_team": {
+          "id": "12",
+          "name": "No League for Old Men",
+          "points": 118.04
+        },
+        "winner": "12"
+      },
+      {
+        "game_id": "201816106_mediocre",
+        "home_team": {
+          "id": "10",
+          "name": "Risk It For The Trubiscuit",
+          "points": 112.29999999999998
+        },
+        "away_team": {
+          "id": "6",
+          "name": "Roaring Rivers of Freedom",
+          "points": 45.63999999999999
+        },
+        "winner": "10"
+      }
+    ]
+  },
+  "seeds": {
+    "winners_bracket": [
+      {
+        "seed": 1,
+        "team_id": "5",
+        "team_name": "Kamara Obscura",
+        "record": "12-1-0"
+      },
+      {
+        "seed": 2,
+        "team_id": "9",
+        "team_name": "Mahomes Room",
+        "record": "10-3-0"
+      },
+      {
+        "seed": 3,
+        "team_id": "4",
+        "team_name": "Watson on Sunshine",
+        "record": "8-5-0"
+      },
+      {
+        "seed": 4,
+        "team_id": "1",
+        "team_name": "Johnson and Johnson",
+        "record": "7-6-0"
+      },
+      {
+        "seed": 5,
+        "team_id": "11",
+        "team_name": "BreesCassidyandtheStefonDiggs",
+        "record": "7-6-0"
+      },
+      {
+        "seed": 6,
+        "team_id": "3",
+        "team_name": "Capn' Geno's",
+        "record": "6-7-0"
+      }
+    ],
+    "consolation_bracket": [
+      {
+        "seed": 7,
+        "team_id": "10",
+        "team_name": "Risk It For The Trubiscuit",
+        "record": "6-7-0"
+      },
+      {
+        "seed": 8,
+        "team_id": "6",
+        "team_name": "Roaring Rivers of Freedom",
+        "record": "6-7-0"
+      },
+      {
+        "seed": 9,
+        "team_id": "7",
+        "team_name": "The Great Gronksby",
+        "record": "5-8-0"
+      },
+      {
+        "seed": 10,
+        "team_id": "2",
+        "team_name": "ZekeZone",
+        "record": "4-9-0"
+      },
+      {
+        "seed": 11,
+        "team_id": "8",
+        "team_name": "Pop Lockett Drop It",
+        "record": "4-9-0"
+      },
+      {
+        "seed": 12,
+        "team_id": "12",
+        "team_name": "No League for Old Men",
+        "record": "3-10-0"
+      }
+    ]
+  },
+  "first_round_matchups": [
+    {
+      "home": 1,
+      "away": 4
+    },
+    {
+      "home": 2,
+      "away": 3
+    },
+    {
+      "home": 5,
+      "away": 6
+    },
+    {
+      "home": 7,
+      "away": 10
+    },
+    {
+      "home": 8,
+      "away": 9
+    },
+    {
+      "home": 11,
+      "away": 12
+    }
+  ]
+}

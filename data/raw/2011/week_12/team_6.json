@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Aaron Rodgers",
       "nfl_team": "GB",
       "game_result": "Win",
@@ -13,16 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 20.18,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "2506363"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "DeMarco Murray",
       "nfl_team": "DAL",
       "game_result": "Win",
@@ -34,15 +33,14 @@
       "rushing_tds": 0,
       "receiving_yards": 41,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 12.8,
-      "lineup_status": "starter",
-      "player_id": "2495207"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Steven Jackson",
       "nfl_team": "STL",
       "game_result": "Loss",
@@ -54,15 +52,14 @@
       "rushing_tds": 0,
       "receiving_yards": 14,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 7.8,
-      "lineup_status": "starter",
-      "player_id": "2505936"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Jordy Nelson",
       "nfl_team": "GB",
       "game_result": "Win",
@@ -74,15 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 26,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.6,
-      "lineup_status": "starter",
-      "player_id": "1032"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Andre Johnson",
       "nfl_team": "HOU",
       "game_result": "Win",
@@ -94,15 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 22,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.2,
-      "lineup_status": "starter",
-      "player_id": "2505551"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Brandon Lloyd",
       "nfl_team": "STL",
       "game_result": "Loss",
@@ -114,16 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 74,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 13.4,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2505600"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Jason Witten",
       "nfl_team": "DAL",
       "game_result": "Win",
@@ -135,15 +128,14 @@
       "rushing_tds": 0,
       "receiving_yards": 43,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.3,
-      "lineup_status": "starter",
-      "player_id": "2505629"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Eric Decker",
       "nfl_team": "DEN",
       "game_result": "Win",
@@ -155,16 +147,14 @@
       "rushing_tds": 0,
       "receiving_yards": 65,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 12.5,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "497284"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Robert Meachem",
       "nfl_team": "NO",
       "game_result": "Win",
@@ -176,15 +166,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2495676"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Ryan Grant",
       "nfl_team": "GB",
       "game_result": "Win",
@@ -196,15 +185,14 @@
       "rushing_tds": 0,
       "receiving_yards": 20,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.0,
-      "lineup_status": "starter",
-      "player_id": "2506140"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Mike Tolbert",
       "nfl_team": "LAC",
       "game_result": "Loss",
@@ -216,15 +204,14 @@
       "rushing_tds": 0,
       "receiving_yards": 19,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 6.3,
-      "lineup_status": "starter",
-      "player_id": "2507428"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Vincent Brown",
       "nfl_team": "LAC",
       "game_result": "Loss",
@@ -236,15 +223,14 @@
       "rushing_tds": 0,
       "receiving_yards": 50,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 5.0,
-      "lineup_status": "starter",
-      "player_id": "2508115"
+      "player_type": "offense"
     },
     {
-      "position": "QB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Matthew Stafford",
       "nfl_team": "DET",
       "game_result": "Loss",
@@ -256,14 +242,50 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 1,
       "fumbles_lost": 0,
       "fantasy_points": 14.14,
-      "touchdowns": 1,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "79860"
+      "name": "David Akers",
+      "nfl_team": "SF",
+      "game_result": "Loss",
+      "game_score": "6-16",
+      "fg_made": 2,
+      "fg_0_19": 0,
+      "fg_20_29": 0,
+      "fg_30_39": 0,
+      "fg_40_49": 1,
+      "fg_50_plus": 1,
+      "fantasy_points": 9.0,
+      "player_type": "kicker",
+      "pat_made": 0
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Pittsburgh Steelers",
+      "nfl_team": "Pittsburgh Steelers",
+      "game_result": "Win",
+      "game_score": "13-9",
+      "sacks": 1,
+      "interceptions": 3,
+      "fumble_recoveries": 1,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 9,
+      "fantasy_points": 14.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 86.28
+  },
   "source": "html_scraping"
 }

@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Jalen Hurts",
       "nfl_team": "PHI Q",
       "game_result": "Win",
@@ -13,16 +14,14 @@
       "rushing_tds": 2,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 1,
       "fumbles_lost": 0,
       "fantasy_points": 22.92,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "2564832"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Cordarrelle Patterson",
       "nfl_team": "ATL",
       "game_result": "Win",
@@ -34,15 +33,14 @@
       "rushing_tds": 0,
       "receiving_yards": 60,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 11.4,
-      "lineup_status": "starter",
-      "player_id": "2540145"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Nick Chubb",
       "nfl_team": "CLE",
       "game_result": "Loss",
@@ -54,16 +52,14 @@
       "rushing_tds": 1,
       "receiving_yards": 9,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 23.0,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2561021"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Corey Davis",
       "nfl_team": "NYJ IR",
       "game_result": "Loss",
@@ -75,15 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 45,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.5,
-      "lineup_status": "starter",
-      "player_id": "2557848"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Ja'Marr Chase",
       "nfl_team": "CIN",
       "game_result": "Loss",
@@ -95,16 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 159,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 21.9,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2565941"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Noah Fant",
       "nfl_team": "SEA",
       "game_result": "Loss",
@@ -116,15 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 20,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.0,
-      "lineup_status": "starter",
-      "player_id": "2562383"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "R/W/T",
+      "lineup_status": "starter",
       "name": "Marvin Jones",
       "nfl_team": "JAX",
       "game_result": "Loss",
@@ -136,18 +128,15 @@
       "rushing_tds": 0,
       "receiving_yards": 25,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.5,
-      "lineup_status": "starter",
-      "player_id": "2532884"
+      "player_type": "offense"
     },
     {
       "position": "BN",
+      "lineup_status": "bench",
       "name": "Henry Ruggs III WR",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -155,15 +144,14 @@
       "rushing_tds": 0,
       "receiving_yards": 51,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 5.1,
-      "lineup_status": "bench",
-      "player_id": "2564433"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Khalil Herbert",
       "nfl_team": "CHI",
       "game_result": "Win",
@@ -175,15 +163,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 7.5,
-      "lineup_status": "starter",
-      "player_id": "2565926"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Christian McCaffrey",
       "nfl_team": "CAR IR",
       "game_result": "Loss",
@@ -195,15 +182,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2557997"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Calvin Ridley",
       "nfl_team": "ATL NFI-R",
       "game_result": "Win",
@@ -215,15 +201,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2560854"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Curtis Samuel",
       "nfl_team": "WAS Q",
       "game_result": "Loss",
@@ -235,15 +220,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.8,
-      "lineup_status": "starter",
-      "player_id": "2558066"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Sterling Shepard",
       "nfl_team": "NYG IR",
       "game_result": "Loss",
@@ -255,13 +239,50 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2555295"
+      "name": "Tyler Bass",
+      "nfl_team": "BUF",
+      "game_result": "Win",
+      "game_score": "38-20",
+      "fg_made": 1,
+      "fg_0_19": 0,
+      "fg_20_29": 0,
+      "fg_30_39": 1,
+      "fg_40_49": 0,
+      "fg_50_plus": 0,
+      "fantasy_points": 8.0,
+      "player_type": "kicker",
+      "pat_made": 5
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Washington Football Team",
+      "nfl_team": "Washington Football Team",
+      "game_result": "Loss",
+      "game_score": "22-33",
+      "sacks": 2,
+      "interceptions": 1,
+      "fumble_recoveries": 1,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 33,
+      "fantasy_points": 5.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 101.22
+  },
   "source": "html_scraping"
 }

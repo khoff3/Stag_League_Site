@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Patrick Mahomes",
       "nfl_team": "KC",
       "game_result": "Win",
@@ -13,16 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 36.24,
-      "touchdowns": 5,
-      "lineup_status": "starter",
-      "player_id": "2558125"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Devonta Freeman",
       "nfl_team": "BAL Q",
       "game_result": "Loss",
@@ -34,15 +33,14 @@
       "rushing_tds": 0,
       "receiving_yards": 23,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 5.8,
-      "lineup_status": "starter",
-      "player_id": "2543583"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Jonathan Taylor",
       "nfl_team": "IND",
       "game_result": "Win",
@@ -54,16 +52,14 @@
       "rushing_tds": 1,
       "receiving_yards": 10,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 18.6,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2564148"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Christian Kirk",
       "nfl_team": "JAX",
       "game_result": "Loss",
@@ -75,15 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 58,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 5.8,
-      "lineup_status": "starter",
-      "player_id": "2560781"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Deonte Harris",
       "nfl_team": "NO",
       "game_result": "Loss",
@@ -95,15 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 84,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 1,
       "fantasy_points": 7.0,
-      "lineup_status": "starter",
-      "player_id": "2563155"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Dallas Goedert",
       "nfl_team": "PHI",
       "game_result": "Win",
@@ -115,15 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 28,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.8,
-      "lineup_status": "starter",
-      "player_id": "2560995"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "R/W/T",
+      "lineup_status": "starter",
       "name": "D'Andre Swift",
       "nfl_team": "DET",
       "game_result": "Tie",
@@ -135,15 +128,14 @@
       "rushing_tds": 0,
       "receiving_yards": 5,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 13.5,
-      "lineup_status": "starter",
-      "player_id": "2563965"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "DeVante Parker",
       "nfl_team": "NE",
       "game_result": "Win",
@@ -155,15 +147,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2552409"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "J.D. McKissic",
       "nfl_team": "WAS IR",
       "game_result": "Win",
@@ -175,15 +166,14 @@
       "rushing_tds": 0,
       "receiving_yards": 35,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 3.9,
-      "lineup_status": "starter",
-      "player_id": "2556440"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Chase Edmonds",
       "nfl_team": "MIA",
       "game_result": "Win",
@@ -195,15 +185,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2560711"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Michael Gallup",
       "nfl_team": "DAL Q",
       "game_result": "Win",
@@ -215,15 +204,14 @@
       "rushing_tds": 0,
       "receiving_yards": 42,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.2,
-      "lineup_status": "starter",
-      "player_id": "2560735"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Robert Woods",
       "nfl_team": "TEN IR",
       "game_result": "Win",
@@ -235,13 +223,65 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2540169"
+      "name": "Justin Tucker",
+      "nfl_team": "BAL",
+      "game_result": "Loss",
+      "game_score": "10-22",
+      "fg_made": 1,
+      "fg_0_19": 0,
+      "fg_20_29": 0,
+      "fg_30_39": 0,
+      "fg_40_49": 1,
+      "fg_50_plus": 0,
+      "fantasy_points": 4.0,
+      "player_type": "kicker",
+      "pat_made": 1
+    },
+    {
+      "position": "BN",
+      "lineup_status": "bench",
+      "name": "Graham Gano",
+      "nfl_team": "NYG",
+      "fg_made": 0,
+      "fg_0_19": 0,
+      "fg_20_29": 0,
+      "fg_30_39": 0,
+      "fg_40_49": 0,
+      "fg_50_plus": 0,
+      "fantasy_points": 0.0,
+      "player_type": "kicker",
+      "pat_made": 0
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "New Orleans Saints",
+      "nfl_team": "New Orleans Saints",
+      "game_result": "Loss",
+      "game_score": "21-23",
+      "sacks": 2,
+      "interceptions": 0,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 23,
+      "fantasy_points": 2.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 95.74
+  },
   "source": "html_scraping"
 }

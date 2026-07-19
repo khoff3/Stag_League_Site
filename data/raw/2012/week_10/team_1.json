@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Ben Roethlisberger",
       "nfl_team": "PIT",
       "game_result": "Win",
@@ -13,16 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 8.76,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2506109"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Ray Rice",
       "nfl_team": "BAL",
       "game_result": "Win",
@@ -34,16 +33,14 @@
       "rushing_tds": 1,
       "receiving_yards": 33,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 12.8,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "941"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Reggie Bush",
       "nfl_team": "MIA",
       "game_result": "Loss",
@@ -55,15 +52,14 @@
       "rushing_tds": 0,
       "receiving_yards": 8,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 1,
       "fantasy_points": 0.9,
-      "lineup_status": "starter",
-      "player_id": "2506874"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Reggie Wayne",
       "nfl_team": "IND",
       "game_result": "Win",
@@ -75,15 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 96,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 9.6,
-      "lineup_status": "starter",
-      "player_id": "2504747"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Mike Wallace",
       "nfl_team": "PIT",
       "game_result": "Win",
@@ -95,16 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 14,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 7.4,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2507763"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Jimmy Graham",
       "nfl_team": "NO",
       "game_result": "Win",
@@ -116,16 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 146,
       "receiving_tds": 2,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 26.6,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "497236"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "W/R",
+      "lineup_status": "starter",
       "name": "Mikel Leshoure",
       "nfl_team": "DET",
       "game_result": "Loss",
@@ -137,15 +128,14 @@
       "rushing_tds": 0,
       "receiving_yards": 5,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.8,
-      "lineup_status": "starter",
-      "player_id": "2495468"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "BenJarvus Green-Ellis",
       "nfl_team": "CIN",
       "game_result": "Win",
@@ -157,19 +147,16 @@
       "rushing_tds": 0,
       "receiving_yards": 8,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 5.8,
-      "lineup_status": "starter",
-      "player_id": "929"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Beanie Wells",
       "nfl_team": "ARI",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -177,15 +164,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "79661"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Percy Harvin",
       "nfl_team": "MIN",
       "game_result": "Win",
@@ -197,15 +183,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "80425"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Sidney Rice",
       "nfl_team": "SEA",
       "game_result": "Win",
@@ -217,16 +202,14 @@
       "rushing_tds": 0,
       "receiving_yards": 54,
       "receiving_tds": 2,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 17.4,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "2495718"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Malcom Floyd",
       "nfl_team": "LAC",
       "game_result": "Loss",
@@ -238,16 +221,14 @@
       "rushing_tds": 0,
       "receiving_yards": 63,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 12.3,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2505785"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Donald Brown",
       "nfl_team": "IND",
       "game_result": "Win",
@@ -259,13 +240,50 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.2,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2507779"
+      "name": "Blair Walsh",
+      "nfl_team": "MIN",
+      "game_result": "Win",
+      "game_score": "34-24",
+      "fg_made": 4,
+      "fg_0_19": 0,
+      "fg_20_29": 2,
+      "fg_30_39": 1,
+      "fg_40_49": 1,
+      "fg_50_plus": 0,
+      "fantasy_points": 14.0,
+      "player_type": "kicker",
+      "pat_made": 2
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Houston Texans",
+      "nfl_team": "Houston Texans",
+      "game_result": "Win",
+      "game_score": "13-6",
+      "sacks": 0,
+      "interceptions": 2,
+      "fumble_recoveries": 2,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 6,
+      "fantasy_points": 15.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 99.86
+  },
   "source": "html_scraping"
 }

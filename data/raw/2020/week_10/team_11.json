@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Lamar Jackson",
       "nfl_team": "BAL Q",
       "game_result": "Loss",
@@ -13,16 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 21.46,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "2560757"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Jerick McKinnon",
       "nfl_team": "SF",
       "game_result": "Loss",
@@ -34,15 +33,14 @@
       "rushing_tds": 0,
       "receiving_yards": 13,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.6,
-      "lineup_status": "starter",
-      "player_id": "2543715"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Miles Sanders",
       "nfl_team": "PHI Q",
       "game_result": "Loss",
@@ -54,15 +52,14 @@
       "rushing_tds": 0,
       "receiving_yards": 10,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 1,
       "fumbles_lost": 0,
       "fantasy_points": 11.5,
-      "lineup_status": "starter",
-      "player_id": "2562722"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Curtis Samuel",
       "nfl_team": "CAR",
       "game_result": "Loss",
@@ -74,15 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 8,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 1.2,
-      "lineup_status": "starter",
-      "player_id": "2558066"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Jalen Reagor",
       "nfl_team": "PHI Q",
       "game_result": "Loss",
@@ -94,15 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 47,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.7,
-      "lineup_status": "starter",
-      "player_id": "2564850"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Robert Tonyan",
       "nfl_team": "GB",
       "game_result": "Win",
@@ -114,15 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 33,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 3.3,
-      "lineup_status": "starter",
-      "player_id": "2559270"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "R/W/T",
+      "lineup_status": "starter",
       "name": "Chase Claypool",
       "nfl_team": "PIT",
       "game_result": "Win",
@@ -134,19 +128,15 @@
       "rushing_tds": 0,
       "receiving_yards": 56,
       "receiving_tds": 2,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 17.3,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "2564970"
+      "player_type": "offense"
     },
     {
       "position": "BN",
+      "lineup_status": "bench",
       "name": "Devonta Freeman RB",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -154,19 +144,16 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "bench",
-      "player_id": "2543583"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Todd Gurley",
       "nfl_team": "ATL",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -174,15 +161,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2552475"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Raheem Mostert",
       "nfl_team": "SF IR",
       "game_result": "Loss",
@@ -194,15 +180,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2553728"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Marquise Brown",
       "nfl_team": "BAL",
       "game_result": "Loss",
@@ -214,19 +199,16 @@
       "rushing_tds": 0,
       "receiving_yards": 14,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 1.4,
-      "lineup_status": "starter",
-      "player_id": "2562379"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Tyreek Hill",
       "nfl_team": "KC",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -234,15 +216,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2556214"
+      "player_type": "offense"
     },
     {
-      "position": "TE",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Hunter Henry",
       "nfl_team": "LAC",
       "game_result": "Loss",
@@ -254,14 +235,50 @@
       "rushing_tds": 0,
       "receiving_yards": 30,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 9.0,
-      "touchdowns": 1,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2555341"
+      "name": "Ryan Succop",
+      "nfl_team": "TB",
+      "game_result": "Win",
+      "game_score": "46-23",
+      "fg_made": 4,
+      "fg_0_19": 0,
+      "fg_20_29": 3,
+      "fg_30_39": 0,
+      "fg_40_49": 1,
+      "fg_50_plus": 0,
+      "fantasy_points": 16.0,
+      "player_type": "kicker",
+      "pat_made": 4
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Miami Dolphins",
+      "nfl_team": "Miami Dolphins",
+      "game_result": "Win",
+      "game_score": "29-21",
+      "sacks": 2,
+      "interceptions": 1,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 21,
+      "fantasy_points": 4.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 84.06
+  },
   "source": "html_scraping"
 }

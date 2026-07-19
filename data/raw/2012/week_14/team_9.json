@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Robert Griffin III",
       "nfl_team": "WAS",
       "game_result": "Win",
@@ -13,16 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 17.08,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2533033"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Arian Foster",
       "nfl_team": "HOU",
       "game_result": "Loss",
@@ -34,16 +33,14 @@
       "rushing_tds": 1,
       "receiving_yards": 39,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 14.5,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "79555"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Vick Ballard",
       "nfl_team": "IND",
       "game_result": "Win",
@@ -55,15 +52,14 @@
       "rushing_tds": 0,
       "receiving_yards": 10,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 10.4,
-      "lineup_status": "starter",
-      "player_id": "2533012"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Dez Bryant",
       "nfl_team": "DAL",
       "game_result": "Win",
@@ -75,16 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 50,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 9.9,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "497278"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Justin Blackmon",
       "nfl_team": "JAC",
       "game_result": "Loss",
@@ -96,15 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 57,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 5.7,
-      "lineup_status": "starter",
-      "player_id": "2533038"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Brandon Pettigrew",
       "nfl_team": "DET",
       "game_result": "Loss",
@@ -116,19 +109,16 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "71431"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "W/R",
+      "lineup_status": "starter",
       "name": "Steven Jackson",
       "nfl_team": "STL",
-      "game_result": "@BUF",
-      "status": "Sun 10:00 amGet Tickets",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -136,16 +126,14 @@
       "rushing_tds": 1,
       "receiving_yards": 9,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 13.3,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2505936"
+      "player_type": "offense"
     },
     {
-      "position": "QB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Matt Ryan",
       "nfl_team": "ATL",
       "game_result": "Loss",
@@ -157,16 +145,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 19.68,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "310"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Felix Jones",
       "nfl_team": "DAL",
       "game_result": "Win",
@@ -178,15 +164,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.7,
-      "lineup_status": "starter",
-      "player_id": "931"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Hakeem Nicks",
       "nfl_team": "NYG",
       "game_result": "Win",
@@ -198,16 +183,14 @@
       "rushing_tds": 0,
       "receiving_yards": 67,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 12.7,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "80672"
+      "player_type": "offense"
     },
     {
-      "position": "TE",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Jermaine Gresham",
       "nfl_team": "CIN",
       "game_result": "Loss",
@@ -219,15 +202,14 @@
       "rushing_tds": 0,
       "receiving_yards": 43,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.3,
-      "lineup_status": "starter",
-      "player_id": "497238"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Brandon LaFell",
       "nfl_team": "CAR",
       "game_result": "Win",
@@ -239,13 +221,66 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "497302"
+      "name": "Jason Hanson",
+      "nfl_team": "DET",
+      "game_result": "Loss",
+      "game_score": "20-27",
+      "fg_made": 2,
+      "fg_0_19": 0,
+      "fg_20_29": 0,
+      "fg_30_39": 1,
+      "fg_40_49": 1,
+      "fg_50_plus": 0,
+      "fantasy_points": 8.0,
+      "player_type": "kicker",
+      "pat_made": 2
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Tampa Bay Buccaneers",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "game_result": "Loss",
+      "game_score": "21-23",
+      "sacks": 6,
+      "interceptions": 0,
+      "fumble_recoveries": 1,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 23,
+      "fantasy_points": 8.0,
+      "player_type": "defense"
+    },
+    {
+      "position": "BN",
+      "lineup_status": "bench",
+      "name": "New York Giants",
+      "nfl_team": "New York Giants",
+      "game_result": "Win",
+      "game_score": "52-27",
+      "sacks": 1,
+      "interceptions": 2,
+      "fumble_recoveries": 2,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 21,
+      "fantasy_points": 15.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 86.88
+  },
   "source": "html_scraping"
 }

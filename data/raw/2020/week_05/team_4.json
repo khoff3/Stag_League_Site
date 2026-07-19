@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Matt Ryan",
       "nfl_team": "ATL",
       "game_result": "Loss",
@@ -13,15 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 6.94,
-      "lineup_status": "starter",
-      "player_id": "310"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Myles Gaskin",
       "nfl_team": "MIA",
       "game_result": "Win",
@@ -33,16 +33,14 @@
       "rushing_tds": 1,
       "receiving_yards": 34,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 15.1,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2562270"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "David Montgomery",
       "nfl_team": "CHI",
       "game_result": "Win",
@@ -54,16 +52,14 @@
       "rushing_tds": 1,
       "receiving_yards": 30,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 11.9,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2562502"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "DeVante Parker",
       "nfl_team": "MIA",
       "game_result": "Win",
@@ -75,16 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 50,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 11.0,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2552409"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Tyler Lockett",
       "nfl_team": "SEA",
       "game_result": "Win",
@@ -96,15 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 44,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.4,
-      "lineup_status": "starter",
-      "player_id": "2552430"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "George Kittle",
       "nfl_team": "SF",
       "game_result": "Loss",
@@ -116,15 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 44,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.4,
-      "lineup_status": "starter",
-      "player_id": "2558266"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "R/W/T",
+      "lineup_status": "starter",
       "name": "Amari Cooper",
       "nfl_team": "DAL Q",
       "game_result": "Win",
@@ -136,19 +128,16 @@
       "rushing_tds": 0,
       "receiving_yards": 23,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.1,
-      "lineup_status": "starter",
-      "player_id": "2552487"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Rex Burkhead",
       "nfl_team": "NE IR",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -156,15 +145,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2539265"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Malcolm Brown",
       "nfl_team": "LA",
       "game_result": "Win",
@@ -176,19 +164,16 @@
       "rushing_tds": 0,
       "receiving_yards": -6,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.4,
-      "lineup_status": "starter",
-      "player_id": "2552382"
+      "player_type": "offense"
     },
     {
-      "position": "QB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Aaron Rodgers",
       "nfl_team": "GB",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -196,15 +181,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2506363"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Alexander Mattison",
       "nfl_team": "MIN",
       "game_result": "Loss",
@@ -216,15 +200,14 @@
       "rushing_tds": 0,
       "receiving_yards": 24,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 13.6,
-      "lineup_status": "starter",
-      "player_id": "2562682"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Tee Higgins",
       "nfl_team": "CIN Q",
       "game_result": "Loss",
@@ -236,13 +219,66 @@
       "rushing_tds": 0,
       "receiving_yards": 62,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 6.2,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2563731"
+      "name": "Zane Gonzalez",
+      "nfl_team": "ARI IR",
+      "game_result": "Win",
+      "game_score": "30-10",
+      "fg_made": 1,
+      "fg_0_19": 0,
+      "fg_20_29": 0,
+      "fg_30_39": 0,
+      "fg_40_49": 1,
+      "fg_50_plus": 0,
+      "fantasy_points": 6.0,
+      "player_type": "kicker",
+      "pat_made": 3
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Pittsburgh Steelers",
+      "nfl_team": "Pittsburgh Steelers",
+      "game_result": "Win",
+      "game_score": "38-29",
+      "sacks": 5,
+      "interceptions": 2,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 29,
+      "fantasy_points": 8.0,
+      "player_type": "defense"
+    },
+    {
+      "position": "BN",
+      "lineup_status": "bench",
+      "name": "Tampa Bay Buccaneers",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "game_result": "Loss",
+      "game_score": "19-20",
+      "sacks": 3,
+      "interceptions": 1,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 20,
+      "fantasy_points": 6.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 69.84
+  },
   "source": "html_scraping"
 }

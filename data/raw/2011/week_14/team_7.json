@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Philip Rivers",
       "nfl_team": "LAC",
       "game_result": "Win",
@@ -13,16 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 1,
       "fantasy_points": 19.6,
-      "touchdowns": 3,
-      "lineup_status": "starter",
-      "player_id": "2506121"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Arian Foster",
       "nfl_team": "HOU",
       "game_result": "Win",
@@ -34,15 +33,14 @@
       "rushing_tds": 0,
       "receiving_yards": 33,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 1,
       "fantasy_points": 5.4,
-      "lineup_status": "starter",
-      "player_id": "79555"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Shonn Greene",
       "nfl_team": "NYJ",
       "game_result": "Win",
@@ -54,16 +52,14 @@
       "rushing_tds": 1,
       "receiving_yards": 58,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 24.7,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "79563"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Calvin Johnson",
       "nfl_team": "DET",
       "game_result": "Win",
@@ -75,15 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 29,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.0,
-      "lineup_status": "starter",
-      "player_id": "2495647"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Steve Smith",
       "nfl_team": "CAR",
       "game_result": "Loss",
@@ -95,15 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 125,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 12.5,
-      "lineup_status": "starter",
-      "player_id": "2504595"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Nate Washington",
       "nfl_team": "TEN",
       "game_result": "Loss",
@@ -115,16 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 130,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 19.0,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2506313"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Benjamin Watson",
       "nfl_team": "CLE",
       "game_result": "Loss",
@@ -136,15 +128,14 @@
       "rushing_tds": 0,
       "receiving_yards": 11,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 1.1,
-      "lineup_status": "starter",
-      "player_id": "2506122"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Peyton Hillis",
       "nfl_team": "CLE",
       "game_result": "Loss",
@@ -156,15 +147,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.5,
-      "lineup_status": "starter",
-      "player_id": "1980"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Pierre Garcon",
       "nfl_team": "IND",
       "game_result": "Loss",
@@ -176,15 +166,14 @@
       "rushing_tds": 0,
       "receiving_yards": 46,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.6,
-      "lineup_status": "starter",
-      "player_id": "2346"
+      "player_type": "offense"
     },
     {
-      "position": "QB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Jay Cutler",
       "nfl_team": "CHI",
       "game_result": "Loss",
@@ -196,15 +185,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2495824"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Brandon Jacobs",
       "nfl_team": "NYG",
       "game_result": "Win",
@@ -216,14 +204,83 @@
       "rushing_tds": 2,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 22.1,
-      "touchdowns": 2,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2506448"
+      "name": "Sebastian Janikowski",
+      "nfl_team": "LV",
+      "game_result": "Loss",
+      "game_score": "16-46",
+      "fg_made": 0,
+      "fg_0_19": 0,
+      "fg_20_29": 0,
+      "fg_30_39": 0,
+      "fg_40_49": 0,
+      "fg_50_plus": 0,
+      "fantasy_points": 2.0,
+      "player_type": "kicker",
+      "pat_made": 2
+    },
+    {
+      "position": "BN",
+      "lineup_status": "bench",
+      "name": "Mike Nugent",
+      "nfl_team": "CIN",
+      "game_result": "Loss",
+      "game_score": "19-20",
+      "fg_made": 4,
+      "fg_0_19": 0,
+      "fg_20_29": 2,
+      "fg_30_39": 0,
+      "fg_40_49": 2,
+      "fg_50_plus": 0,
+      "fantasy_points": 15.0,
+      "player_type": "kicker",
+      "pat_made": 1
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Green Bay Packers",
+      "nfl_team": "Green Bay Packers",
+      "game_result": "Win",
+      "game_score": "46-16",
+      "sacks": 1,
+      "interceptions": 4,
+      "fumble_recoveries": 1,
+      "safeties": 0,
+      "def_tds": 1,
+      "points_allowed": 14,
+      "fantasy_points": 19.0,
+      "player_type": "defense"
+    },
+    {
+      "position": "BN",
+      "lineup_status": "bench",
+      "name": "Dallas Cowboys",
+      "nfl_team": "Dallas Cowboys",
+      "game_result": "Loss",
+      "game_score": "34-37",
+      "sacks": 0,
+      "interceptions": 1,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 35,
+      "fantasy_points": -2.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 107.3
+  },
   "source": "html_scraping"
 }

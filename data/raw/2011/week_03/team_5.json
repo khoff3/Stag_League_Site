@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Cam Newton",
       "nfl_team": "CAR",
       "game_result": "Win",
@@ -13,16 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 1,
       "fumbles_lost": 0,
       "fantasy_points": 15.02,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2495455"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Ray Rice",
       "nfl_team": "BAL",
       "game_result": "Win",
@@ -34,15 +33,14 @@
       "rushing_tds": 0,
       "receiving_yards": 83,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 16.4,
-      "lineup_status": "starter",
-      "player_id": "941"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Michael Turner",
       "nfl_team": "ATL",
       "game_result": "Loss",
@@ -54,15 +52,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.0,
-      "lineup_status": "starter",
-      "player_id": "2506014"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Steve Johnson",
       "nfl_team": "BUF",
       "game_result": "Win",
@@ -74,16 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 94,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 15.4,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "768"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Dwayne Bowe",
       "nfl_team": "KC",
       "game_result": "Loss",
@@ -95,16 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 67,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 12.7,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2495558"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Plaxico Burress",
       "nfl_team": "NYJ",
       "game_result": "Loss",
@@ -116,16 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 55,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 11.5,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2504253"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Fred Davis",
       "nfl_team": "WAS",
       "game_result": "Loss",
@@ -137,15 +128,14 @@
       "rushing_tds": 0,
       "receiving_yards": 23,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.3,
-      "lineup_status": "starter",
-      "player_id": "216"
+      "player_type": "offense"
     },
     {
-      "position": "QB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Chad Henne",
       "nfl_team": "MIA",
       "game_result": "Loss",
@@ -157,16 +147,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 14.8,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "252"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Ryan Mathews",
       "nfl_team": "LAC",
       "game_result": "Win",
@@ -178,16 +166,14 @@
       "rushing_tds": 2,
       "receiving_yards": 51,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 26.9,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "497188"
+      "player_type": "offense"
     },
     {
-      "position": "TE",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Aaron Hernandez",
       "nfl_team": "NE",
       "game_result": "Loss",
@@ -199,15 +185,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "497244"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Chad Ochocinco",
       "nfl_team": "NE",
       "game_result": "Loss",
@@ -219,15 +204,14 @@
       "rushing_tds": 0,
       "receiving_yards": 28,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.8,
-      "lineup_status": "starter",
-      "player_id": "2504651"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Doug Baldwin",
       "nfl_team": "SEA",
       "game_result": "Win",
@@ -239,13 +223,67 @@
       "rushing_tds": 0,
       "receiving_yards": 23,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.1,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2530747"
+      "name": "John Kasay",
+      "nfl_team": "NO",
+      "game_result": "Win",
+      "game_score": "40-33",
+      "fg_made": 1,
+      "fg_0_19": 0,
+      "fg_20_29": 0,
+      "fg_30_39": 1,
+      "fg_40_49": 0,
+      "fg_50_plus": 0,
+      "fantasy_points": 6.0,
+      "player_type": "kicker",
+      "pat_made": 3
+    },
+    {
+      "position": "BN",
+      "lineup_status": "bench",
+      "name": "Nick Folk",
+      "nfl_team": "NYJ",
+      "game_result": "Loss",
+      "game_score": "24-34",
+      "fg_made": 1,
+      "fg_0_19": 0,
+      "fg_20_29": 1,
+      "fg_30_39": 0,
+      "fg_40_49": 0,
+      "fg_50_plus": 0,
+      "fantasy_points": 6.0,
+      "player_type": "kicker",
+      "pat_made": 3
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "San Francisco 49ers",
+      "nfl_team": "San Francisco 49ers",
+      "game_result": "Win",
+      "game_score": "13-8",
+      "sacks": 1,
+      "interceptions": 2,
+      "fumble_recoveries": 1,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 6,
+      "fantasy_points": 14.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 95.32
+  },
   "source": "html_scraping"
 }

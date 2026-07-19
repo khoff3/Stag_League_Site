@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Robert Griffin III",
       "nfl_team": "WAS",
       "game_result": "Win",
@@ -13,16 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 14.08,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2533033"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Chris Johnson",
       "nfl_team": "TEN",
       "game_result": "Win",
@@ -34,15 +33,14 @@
       "rushing_tds": 0,
       "receiving_yards": 10,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 3.1,
-      "lineup_status": "starter",
-      "player_id": "262"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "C.J. Spiller",
       "nfl_team": "BUF",
       "game_result": "Win",
@@ -54,15 +52,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 7.7,
-      "lineup_status": "starter",
-      "player_id": "497204"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "DeSean Jackson",
       "nfl_team": "PHI",
       "game_result": "Loss",
@@ -74,15 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 34,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 3.4,
-      "lineup_status": "starter",
-      "player_id": "1581"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Pierre Garcon",
       "nfl_team": "WAS",
       "game_result": "Win",
@@ -94,16 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 59,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 11.9,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2346"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Coby Fleener",
       "nfl_team": "IND",
       "game_result": "Win",
@@ -115,20 +109,16 @@
       "rushing_tds": 0,
       "receiving_yards": 77,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 13.7,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2532838"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "W/R",
+      "lineup_status": "starter",
       "name": "Anquan Boldin",
       "nfl_team": "SF",
-      "game_result": "@LAR",
-      "status": "Thu 5:25 pmGet Tickets",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -136,16 +126,14 @@
       "rushing_tds": 0,
       "receiving_yards": 90,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 15.0,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2505587"
+      "player_type": "offense"
     },
     {
-      "position": "QB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Carson Palmer",
       "nfl_team": "ARI",
       "game_result": "Win",
@@ -157,16 +145,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 10.52,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2505245"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Fred Jackson",
       "nfl_team": "BUF",
       "game_result": "Win",
@@ -178,16 +164,14 @@
       "rushing_tds": 1,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 14.7,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2506871"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "David Wilson",
       "nfl_team": "NYG",
       "game_result": "Loss",
@@ -199,15 +183,14 @@
       "rushing_tds": 0,
       "receiving_yards": 8,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 6.3,
-      "lineup_status": "starter",
-      "player_id": "2533035"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Justin Blackmon",
       "nfl_team": "JAX",
       "game_result": "Loss",
@@ -219,15 +202,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2533038"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Bobby Rainey",
       "nfl_team": "TB",
       "game_result": "Loss",
@@ -239,15 +221,14 @@
       "rushing_tds": 0,
       "receiving_yards": 20,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.9,
-      "lineup_status": "starter",
-      "player_id": "2534571"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Kenbrell Thompkins",
       "nfl_team": "NE",
       "game_result": "Win",
@@ -259,14 +240,48 @@
       "rushing_tds": 0,
       "receiving_yards": 127,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 18.7,
-      "touchdowns": 1,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2539214"
+      "name": "Greg Zuerlein",
+      "nfl_team": "STL",
+      "fg_made": 1,
+      "fg_0_19": 0,
+      "fg_20_29": 0,
+      "fg_30_39": 0,
+      "fg_40_49": 1,
+      "fg_50_plus": 0,
+      "fantasy_points": 3.0,
+      "player_type": "kicker",
+      "pat_made": 0
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Tennessee Titans",
+      "nfl_team": "Tennessee Titans",
+      "game_result": "Win",
+      "game_score": "38-13",
+      "sacks": 5,
+      "interceptions": 2,
+      "fumble_recoveries": 2,
+      "safeties": 0,
+      "def_tds": 1,
+      "points_allowed": 13,
+      "fantasy_points": 23.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 94.88
+  },
   "source": "html_scraping"
 }

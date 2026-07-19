@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Cam Newton",
       "nfl_team": "CAR",
       "game_result": "Loss",
@@ -13,16 +14,14 @@
       "rushing_tds": 1,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 31.2,
-      "touchdowns": 3,
-      "lineup_status": "starter",
-      "player_id": "2495455"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Ryan Mathews",
       "nfl_team": "LAC",
       "game_result": "Win",
@@ -34,15 +33,14 @@
       "rushing_tds": 0,
       "receiving_yards": 21,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 8.2,
-      "lineup_status": "starter",
-      "player_id": "497188"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Ahmad Bradshaw",
       "nfl_team": "NYG",
       "game_result": "Loss",
@@ -54,15 +52,14 @@
       "rushing_tds": 0,
       "receiving_yards": 38,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 7.7,
-      "lineup_status": "starter",
-      "player_id": "2495560"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Santonio Holmes",
       "nfl_team": "NYJ",
       "game_result": "Loss",
@@ -74,15 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 29,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 1,
       "fantasy_points": 0.9,
-      "lineup_status": "starter",
-      "player_id": "2506885"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Victor Cruz",
       "nfl_team": "NYG",
       "game_result": "Loss",
@@ -94,16 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 109,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 16.9,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2507855"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Dennis Pitta",
       "nfl_team": "BAL",
       "game_result": "Win",
@@ -115,15 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "497254"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "W/R",
+      "lineup_status": "starter",
       "name": "Demaryius Thomas",
       "nfl_team": "DEN",
       "game_result": "Win",
@@ -135,15 +128,14 @@
       "rushing_tds": 0,
       "receiving_yards": 103,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 1,
       "fantasy_points": 8.3,
-      "lineup_status": "starter",
-      "player_id": "497328"
+      "player_type": "offense"
     },
     {
-      "position": "TE",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Martellus Bennett",
       "nfl_team": "NYG",
       "game_result": "Loss",
@@ -155,15 +147,14 @@
       "rushing_tds": 0,
       "receiving_yards": 2,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.2,
-      "lineup_status": "starter",
-      "player_id": "1062"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Kevin Ogletree",
       "nfl_team": "DAL",
       "game_result": "Loss",
@@ -175,15 +166,14 @@
       "rushing_tds": 0,
       "receiving_yards": 24,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.8,
-      "lineup_status": "starter",
-      "player_id": "81857"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Shaun Draughn",
       "nfl_team": "KC",
       "game_result": "Loss",
@@ -195,15 +185,14 @@
       "rushing_tds": 0,
       "receiving_yards": 34,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 1,
       "fantasy_points": 2.6,
-      "lineup_status": "starter",
-      "player_id": "2495461"
+      "player_type": "offense"
     },
     {
-      "position": "QB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Alex Smith",
       "nfl_team": "SF",
       "game_result": "Win",
@@ -215,15 +204,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 6.92,
-      "lineup_status": "starter",
-      "player_id": "2506340"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Andre Brown",
       "nfl_team": "NYG",
       "game_result": "Loss",
@@ -235,13 +223,67 @@
       "rushing_tds": 0,
       "receiving_yards": 4,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 1.8,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2507790"
+      "name": "Sebastian Janikowski",
+      "nfl_team": "LV",
+      "game_result": "Loss",
+      "game_score": "6-37",
+      "fg_made": 2,
+      "fg_0_19": 0,
+      "fg_20_29": 1,
+      "fg_30_39": 1,
+      "fg_40_49": 0,
+      "fg_50_plus": 0,
+      "fantasy_points": 6.0,
+      "player_type": "kicker",
+      "pat_made": 0
+    },
+    {
+      "position": "BN",
+      "lineup_status": "bench",
+      "name": "Lawrence Tynes",
+      "nfl_team": "NYG",
+      "game_result": "Loss",
+      "game_score": "17-19",
+      "fg_made": 1,
+      "fg_0_19": 0,
+      "fg_20_29": 1,
+      "fg_30_39": 0,
+      "fg_40_49": 0,
+      "fg_50_plus": 0,
+      "fantasy_points": 5.0,
+      "player_type": "kicker",
+      "pat_made": 2
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "San Francisco 49ers",
+      "nfl_team": "San Francisco 49ers",
+      "game_result": "Win",
+      "game_score": "34-0",
+      "sacks": 3,
+      "interceptions": 1,
+      "fumble_recoveries": 3,
+      "safeties": 0,
+      "def_tds": 1,
+      "points_allowed": 0,
+      "fantasy_points": 27.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 106.2
+  },
   "source": "html_scraping"
 }

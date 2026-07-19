@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Matthew Stafford",
       "nfl_team": "LA",
       "game_result": "Win",
@@ -13,16 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 16.5,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "79860"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Alvin Kamara",
       "nfl_team": "NO",
       "game_result": "Win",
@@ -34,16 +33,14 @@
       "rushing_tds": 1,
       "receiving_yards": 51,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 24.2,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "2558019"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Saquon Barkley",
       "nfl_team": "NYG",
       "game_result": "Loss",
@@ -55,15 +52,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.9,
-      "lineup_status": "starter",
-      "player_id": "2560968"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "DeAndre Hopkins",
       "nfl_team": "ARI IR",
       "game_result": "Win",
@@ -75,16 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 87,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 14.7,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2540165"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Brandin Cooks",
       "nfl_team": "HOU Q",
       "game_result": "Loss",
@@ -96,15 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 23,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.3,
-      "lineup_status": "starter",
-      "player_id": "2543498"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "T.J. Hockenson",
       "nfl_team": "DET IR",
       "game_result": "Loss",
@@ -116,15 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 22,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.2,
-      "lineup_status": "starter",
-      "player_id": "2562378"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "R/W/T",
+      "lineup_status": "starter",
       "name": "JuJu Smith-Schuster",
       "nfl_team": "KC",
       "game_result": "Loss",
@@ -136,15 +128,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.6,
-      "lineup_status": "starter",
-      "player_id": "2558149"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "A.J. Green",
       "nfl_team": "ARI",
       "game_result": "Win",
@@ -156,15 +147,14 @@
       "rushing_tds": 0,
       "receiving_yards": 13,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 1.3,
-      "lineup_status": "starter",
-      "player_id": "2495450"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Mark Ingram",
       "nfl_team": "NO Q",
       "game_result": "Win",
@@ -176,15 +166,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.1,
-      "lineup_status": "starter",
-      "player_id": "2495466"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Josh Gordon",
       "nfl_team": "KC",
       "game_result": "Loss",
@@ -196,15 +185,14 @@
       "rushing_tds": 0,
       "receiving_yards": 11,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 1.1,
-      "lineup_status": "starter",
-      "player_id": "2537931"
+      "player_type": "offense"
     },
     {
-      "position": "QB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Aaron Rodgers",
       "nfl_team": "GB",
       "game_result": "Win",
@@ -216,14 +204,82 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 19.76,
-      "touchdowns": 2,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2506363"
+      "name": "Brandon McManus",
+      "nfl_team": "DEN",
+      "game_result": "Loss",
+      "game_score": "19-27",
+      "fg_made": 2,
+      "fg_0_19": 0,
+      "fg_20_29": 1,
+      "fg_30_39": 1,
+      "fg_40_49": 0,
+      "fg_50_plus": 0,
+      "fantasy_points": 7.0,
+      "player_type": "kicker",
+      "pat_made": 1
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Tennessee Titans",
+      "nfl_team": "Tennessee Titans",
+      "game_result": "Win",
+      "game_score": "37-19",
+      "sacks": 2,
+      "interceptions": 1,
+      "fumble_recoveries": 1,
+      "safeties": 0,
+      "def_tds": 1,
+      "points_allowed": 19,
+      "fantasy_points": 13.0,
+      "player_type": "defense"
+    },
+    {
+      "position": "BN",
+      "lineup_status": "bench",
+      "name": "Arizona Cardinals",
+      "nfl_team": "Arizona Cardinals",
+      "game_result": "Win",
+      "game_score": "17-10",
+      "sacks": 2,
+      "interceptions": 1,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 10,
+      "fantasy_points": 8.0,
+      "player_type": "defense"
+    },
+    {
+      "position": "BN",
+      "lineup_status": "bench",
+      "name": "Miami Dolphins",
+      "nfl_team": "Miami Dolphins",
+      "game_result": "Loss",
+      "game_score": "17-45",
+      "sacks": 2,
+      "interceptions": 0,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 45,
+      "fantasy_points": -2.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 81.4
+  },
   "source": "html_scraping"
 }

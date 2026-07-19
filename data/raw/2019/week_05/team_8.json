@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Dak Prescott",
       "nfl_team": "DAL",
       "game_result": "Loss",
@@ -13,16 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 23.22,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "2555260"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Frank Gore",
       "nfl_team": "BUF",
       "game_result": "Win",
@@ -34,15 +33,14 @@
       "rushing_tds": 0,
       "receiving_yards": 9,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 6.9,
-      "lineup_status": "starter",
-      "player_id": "2506404"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Joe Mixon",
       "nfl_team": "CIN",
       "game_result": "Loss",
@@ -54,15 +52,14 @@
       "rushing_tds": 0,
       "receiving_yards": 16,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 10.9,
-      "lineup_status": "starter",
-      "player_id": "2557976"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Alshon Jeffery",
       "nfl_team": "PHI",
       "game_result": "Win",
@@ -74,15 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 52,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 5.2,
-      "lineup_status": "starter",
-      "player_id": "2533039"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Odell Beckham",
       "nfl_team": "CLE",
       "game_result": "Loss",
@@ -94,15 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 27,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 1,
       "fantasy_points": 3.0,
-      "lineup_status": "starter",
-      "player_id": "2543496"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "George Kittle",
       "nfl_team": "SF",
       "game_result": "Win",
@@ -114,16 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 70,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 14.8,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2558266"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "R/W/T",
+      "lineup_status": "starter",
       "name": "Damien Williams",
       "nfl_team": "KC",
       "game_result": "Loss",
@@ -135,15 +128,14 @@
       "rushing_tds": 0,
       "receiving_yards": 15,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 3.8,
-      "lineup_status": "starter",
-      "player_id": "2550512"
+      "player_type": "offense"
     },
     {
-      "position": "QB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Drew Brees",
       "nfl_team": "NO",
       "game_result": "Win",
@@ -155,15 +147,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2504775"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Larry Fitzgerald",
       "nfl_team": "ARI",
       "game_result": "Win",
@@ -175,15 +166,14 @@
       "rushing_tds": 0,
       "receiving_yards": 58,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 5.8,
-      "lineup_status": "starter",
-      "player_id": "2506106"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Sammy Watkins",
       "nfl_team": "KC",
       "game_result": "Loss",
@@ -195,15 +185,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2543457"
+      "player_type": "offense"
     },
     {
-      "position": "TE",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Eric Ebron",
       "nfl_team": "IND",
       "game_result": "Win",
@@ -215,15 +204,14 @@
       "rushing_tds": 0,
       "receiving_yards": 8,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.8,
-      "lineup_status": "starter",
-      "player_id": "2543466"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Devin Smith",
       "nfl_team": "DAL",
       "game_result": "Loss",
@@ -235,13 +223,66 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2553434"
+      "name": "Justin Tucker",
+      "nfl_team": "BAL",
+      "game_result": "Win",
+      "game_score": "26-23",
+      "fg_made": 4,
+      "fg_0_19": 0,
+      "fg_20_29": 2,
+      "fg_30_39": 0,
+      "fg_40_49": 2,
+      "fg_50_plus": 0,
+      "fantasy_points": 14.0,
+      "player_type": "kicker",
+      "pat_made": 2
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Houston Texans",
+      "nfl_team": "Houston Texans",
+      "game_result": "Win",
+      "game_score": "53-32",
+      "sacks": 2,
+      "interceptions": 1,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 1,
+      "points_allowed": 32,
+      "fantasy_points": 9.0,
+      "player_type": "defense"
+    },
+    {
+      "position": "BN",
+      "lineup_status": "bench",
+      "name": "Jacksonville Jaguars",
+      "nfl_team": "Jacksonville Jaguars",
+      "game_result": "Loss",
+      "game_score": "27-34",
+      "sacks": 3,
+      "interceptions": 0,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 28,
+      "fantasy_points": 2.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 90.82
+  },
   "source": "html_scraping"
 }

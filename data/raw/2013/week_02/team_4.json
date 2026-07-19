@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Matt Ryan",
       "nfl_team": "ATL",
       "game_result": "Win",
@@ -13,16 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 22.96,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "310"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Arian Foster",
       "nfl_team": "HOU",
       "game_result": "Win",
@@ -34,16 +33,14 @@
       "rushing_tds": 1,
       "receiving_yards": 6,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 1,
       "fumbles_lost": 0,
       "fantasy_points": 16.5,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "79555"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Knowshon Moreno",
       "nfl_team": "DEN",
       "game_result": "Win",
@@ -55,16 +52,14 @@
       "rushing_tds": 2,
       "receiving_yards": 14,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 22.7,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "79619"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Julio Jones",
       "nfl_team": "ATL",
       "game_result": "Win",
@@ -76,16 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 182,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 24.2,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2495454"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Antonio Brown",
       "nfl_team": "PIT",
       "game_result": "Loss",
@@ -97,15 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 57,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 5.7,
-      "lineup_status": "starter",
-      "player_id": "2508061"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Jimmy Graham",
       "nfl_team": "NO",
       "game_result": "Win",
@@ -117,16 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 179,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 23.9,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "497236"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "W/R",
+      "lineup_status": "starter",
       "name": "Tavon Austin",
       "nfl_team": "STL",
       "game_result": "Loss",
@@ -138,16 +128,14 @@
       "rushing_tds": 0,
       "receiving_yards": 47,
       "receiving_tds": 2,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 17.5,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "2539336"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Rashard Mendenhall",
       "nfl_team": "ARI",
       "game_result": "Win",
@@ -159,16 +147,14 @@
       "rushing_tds": 1,
       "receiving_yards": 28,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 15.4,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "939"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Da'Rel Scott",
       "nfl_team": "NYG",
       "game_result": "Loss",
@@ -180,16 +166,14 @@
       "rushing_tds": 0,
       "receiving_yards": 30,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 9.2,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2495227"
+      "player_type": "offense"
     },
     {
-      "position": "TE",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Jordan Cameron",
       "nfl_team": "CLE",
       "game_result": "Loss",
@@ -201,15 +185,14 @@
       "rushing_tds": 0,
       "receiving_yards": 95,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 9.5,
-      "lineup_status": "starter",
-      "player_id": "2495267"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Shane Vereen",
       "nfl_team": "NE",
       "game_result": "Win",
@@ -221,15 +204,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2495473"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Kendall Wright",
       "nfl_team": "TEN",
       "game_result": "Loss",
@@ -241,16 +223,14 @@
       "rushing_tds": 0,
       "receiving_yards": 54,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 11.4,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2532977"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Josh Gordon",
       "nfl_team": "CLE",
       "game_result": "Loss",
@@ -262,13 +242,50 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2537931"
+      "name": "Sebastian Janikowski",
+      "nfl_team": "LV",
+      "game_result": "Win",
+      "game_score": "19-9",
+      "fg_made": 4,
+      "fg_0_19": 0,
+      "fg_20_29": 2,
+      "fg_30_39": 1,
+      "fg_40_49": 1,
+      "fg_50_plus": 0,
+      "fantasy_points": 13.0,
+      "player_type": "kicker",
+      "pat_made": 1
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Denver Broncos",
+      "nfl_team": "Denver Broncos",
+      "game_result": "Win",
+      "game_score": "41-23",
+      "sacks": 1,
+      "interceptions": 4,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 23,
+      "fantasy_points": 15.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 161.46
+  },
   "source": "html_scraping"
 }

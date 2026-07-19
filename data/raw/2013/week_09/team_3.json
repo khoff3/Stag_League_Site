@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Russell Wilson",
       "nfl_team": "SEA",
       "game_result": "Win",
@@ -13,16 +14,14 @@
       "rushing_tds": 1,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 22.28,
-      "touchdowns": 3,
-      "lineup_status": "starter",
-      "player_id": "2532975"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Alfred Morris",
       "nfl_team": "WAS",
       "game_result": "Win",
@@ -34,16 +33,14 @@
       "rushing_tds": 1,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 18.1,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2533457"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Eddie Lacy",
       "nfl_team": "GB",
       "game_result": "Loss",
@@ -55,16 +52,14 @@
       "rushing_tds": 1,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 21.0,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2540168"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Dez Bryant",
       "nfl_team": "DAL",
       "game_result": "Win",
@@ -76,15 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 64,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 6.4,
-      "lineup_status": "starter",
-      "player_id": "497278"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Marvin Jones",
       "nfl_team": "CIN",
       "game_result": "Loss",
@@ -96,15 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 66,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 6.6,
-      "lineup_status": "starter",
-      "player_id": "2532884"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Antonio Gates",
       "nfl_team": "LAC",
       "game_result": "Loss",
@@ -116,15 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 53,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 5.3,
-      "lineup_status": "starter",
-      "player_id": "2505299"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "W/R",
+      "lineup_status": "starter",
       "name": "Kendall Wright",
       "nfl_team": "TEN",
       "game_result": "Win",
@@ -136,19 +128,16 @@
       "rushing_tds": 0,
       "receiving_yards": 69,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 6.9,
-      "lineup_status": "starter",
-      "player_id": "2532977"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Rashard Mendenhall",
       "nfl_team": "ARI",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -156,15 +145,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "939"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Eddie Royal",
       "nfl_team": "LAC",
       "game_result": "Loss",
@@ -176,16 +164,14 @@
       "rushing_tds": 0,
       "receiving_yards": 56,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 11.6,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "1990"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Shonn Greene",
       "nfl_team": "TEN",
       "game_result": "Win",
@@ -197,16 +183,14 @@
       "rushing_tds": 1,
       "receiving_yards": 28,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 12.6,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "79563"
+      "player_type": "offense"
     },
     {
-      "position": "QB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Alex Smith",
       "nfl_team": "KC",
       "game_result": "Win",
@@ -218,19 +202,16 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 5.66,
-      "lineup_status": "starter",
-      "player_id": "2506340"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Brandon Jacobs",
       "nfl_team": "NYG",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -238,15 +219,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2506448"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Vincent Brown",
       "nfl_team": "LAC",
       "game_result": "Loss",
@@ -258,13 +238,50 @@
       "rushing_tds": 0,
       "receiving_yards": 17,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 1.7,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2508115"
+      "name": "Steven Hauschka",
+      "nfl_team": "SEA",
+      "game_result": "Win",
+      "game_score": "27-24",
+      "fg_made": 2,
+      "fg_0_19": 0,
+      "fg_20_29": 1,
+      "fg_30_39": 1,
+      "fg_40_49": 0,
+      "fg_50_plus": 0,
+      "fantasy_points": 9.0,
+      "player_type": "kicker",
+      "pat_made": 3
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Indianapolis Colts",
+      "nfl_team": "Indianapolis Colts",
+      "game_result": "Win",
+      "game_score": "27-24",
+      "sacks": 1,
+      "interceptions": 0,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 24,
+      "fantasy_points": 1.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 96.58
+  },
   "source": "html_scraping"
 }

@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Matthew Stafford",
       "nfl_team": "DET",
       "game_result": "Loss",
@@ -13,16 +14,14 @@
       "rushing_tds": 1,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 1,
       "fantasy_points": 17.46,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "79860"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Jamaal Charles",
       "nfl_team": "KC",
       "game_result": "Loss",
@@ -34,16 +33,14 @@
       "rushing_tds": 1,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 22.5,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "925"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Bernard Pierce",
       "nfl_team": "BAL",
       "game_result": "Loss",
@@ -55,15 +52,14 @@
       "rushing_tds": 0,
       "receiving_yards": 11,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 6.4,
-      "lineup_status": "starter",
-      "player_id": "2533545"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Dwayne Bowe",
       "nfl_team": "KC",
       "game_result": "Loss",
@@ -75,15 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 70,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 7.0,
-      "lineup_status": "starter",
-      "player_id": "2495558"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Brandon Marshall",
       "nfl_team": "CHI",
       "game_result": "Loss",
@@ -95,16 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 160,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 22.0,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2495893"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Heath Miller",
       "nfl_team": "PIT",
       "game_result": "Loss",
@@ -116,15 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 66,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 6.6,
-      "lineup_status": "starter",
-      "player_id": "2506369"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "W/R",
+      "lineup_status": "starter",
       "name": "Steve Smith",
       "nfl_team": "CAR",
       "game_result": "Win",
@@ -136,19 +128,16 @@
       "rushing_tds": 0,
       "receiving_yards": 109,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 10.9,
-      "lineup_status": "starter",
-      "player_id": "2504595"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Danny Amendola",
       "nfl_team": "STL",
-      "game_result": "@BUF",
-      "status": "Sun 10:00 amGet Tickets",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -156,15 +145,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2649"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Andre Roberts",
       "nfl_team": "ARI",
       "game_result": "Loss",
@@ -176,15 +164,14 @@
       "rushing_tds": 0,
       "receiving_yards": 36,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 3.6,
-      "lineup_status": "starter",
-      "player_id": "497320"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Santana Moss",
       "nfl_team": "WAS",
       "game_result": "Win",
@@ -196,15 +183,14 @@
       "rushing_tds": 0,
       "receiving_yards": 52,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 5.2,
-      "lineup_status": "starter",
-      "player_id": "2504743"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Willis McGahee",
       "nfl_team": "DEN",
       "game_result": "Win",
@@ -216,15 +202,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2505674"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Darren Sproles",
       "nfl_team": "NO",
       "game_result": "Loss",
@@ -236,16 +221,14 @@
       "rushing_tds": 1,
       "receiving_yards": 28,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 20.4,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "2506467"
+      "player_type": "offense"
     },
     {
-      "position": "QB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Joe Flacco",
       "nfl_team": "BAL",
       "game_result": "Loss",
@@ -257,14 +240,50 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 1,
       "fantasy_points": 16.18,
-      "touchdowns": 3,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "382"
+      "name": "Lawrence Tynes",
+      "nfl_team": "NYG",
+      "game_result": "Win",
+      "game_score": "52-27",
+      "fg_made": 1,
+      "fg_0_19": 0,
+      "fg_20_29": 0,
+      "fg_30_39": 1,
+      "fg_40_49": 0,
+      "fg_50_plus": 0,
+      "fantasy_points": 10.0,
+      "player_type": "kicker",
+      "pat_made": 7
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Baltimore Ravens",
+      "nfl_team": "Baltimore Ravens",
+      "game_result": "Loss",
+      "game_score": "28-31",
+      "sacks": 3,
+      "interceptions": 0,
+      "fumble_recoveries": 1,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 31,
+      "fantasy_points": 4.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 106.86
+  },
   "source": "html_scraping"
 }

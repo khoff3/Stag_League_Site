@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Chad Henne",
       "nfl_team": "JAC",
       "game_result": "Win",
@@ -13,16 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 16.44,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "252"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Jalen Parmele",
       "nfl_team": "JAC",
       "game_result": "Win",
@@ -34,15 +33,14 @@
       "rushing_tds": 0,
       "receiving_yards": 7,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 5.2,
-      "lineup_status": "starter",
-      "player_id": "2643"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Adrian Peterson",
       "nfl_team": "MIN",
       "game_result": "Loss",
@@ -54,15 +52,14 @@
       "rushing_tds": 0,
       "receiving_yards": 30,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 1,
       "fantasy_points": 11.8,
-      "lineup_status": "starter",
-      "player_id": "2507164"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "A.J. Green",
       "nfl_team": "CIN",
       "game_result": "Win",
@@ -74,15 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 111,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 13.2,
-      "lineup_status": "starter",
-      "player_id": "2495450"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Wes Welker",
       "nfl_team": "NE",
       "game_result": "Win",
@@ -94,16 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 71,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 13.1,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2505790"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Aaron Hernandez",
       "nfl_team": "NE",
       "game_result": "Win",
@@ -115,15 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 36,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 3.6,
-      "lineup_status": "starter",
-      "player_id": "497244"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "W/R",
+      "lineup_status": "starter",
       "name": "Bryce Brown",
       "nfl_team": "PHI",
       "game_result": "Loss",
@@ -135,16 +128,14 @@
       "rushing_tds": 2,
       "receiving_yards": 11,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 2,
       "fantasy_points": 26.9,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "2534796"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Darren McFadden",
       "nfl_team": "LV",
       "game_result": "Loss",
@@ -156,15 +147,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "284"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Brian Hartline",
       "nfl_team": "MIA",
       "game_result": "Win",
@@ -176,15 +166,14 @@
       "rushing_tds": 0,
       "receiving_yards": 17,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 1.7,
-      "lineup_status": "starter",
-      "player_id": "81831"
+      "player_type": "offense"
     },
     {
-      "position": "TE",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Brandon Myers",
       "nfl_team": "LV",
       "game_result": "Loss",
@@ -196,19 +185,16 @@
       "rushing_tds": 0,
       "receiving_yards": 37,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 3.7,
-      "lineup_status": "starter",
-      "player_id": "89766"
+      "player_type": "offense"
     },
     {
-      "position": "QB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Sam Bradford",
       "nfl_team": "STL",
-      "game_result": "@ARI",
-      "status": "Sun 1:25 pmGet Tickets",
       "passing_yards": 205,
       "passing_tds": 2,
       "interceptions": 1,
@@ -216,16 +202,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 14.3,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "497095"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Toby Gerhart",
       "nfl_team": "MIN",
       "game_result": "Loss",
@@ -237,15 +221,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "497176"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Maurice Jones-Drew",
       "nfl_team": "JAC",
       "game_result": "Win",
@@ -257,13 +240,50 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2495831"
+      "name": "Stephen Gostkowski",
+      "nfl_team": "NE",
+      "game_result": "Win",
+      "game_score": "49-19",
+      "fg_made": 0,
+      "fg_0_19": 0,
+      "fg_20_29": 0,
+      "fg_30_39": 0,
+      "fg_40_49": 0,
+      "fg_50_plus": 0,
+      "fantasy_points": 7.0,
+      "player_type": "kicker",
+      "pat_made": 7
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Seattle Seahawks",
+      "nfl_team": "Seattle Seahawks",
+      "game_result": "Loss",
+      "game_score": "21-24",
+      "sacks": 1,
+      "interceptions": 1,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 24,
+      "fantasy_points": 9.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 106.24000000000001
+  },
   "source": "html_scraping"
 }

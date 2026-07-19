@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Andy Dalton",
       "nfl_team": "CIN",
       "game_result": "Win",
@@ -13,16 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 23.76,
-      "touchdowns": 4,
-      "lineup_status": "starter",
-      "player_id": "2495143"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "DeAngelo Williams",
       "nfl_team": "CAR",
       "game_result": "Loss",
@@ -34,19 +33,16 @@
       "rushing_tds": 0,
       "receiving_yards": 17,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.3,
-      "lineup_status": "starter",
-      "player_id": "2495979"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Frank Gore",
       "nfl_team": "SF",
-      "game_result": "LAR",
-      "status": "Sun 1:25 pmGet Tickets",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -54,20 +50,16 @@
       "rushing_tds": 1,
       "receiving_yards": 18,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 17.5,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2506404"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Michael Crabtree",
       "nfl_team": "SF",
-      "game_result": "LAR",
-      "status": "Sun 1:25 pmGet Tickets",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -75,16 +67,14 @@
       "rushing_tds": 0,
       "receiving_yards": 70,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 13.0,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "71269"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Calvin Johnson",
       "nfl_team": "DET",
       "game_result": "Loss",
@@ -96,16 +86,14 @@
       "rushing_tds": 0,
       "receiving_yards": 207,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 1,
       "fantasy_points": 24.7,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2495647"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Antonio Gates",
       "nfl_team": "LAC",
       "game_result": "Loss",
@@ -117,16 +105,14 @@
       "rushing_tds": 0,
       "receiving_yards": 57,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 11.7,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2505299"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "W/R",
+      "lineup_status": "starter",
       "name": "Ryan Broyles",
       "nfl_team": "DET",
       "game_result": "Loss",
@@ -138,15 +124,14 @@
       "rushing_tds": 0,
       "receiving_yards": 6,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.6,
-      "lineup_status": "starter",
-      "player_id": "2532807"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Steve Johnson",
       "nfl_team": "BUF",
       "game_result": "Loss",
@@ -158,15 +143,14 @@
       "rushing_tds": 0,
       "receiving_yards": 86,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 8.6,
-      "lineup_status": "starter",
-      "player_id": "768"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "DeMarco Murray",
       "nfl_team": "DAL",
       "game_result": "Win",
@@ -178,15 +162,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2495207"
+      "player_type": "offense"
     },
     {
-      "position": "TE",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Owen Daniels",
       "nfl_team": "HOU",
       "game_result": "Win",
@@ -198,15 +181,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2495825"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Brandon Lloyd",
       "nfl_team": "NE",
       "game_result": "Win",
@@ -218,15 +200,14 @@
       "rushing_tds": 0,
       "receiving_yards": 45,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.5,
-      "lineup_status": "starter",
-      "player_id": "2505600"
+      "player_type": "offense"
     },
     {
-      "position": "QB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Eli Manning",
       "nfl_team": "NYG",
       "game_result": "Loss",
@@ -238,13 +219,66 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 1,
       "fantasy_points": 2.7,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2505996"
+      "name": "Sebastian Janikowski",
+      "nfl_team": "LV",
+      "game_result": "Loss",
+      "game_score": "20-55",
+      "fg_made": 2,
+      "fg_0_19": 0,
+      "fg_20_29": 0,
+      "fg_30_39": 1,
+      "fg_40_49": 1,
+      "fg_50_plus": 0,
+      "fantasy_points": 8.0,
+      "player_type": "kicker",
+      "pat_made": 2
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Indianapolis Colts",
+      "nfl_team": "Indianapolis Colts",
+      "game_result": "Win",
+      "game_score": "27-10",
+      "sacks": 4,
+      "interceptions": 2,
+      "fumble_recoveries": 1,
+      "safeties": 0,
+      "def_tds": 1,
+      "points_allowed": 10,
+      "fantasy_points": 20.0,
+      "player_type": "defense"
+    },
+    {
+      "position": "BN",
+      "lineup_status": "bench",
+      "name": "Minnesota Vikings",
+      "nfl_team": "Minnesota Vikings",
+      "game_result": "Win",
+      "game_score": "34-24",
+      "sacks": 2,
+      "interceptions": 1,
+      "fumble_recoveries": 1,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 24,
+      "fantasy_points": 6.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 121.56
+  },
   "source": "html_scraping"
 }

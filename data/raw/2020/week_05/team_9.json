@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Kyler Murray",
       "nfl_team": "ARI Q",
       "game_result": "Win",
@@ -13,16 +14,14 @@
       "rushing_tds": 1,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 26.3,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "2562382"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Todd Gurley",
       "nfl_team": "ATL",
       "game_result": "Loss",
@@ -34,16 +33,14 @@
       "rushing_tds": 1,
       "receiving_yards": 29,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 21.0,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2552475"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Joe Mixon",
       "nfl_team": "CIN IR",
       "game_result": "Loss",
@@ -55,15 +52,14 @@
       "rushing_tds": 0,
       "receiving_yards": 35,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 9.4,
-      "lineup_status": "starter",
-      "player_id": "2557976"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "D.J. Moore",
       "nfl_team": "CAR",
       "game_result": "Win",
@@ -75,16 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 93,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 15.3,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2560813"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Diontae Johnson",
       "nfl_team": "PIT",
       "game_result": "Win",
@@ -96,15 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": -2,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
-      "fantasy_points": 0.2,
-      "lineup_status": "starter",
-      "player_id": "2562674"
+      "fantasy_points": -0.2,
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Zach Ertz",
       "nfl_team": "PHI",
       "game_result": "Loss",
@@ -116,15 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 6,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.6,
-      "lineup_status": "starter",
-      "player_id": "2540158"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "R/W/T",
+      "lineup_status": "starter",
       "name": "Darrell Henderson",
       "nfl_team": "LA IR",
       "game_result": "Win",
@@ -136,19 +128,15 @@
       "rushing_tds": 1,
       "receiving_yards": 30,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 18.8,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "2562574"
+      "player_type": "offense"
     },
     {
       "position": "BN",
+      "lineup_status": "bench",
       "name": "Devonta Freeman RB",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -156,20 +144,16 @@
       "rushing_tds": 1,
       "receiving_yards": 27,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 14.7,
-      "touchdowns": 1,
-      "lineup_status": "bench",
-      "player_id": "2543583"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Phillip Lindsay",
       "nfl_team": "DEN IR",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -177,15 +161,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2559947"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Justin Jackson",
       "nfl_team": "LAC",
       "game_result": "Loss",
@@ -197,19 +180,16 @@
       "rushing_tds": 0,
       "receiving_yards": 23,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 9.4,
-      "lineup_status": "starter",
-      "player_id": "2560756"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Davante Adams",
       "nfl_team": "GB",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -217,15 +197,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2543495"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Laviska Shenault Jr.",
       "nfl_team": "JAX",
       "game_result": "Loss",
@@ -237,19 +216,16 @@
       "rushing_tds": 0,
       "receiving_yards": 79,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 7.9,
-      "lineup_status": "starter",
-      "player_id": "2564232"
+      "player_type": "offense"
     },
     {
-      "position": "TE",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Noah Fant",
       "nfl_team": "DEN",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -257,13 +233,50 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2562383"
+      "name": "Justin Tucker",
+      "nfl_team": "BAL",
+      "game_result": "Win",
+      "game_score": "27-3",
+      "fg_made": 2,
+      "fg_0_19": 0,
+      "fg_20_29": 0,
+      "fg_30_39": 1,
+      "fg_40_49": 1,
+      "fg_50_plus": 0,
+      "fantasy_points": 9.0,
+      "player_type": "kicker",
+      "pat_made": 3
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Los Angeles Rams",
+      "nfl_team": "Los Angeles Rams",
+      "game_result": "Win",
+      "game_score": "30-10",
+      "sacks": 8,
+      "interceptions": 0,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 10,
+      "fantasy_points": 12.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 112.19999999999999
+  },
   "source": "html_scraping"
 }

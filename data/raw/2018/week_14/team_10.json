@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Kirk Cousins",
       "nfl_team": "MIN",
       "game_result": "Loss",
@@ -13,16 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 1,
       "fantasy_points": 10.82,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2532820"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Tarik Cohen",
       "nfl_team": "CHI",
       "game_result": "Win",
@@ -34,15 +33,14 @@
       "rushing_tds": 0,
       "receiving_yards": 20,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 8.9,
-      "lineup_status": "starter",
-      "player_id": "2558250"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Saquon Barkley",
       "nfl_team": "NYG",
       "game_result": "Win",
@@ -54,16 +52,14 @@
       "rushing_tds": 1,
       "receiving_yards": 27,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 25.7,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2560968"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "T.Y. Hilton",
       "nfl_team": "IND",
       "game_result": "Win",
@@ -75,15 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 199,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 19.9,
-      "lineup_status": "starter",
-      "player_id": "2532865"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Robert Woods",
       "nfl_team": "LA",
       "game_result": "Loss",
@@ -95,15 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 61,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 6.1,
-      "lineup_status": "starter",
-      "player_id": "2540169"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Trey Burton",
       "nfl_team": "CHI",
       "game_result": "Win",
@@ -115,15 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 22,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.2,
-      "lineup_status": "starter",
-      "player_id": "2550284"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "R/W/T",
+      "lineup_status": "starter",
       "name": "T.J. Yeldon",
       "nfl_team": "JAX",
       "game_result": "Loss",
@@ -135,15 +128,14 @@
       "rushing_tds": 0,
       "receiving_yards": 10,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 1.7,
-      "lineup_status": "starter",
-      "player_id": "2552471"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Danny Amendola",
       "nfl_team": "MIA",
       "game_result": "Win",
@@ -155,15 +147,14 @@
       "rushing_tds": 0,
       "receiving_yards": 10,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 1.0,
-      "lineup_status": "starter",
-      "player_id": "2649"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Golden Tate",
       "nfl_team": "PHI",
       "game_result": "Loss",
@@ -175,35 +166,14 @@
       "rushing_tds": 0,
       "receiving_yards": 7,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.7,
-      "lineup_status": "starter",
-      "player_id": "497326"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
-      "name": "Allen Robinson",
-      "nfl_team": "CHI",
-      "game_result": "Win",
-      "game_score": "15-6",
-      "passing_yards": 0,
-      "passing_tds": 0,
-      "interceptions": 0,
-      "rushing_yards": 0,
-      "rushing_tds": 0,
-      "receiving_yards": 42,
-      "receiving_tds": 0,
-      "fumble_tds": 0,
-      "two_point_conversions": 0,
-      "fumbles_lost": 0,
-      "fantasy_points": 4.2,
-      "lineup_status": "starter",
-      "player_id": "2543509"
-    },
-    {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Mike Davis",
       "nfl_team": "SEA",
       "game_result": "Win",
@@ -215,15 +185,14 @@
       "rushing_tds": 0,
       "receiving_yards": 5,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.7,
-      "lineup_status": "starter",
-      "player_id": "2553439"
+      "player_type": "offense"
     },
     {
-      "position": "QB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Mitchell Trubisky",
       "nfl_team": "CHI",
       "game_result": "Win",
@@ -235,16 +204,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.7,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2558008"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Derrick Henry",
       "nfl_team": "TEN",
       "game_result": "Win",
@@ -256,14 +223,69 @@
       "rushing_tds": 4,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 47.8,
-      "touchdowns": 4,
+      "player_type": "offense"
+    },
+    {
+      "position": "BN",
+      "lineup_status": "bench",
+      "name": "Allen Robinson",
+      "nfl_team": "CHI",
+      "game_result": "Win",
+      "game_score": "15-6",
+      "passing_yards": 0,
+      "passing_tds": 0,
+      "interceptions": 0,
+      "rushing_yards": 0,
+      "rushing_tds": 0,
+      "receiving_yards": 42,
+      "receiving_tds": 0,
+      "two_point_conversions": 0,
+      "fumbles_lost": 0,
+      "fantasy_points": 4.2,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2556075"
+      "name": "Sebastian Janikowski",
+      "nfl_team": "SEA",
+      "game_result": "Win",
+      "game_score": "21-7",
+      "fg_made": 2,
+      "fg_0_19": 0,
+      "fg_20_29": 0,
+      "fg_30_39": 2,
+      "fg_40_49": 0,
+      "fg_50_plus": 0,
+      "fantasy_points": 7.0,
+      "player_type": "kicker",
+      "pat_made": 1
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Chicago Bears",
+      "nfl_team": "Chicago Bears",
+      "game_result": "Win",
+      "game_score": "15-6",
+      "sacks": 3,
+      "interceptions": 4,
+      "fumble_recoveries": 0,
+      "safeties": 1,
+      "def_tds": 0,
+      "points_allowed": 6,
+      "fantasy_points": 20.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 102.32
+  },
   "source": "html_scraping"
 }

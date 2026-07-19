@@ -251,14 +251,15 @@
       "nfl_team": "TB",
       "game_result": "Win",
       "game_score": "31-29",
-      "fg_made": 4,
+      "fg_made": 1,
       "fg_0_19": 0,
       "fg_20_29": 0,
       "fg_30_39": 1,
       "fg_40_49": 0,
       "fg_50_plus": 0,
       "fantasy_points": 7.0,
-      "player_type": "kicker"
+      "player_type": "kicker",
+      "pat_made": 4
     },
     {
       "position": "DEF",

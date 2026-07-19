@@ -254,14 +254,15 @@
       "nfl_team": "NE",
       "game_result": "Win",
       "game_score": "23-21",
-      "fg_made": 2,
+      "fg_made": 3,
       "fg_0_19": 0,
       "fg_20_29": 0,
       "fg_30_39": 2,
       "fg_40_49": 1,
       "fg_50_plus": 0,
       "fantasy_points": 11.0,
-      "player_type": "kicker"
+      "player_type": "kicker",
+      "pat_made": 2
     },
     {
       "position": "DEF",

@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Peyton Manning",
       "nfl_team": "DEN",
       "game_result": "Win",
@@ -13,16 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 22.06,
-      "touchdowns": 3,
-      "lineup_status": "starter",
-      "player_id": "2501863"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "C.J. Spiller",
       "nfl_team": "BUF",
       "game_result": "Win",
@@ -34,16 +33,14 @@
       "rushing_tds": 1,
       "receiving_yards": 22,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 17.0,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "497204"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Marshawn Lynch",
       "nfl_team": "SEA",
       "game_result": "Win",
@@ -55,15 +52,14 @@
       "rushing_tds": 0,
       "receiving_yards": 11,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 5.2,
-      "lineup_status": "starter",
-      "player_id": "2495663"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Torrey Smith",
       "nfl_team": "BAL",
       "game_result": "Win",
@@ -75,16 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 24,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 8.4,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2495459"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Roddy White",
       "nfl_team": "ATL",
       "game_result": "Win",
@@ -96,16 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 72,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 13.2,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2506366"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Vernon Davis",
       "nfl_team": "SF",
       "game_result": "Loss",
@@ -117,15 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 37,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 3.7,
-      "lineup_status": "starter",
-      "player_id": "2495826"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "W/R",
+      "lineup_status": "starter",
       "name": "Vincent Jackson",
       "nfl_team": "TB",
       "game_result": "Win",
@@ -137,16 +128,14 @@
       "rushing_tds": 0,
       "receiving_yards": 66,
       "receiving_tds": 2,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 18.6,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "2506400"
+      "player_type": "offense"
     },
     {
-      "position": "QB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Christian Ponder",
       "nfl_team": "MIN",
       "game_result": "Loss",
@@ -158,16 +147,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 1,
       "fumbles_lost": 1,
       "fantasy_points": 19.38,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "2495215"
+      "player_type": "offense"
     },
     {
-      "position": "TE",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Kyle Rudolph",
       "nfl_team": "MIN",
       "game_result": "Loss",
@@ -179,16 +166,14 @@
       "rushing_tds": 0,
       "receiving_yards": 56,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 1,
       "fumbles_lost": 0,
       "fantasy_points": 13.6,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2495438"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Sidney Rice",
       "nfl_team": "SEA",
       "game_result": "Win",
@@ -200,20 +185,16 @@
       "rushing_tds": 0,
       "receiving_yards": 81,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 14.1,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2495718"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Lance Moore",
       "nfl_team": "NO",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -221,19 +202,16 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2506287"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Michael Bush",
       "nfl_team": "CHI",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -241,19 +219,16 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2507192"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Justin Blackmon",
       "nfl_team": "JAC",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -261,13 +236,50 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2533038"
+      "name": "Mason Crosby",
+      "nfl_team": "GB",
+      "game_result": "Win",
+      "game_score": "42-24",
+      "fg_made": 0,
+      "fg_0_19": 0,
+      "fg_20_29": 0,
+      "fg_30_39": 0,
+      "fg_40_49": 0,
+      "fg_50_plus": 0,
+      "fantasy_points": 6.0,
+      "player_type": "kicker",
+      "pat_made": 6
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Tampa Bay Buccaneers",
+      "nfl_team": "Tampa Bay Buccaneers",
+      "game_result": "Win",
+      "game_score": "38-10",
+      "sacks": 0,
+      "interceptions": 2,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 1,
+      "points_allowed": 10,
+      "fantasy_points": 14.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 108.16
+  },
   "source": "html_scraping"
 }

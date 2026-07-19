@@ -251,14 +251,15 @@
       "nfl_team": "ATL",
       "game_result": "Loss",
       "game_score": "27-31",
-      "fg_made": 3,
+      "fg_made": 2,
       "fg_0_19": 0,
       "fg_20_29": 0,
       "fg_30_39": 1,
       "fg_40_49": 0,
       "fg_50_plus": 1,
       "fantasy_points": 11.0,
-      "player_type": "kicker"
+      "player_type": "kicker",
+      "pat_made": 3
     },
     {
       "position": "DEF",

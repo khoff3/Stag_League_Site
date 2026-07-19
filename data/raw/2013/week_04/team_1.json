@@ -2,10 +2,9 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Colin Kaepernick",
       "nfl_team": "SF",
-      "game_result": "@LAR",
-      "status": "Thu 5:25 pmGet Tickets",
       "passing_yards": 167,
       "passing_tds": 2,
       "interceptions": 0,
@@ -13,16 +12,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 1,
       "fantasy_points": 13.78,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "2495186"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "LeSean McCoy",
       "nfl_team": "PHI",
       "game_result": "Loss",
@@ -34,15 +31,14 @@
       "rushing_tds": 0,
       "receiving_yards": 21,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 9.4,
-      "lineup_status": "starter",
-      "player_id": "79607"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Jason Snelling",
       "nfl_team": "ATL",
       "game_result": "Loss",
@@ -54,15 +50,14 @@
       "rushing_tds": 0,
       "receiving_yards": 8,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 3.4,
-      "lineup_status": "starter",
-      "player_id": "2495744"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Steve Johnson",
       "nfl_team": "BUF",
       "game_result": "Win",
@@ -74,15 +69,14 @@
       "rushing_tds": 0,
       "receiving_yards": -1,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
-      "fantasy_points": 0.1,
-      "lineup_status": "starter",
-      "player_id": "768"
+      "fantasy_points": -0.1,
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Andre Johnson",
       "nfl_team": "HOU",
       "game_result": "Loss",
@@ -94,19 +88,16 @@
       "rushing_tds": 0,
       "receiving_yards": 110,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 11.0,
-      "lineup_status": "starter",
-      "player_id": "2505551"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Jared Cook",
       "nfl_team": "STL",
-      "game_result": "SF",
-      "status": "Thu 5:25 pmGet Tickets",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -114,15 +105,14 @@
       "rushing_tds": 0,
       "receiving_yards": 45,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.5,
-      "lineup_status": "starter",
-      "player_id": "71265"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "W/R",
+      "lineup_status": "starter",
       "name": "Danny Woodhead",
       "nfl_team": "LAC",
       "game_result": "Win",
@@ -134,16 +124,14 @@
       "rushing_tds": 0,
       "receiving_yards": 54,
       "receiving_tds": 2,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 20.6,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "4327"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Ryan Mathews",
       "nfl_team": "LAC",
       "game_result": "Win",
@@ -155,15 +143,14 @@
       "rushing_tds": 0,
       "receiving_yards": 41,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 10.3,
-      "lineup_status": "starter",
-      "player_id": "497188"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Emmanuel Sanders",
       "nfl_team": "PIT",
       "game_result": "Loss",
@@ -175,19 +162,16 @@
       "rushing_tds": 0,
       "receiving_yards": 57,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 5.7,
-      "lineup_status": "starter",
-      "player_id": "497322"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Randall Cobb",
       "nfl_team": "GB",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -195,15 +179,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2495448"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Willis McGahee",
       "nfl_team": "CLE",
       "game_result": "Win",
@@ -215,15 +198,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.6,
-      "lineup_status": "starter",
-      "player_id": "2505674"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Steven Jackson",
       "nfl_team": "ATL",
       "game_result": "Loss",
@@ -235,15 +217,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2505936"
+      "player_type": "offense"
     },
     {
-      "position": "QB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Philip Rivers",
       "nfl_team": "LAC",
       "game_result": "Win",
@@ -255,14 +236,50 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 26.04,
-      "touchdowns": 3,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2506121"
+      "name": "Stephen Gostkowski",
+      "nfl_team": "NE",
+      "game_result": "Win",
+      "game_score": "30-23",
+      "fg_made": 3,
+      "fg_0_19": 0,
+      "fg_20_29": 1,
+      "fg_30_39": 0,
+      "fg_40_49": 2,
+      "fg_50_plus": 0,
+      "fantasy_points": 12.0,
+      "player_type": "kicker",
+      "pat_made": 3
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Seattle Seahawks",
+      "nfl_team": "Seattle Seahawks",
+      "game_result": "Win",
+      "game_score": "23-20",
+      "sacks": 4,
+      "interceptions": 2,
+      "fumble_recoveries": 1,
+      "safeties": 0,
+      "def_tds": 1,
+      "points_allowed": 20,
+      "fantasy_points": 17.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 91.58
+  },
   "source": "html_scraping"
 }

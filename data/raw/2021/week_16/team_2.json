@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Ryan Tannehill",
       "nfl_team": "TEN",
       "game_result": "Win",
@@ -13,16 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 14.56,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2532956"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Ronald Jones",
       "nfl_team": "KC Q",
       "game_result": "Win",
@@ -34,16 +33,14 @@
       "rushing_tds": 1,
       "receiving_yards": 16,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 14.1,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2560770"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Darrell Henderson",
       "nfl_team": "LA",
       "game_result": "Win",
@@ -55,15 +52,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 1.7,
-      "lineup_status": "starter",
-      "player_id": "2562574"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Deebo Samuel",
       "nfl_team": "SF",
       "game_result": "Loss",
@@ -75,15 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 159,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 19.1,
-      "lineup_status": "starter",
-      "player_id": "2562721"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Marquez Callaway",
       "nfl_team": "NO",
       "game_result": "Loss",
@@ -95,15 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 46,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.6,
-      "lineup_status": "starter",
-      "player_id": "2565310"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Dawson Knox",
       "nfl_team": "BUF",
       "game_result": "Win",
@@ -115,16 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 11,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 7.1,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2562681"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "R/W/T",
+      "lineup_status": "starter",
       "name": "Tim Patrick",
       "nfl_team": "DEN",
       "game_result": "Loss",
@@ -136,15 +128,14 @@
       "rushing_tds": 0,
       "receiving_yards": 18,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 1.8,
-      "lineup_status": "starter",
-      "player_id": "2558985"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Dalvin Cook",
       "nfl_team": "MIN",
       "game_result": "Loss",
@@ -156,15 +147,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2557991"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Boston Scott",
       "nfl_team": "PHI",
       "game_result": "Win",
@@ -176,36 +166,14 @@
       "rushing_tds": 1,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 10.1,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2561146"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
-      "name": "Gabriel Davis",
-      "nfl_team": "BUF",
-      "game_result": "Win",
-      "game_score": "33-21",
-      "passing_yards": 0,
-      "passing_tds": 0,
-      "interceptions": 0,
-      "rushing_yards": 0,
-      "rushing_tds": 0,
-      "receiving_yards": 0,
-      "receiving_tds": 0,
-      "fumble_tds": 0,
-      "two_point_conversions": 0,
-      "fumbles_lost": 0,
-      "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2563602"
-    },
-    {
-      "position": "QB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Tua Tagovailoa",
       "nfl_team": "MIA",
       "game_result": "Win",
@@ -217,16 +185,33 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 10.02,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2564499"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
+      "name": "Gabriel Davis",
+      "nfl_team": "BUF",
+      "game_result": "Win",
+      "game_score": "33-21",
+      "passing_yards": 0,
+      "passing_tds": 0,
+      "interceptions": 0,
+      "rushing_yards": 0,
+      "rushing_tds": 0,
+      "receiving_yards": 0,
+      "receiving_tds": 0,
+      "two_point_conversions": 0,
+      "fumbles_lost": 0,
+      "fantasy_points": 0.0,
+      "player_type": "offense"
+    },
+    {
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Mike Williams",
       "nfl_team": "LAC",
       "game_result": "Loss",
@@ -238,15 +223,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2558846"
+      "player_type": "offense"
     },
     {
-      "position": "TE",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Pat Freiermuth",
       "nfl_team": "PIT",
       "game_result": "Loss",
@@ -258,13 +242,50 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2566442"
+      "name": "Matt Prater",
+      "nfl_team": "ARI",
+      "game_result": "Loss",
+      "game_score": "16-22",
+      "fg_made": 1,
+      "fg_0_19": 0,
+      "fg_20_29": 1,
+      "fg_30_39": 0,
+      "fg_40_49": 0,
+      "fg_50_plus": 0,
+      "fantasy_points": 4.0,
+      "player_type": "kicker",
+      "pat_made": 1
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Los Angeles Rams",
+      "nfl_team": "Los Angeles Rams",
+      "game_result": "Win",
+      "game_score": "30-23",
+      "sacks": 3,
+      "interceptions": 1,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 23,
+      "fantasy_points": 11.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 77.96000000000001
+  },
   "source": "html_scraping"
 }

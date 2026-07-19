@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Joe Flacco",
       "nfl_team": "BAL",
       "game_result": "Win",
@@ -13,15 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 6.88,
-      "lineup_status": "starter",
-      "player_id": "382"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Jamaal Charles",
       "nfl_team": "KC",
       "game_result": "Loss",
@@ -33,15 +33,14 @@
       "rushing_tds": 0,
       "receiving_yards": 21,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 16.1,
-      "lineup_status": "starter",
-      "player_id": "925"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Willis McGahee",
       "nfl_team": "DEN",
       "game_result": "Loss",
@@ -53,19 +52,16 @@
       "rushing_tds": 0,
       "receiving_yards": 51,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 1,
       "fantasy_points": 8.2,
-      "lineup_status": "starter",
-      "player_id": "2505674"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Danny Amendola",
       "nfl_team": "STL",
-      "game_result": "ARI",
-      "status": "Thu 5:20 pmGet Tickets",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -73,15 +69,14 @@
       "rushing_tds": 0,
       "receiving_yards": 44,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.4,
-      "lineup_status": "starter",
-      "player_id": "2649"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Brandon Marshall",
       "nfl_team": "CHI",
       "game_result": "Win",
@@ -93,16 +88,14 @@
       "rushing_tds": 0,
       "receiving_yards": 144,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 20.4,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2495893"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Heath Miller",
       "nfl_team": "PIT",
       "game_result": "Win",
@@ -114,15 +107,14 @@
       "rushing_tds": 0,
       "receiving_yards": 41,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.1,
-      "lineup_status": "starter",
-      "player_id": "2506369"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "W/R",
+      "lineup_status": "starter",
       "name": "Dwayne Bowe",
       "nfl_team": "KC",
       "game_result": "Loss",
@@ -134,19 +126,16 @@
       "rushing_tds": 0,
       "receiving_yards": 60,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 6.0,
-      "lineup_status": "starter",
-      "player_id": "2495558"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Andre Roberts",
       "nfl_team": "ARI",
-      "game_result": "@LAR",
-      "status": "Thu 5:20 pmGet Tickets",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -154,15 +143,14 @@
       "rushing_tds": 0,
       "receiving_yards": 39,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.2,
-      "lineup_status": "starter",
-      "player_id": "497320"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Steve Smith",
       "nfl_team": "CAR",
       "game_result": "Loss",
@@ -174,15 +162,14 @@
       "rushing_tds": 0,
       "receiving_yards": 40,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.0,
-      "lineup_status": "starter",
-      "player_id": "2504595"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Darren Sproles",
       "nfl_team": "NO",
       "game_result": "Win",
@@ -194,15 +181,14 @@
       "rushing_tds": 0,
       "receiving_yards": 28,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 3.7,
-      "lineup_status": "starter",
-      "player_id": "2506467"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Jackie Battle",
       "nfl_team": "LAC",
       "game_result": "Loss",
@@ -214,15 +200,14 @@
       "rushing_tds": 0,
       "receiving_yards": 7,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 1.7,
-      "lineup_status": "starter",
-      "player_id": "2507278"
+      "player_type": "offense"
     },
     {
-      "position": "TE",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Coby Fleener",
       "nfl_team": "IND",
       "game_result": "Win",
@@ -234,19 +219,16 @@
       "rushing_tds": 0,
       "receiving_yards": 41,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.1,
-      "lineup_status": "starter",
-      "player_id": "2532838"
+      "player_type": "offense"
     },
     {
-      "position": "QB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Matthew Stafford",
       "nfl_team": "DET",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -254,13 +236,50 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "79860"
+      "name": "Matt Bryant",
+      "nfl_team": "ATL",
+      "game_result": "Win",
+      "game_score": "24-17",
+      "fg_made": 1,
+      "fg_0_19": 0,
+      "fg_20_29": 0,
+      "fg_30_39": 0,
+      "fg_40_49": 0,
+      "fg_50_plus": 1,
+      "fantasy_points": 8.0,
+      "player_type": "kicker",
+      "pat_made": 3
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Baltimore Ravens",
+      "nfl_team": "Baltimore Ravens",
+      "game_result": "Win",
+      "game_score": "9-6",
+      "sacks": 0,
+      "interceptions": 2,
+      "fumble_recoveries": 2,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 6,
+      "fantasy_points": 15.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 89.08
+  },
   "source": "html_scraping"
 }

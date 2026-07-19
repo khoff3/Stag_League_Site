@@ -1,0 +1,177 @@
+season,team_id,place,record,points_for,points_against,postseason_rank,postseason_label,playoff_bracket,mediocre_bowl_total
+2011,2,1,11-3-0,1550.06,1184.8,1,Champion,championship_bracket,0.0
+2011,5,2,9-5-0,1383.3399999999997,1329.1599999999999,2,Runner Up,championship_bracket,0.0
+2011,1,3,9-5-0,1332.04,1247.02,4,Fourth Place,championship_bracket,0.0
+2011,6,4,8-6-0,1451.78,1401.32,3,Third Place,championship_bracket,0.0
+2011,9,5,8-6-0,1390.8,1284.5,5,Fifth Place,championship_bracket,0.0
+2011,10,6,8-6-0,1239.56,1360.42,6,Sixth Place,championship_bracket,0.0
+2011,7,7,6-8-0,1358.1799999999998,1308.6799999999998,7,Seventh Place,toilet_bowl,0.0
+2011,3,8,5-9-0,1203.48,1295.52,8,Eighth Place,toilet_bowl,0.0
+2011,8,9,4-10-0,1028.8000000000002,1297.56,9,Ninth Place,toilet_bowl,0.0
+2011,4,10,2-12-0,1151.48,1380.54,10,Tenth Place,toilet_bowl,0.0
+2012,4,1,9-5-0,1403.6800000000003,1259.26,2,Runner Up,championship_bracket,0.0
+2012,11,2,9-5-0,1390.98,1301.9,1,Champion,championship_bracket,0.0
+2012,10,3,9-5-0,1284.16,1208.14,3,Third Place,championship_bracket,0.0
+2012,1,4,8-6-0,1326.1800000000003,1246.6,4,Fourth Place,championship_bracket,0.0
+2012,6,5,8-6-0,1242.34,1205.6399999999999,7,Seventh Place,consolation,0.0
+2012,12,6,8-6-0,1229.0800000000002,1195.6999999999998,8,Eighth Place,consolation,0.0
+2012,8,7,8-6-0,1183.66,1243.7800000000002,9,Ninth Place,consolation,0.0
+2012,5,8,7-7-0,1379.78,1288.24,12,Twelfth Place,consolation,0.0
+2012,3,9,7-7-0,1284.14,1279.8,10,Tenth Place,consolation,0.0
+2012,9,10,7-7-0,1259.48,1264.3799999999999,11,Eleventh Place,consolation,0.0
+2012,7,11,3-11-0,1117.2,1374.82,,,none,0.0
+2012,2,12,1-13-0,1120.48,1352.9,,,none,0.0
+2013,2,1,12-2-0,1446.42,1241.92,1,Champion,championship_bracket,0.0
+2013,1,2,7-7-0,1424.7000000000003,1274.76,2,Runner Up,championship_bracket,0.0
+2013,4,3,11-3-0,1582.7400000000002,1227.3,3,Third Place,championship_bracket,0.0
+2013,5,4,8-6-0,1205.54,1184.4200000000003,4,Fourth Place,championship_bracket,0.0
+2013,6,5,7-7-0,1217.0000000000002,1325.1,5,Fifth Place,mediocre_bowl,198.32
+2013,11,6,6-8-0,1176.0000000000002,1380.68,6,Sixth Place,mediocre_bowl,182.44
+2013,7,7,6-8-0,1397.9600000000003,1401.6599999999999,7,Seventh Place,toilet_bowl,0.0
+2013,8,8,7-7-0,1317.18,1307.2,8,Eighth Place,toilet_bowl,0.0
+2013,3,9,6-8-0,1269.3200000000002,1369.7,9,Ninth Place,toilet_bowl,0.0
+2013,9,10,6-8-0,1169.6399999999999,1264.42,10,Tenth Place,toilet_bowl,0.0
+2013,10,11,4-10-0,1192.9199999999998,1308.1000000000001,11,Eleventh Place,toilet_bowl,0.0
+2013,12,12,4-10-0,1233.36,1347.5200000000002,12,Twelfth Place,toilet_bowl,0.0
+2014,10,1,10-4-0,1409.4,1324.6,3,Third Place,championship_bracket,0.0
+2014,3,2,9-5-0,1290.42,1237.86,4,Fourth Place,championship_bracket,0.0
+2014,1,3,8-6-0,1399.6399999999999,1307.76,1,Champion,championship_bracket,0.0
+2014,5,4,8-6-0,1376.4,1195.3799999999999,2,Runner Up,championship_bracket,0.0
+2014,6,5,7-7-0,1342.48,1314.3600000000001,7,Seventh Place,toilet_bowl,0.0
+2014,7,6,7-7-0,1297.98,1319.14,5,Fifth Place,mediocre_bowl,202.48
+2014,9,7,7-7-0,1256.1,1264.2799999999997,6,Sixth Place,mediocre_bowl,171.72
+2014,11,8,7-7-0,1179.6,1324.9399999999998,8,Eighth Place,toilet_bowl,0.0
+2014,8,9,6-8-0,1327.32,1381.0,10,Tenth Place,toilet_bowl,0.0
+2014,4,10,6-8-0,1266.0,1277.8000000000002,9,Ninth Place,toilet_bowl,0.0
+2014,2,11,5-9-0,1244.4,1257.6200000000001,11,Eleventh Place,toilet_bowl,0.0
+2014,12,12,4-10-0,1184.8200000000002,1369.8199999999997,12,Twelfth Place,toilet_bowl,0.0
+2015,1,1,12-2-0,1552.18,1214.88,3,Third Place,championship_bracket,0.0
+2015,6,2,10-4-0,1338.6799999999996,1220.88,2,Runner Up,championship_bracket,0.0
+2015,5,3,9-5-0,1399.5800000000004,1192.2,4,Fourth Place,championship_bracket,0.0
+2015,3,4,9-5-0,1369.26,1218.7599999999998,1,Champion,championship_bracket,0.0
+2015,7,5,9-5-0,1278.96,1135.8600000000001,5,Fifth Place,mediocre_bowl,228.0
+2015,2,6,8-6-0,1231.04,1317.4600000000003,7,Seventh Place,toilet_bowl,0.0
+2015,9,7,7-7-0,1199.58,1248.7600000000002,8,Eighth Place,toilet_bowl,0.0
+2015,10,8,6-8-0,1131.7600000000002,1193.52,6,Sixth Place,mediocre_bowl,171.57999999999998
+2015,11,9,5-9-0,1201.44,1285.2200000000003,9,Ninth Place,toilet_bowl,0.0
+2015,8,10,4-10-0,1185.5,1256.26,10,Tenth Place,toilet_bowl,0.0
+2015,4,11,3-11-0,1176.2400000000002,1427.44,11,Eleventh Place,toilet_bowl,0.0
+2015,12,12,2-12-0,989.16,1342.1400000000003,12,Twelfth Place,toilet_bowl,0.0
+2016,6,1,9-4-0,1355.3600000000001,1169.6999999999998,4,Fourth Place,championship_bracket,0.0
+2016,3,2,9-5-0,1274.9,1169.76,2,Runner Up,championship_bracket,0.0
+2016,11,3,8-6-0,1449.0799999999997,1345.4600000000003,1,Champion,championship_bracket,0.0
+2016,2,4,8-5-0,1362.42,1124.64,3,Third Place,championship_bracket,0.0
+2016,5,5,7-7-0,1190.36,1263.92,,,none,0.0
+2016,12,6,7-7-0,1188.8400000000001,1276.88,8,Eighth Place,toilet_bowl,0.0
+2016,1,7,7-7-0,1144.0000000000002,1210.82,7,Seventh Place,toilet_bowl,0.0
+2016,7,8,7-7-0,1079.88,1237.6799999999998,,,none,0.0
+2016,4,9,6-8-0,1301.58,1259.7200000000003,9,Ninth Place,toilet_bowl,0.0
+2016,8,10,6-8-0,1153.22,1180.9199999999998,10,Tenth Place,toilet_bowl,0.0
+2016,9,11,4-9-0,1140.78,1250.1999999999998,12,Twelfth Place,toilet_bowl,0.0
+2016,10,12,4-9-0,1102.24,1252.96,11,Eleventh Place,toilet_bowl,0.0
+2017,5,1,10-4-0,1482.7800000000004,1253.94,4,Fourth Place,championship_bracket,0.0
+2017,6,2,10-4-0,1469.02,1205.22,3,Third Place,championship_bracket,0.0
+2017,12,3,10-4-0,1276.74,1164.6000000000001,2,Runner Up,championship_bracket,0.0
+2017,7,4,9-5-0,1365.86,1392.28,1,Champion,championship_bracket,0.0
+2017,1,5,7-7-0,1175.28,1257.4999999999998,6,Sixth Place,mediocre_bowl,59.76
+2017,3,6,6-8-0,1267.98,1214.26,5,Fifth Place,mediocre_bowl,60.36
+2017,8,7,6-8-0,1261.1399999999999,1361.9999999999998,9,Ninth Place,toilet_bowl,0.0
+2017,11,8,5-9-0,1165.16,1179.2,7,Seventh Place,toilet_bowl,0.0
+2017,9,9,4-10-0,1173.0200000000002,1330.28,10,Tenth Place,toilet_bowl,0.0
+2017,2,10,3-11-0,1118.8400000000001,1396.5400000000002,8,Eighth Place,toilet_bowl,0.0
+2018,5,1,12-1-0,1429.84,1175.7,2,Runner Up,championship_bracket,0.0
+2018,9,2,10-3-0,1334.6,1252.9800000000002,1,Champion,championship_bracket,0.0
+2018,4,3,8-5-0,1333.86,1213.92,6,Sixth Place,championship_bracket,0.0
+2018,1,4,7-6-0,1336.8200000000002,1245.0000000000002,3,Third Place,championship_bracket,0.0
+2018,11,5,7-6-0,1291.2000000000003,1201.84,5,Fifth Place,championship_bracket,0.0
+2018,3,6,6-7-0,1341.3,1370.1000000000001,4,Fourth Place,championship_bracket,0.0
+2018,10,7,6-7-0,1339.8999999999999,1202.22,7,Seventh Place,mediocre_bowl,376.96000000000004
+2018,6,8,6-7-0,1221.64,1284.96,8,Eighth Place,mediocre_bowl,196.85999999999999
+2018,7,9,5-8-0,1211.36,1304.8600000000001,9,Ninth Place,toilet_bowl,0.0
+2018,2,10,4-9-0,1305.06,1378.8999999999999,10,Tenth Place,toilet_bowl,0.0
+2018,8,11,4-9-0,1077.4199999999998,1288.9599999999998,11,Eleventh Place,toilet_bowl,0.0
+2018,12,12,3-10-0,1152.0600000000002,1455.62,12,Twelfth Place,toilet_bowl,0.0
+2019,5,1,11-2-0,1305.12,1134.3799999999999,1,Champion,championship_bracket,0.0
+2019,12,2,10-3-0,1315.42,1143.46,2,Runner Up,championship_bracket,0.0
+2019,2,3,9-4-0,1237.6200000000001,1103.66,4,Fourth Place,championship_bracket,0.0
+2019,9,4,8-5-0,1357.34,1189.7599999999998,5,Fifth Place,championship_bracket,0.0
+2019,4,5,8-4-1,1335.38,1162.78,3,Third Place,championship_bracket,0.0
+2019,6,6,7-6-0,1262.3400000000001,1343.7200000000003,6,Sixth Place,championship_bracket,0.0
+2019,1,7,6-7-0,1204.8400000000001,1215.3200000000002,7,Seventh Place,mediocre_bowl,302.76
+2019,7,8,5-8-0,1150.6399999999996,1311.1799999999998,8,Eighth Place,mediocre_bowl,329.06000000000006
+2019,10,9,5-8-0,1146.5200000000002,1310.1599999999999,9,Ninth Place,toilet_bowl,0.0
+2019,3,10,4-9-0,1068.48,1224.22,10,Tenth Place,toilet_bowl,0.0
+2019,11,11,3-10-0,1139.56,1169.94,11,Eleventh Place,toilet_bowl,0.0
+2019,8,12,1-11-1,1034.2199999999998,1248.8999999999999,12,Twelfth Place,toilet_bowl,0.0
+2020,6,1,9-3-1,1352.28,1255.42,2,Runner Up,championship_bracket,0.0
+2020,1,2,8-5-0,1352.8,1163.6200000000001,1,Champion,championship_bracket,0.0
+2020,7,3,8-5-0,1290.3400000000001,1174.42,3,Third Place,championship_bracket,0.0
+2020,3,4,8-5-0,1193.16,1218.2400000000002,4,Fourth Place,championship_bracket,0.0
+2020,9,5,7-6-0,1258.5399999999997,1139.8400000000001,5,Fifth Place,championship_bracket,0.0
+2020,4,6,7-6-0,1212.7399999999998,1178.9799999999998,6,Sixth Place,championship_bracket,0.0
+2020,11,7,6-7-0,1220.22,1264.52,7,Seventh Place,mediocre_bowl,0.0
+2020,8,8,6-7-0,1083.48,1142.84,8,Eighth Place,mediocre_bowl,0.0
+2020,2,9,5-8-0,1194.92,1365.5800000000002,9,Ninth Place,toilet_bowl,0.0
+2020,12,10,5-7-1,1175.96,1209.48,10,Tenth Place,toilet_bowl,0.0
+2020,10,11,4-9-0,1317.94,1350.94,11,Eleventh Place,toilet_bowl,0.0
+2020,5,12,4-9-0,1020.04,1208.54,12,Twelfth Place,toilet_bowl,0.0
+2021,8,1,9-4-1,1337.92,1233.2800000000002,4,Fourth Place,championship_bracket,0.0
+2021,6,2,8-6-0,1397.32,1368.96,1,Champion,championship_bracket,0.0
+2021,12,3,8-6-0,1349.02,1277.2199999999998,3,Third Place,championship_bracket,0.0
+2021,10,4,7-7-0,1399.08,1425.82,2,Runner Up,championship_bracket,0.0
+2021,1,5,7-7-0,1397.0999999999997,1253.2199999999998,6,Sixth Place,championship_bracket,0.0
+2021,7,6,7-7-0,1317.74,1311.1199999999997,,,none,0.0
+2021,4,7,7-7-0,1303.08,1280.62,,,mediocre_bowl,0.0
+2021,9,8,7-6-1,1279.5000000000002,1281.0,5,Fifth Place,championship_bracket,0.0
+2021,5,9,7-7-0,1279.08,1404.48,7,Seventh Place,toilet_bowl,0.0
+2021,11,10,6-8-0,1246.2399999999998,1325.0,8,Eighth Place,toilet_bowl,0.0
+2021,2,11,5-9-0,1259.8599999999997,1262.38,9,Ninth Place,toilet_bowl,0.0
+2021,3,12,5-9-0,1197.96,1340.8,10,Tenth Place,toilet_bowl,0.0
+2022,6,1,9-5-0,1608.2,1456.42,3,Third Place,championship_bracket,0.0
+2022,2,2,9-5-0,1539.6799999999996,1366.52,4,Fourth Place,championship_bracket,0.0
+2022,1,3,9-5-0,1460.84,1329.96,1,Champion,championship_bracket,0.0
+2022,11,4,9-5-0,1434.4599999999998,1307.08,5,Fifth Place,championship_bracket,0.0
+2022,7,5,8-6-0,1427.0,1386.9599999999998,2,Runner Up,championship_bracket,0.0
+2022,9,6,7-7-0,1233.96,1250.04,6,Sixth Place,championship_bracket,0.0
+2022,10,7,7-8-0,1551.2799999999997,1441.6799999999998,7,Seventh Place,mediocre_bowl,0.0
+2022,12,8,7-8-0,1317.54,1508.2400000000002,8,Eighth Place,mediocre_bowl,1317.54
+2022,4,9,6-8-0,1401.18,1441.3799999999997,7,Seventh Place,toilet_bowl,0.0
+2022,3,10,6-8-0,1381.5800000000002,1381.7999999999997,8,Eighth Place,toilet_bowl,0.0
+2022,8,11,5-9-0,1219.16,1483.2200000000003,9,Ninth Place,toilet_bowl,0.0
+2022,5,12,3-11-0,1208.0400000000002,1429.6200000000001,10,Tenth Place,toilet_bowl,0.0
+2023,7,1,10-4-0,1575.24,1389.0,3,Third Place,championship_bracket,
+2023,2,2,8-6-0,1438.44,1373.92,1,Champion,championship_bracket,
+2023,11,3,8-6-0,1395.96,1450.74,4,Fourth Place,championship_bracket,
+2023,12,4,8-6-0,1359.7,1395.44,2,Runner Up,championship_bracket,
+2023,8,5,8-6-0,1322.94,1291.92,6,Sixth Place,championship_bracket,
+2023,6,6,7-7-0,1521.06,1322.24,5,Fifth Place,championship_bracket,
+2023,4,7,7-7-0,1495.8,1379.08,9,Ninth Place,consolation,
+2023,9,8,7-7-0,1258.94,1301.24,10,Tenth Place,consolation,
+2023,5,9,6-8-0,1443.0,1427.46,8,Eighth Place,consolation,
+2023,10,10,6-8-0,1188.88,1316.06,12,Twelfth Place,consolation,
+2023,1,11,5-9-0,1393.88,1524.06,7,Seventh Place,consolation,
+2023,3,12,4-10-0,1162.12,1384.8,11,Eleventh Place,consolation,
+2024,3,1,11-3-0,1668.3,1418.6,3,Third Place,championship_bracket,
+2024,2,2,11-3-0,1461.36,1301.24,4,Fourth Place,championship_bracket,
+2024,6,3,9-5-0,1470.52,1293.46,1,Champion,championship_bracket,
+2024,7,4,8-6-0,1459.64,1306.62,2,Runner Up,championship_bracket,
+2024,4,5,8-6-0,1396.58,1330.22,6,Sixth Place,championship_bracket,
+2024,1,6,7-7-0,1365.58,1404.3,5,Fifth Place,championship_bracket,
+2024,5,7,7-7-0,1257.92,1341.16,,,consolation,
+2024,11,8,6-8-0,1373.02,1485.3,,,consolation,
+2024,12,9,5-9-0,1386.92,1385.9,10,Tenth Place,consolation,
+2024,9,10,4-10-0,1254.3,1374.64,7,Seventh Place,consolation,
+2024,8,11,4-10-0,1253.66,1467.86,9,Ninth Place,consolation,
+2024,10,12,4-10-0,1200.48,1438.98,8,Eighth Place,consolation,
+2025,11,1,10-4-0,1492.88,1391.86,3,Third Place,championship_bracket,
+2025,3,2,10-4-0,1475.1,1397.58,4,Fourth Place,championship_bracket,
+2025,7,3,10-4-0,1370.9,1204.66,1,Champion,championship_bracket,
+2025,5,4,8-6-0,1325.94,1315.38,2,Runner Up,championship_bracket,
+2025,6,5,7-7-0,1500.32,1404.28,5,Fifth Place,championship_bracket,
+2025,4,6,7-7-0,1380.74,1313.68,6,Sixth Place,championship_bracket,
+2025,1,7,7-7-0,1352.54,1361.4,8,Eighth Place,consolation,
+2025,10,8,7-7-0,1332.04,1372.96,10,Tenth Place,consolation,
+2025,2,9,6-8-0,1187.9,1392.38,7,Seventh Place,consolation,
+2025,8,10,5-9-0,1315.88,1312.66,11,Eleventh Place,consolation,
+2025,12,11,4-10-0,1292.28,1340.22,9,Ninth Place,consolation,
+2025,9,12,3-11-0,1286.76,1506.22,12,Twelfth Place,consolation,
