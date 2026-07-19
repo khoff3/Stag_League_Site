@@ -187,8 +187,10 @@ class PlayoffAnnotator:
         annotated_count = 0
         for game_id, playoff_info in playoff_games.items():
             try:
-                game_id_int = int(game_id)
-                mask = schedule['game_id'] == game_id_int
+                # game_id column may be int or str dtype depending on whether the
+                # season contains constructed ids like "20211547_mediocre" --
+                # compare as strings so both cases match
+                mask = schedule['game_id'].astype(str) == str(game_id)
                 if mask.any():
                     schedule.loc[mask, 'is_playoff'] = playoff_info['is_playoff']
                     schedule.loc[mask, 'playoff_round'] = playoff_info['playoff_round']
@@ -235,7 +237,7 @@ class PlayoffAnnotator:
         # Annotate Week 15 and 16 games that aren't already playoff games
         for idx, row in schedule.iterrows():
             week = int(row['week'])
-            if week in [14, 15, 16] and not row['is_playoff']:
+            if week in [14, 15, 16, 17] and not row['is_playoff']:
                 home_id = str(row['home_team_id'])
                 away_id = str(row['away_team_id'])
                 print(f"DEBUG: Week {week} non-playoff game {home_id} vs {away_id}")
