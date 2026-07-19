@@ -19,8 +19,8 @@ season,team_id,place,record,points_for,points_against,postseason_rank,postseason
 2012,5,8,7-7-0,1379.78,1288.24,12,Twelfth Place,consolation,0.0
 2012,3,9,7-7-0,1284.14,1279.8,10,Tenth Place,consolation,0.0
 2012,9,10,7-7-0,1259.48,1264.3799999999999,11,Eleventh Place,consolation,0.0
-2012,7,11,3-11-0,1117.2,1374.82,,,none,0.0
-2012,2,12,1-13-0,1120.48,1352.9,,,none,0.0
+2012,7,11,3-11-0,1117.2,1374.82,5,Fifth Place,none,0.0
+2012,2,12,1-13-0,1120.48,1352.9,6,Sixth Place,none,0.0
 2013,2,1,12-2-0,1446.42,1241.92,1,Champion,championship_bracket,0.0
 2013,1,2,7-7-0,1424.7000000000003,1274.76,2,Runner Up,championship_bracket,0.0
 2013,4,3,11-3-0,1582.7400000000002,1227.3,3,Third Place,championship_bracket,0.0
@@ -61,10 +61,10 @@ season,team_id,place,record,points_for,points_against,postseason_rank,postseason
 2016,3,2,9-5-0,1274.9,1169.76,2,Runner Up,championship_bracket,0.0
 2016,11,3,8-6-0,1449.0799999999997,1345.4600000000003,1,Champion,championship_bracket,0.0
 2016,2,4,8-5-0,1362.42,1124.64,3,Third Place,championship_bracket,0.0
-2016,5,5,7-7-0,1190.36,1263.92,,,none,0.0
+2016,5,5,7-7-0,1190.36,1263.92,5,Fifth Place,none,0.0
 2016,12,6,7-7-0,1188.8400000000001,1276.88,8,Eighth Place,toilet_bowl,0.0
 2016,1,7,7-7-0,1144.0000000000002,1210.82,7,Seventh Place,toilet_bowl,0.0
-2016,7,8,7-7-0,1079.88,1237.6799999999998,,,none,0.0
+2016,7,8,7-7-0,1079.88,1237.6799999999998,6,Sixth Place,none,0.0
 2016,4,9,6-8-0,1301.58,1259.7200000000003,9,Ninth Place,toilet_bowl,0.0
 2016,8,10,6-8-0,1153.22,1180.9199999999998,10,Tenth Place,toilet_bowl,0.0
 2016,9,11,4-9-0,1140.78,1250.1999999999998,12,Twelfth Place,toilet_bowl,0.0
@@ -120,8 +120,8 @@ season,team_id,place,record,points_for,points_against,postseason_rank,postseason
 2021,12,3,8-6-0,1349.02,1277.2199999999998,3,Third Place,championship_bracket,0.0
 2021,10,4,7-7-0,1399.08,1425.82,2,Runner Up,championship_bracket,0.0
 2021,1,5,7-7-0,1397.0999999999997,1253.2199999999998,6,Sixth Place,championship_bracket,0.0
-2021,7,6,7-7-0,1317.74,1311.1199999999997,,,none,0.0
-2021,4,7,7-7-0,1303.08,1280.62,,,mediocre_bowl,0.0
+2021,7,6,7-7-0,1317.74,1311.1199999999997,11,Eleventh Place,none,0.0
+2021,4,7,7-7-0,1303.08,1280.62,12,Twelfth Place,mediocre_bowl,0.0
 2021,9,8,7-6-1,1279.5000000000002,1281.0,5,Fifth Place,championship_bracket,0.0
 2021,5,9,7-7-0,1279.08,1404.48,7,Seventh Place,toilet_bowl,0.0
 2021,11,10,6-8-0,1246.2399999999998,1325.0,8,Eighth Place,toilet_bowl,0.0

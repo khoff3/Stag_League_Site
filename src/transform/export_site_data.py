@@ -245,28 +245,115 @@ def main():
 
     games.extend(sleeper["games"])
 
-    # ---- toilet bowl = the 4-team bracket among the bottom seeds ----
-    # The annotator blanket-tagged ANY consolation-team pairing as toilet bowl,
-    # inflating it to 11+ "games" some years. Structurally the Toilet Bowl is a
-    # 4-team bracket (bottom four of the regular season); other consolation
-    # pairings are just consolation games.
-    places = {}   # (season, team_id) -> regular-season place
+    # ---- NFL-era playoff reclassification from postseason ranks ----
+    # The annotator's labels drifted per era (5-8 bracket games tagged
+    # "Mediocre Bowl", the real 2018+ 7v8 Mediocre Bowl series tagged
+    # "Consolation", regular wk14 games tagged as playoffs in wk15-start
+    # seasons, bottom-bracket games missed entirely). Final standings'
+    # postseason ranks are validated, so classify every game in the playoff
+    # window from the participants' final ranks instead.
+    #
+    # Era formats: 2011-2017 wk15-16 with a 4-team winners bracket;
+    # 2018-2020 wk14-16 with a 6-team bracket + 7v8 Mediocre Bowl series;
+    # 2021-2022 the same shifted to wk15-17.
+    post_rank = {}   # (season, team_id) -> postseason rank (inferred if absent)
     n_teams = defaultdict(int)
     for season in SEASONS:
         fs = SCHED / season / "final_standings.json"
-        if fs.exists():
-            for t in json.load(open(fs)):
-                places[(season, str(t["team_id"]))] = int(t.get("place") or 99)
-                n_teams[season] += 1
-    for s in sleeper["standings"]:
-        places[(s["season"], str(s["team_id"]))] = int(s["place"])
-        n_teams[s["season"]] += 1
+        if not fs.exists():
+            continue
+        rows_fs = json.load(open(fs))
+        n_teams[season] = len(rows_fs)
+        used, missing = set(), []
+        for t in rows_fs:
+            tid = str(t["team_id"])
+            pr = t.get("postseason_rank")
+            if pr:
+                post_rank[(season, tid)] = int(pr)
+                used.add(int(pr))
+            else:
+                missing.append((int(t.get("place") or 99), tid))
+        # teams the pipeline never placed (e.g. 2016 5th/6th): assign the
+        # unused ranks in regular-season order
+        for _, tid in sorted(missing):
+            r = min(set(range(1, len(rows_fs) + 1)) - used)
+            post_rank[(season, tid)] = r
+            used.add(r)
+
+    def playoff_window(season):
+        y = int(season)
+        if 2018 <= y <= 2020:
+            return 14, 16
+        if y >= 2021:
+            return 15, 17
+        return 15, 16
+
     for g in games:
+        season = g["season"]
+        if season not in n_teams:
+            continue  # Sleeper era: already structured from the API bracket
+        start, fin = playoff_window(season)
+        wk = int(g["week"])
+        n = n_teams[season]
+        winners_size = 6 if int(season) >= 2018 else 4
+        if wk < start:
+            g["is_playoff"] = False
+            g["game_type"] = "regular"
+            g["round_name"] = ""
+            continue
+        rh = post_rank.get((season, g["home_team_id"]))
+        ra = post_rank.get((season, g["away_team_id"]))
+        if rh is None or ra is None:
+            continue
+        pair = {rh, ra}
+        g["is_playoff"] = True
+        rnd = wk - start + 1
+        if max(pair) <= winners_size:
+            if wk == fin and pair == {1, 2}:
+                g["game_type"], g["round_name"] = "championship", "Championship"
+            elif wk == fin and pair == {3, 4}:
+                g["game_type"], g["round_name"] = "third_place", "Third Place"
+            elif wk == fin:
+                g["game_type"], g["round_name"] = "winners", "Fifth Place"
+            elif wk == fin - 1:
+                g["game_type"], g["round_name"] = "winners", "Semifinal"
+            else:
+                g["game_type"], g["round_name"] = "winners", "Winners Round 1"
+        elif int(season) >= 2018 and pair == {7, 8}:
+            g["game_type"], g["round_name"] = "mediocre_bowl", "Mediocre Bowl"
+        elif min(pair) > n - 4:
+            g["game_type"] = "toilet_bowl"
+            if wk == fin and pair == {n - 1, n}:
+                g["round_name"] = "Toilet Bowl"
+            elif wk == fin:
+                g["round_name"] = f"{n - 3}th Place"
+            else:
+                g["round_name"] = f"Consolation Round {rnd}"
+        else:
+            g["game_type"] = "consolation"
+            if wk == fin and pair == {5, 6}:
+                g["round_name"] = "Fifth Place"
+            elif wk == fin and pair == {7, 8}:
+                g["round_name"] = "7th Place"
+            elif wk == fin:
+                g["round_name"] = "Consolation"
+            else:
+                g["round_name"] = f"Consolation Round {rnd}"
+
+    # Sleeper era: keep the bottom-four rule (losers-bracket round 2 games
+    # involving byed 7/8 seeds are consolation, not toilet bowl) — mirrors
+    # the fork pipeline's update_data.py
+    s_places = {(s["season"], str(s["team_id"])): int(s["place"]) for s in sleeper["standings"]}
+    s_n = defaultdict(int)
+    for s in sleeper["standings"]:
+        s_n[s["season"]] += 1
+    for g in games:
+        if g["season"] in n_teams:
+            continue
         if g["game_type"] == "toilet_bowl":
-            season = g["season"]
-            cutoff = n_teams.get(season, 12) - 4  # bottom four
-            ph = places.get((season, str(g["home_team_id"])), 0)
-            pa = places.get((season, str(g["away_team_id"])), 0)
+            cutoff = s_n.get(g["season"], 12) - 4
+            ph = s_places.get((g["season"], str(g["home_team_id"])), 0)
+            pa = s_places.get((g["season"], str(g["away_team_id"])), 0)
             if not (ph > cutoff and pa > cutoff):
                 g["game_type"] = "consolation"
                 if g["round_name"] in ("", "Toilet Bowl"):
@@ -283,7 +370,13 @@ def main():
         sfile = SCHED / season / "final_standings.json"
         if not sfile.exists():
             continue
+        ordinals = {1: "Champion", 2: "Runner Up", 3: "Third Place", 4: "Fourth Place",
+                    5: "Fifth Place", 6: "Sixth Place", 7: "Seventh Place", 8: "Eighth Place",
+                    9: "Ninth Place", 10: "Tenth Place", 11: "Eleventh Place", 12: "Twelfth Place"}
         for t in json.load(open(sfile)):
+            # fall back to the inferred rank when the pipeline never placed a
+            # team (e.g. 2016's 5th/6th)
+            pr = t.get("postseason_rank") or post_rank.get((season, str(t["team_id"])), "")
             rows.append({
                 "season": season,
                 "team_id": t["team_id"],
@@ -291,8 +384,8 @@ def main():
                 "record": t.get("regular_season_record", ""),
                 "points_for": t.get("regular_season_points_for", ""),
                 "points_against": t.get("regular_season_points_against", ""),
-                "postseason_rank": t.get("postseason_rank", ""),
-                "postseason_label": t.get("postseason_label", ""),
+                "postseason_rank": pr,
+                "postseason_label": t.get("postseason_label") or (ordinals.get(pr, "") if pr else ""),
                 "playoff_bracket": t.get("playoff_participation", ""),
                 "mediocre_bowl_total": t.get("mediocre_bowl_total", ""),
             })

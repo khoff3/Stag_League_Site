@@ -65,16 +65,16 @@ game_id,season,week,home_team_id,away_team_id,home_points,away_points,is_playoff
 20111382,2011,13,8,2,57.6,118.06,False,regular,,scraped
 201113910,2011,13,9,10,123.96,60.98,False,regular,,scraped
 201114210,2011,14,2,10,123.38,133.4,False,regular,,scraped
-20111439,2011,14,3,9,90.78,132.44,True,consolation,Consolation,scraped
-20111448,2011,14,4,8,104.7,80.5,True,toilet_bowl,Toilet Bowl,scraped
+20111439,2011,14,3,9,90.78,132.44,False,regular,,scraped
+20111448,2011,14,4,8,104.7,80.5,False,regular,,scraped
 20111457,2011,14,5,7,90.04,107.3,False,regular,,scraped
 20111461,2011,14,6,1,93.44,98.42,False,regular,,scraped
 201115107,2011,15,10,7,93.96,116.6,True,consolation,Consolation Round 1,scraped
-20111526,2011,15,2,6,98.4,74.0,True,winners,Winners Round 1,scraped
-20111551,2011,15,5,1,120.06,113.86,True,winners,Winners Round 1,scraped
+20111526,2011,15,2,6,98.4,74.0,True,winners,Semifinal,scraped
+20111551,2011,15,5,1,120.06,113.86,True,winners,Semifinal,scraped
 20111593,2011,15,9,3,89.26,91.58,True,consolation,Consolation Round 1,scraped
-20111601,2011,16,3,7,109.88,91.66,True,toilet_bowl,Toilet Bowl,scraped
-20111602,2011,16,9,10,86.7,113.92,True,consolation,Consolation,scraped
+20111601,2011,16,3,7,109.88,91.66,True,toilet_bowl,7th Place,scraped
+20111602,2011,16,9,10,86.7,113.92,True,consolation,Fifth Place,scraped
 20111603,2011,16,2,5,124.06,102.34,True,championship,Championship,scraped
 20111604,2011,16,6,1,111.42,77.9,True,third_place,Third Place,scraped
 2012011110,2012,1,11,10,86.58,90.46,False,regular,,scraped
@@ -155,20 +155,20 @@ game_id,season,week,home_team_id,away_team_id,home_points,away_points,is_playoff
 20121346,2012,13,4,6,82.92,105.22,False,regular,,scraped
 20121387,2012,13,8,7,89.6,87.94,False,regular,,scraped
 20121392,2012,13,9,2,95.22,70.68,False,regular,,scraped
-201214127,2012,14,12,7,75.02,63.32,True,consolation,Consolation,scraped
+201214127,2012,14,12,7,75.02,63.32,False,regular,,scraped
 20121418,2012,14,1,8,94.4,94.66,False,regular,,scraped
 201214211,2012,14,2,11,89.0,126.12,False,regular,,scraped
 20121443,2012,14,4,3,77.64,116.68,False,regular,,scraped
 201214510,2012,14,5,10,116.82,85.16,False,regular,,scraped
-20121496,2012,14,9,6,86.88,106.86,True,consolation,Consolation,scraped
-2012151110,2012,15,11,10,142.5,63.26,True,winners,Winners Round 1,scraped
+20121496,2012,14,9,6,86.88,106.86,False,regular,,scraped
+2012151110,2012,15,11,10,142.5,63.26,True,winners,Semifinal,scraped
 201215128,2012,15,12,8,97.94,135.08,True,consolation,Consolation Round 1,scraped
-20121541,2012,15,4,1,69.52,65.86,True,winners,Winners Round 1,scraped
+20121541,2012,15,4,1,69.52,65.86,True,winners,Semifinal,scraped
 20121565,2012,15,6,5,73.74,94.24,True,consolation,Consolation Round 1,scraped
 201216110,2012,16,1,10,95.1,101.38,True,third_place,Third Place,scraped
 201216411,2012,16,4,11,75.78,91.34,True,championship,Championship,scraped
-20121658,2012,16,5,8,163.74,70.12,True,consolation,Consolation,scraped
-201216612,2012,16,6,12,108.42,111.38,True,consolation,Consolation,scraped
+20121658,2012,16,5,8,163.74,70.12,True,toilet_bowl,9th Place,scraped
+201216612,2012,16,6,12,108.42,111.38,True,consolation,7th Place,scraped
 201301101,2013,1,10,1,93.58,148.08,False,regular,,scraped
 201301123,2013,1,12,3,123.62,81.9,False,regular,,scraped
 20130124,2013,1,2,4,119.88,90.86,False,regular,,scraped
@@ -248,19 +248,19 @@ game_id,season,week,home_team_id,away_team_id,home_points,away_points,is_playoff
 20131363,2013,13,6,3,79.98,74.02,False,regular,,scraped
 20131385,2013,13,8,5,60.68,80.0,False,regular,,scraped
 2013141112,2013,14,11,12,97.42,79.6,False,regular,,scraped
-201314310,2013,14,3,10,77.26,90.22,True,toilet_bowl,Toilet Bowl,scraped
+201314310,2013,14,3,10,77.26,90.22,False,regular,,scraped
 20131457,2013,14,5,7,71.54,88.16,False,regular,,scraped
 20131464,2013,14,6,4,60.16,152.44,False,regular,,scraped
 20131482,2013,14,8,2,93.06,119.48,False,regular,,scraped
 20131491,2013,14,9,1,64.6,149.42,False,regular,,scraped
-20131525,2013,15,2,5,139.16,95.6,True,winners,Winners Round 1,scraped
-20131541,2013,15,4,1,66.9,108.92,True,winners,Winners Round 1,scraped
-20131567,2013,15,6,7,120.94,111.9,True,mediocre_bowl,Mediocre Bowl,scraped
-201315811,2013,15,8,11,89.44,87.46,True,mediocre_bowl,Mediocre Bowl,scraped
-201316117,2013,16,11,7,94.98,67.04,True,mediocre_bowl,Mediocre Bowl,scraped
+20131525,2013,15,2,5,139.16,95.6,True,winners,Semifinal,scraped
+20131541,2013,15,4,1,66.9,108.92,True,winners,Semifinal,scraped
+20131567,2013,15,6,7,120.94,111.9,True,consolation,Consolation Round 1,scraped
+201315811,2013,15,8,11,89.44,87.46,True,consolation,Consolation Round 1,scraped
+201316117,2013,16,11,7,94.98,67.04,True,consolation,Consolation,scraped
 20131621,2013,16,2,1,126.5,118.88,True,championship,Championship,scraped
 20131654,2013,16,5,4,46.48,86.04,True,third_place,Third Place,scraped
-20131686,2013,16,8,6,67.44,77.98,True,mediocre_bowl,Mediocre Bowl,scraped
+20131686,2013,16,8,6,67.44,77.98,True,consolation,Consolation,scraped
 201401105,2014,1,10,5,119.84,78.54,False,regular,,scraped
 201401111,2014,1,1,11,89.1,94.66,False,regular,,scraped
 201401129,2014,1,12,9,85.38,56.22,False,regular,,scraped
@@ -340,19 +340,19 @@ game_id,season,week,home_team_id,away_team_id,home_points,away_points,is_playoff
 20141357,2014,13,5,7,139.9,76.64,False,regular,,scraped
 201413912,2014,13,9,12,99.08,97.86,False,regular,,scraped
 201414105,2014,14,10,5,69.26,121.92,False,regular,,scraped
-201414119,2014,14,11,9,38.92,89.2,True,mediocre_bowl,Mediocre Bowl,scraped
+201414119,2014,14,11,9,38.92,89.2,False,regular,,scraped
 201414121,2014,14,12,1,105.6,121.06,False,regular,,scraped
 20141427,2014,14,2,7,98.74,134.7,False,regular,,scraped
 20141464,2014,14,6,4,116.88,130.38,False,regular,,scraped
 20141483,2014,14,8,3,75.74,79.96,False,regular,,scraped
-201415105,2014,15,10,5,76.78,104.3,True,winners,Winners Round 1,scraped
-20141531,2014,15,3,1,72.48,114.78,True,winners,Winners Round 1,scraped
-201415611,2014,15,6,11,88.08,76.42,True,mediocre_bowl,Mediocre Bowl,scraped
-20141579,2014,15,7,9,120.1,95.1,True,mediocre_bowl,Mediocre Bowl,scraped
+201415105,2014,15,10,5,76.78,104.3,True,winners,Semifinal,scraped
+20141531,2014,15,3,1,72.48,114.78,True,winners,Semifinal,scraped
+201415611,2014,15,6,11,88.08,76.42,True,consolation,Consolation Round 1,scraped
+20141579,2014,15,7,9,120.1,95.1,True,consolation,Consolation Round 1,scraped
 201416103,2014,16,10,3,99.24,75.94,True,third_place,Third Place,scraped
-201416119,2014,16,11,9,54.34,76.62,True,mediocre_bowl,Mediocre Bowl,scraped
+201416119,2014,16,11,9,54.34,76.62,True,consolation,Consolation,scraped
 20141651,2014,16,5,1,76.1,112.86,True,championship,Championship,scraped
-20141667,2014,16,6,7,83.48,82.38,True,mediocre_bowl,Mediocre Bowl,scraped
+20141667,2014,16,6,7,83.48,82.38,True,consolation,Consolation,scraped
 201501107,2015,1,10,7,109.22,56.1,False,regular,,scraped
 2015011112,2015,1,11,12,75.42,93.7,False,regular,,scraped
 20150143,2015,1,4,3,74.54,129.44,False,regular,,scraped
@@ -431,20 +431,20 @@ game_id,season,week,home_team_id,away_team_id,home_points,away_points,is_playoff
 20151348,2015,13,4,8,117.46,93.88,False,regular,,scraped
 201513510,2015,13,5,10,132.26,68.68,False,regular,,scraped
 201513911,2015,13,9,11,73.42,83.28,False,regular,,scraped
-201514102,2015,14,10,2,79.9,91.44,True,mediocre_bowl,Mediocre Bowl,scraped
+201514102,2015,14,10,2,79.9,91.44,False,regular,,scraped
 201514111,2015,14,1,11,92.02,72.7,False,regular,,scraped
 201514129,2015,14,12,9,57.36,75.0,False,regular,,scraped
 20151464,2015,14,6,4,102.1,87.38,False,regular,,scraped
 20151475,2015,14,7,5,108.44,96.38,False,regular,,scraped
 20151483,2015,14,8,3,87.62,88.32,False,regular,,scraped
-20151513,2015,15,1,3,102.36,122.0,True,winners,Winners Round 1,scraped
-20151529,2015,15,2,9,77.58,84.84,True,mediocre_bowl,Mediocre Bowl,scraped
-20151565,2015,15,6,5,127.7,95.5,True,winners,Winners Round 1,scraped
-201515710,2015,15,7,10,100.34,99.94,True,mediocre_bowl,Mediocre Bowl,scraped
-201516102,2015,16,10,2,71.64,58.64,True,mediocre_bowl,Mediocre Bowl,scraped
+20151513,2015,15,1,3,102.36,122.0,True,winners,Semifinal,scraped
+20151529,2015,15,2,9,77.58,84.84,True,consolation,Consolation Round 1,scraped
+20151565,2015,15,6,5,127.7,95.5,True,winners,Semifinal,scraped
+201515710,2015,15,7,10,100.34,99.94,True,consolation,Consolation Round 1,scraped
+201516102,2015,16,10,2,71.64,58.64,True,consolation,Consolation,scraped
 20151615,2015,16,1,5,106.1,89.8,True,third_place,Third Place,scraped
 20151636,2015,16,3,6,120.46,81.48,True,championship,Championship,scraped
-20151679,2015,16,7,9,127.66,43.86,True,mediocre_bowl,Mediocre Bowl,scraped
+20151679,2015,16,7,9,127.66,43.86,True,consolation,Consolation,scraped
 2016011112,2016,1,11,12,103.26,106.64,False,regular,,scraped
 20160119,2016,1,1,9,72.3,98.7,False,regular,,scraped
 20160125,2016,1,2,5,97.32,105.08,False,regular,,scraped
@@ -524,19 +524,19 @@ game_id,season,week,home_team_id,away_team_id,home_points,away_points,is_playoff
 20161375,2016,13,7,5,71.84,105.84,False,regular,,scraped
 20161383,2016,13,8,3,73.34,84.98,False,regular,,scraped
 201614111,2016,14,11,1,112.04,81.92,False,regular,,scraped
-201614124,2016,14,12,4,104.14,102.7,True,consolation,Consolation Round 1,scraped
-20161437,2016,14,3,7,85.88,64.94,True,winners,Winners Round 1,scraped
+201614124,2016,14,12,4,104.14,102.7,False,regular,,scraped
+20161437,2016,14,3,7,85.88,64.94,False,regular,,scraped
 20161485,2016,14,8,5,60.18,70.32,False,regular,,scraped
-201615108,2016,15,10,8,109.4,58.38,True,toilet_bowl,Toilet Bowl,scraped
+201615108,2016,15,10,8,109.4,58.38,True,toilet_bowl,Consolation Round 1,scraped
 20161532,2016,15,3,2,114.64,98.86,True,winners,Semifinal,scraped
-20161549,2016,15,4,9,76.14,91.12,True,toilet_bowl,Toilet Bowl,scraped
+20161549,2016,15,4,9,76.14,91.12,True,toilet_bowl,Consolation Round 1,scraped
 201615611,2016,15,6,11,72.88,78.98,True,winners,Semifinal,scraped
 201616109,2016,16,10,9,112.12,77.48,True,toilet_bowl,Toilet Bowl,scraped
 201616113,2016,16,11,3,137.48,78.08,True,championship,Championship,scraped
-20161617,2016,16,1,7,78.5,96.7,False,regular,,scraped
-201616512,2016,16,5,12,80.84,113.06,False,regular,,scraped
+20161617,2016,16,1,7,78.5,96.7,True,consolation,Consolation,scraped
+201616512,2016,16,5,12,80.84,113.06,True,consolation,Consolation,scraped
 20161662,2016,16,6,2,68.88,102.86,True,third_place,Third Place,scraped
-20161684,2016,16,8,4,95.6,108.3,True,toilet_bowl,Toilet Bowl,scraped
+20161684,2016,16,8,4,95.6,108.3,True,toilet_bowl,9th Place,scraped
 201701112,2017,1,1,12,88.84,70.6,False,regular,,scraped
 201701118,2017,1,11,8,62.64,80.48,False,regular,,scraped
 20170129,2017,1,2,9,75.04,77.14,False,regular,,scraped
@@ -604,15 +604,15 @@ game_id,season,week,home_team_id,away_team_id,home_points,away_points,is_playoff
 20171395,2017,13,9,5,81.12,99.38,False,regular,,scraped
 201714117,2017,14,11,7,91.74,111.54,False,regular,,scraped
 20171416,2017,14,1,6,87.9,119.26,False,regular,,scraped
-20171439,2017,14,3,9,67.22,82.64,True,consolation,Consolation Round 1,scraped
+20171439,2017,14,3,9,67.22,82.64,False,regular,,scraped
 20171452,2017,14,5,2,116.64,89.94,False,regular,,scraped
 201714812,2017,14,8,12,102.22,103.08,False,regular,,scraped
-201715119,2017,15,11,9,98.14,96.6,True,toilet_bowl,Toilet Bowl,scraped
+201715119,2017,15,11,9,98.14,96.6,True,toilet_bowl,Consolation Round 1,scraped
 201715126,2017,15,12,6,98.98,85.88,True,winners,Semifinal,scraped
 20171557,2017,15,5,7,129.38,136.74,True,winners,Semifinal,scraped
-20171582,2017,15,8,2,64.82,70.84,True,toilet_bowl,Toilet Bowl,scraped
-20171613,2017,16,1,3,59.76,60.36,True,mediocre_bowl,Mediocre Bowl,scraped
-201716211,2017,16,2,11,71.68,67.34,True,toilet_bowl,Toilet Bowl,scraped
+20171582,2017,15,8,2,64.82,70.84,True,toilet_bowl,Consolation Round 1,scraped
+20171613,2017,16,1,3,59.76,60.36,True,consolation,Fifth Place,scraped
+201716211,2017,16,2,11,71.68,67.34,True,toilet_bowl,7th Place,scraped
 20171656,2017,16,5,6,73.72,104.2,True,third_place,Third Place,scraped
 201716712,2017,16,7,12,122.3,76.84,True,championship,Championship,scraped
 2018011110,2018,1,11,10,90.26,88.66,False,regular,,scraped
@@ -693,21 +693,21 @@ game_id,season,week,home_team_id,away_team_id,home_points,away_points,is_playoff
 20181348,2018,13,4,8,119.58,73.84,False,regular,,scraped
 20181361,2018,13,6,1,87.32,72.12,False,regular,,scraped
 20181379,2018,13,7,9,91.0,119.9,False,regular,,scraped
-201814106_mediocre,2018,14,10,6,102.32,75.3,True,consolation,Consolation Round 1,constructed
+201814106_mediocre,2018,14,10,6,102.32,75.3,True,mediocre_bowl,Mediocre Bowl,constructed
 201814111,2018,14,1,11,80.74,67.54,True,winners,Winners Round 1,scraped
 20181428,2018,14,2,8,104.88,111.38,True,toilet_bowl,Consolation Round 1,scraped
 20181443,2018,14,4,3,72.28,86.22,True,winners,Winners Round 1,scraped
 201814712,2018,14,7,12,113.48,42.02,True,toilet_bowl,Consolation Round 1,scraped
 20181519,2018,15,1,9,44.98,79.32,True,winners,Semifinal,scraped
-201815212,2018,15,2,12,113.14,80.12,True,toilet_bowl,Toilet Bowl,scraped
+201815212,2018,15,2,12,113.14,80.12,True,toilet_bowl,Consolation Round 2,scraped
 20181553,2018,15,5,3,70.94,66.82,True,winners,Semifinal,scraped
-201815610_mediocre,2018,15,6,10,75.92,71.9,True,consolation,Consolation,constructed
-201816106_mediocre,2018,16,10,6,92.02,45.64,True,consolation,Consolation,constructed
-201816114,2018,16,11,4,76.64,73.34,True,third_place,Third Place,scraped
-201816212,2018,16,2,12,93.66,118.04,True,toilet_bowl,Toilet Bowl,scraped
+201815610_mediocre,2018,15,6,10,75.92,71.9,True,mediocre_bowl,Mediocre Bowl,constructed
+201816106_mediocre,2018,16,10,6,92.02,45.64,True,mediocre_bowl,Mediocre Bowl,constructed
+201816114,2018,16,11,4,76.64,73.34,True,winners,Fifth Place,scraped
+201816212,2018,16,2,12,93.66,118.04,True,toilet_bowl,9th Place,scraped
 20181631,2018,16,3,1,81.76,98.68,True,third_place,Third Place,scraped
 20181659,2018,16,5,9,106.58,136.82,True,championship,Championship,scraped
-20181678,2018,16,7,8,77.44,107.6,True,toilet_bowl,Toilet Bowl,scraped
+20181678,2018,16,7,8,77.44,107.6,True,toilet_bowl,9th Place,scraped
 2019011112,2019,1,11,12,82.22,117.2,False,regular,,scraped
 20190112,2019,1,1,2,92.3,91.32,False,regular,,scraped
 20190136,2019,1,3,6,82.36,111.02,False,regular,,scraped
@@ -786,21 +786,21 @@ game_id,season,week,home_team_id,away_team_id,home_points,away_points,is_playoff
 20191361,2019,13,6,1,85.42,103.72,False,regular,,scraped
 20191387,2019,13,8,7,91.56,106.56,False,regular,,scraped
 20191394,2019,13,9,4,62.44,92.38,False,regular,,scraped
-201914108_toilet_round1,2019,14,10,8,75.32,122.36,True,toilet_bowl,Toilet Bowl,constructed
+201914108_toilet_round1,2019,14,10,8,75.32,122.36,True,toilet_bowl,Consolation Round 1,constructed
 20191426,2019,14,2,6,91.64,85.24,True,winners,Winners Round 1,scraped
-201914311_toilet_round1,2019,14,3,11,92.48,98.1,True,toilet_bowl,Toilet Bowl,constructed
+201914311_toilet_round1,2019,14,3,11,92.48,98.1,True,toilet_bowl,Consolation Round 1,constructed
 20191449,2019,14,4,9,88.22,68.56,True,winners,Winners Round 1,scraped
-201915103_toilet_losers,2019,15,10,3,92.1,81.74,True,toilet_bowl,Toilet Bowl,constructed
-20191517,2019,15,1,7,111.22,105.52,True,consolation,Consolation,scraped
+201915103_toilet_losers,2019,15,10,3,92.1,81.74,True,toilet_bowl,Consolation Round 2,constructed
+20191517,2019,15,1,7,111.22,105.52,True,mediocre_bowl,Mediocre Bowl,scraped
 201915212,2019,15,2,12,63.68,112.74,True,winners,Semifinal,scraped
 20191554,2019,15,5,4,117.88,112.2,True,winners,Semifinal,scraped
-201915811_toilet_winners,2019,15,8,11,99.68,124.44,True,toilet_bowl,Toilet Bowl,constructed
-201916103_toilet_third,2019,16,10,3,110.34,67.54,True,toilet_bowl,Toilet Bowl,constructed
+201915811_toilet_winners,2019,15,8,11,99.68,124.44,True,toilet_bowl,Consolation Round 2,constructed
+201916103_toilet_third,2019,16,10,3,110.34,67.54,True,toilet_bowl,9th Place,constructed
 201916118_toilet_champ,2019,16,11,8,91.36,52.5,True,toilet_bowl,Toilet Bowl,constructed
-20191617,2019,16,1,7,83.3,118.06,True,consolation,Consolation,scraped
+20191617,2019,16,1,7,83.3,118.06,True,mediocre_bowl,Mediocre Bowl,scraped
 20191642,2019,16,4,2,75.12,69.66,True,third_place,Third Place,scraped
 201916512,2019,16,5,12,102.62,84.56,True,championship,Championship,scraped
-20191696,2019,16,9,6,89.38,119.18,False,regular,,scraped
+20191696,2019,16,9,6,89.38,119.18,True,winners,Fifth Place,scraped
 202001107,2020,1,10,7,87.58,113.3,False,regular,,scraped
 20200112,2020,1,1,2,142.62,100.98,False,regular,,scraped
 20200139,2020,1,3,9,100.92,98.6,False,regular,,scraped
@@ -879,21 +879,21 @@ game_id,season,week,home_team_id,away_team_id,home_points,away_points,is_playoff
 20201331,2020,13,3,1,63.2,97.04,False,regular,,scraped
 20201354,2020,13,5,4,83.84,88.5,False,regular,,scraped
 202013712,2020,13,7,12,99.0,90.48,False,regular,,scraped
-2020141210_toilet_round1,2020,14,12,10,49.54,106.82,True,toilet_bowl,Toilet Bowl,constructed
-20201425_toilet_round1,2020,14,2,5,101.74,82.26,True,toilet_bowl,Toilet Bowl,constructed
+2020141210_toilet_round1,2020,14,12,10,49.54,106.82,True,toilet_bowl,Consolation Round 1,constructed
+20201425_toilet_round1,2020,14,2,5,101.74,82.26,True,toilet_bowl,Consolation Round 1,constructed
 20201474,2020,14,7,4,107.1,96.3,True,winners,Winners Round 1,scraped
 20201493,2020,14,9,3,80.56,85.3,True,winners,Winners Round 1,scraped
-202015118,2020,15,11,8,95.12,101.86,True,consolation,Consolation,scraped
-202015210_toilet_winners,2020,15,2,10,92.44,112.66,True,toilet_bowl,Toilet Bowl,constructed
-202015512_toilet_losers,2020,15,5,12,119.92,92.9,True,toilet_bowl,Toilet Bowl,constructed
+202015118,2020,15,11,8,95.12,101.86,True,mediocre_bowl,Mediocre Bowl,scraped
+202015210_toilet_winners,2020,15,2,10,92.44,112.66,True,toilet_bowl,Consolation Round 2,constructed
+202015512_toilet_losers,2020,15,5,12,119.92,92.9,True,toilet_bowl,Consolation Round 2,constructed
 20201563,2020,15,6,3,117.96,96.86,True,winners,Semifinal,scraped
 20201571,2020,15,7,1,79.26,99.22,True,winners,Semifinal,scraped
-202016102_toilet_champ,2020,16,10,2,106.9,128.7,True,toilet_bowl,Toilet Bowl,constructed
-202016118,2020,16,11,8,82.82,94.64,True,consolation,Consolation,scraped
+202016102_toilet_champ,2020,16,10,2,106.9,128.7,True,toilet_bowl,9th Place,constructed
+202016118,2020,16,11,8,82.82,94.64,True,mediocre_bowl,Mediocre Bowl,scraped
 20201637,2020,16,3,7,92.22,113.46,True,third_place,Third Place,scraped
-202016512_toilet_third,2020,16,5,12,108.5,104.72,True,toilet_bowl,Toilet Bowl,constructed
+202016512_toilet_third,2020,16,5,12,108.5,104.72,True,toilet_bowl,9th Place,constructed
 20201661,2020,16,6,1,80.82,83.86,True,championship,Championship,scraped
-20201694,2020,16,9,4,98.08,118.54,False,regular,,scraped
+20201694,2020,16,9,4,98.08,118.54,True,winners,Fifth Place,scraped
 202101117,2021,1,11,7,94.04,85.44,False,regular,,scraped
 202101210,2021,1,2,10,74.88,80.2,False,regular,,scraped
 202101412,2021,1,4,12,88.3,97.06,False,regular,,scraped
@@ -975,25 +975,25 @@ game_id,season,week,home_team_id,away_team_id,home_points,away_points,is_playoff
 2021141012,2021,14,10,12,76.88,107.82,False,regular,,scraped
 202114118,2021,14,11,8,122.54,75.22,False,regular,,scraped
 20211424,2021,14,2,4,115.04,114.12,False,regular,,scraped
-20211435,2021,14,3,5,107.08,78.92,True,toilet_bowl,Toilet Bowl,scraped
+20211435,2021,14,3,5,107.08,78.92,False,regular,,scraped
 20211471,2021,14,7,1,71.84,102.6,False,regular,,scraped
-20211474_mediocre,2021,14,7,4,71.84,114.12,True,mediocre_bowl,Mediocre Bowl,constructed
+20211474_mediocre,2021,14,7,4,71.84,114.12,False,regular,,constructed
 20211496,2021,14,9,6,100.74,101.9,False,regular,,scraped
-202115112,2021,15,11,2,85.92,65.22,True,toilet_bowl,Consolation Round 1,scraped
+202115112,2021,15,11,2,85.92,65.22,True,consolation,Consolation Round 1,scraped
 202115121,2021,15,12,1,103.58,84.74,True,winners,Winners Round 1,scraped
-20211547_mediocre,2021,15,4,7,84.6,65.28,True,mediocre_bowl,Mediocre Bowl,constructed
-20211553,2021,15,5,3,87.34,80.06,True,toilet_bowl,Consolation Round 1,scraped
+20211547_mediocre,2021,15,4,7,84.6,65.28,True,toilet_bowl,Consolation Round 1,constructed
+20211553,2021,15,5,3,87.34,80.06,True,consolation,Consolation Round 1,scraped
 202115910,2021,15,9,10,78.28,78.86,True,winners,Winners Round 1,scraped
 202116126,2021,16,12,6,96.6,98.64,True,winners,Semifinal,scraped
-20211623,2021,16,2,3,77.96,47.98,True,toilet_bowl,Toilet Bowl,scraped
-20211674_mediocre,2021,16,7,4,92.5,85.96,True,mediocre_bowl,Mediocre Bowl,constructed
+20211623,2021,16,2,3,77.96,47.98,True,toilet_bowl,Consolation Round 2,scraped
+20211674_mediocre,2021,16,7,4,92.5,85.96,True,toilet_bowl,Consolation Round 2,constructed
 202116810,2021,16,8,10,77.22,83.78,True,winners,Semifinal,scraped
 202117106,2021,17,10,6,117.9,118.08,True,championship,Championship,scraped
-202117115,2021,17,11,5,106.42,82.26,True,toilet_bowl,Toilet Bowl,scraped
-20211723,2021,17,2,3,66.8,97.76,True,toilet_bowl,Toilet Bowl,scraped
-20211774,2021,17,7,4,84.06,100.0,True,mediocre_bowl,Mediocre Bowl,scraped
+202117115,2021,17,11,5,106.42,82.26,True,mediocre_bowl,Mediocre Bowl,scraped
+20211723,2021,17,2,3,66.8,97.76,True,toilet_bowl,9th Place,scraped
+20211774,2021,17,7,4,84.06,100.0,True,toilet_bowl,Toilet Bowl,scraped
 202117812,2021,17,8,12,98.26,122.52,True,third_place,Third Place,scraped
-20211791,2021,17,9,1,55.84,84.94,False,regular,,scraped
+20211791,2021,17,9,1,55.84,84.94,True,winners,Fifth Place,scraped
 2022011112,2022,1,11,12,106.22,96.4,False,regular,,scraped
 20220115,2022,1,1,5,103.0,80.96,False,regular,,scraped
 20220124,2022,1,2,4,122.28,84.12,False,regular,,scraped
@@ -1073,7 +1073,7 @@ game_id,season,week,home_team_id,away_team_id,home_points,away_points,is_playoff
 20221326,2022,13,2,6,81.62,163.44,False,regular,,scraped
 20221384,2022,13,8,4,93.34,83.14,False,regular,,scraped
 202214101,2022,14,10,1,124.52,69.78,False,regular,,scraped
-2022141210_mediocre,2022,14,12,10,84.06,124.52,True,mediocre_bowl,Mediocre Bowl,constructed
+2022141210_mediocre,2022,14,12,10,84.06,124.52,False,regular,,constructed
 202214312,2022,14,3,12,79.82,84.06,False,regular,,scraped
 20221464,2022,14,6,4,118.18,99.4,False,regular,,scraped
 202214711,2022,14,7,11,118.88,115.86,False,regular,,scraped
@@ -1082,19 +1082,19 @@ game_id,season,week,home_team_id,away_team_id,home_points,away_points,is_playoff
 2022151012_mediocre,2022,15,10,12,79.98,96.82,True,mediocre_bowl,Mediocre Bowl,constructed
 202215117,2022,15,11,7,97.9,102.8,True,winners,Winners Round 1,scraped
 20221519,2022,15,1,9,133.44,122.9,True,winners,Winners Round 1,scraped
-20221538,2022,15,3,8,116.08,89.6,True,toilet_bowl,Consolation Round 1,scraped
-20221545,2022,15,4,5,99.78,90.84,True,toilet_bowl,Consolation Round 1,scraped
+20221538,2022,15,3,8,116.08,89.6,True,consolation,Consolation Round 1,scraped
+20221545,2022,15,4,5,99.78,90.84,True,consolation,Consolation Round 1,scraped
 20221612,2022,16,1,2,137.46,94.08,True,winners,Semifinal,scraped
 2022161210_mediocre,2022,16,12,10,103.5,93.34,True,mediocre_bowl,Mediocre Bowl,constructed
-202216123,2022,16,12,3,103.5,89.46,False,regular,,scraped
-202216410,2022,16,4,10,86.4,93.34,False,regular,,scraped
+202216123,2022,16,12,3,103.5,89.46,True,consolation,Consolation Round 2,scraped
+202216410,2022,16,4,10,86.4,93.34,True,consolation,Consolation Round 2,scraped
 20221667,2022,16,6,7,70.8,85.2,True,winners,Semifinal,scraped
-202217119,2022,17,11,9,89.36,68.2,False,regular,,scraped
+202217119,2022,17,11,9,89.36,68.2,True,winners,Fifth Place,scraped
 2022171210,2022,17,12,10,52.12,114.68,True,mediocre_bowl,Mediocre Bowl,scraped
-20221734,2022,17,3,4,77.4,124.1,True,toilet_bowl,Toilet Bowl,scraped
+20221734,2022,17,3,4,77.4,124.1,True,mediocre_bowl,Mediocre Bowl,scraped
 20221762,2022,17,6,2,187.14,67.1,True,third_place,Third Place,scraped
 20221771,2022,17,7,1,89.66,91.92,True,championship,Championship,scraped
-20221785,2022,17,8,5,55.1,87.98,True,toilet_bowl,Toilet Bowl,scraped
+20221785,2022,17,8,5,55.1,87.98,True,toilet_bowl,9th Place,scraped
 202301s1,2023,1,6,7,101.5,81.32,False,regular,,scraped
 202301s2,2023,1,3,9,61.88,94.54,False,regular,,scraped
 202301s3,2023,1,1,11,98.74,107.36,False,regular,,scraped
