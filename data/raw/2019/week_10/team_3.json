@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Derek Carr",
       "nfl_team": "LV",
       "game_result": "Win",
@@ -13,16 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 13.12,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2543499"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Marlon Mack",
       "nfl_team": "IND",
       "game_result": "Loss",
@@ -34,15 +33,14 @@
       "rushing_tds": 0,
       "receiving_yards": 8,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 8.2,
-      "lineup_status": "starter",
-      "player_id": "2558123"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Devin Singletary",
       "nfl_team": "BUF",
       "game_result": "Loss",
@@ -54,15 +52,14 @@
       "rushing_tds": 0,
       "receiving_yards": 8,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 5.0,
-      "lineup_status": "starter",
-      "player_id": "2562734"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Mike Evans",
       "nfl_team": "TB",
       "game_result": "Win",
@@ -74,15 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 82,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 8.2,
-      "lineup_status": "starter",
-      "player_id": "2543468"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "D.J. Moore",
       "nfl_team": "CAR",
       "game_result": "Loss",
@@ -94,15 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 120,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 12.0,
-      "lineup_status": "starter",
-      "player_id": "2560813"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Travis Kelce",
       "nfl_team": "KC",
       "game_result": "Loss",
@@ -114,16 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 75,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 13.5,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2540258"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "R/W/T",
+      "lineup_status": "starter",
       "name": "Zach Pascal",
       "nfl_team": "IND",
       "game_result": "Loss",
@@ -135,15 +128,14 @@
       "rushing_tds": 0,
       "receiving_yards": 26,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.6,
-      "lineup_status": "starter",
-      "player_id": "2558877"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Josh Gordon",
       "nfl_team": "SEA",
       "game_result": "Win",
@@ -155,19 +147,16 @@
       "rushing_tds": 0,
       "receiving_yards": 27,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.7,
-      "lineup_status": "starter",
-      "player_id": "2537931"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Will Fuller",
       "nfl_team": "HOU",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -175,15 +164,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2555346"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Ronald Jones",
       "nfl_team": "TB",
       "game_result": "Win",
@@ -195,16 +183,14 @@
       "rushing_tds": 1,
       "receiving_yards": 77,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 1,
       "fantasy_points": 14.6,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2560770"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Mecole Hardman",
       "nfl_team": "KC",
       "game_result": "Loss",
@@ -216,14 +202,80 @@
       "rushing_tds": 0,
       "receiving_yards": 63,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 12.3,
-      "touchdowns": 1,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2562580"
+      "name": "Zane Gonzalez",
+      "nfl_team": "ARI",
+      "game_result": "Loss",
+      "game_score": "27-30",
+      "fg_made": 2,
+      "fg_0_19": 0,
+      "fg_20_29": 0,
+      "fg_30_39": 1,
+      "fg_40_49": 0,
+      "fg_50_plus": 1,
+      "fantasy_points": 11.0,
+      "player_type": "kicker",
+      "pat_made": 3
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Baltimore Ravens",
+      "nfl_team": "Baltimore Ravens",
+      "game_result": "Win",
+      "game_score": "49-13",
+      "sacks": 2,
+      "interceptions": 1,
+      "fumble_recoveries": 2,
+      "safeties": 0,
+      "def_tds": 2,
+      "points_allowed": 13,
+      "fantasy_points": 24.0,
+      "player_type": "defense"
+    },
+    {
+      "position": "BN",
+      "lineup_status": "bench",
+      "name": "San Francisco 49ers",
+      "nfl_team": "San Francisco 49ers",
+      "game_result": "Loss",
+      "game_score": "24-27",
+      "sacks": 5,
+      "interceptions": 1,
+      "fumble_recoveries": 3,
+      "safeties": 0,
+      "def_tds": 1,
+      "points_allowed": 21,
+      "fantasy_points": 19.0,
+      "player_type": "defense"
+    },
+    {
+      "position": "BN",
+      "lineup_status": "bench",
+      "name": "Philadelphia Eagles",
+      "nfl_team": "Philadelphia Eagles",
+      "sacks": 0,
+      "interceptions": 0,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 0,
+      "fantasy_points": 0.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 97.62
+  },
   "source": "html_scraping"
 }

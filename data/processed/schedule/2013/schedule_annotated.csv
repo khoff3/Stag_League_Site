@@ -79,7 +79,7 @@ game_id,season,week,home_team,home_team_id,home_points,home_record,home_rank,awa
 201313410,2013,13,TA-VON-ME,4,116.44,10-3-0,2,Sproling in It,10,78.48,3-10-0,12,2025-06-22T05:12:49.874Z,False,,,
 2013141112,2013,14,The Green Machine,11,97.42,6-8-0,8,Jacob's Super Stars,12,79.6,4-10-0,11,2025-06-22T05:13:02.862Z,False,,,
 20131491,2013,14,Newton's Own,9,64.6,6-8-0,9,Colin The Shots,1,149.42,7-7-0,5,2025-06-22T05:13:02.862Z,False,,,
-201314310,2013,14,Vincent's Brownies,3,77.26,6-8-0,10,Sproling in It,10,90.22,4-10-0,12,2025-06-22T05:13:02.862Z,False,,,
+201314310,2013,14,Vincent's Brownies,3,77.26,6-8-0,10,Sproling in It,10,90.22,4-10-0,12,2025-06-22T05:13:02.862Z,True,toilet_bowl,consolation,Toilet Bowl
 20131482,2013,14,Marshall Law,8,93.06,7-7-0,4,Charles in Charge,2,119.48,12-2-0,1,2025-06-22T05:13:02.862Z,False,,,
 20131464,2013,14,MONDAY Night MURDERERS,6,60.16,7-7-0,6,TA-VON-ME,4,152.44,11-3-0,2,2025-06-22T05:13:02.862Z,False,,,
 20131457,2013,14,For Whom Le'Veon Bell Tolls,5,71.54,8-6-0,3,Bearing Down,7,88.16,6-8-0,7,2025-06-22T05:13:02.862Z,False,,,

@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Cam Newton",
       "nfl_team": "CAR",
       "game_result": "Win",
@@ -13,16 +14,14 @@
       "rushing_tds": 2,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 37.44,
-      "touchdowns": 4,
-      "lineup_status": "starter",
-      "player_id": "2495455"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Ryan Mathews",
       "nfl_team": "LAC",
       "game_result": "Loss",
@@ -34,15 +33,14 @@
       "rushing_tds": 0,
       "receiving_yards": 16,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 8.8,
-      "lineup_status": "starter",
-      "player_id": "497188"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Ahmad Bradshaw",
       "nfl_team": "NYG",
       "game_result": "Win",
@@ -54,16 +52,14 @@
       "rushing_tds": 1,
       "receiving_yards": 61,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 17.9,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2495560"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Demaryius Thomas",
       "nfl_team": "DEN",
       "game_result": "Win",
@@ -75,16 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 82,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 14.2,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "497328"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Victor Cruz",
       "nfl_team": "NYG",
       "game_result": "Win",
@@ -96,16 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 36,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 9.6,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2507855"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Scott Chandler",
       "nfl_team": "BUF",
       "game_result": "Loss",
@@ -117,15 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 26,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.6,
-      "lineup_status": "starter",
-      "player_id": "2495573"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "W/R",
+      "lineup_status": "starter",
       "name": "Danario Alexander",
       "nfl_team": "LAC",
       "game_result": "Loss",
@@ -137,15 +128,14 @@
       "rushing_tds": 0,
       "receiving_yards": 74,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 7.4,
-      "lineup_status": "starter",
-      "player_id": "497262"
+      "player_type": "offense"
     },
     {
-      "position": "TE",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Dustin Keller",
       "nfl_team": "NYJ",
       "game_result": "Loss",
@@ -157,16 +147,14 @@
       "rushing_tds": 0,
       "receiving_yards": 64,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 12.4,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "1074"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Denarius Moore",
       "nfl_team": "LV",
       "game_result": "Loss",
@@ -178,16 +166,14 @@
       "rushing_tds": 0,
       "receiving_yards": 20,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 8.0,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2495315"
+      "player_type": "offense"
     },
     {
-      "position": "QB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Ryan Fitzpatrick",
       "nfl_team": "BUF",
       "game_result": "Loss",
@@ -199,16 +185,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 10.4,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2506581"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Jackie Battle",
       "nfl_team": "LAC",
       "game_result": "Loss",
@@ -220,19 +204,16 @@
       "rushing_tds": 0,
       "receiving_yards": 10,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 1.2,
-      "lineup_status": "starter",
-      "player_id": "2507278"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Daryl Richardson",
       "nfl_team": "STL",
-      "game_result": "@ARI",
-      "status": "Sun 1:25 pmGet Tickets",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -240,13 +221,64 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 3.2,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2534789"
+      "name": "Greg Zuerlein",
+      "nfl_team": "STL",
+      "fg_made": 1,
+      "fg_0_19": 1,
+      "fg_20_29": 0,
+      "fg_30_39": 0,
+      "fg_40_49": 0,
+      "fg_50_plus": 0,
+      "fantasy_points": 7.0,
+      "player_type": "kicker",
+      "pat_made": 4
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Cincinnati Bengals",
+      "nfl_team": "Cincinnati Bengals",
+      "game_result": "Win",
+      "game_score": "34-10",
+      "sacks": 4,
+      "interceptions": 1,
+      "fumble_recoveries": 1,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 10,
+      "fantasy_points": 12.0,
+      "player_type": "defense"
+    },
+    {
+      "position": "BN",
+      "lineup_status": "bench",
+      "name": "San Francisco 49ers",
+      "nfl_team": "San Francisco 49ers",
+      "game_result": "Win",
+      "game_score": "31-21",
+      "sacks": 5,
+      "interceptions": 2,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 2,
+      "points_allowed": 21,
+      "fantasy_points": 21.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 116.93999999999998
+  },
   "source": "html_scraping"
 }

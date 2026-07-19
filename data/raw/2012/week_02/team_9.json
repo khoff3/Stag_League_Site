@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Matt Ryan",
       "nfl_team": "ATL",
       "game_result": "Win",
@@ -13,16 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 18.66,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "310"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Arian Foster",
       "nfl_team": "HOU",
       "game_result": "Win",
@@ -34,20 +33,16 @@
       "rushing_tds": 1,
       "receiving_yards": 37,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 20.7,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "79555"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Steven Jackson",
       "nfl_team": "STL",
-      "game_result": "WAS",
-      "status": "Sun 1:05 pmGet Tickets",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -55,15 +50,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 5.8,
-      "lineup_status": "starter",
-      "player_id": "2505936"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Hakeem Nicks",
       "nfl_team": "NYG",
       "game_result": "Win",
@@ -75,16 +69,14 @@
       "rushing_tds": 0,
       "receiving_yards": 199,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 25.9,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "80672"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Brandon LaFell",
       "nfl_team": "CAR",
       "game_result": "Win",
@@ -96,15 +88,14 @@
       "rushing_tds": 0,
       "receiving_yards": 90,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 11.5,
-      "lineup_status": "starter",
-      "player_id": "497302"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Brandon Pettigrew",
       "nfl_team": "DET",
       "game_result": "Loss",
@@ -116,16 +107,14 @@
       "rushing_tds": 0,
       "receiving_yards": 18,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 7.8,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "71431"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "W/R",
+      "lineup_status": "starter",
       "name": "Dez Bryant",
       "nfl_team": "DAL",
       "game_result": "Loss",
@@ -137,15 +126,14 @@
       "rushing_tds": 0,
       "receiving_yards": 17,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 1.7,
-      "lineup_status": "starter",
-      "player_id": "497278"
+      "player_type": "offense"
     },
     {
-      "position": "TE",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Jermaine Gresham",
       "nfl_team": "CIN",
       "game_result": "Win",
@@ -157,15 +145,14 @@
       "rushing_tds": 0,
       "receiving_yards": 37,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 3.7,
-      "lineup_status": "starter",
-      "player_id": "497238"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Titus Young",
       "nfl_team": "DET",
       "game_result": "Loss",
@@ -177,15 +164,14 @@
       "rushing_tds": 0,
       "receiving_yards": 11,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 1.1,
-      "lineup_status": "starter",
-      "player_id": "2495253"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Cedric Benson",
       "nfl_team": "GB",
       "game_result": "Win",
@@ -197,19 +183,16 @@
       "rushing_tds": 0,
       "receiving_yards": 35,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 11.6,
-      "lineup_status": "starter",
-      "player_id": "2506343"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Isaiah Pead",
       "nfl_team": "STL",
-      "game_result": "WAS",
-      "status": "Sun 1:05 pmGet Tickets",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -217,19 +200,16 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2532926"
+      "player_type": "offense"
     },
     {
-      "position": "QB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Robert Griffin III",
       "nfl_team": "WAS",
-      "game_result": "@LAR",
-      "status": "Sun 1:05 pmGet Tickets",
       "passing_yards": 206,
       "passing_tds": 1,
       "interceptions": 1,
@@ -237,14 +217,66 @@
       "rushing_tds": 2,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 30.44,
-      "touchdowns": 3,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2533033"
+      "name": "Jason Hanson",
+      "nfl_team": "DET",
+      "game_result": "Loss",
+      "game_score": "19-27",
+      "fg_made": 4,
+      "fg_0_19": 0,
+      "fg_20_29": 0,
+      "fg_30_39": 1,
+      "fg_40_49": 3,
+      "fg_50_plus": 0,
+      "fantasy_points": 13.0,
+      "player_type": "kicker",
+      "pat_made": 1
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Buffalo Bills",
+      "nfl_team": "Buffalo Bills",
+      "game_result": "Win",
+      "game_score": "35-17",
+      "sacks": 5,
+      "interceptions": 1,
+      "fumble_recoveries": 2,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 17,
+      "fantasy_points": 18.0,
+      "player_type": "defense"
+    },
+    {
+      "position": "BN",
+      "lineup_status": "bench",
+      "name": "Philadelphia Eagles",
+      "nfl_team": "Philadelphia Eagles",
+      "game_result": "Win",
+      "game_score": "24-23",
+      "sacks": 2,
+      "interceptions": 1,
+      "fumble_recoveries": 1,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 23,
+      "fantasy_points": 6.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 123.06
+  },
   "source": "html_scraping"
 }

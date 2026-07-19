@@ -1,0 +1,241 @@
+[
+ {
+  "avatar": "8fa7f4b20ea03293c94073c79de86e9f",
+  "display_name": "JimDurango",
+  "is_bot": false,
+  "is_owner": true,
+  "league_id": "999467762558763008",
+  "metadata": {
+   "allow_pn": "on",
+   "avatar": "https://sleepercdn.com/uploads/05ad5ee4afe81cd7a4ccb438ba6091c5.jpg",
+   "mascot_message": "off",
+   "mention_pn": "on",
+   "player_like_pn": "off",
+   "player_nickname_update": "off",
+   "team_name": "The Autoberts",
+   "team_name_update": "off",
+   "trade_block_pn": "off",
+   "transaction_commissioner": "off",
+   "transaction_free_agent": "off",
+   "transaction_trade": "off",
+   "transaction_waiver": "off",
+   "user_message_pn": "on"
+  },
+  "settings": null,
+  "user_id": "359169584928079872"
+ },
+ {
+  "avatar": "68dcadbe2d7472fbf127be83fb20faf9",
+  "display_name": "Zuce",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "999467762558763008",
+  "metadata": {
+   "allow_pn": "on",
+   "avatar": "https://sleepercdn.com/uploads/5c0140cfc56e5f8b1e6e48978169dc5e",
+   "mascot_message": "off",
+   "mention_pn": "on",
+   "player_like_pn": "off",
+   "player_nickname_update": "off",
+   "team_name": "Attila Ja Han",
+   "team_name_update": "off",
+   "trade_block_pn": "off",
+   "transaction_commissioner": "off",
+   "transaction_free_agent": "on",
+   "transaction_trade": "on",
+   "transaction_waiver": "on",
+   "user_message_pn": "on"
+  },
+  "settings": null,
+  "user_id": "443647917618622464"
+ },
+ {
+  "avatar": "15d7cf259bc30eab8f6120f45f652fb6",
+  "display_name": "FunGuy95",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "999467762558763008",
+  "metadata": {
+   "allow_pn": "on",
+   "archived": "off",
+   "avatar": "https://sleepercdn.com/uploads/5e0a51e6f52a5ae5a25d6f94a8d961c9.jpg",
+   "mascot_message": "on",
+   "mention_pn": "on",
+   "player_like_pn": "on",
+   "player_nickname_update": "on",
+   "team_name": "Life of Brian",
+   "team_name_update": "on",
+   "trade_block_pn": "on",
+   "transaction_commissioner": "on",
+   "transaction_free_agent": "on",
+   "transaction_trade": "on",
+   "transaction_waiver": "on",
+   "user_message_pn": "on"
+  },
+  "settings": null,
+  "user_id": "712883300800233472"
+ },
+ {
+  "avatar": "8fa7f4b20ea03293c94073c79de86e9f",
+  "display_name": "RufusAngelo",
+  "is_bot": false,
+  "is_owner": true,
+  "league_id": "999467762558763008",
+  "metadata": {
+   "allow_pn": "on",
+   "archived": "off",
+   "avatar": "https://sleepercdn.com/uploads/cfff1996293aa4d368f70f54c5941524.jpg",
+   "league_report_pn": "off",
+   "mascot_message": "on",
+   "mention_pn": "on",
+   "player_like_pn": "on",
+   "player_nickname_update": "on",
+   "team_name": "Here Comes the Sun God",
+   "team_name_update": "on",
+   "trade_block_pn": "on",
+   "transaction_commissioner": "on",
+   "transaction_free_agent": "on",
+   "transaction_trade": "on",
+   "transaction_waiver": "on",
+   "user_message_pn": "on"
+  },
+  "settings": null,
+  "user_id": "738191582183985152"
+ },
+ {
+  "avatar": "e7af4deab0289b4f5505646424895246",
+  "display_name": "ryancarroll09",
+  "is_bot": false,
+  "is_owner": true,
+  "league_id": "999467762558763008",
+  "metadata": {
+   "allow_pn": "off",
+   "avatar": "https://sleepercdn.com/uploads/9f5aac00822cb0c739414e5bc4927fe6",
+   "mascot_message": "off",
+   "mention_pn": "on",
+   "player_like_pn": "off",
+   "player_nickname_update": "off",
+   "team_name": "Sharpest in the Shaheed",
+   "team_name_update": "off",
+   "trade_block_pn": "off",
+   "transaction_commissioner": "off",
+   "transaction_free_agent": "off",
+   "transaction_trade": "on",
+   "transaction_waiver": "off",
+   "user_message_pn": "off"
+  },
+  "settings": null,
+  "user_id": "738280058405437440"
+ },
+ {
+  "avatar": "f51988ec8c006f591fa3d0939563a481",
+  "display_name": "rafaelbung",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "999467762558763008",
+  "metadata": {
+   "allow_pn": "on",
+   "avatar": "https://sleepercdn.com/uploads/9f3ae239362db6ea41ab6eb7d5739ade.jpg",
+   "mascot_message": "off",
+   "mention_pn": "on",
+   "player_like_pn": "off",
+   "player_nickname_update": "off",
+   "team_name": "I\u2019m Joshin\u2019, I\u2019m Joshin\u2019!",
+   "team_name_update": "off",
+   "trade_block_pn": "off",
+   "transaction_commissioner": "off",
+   "transaction_free_agent": "off",
+   "transaction_trade": "on",
+   "transaction_waiver": "on",
+   "user_message_pn": "on"
+  },
+  "settings": null,
+  "user_id": "738291491604164608"
+ },
+ {
+  "avatar": "b319fdf8b7b5b0359d3c78622ba4d70c",
+  "display_name": "mangycat",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "999467762558763008",
+  "metadata": {
+   "allow_pn": "on",
+   "avatar": "https://sleepercdn.com/uploads/23e6efd7a3c9f0738f9c11fdc4ce4b61",
+   "mention_pn": "on",
+   "team_name": "Fndmntls of Fields Eclgy"
+  },
+  "settings": null,
+  "user_id": "741148967848542208"
+ },
+ {
+  "avatar": "c0623961a6e51b9eff1e1b5297239bc6",
+  "display_name": "sweatmastadelux",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "999467762558763008",
+  "metadata": {
+   "allow_pn": "on",
+   "mention_pn": "on",
+   "team_name": "Hydro Hitsquad"
+  },
+  "settings": null,
+  "user_id": "741149489783607296"
+ },
+ {
+  "avatar": "bca1cb459e67701e096f288013669913",
+  "display_name": "teamteza",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "999467762558763008",
+  "metadata": {
+   "allow_pn": "on",
+   "avatar": "https://sleepercdn.com/uploads/d1f3a68e54927317e69a4885ee3474e3.jpg",
+   "mention_pn": "on",
+   "team_name": "Big Tua-na"
+  },
+  "settings": null,
+  "user_id": "868285567937458176"
+ },
+ {
+  "avatar": "82aec8e811b839b8ec25d7b458afd57b",
+  "display_name": "nobodypickjulio",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "999467762558763008",
+  "metadata": {
+   "allow_pn": "on",
+   "avatar": "https://sleepercdn.com/uploads/939dd41a23a6b48b7534cbd41c58370d.jpg",
+   "mention_pn": "on",
+   "team_name": "Bijan De Replay"
+  },
+  "settings": null,
+  "user_id": "871866280670638080"
+ },
+ {
+  "avatar": "8eb8f8bf999945d523f2c4033f70473e",
+  "display_name": "benjyam125",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "999467762558763008",
+  "metadata": {
+   "allow_pn": "on",
+   "mention_pn": "on",
+   "team_name": "Ekeler? I Hardly Know Her"
+  },
+  "settings": null,
+  "user_id": "994908260526338048"
+ },
+ {
+  "avatar": "b319fdf8b7b5b0359d3c78622ba4d70c",
+  "display_name": "VoodooFerrarri",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "999467762558763008",
+  "metadata": {
+   "allow_pn": "on",
+   "mention_pn": "on"
+  },
+  "settings": null,
+  "user_id": "1002675635132674048"
+ }
+]

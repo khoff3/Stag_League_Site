@@ -1,0 +1,261 @@
+[
+ {
+  "avatar": "62c9f94edff8f9cc7acab6e631cc0b1a",
+  "display_name": "JimDurango",
+  "is_bot": false,
+  "is_owner": true,
+  "league_id": "1257058859575422976",
+  "metadata": {
+   "allow_pn": "on",
+   "archived": "off",
+   "avatar": "https://sleepercdn.com/uploads/55b3e0cb45a8c3b501dddcec9f1ebd90.jpg",
+   "mascot_message": "off",
+   "mention_pn": "on",
+   "player_like_pn": "off",
+   "player_nickname_update": "off",
+   "team_name": "Dungeon Crawler Caleb",
+   "team_name_update": "off",
+   "trade_block_pn": "off",
+   "transaction_commissioner": "off",
+   "transaction_free_agent": "off",
+   "transaction_trade": "off",
+   "transaction_waiver": "off",
+   "user_message_pn": "on"
+  },
+  "settings": null,
+  "user_id": "359169584928079872"
+ },
+ {
+  "avatar": "68dcadbe2d7472fbf127be83fb20faf9",
+  "display_name": "Zuce",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1257058859575422976",
+  "metadata": {
+   "allow_pn": "on",
+   "archived": "off",
+   "avatar": "https://sleepercdn.com/uploads/3224aa6d936be30f03323e898dd33c7b",
+   "league_report_pn": "on",
+   "mascot_message": "off",
+   "mention_pn": "on",
+   "player_like_pn": "off",
+   "player_nickname_update": "off",
+   "team_name": "LEEEEROY JUDKINS ",
+   "team_name_update": "off",
+   "trade_block_pn": "off",
+   "transaction_commissioner": "off",
+   "transaction_free_agent": "on",
+   "transaction_trade": "on",
+   "transaction_waiver": "on",
+   "user_message_pn": "on"
+  },
+  "settings": null,
+  "user_id": "443647917618622464"
+ },
+ {
+  "avatar": "15d7cf259bc30eab8f6120f45f652fb6",
+  "display_name": "FunGuy95",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1257058859575422976",
+  "metadata": {
+   "allow_pn": "on",
+   "archived": "off",
+   "avatar": "https://sleepercdn.com/uploads/3e831e4cb5f9c6198de6cbc034e729cf.jpg",
+   "mascot_message": "on",
+   "mention_pn": "on",
+   "player_like_pn": "on",
+   "player_nickname_update": "on",
+   "team_name": "Drake\u2019s Passage",
+   "team_name_update": "on",
+   "trade_block_pn": "on",
+   "transaction_commissioner": "on",
+   "transaction_free_agent": "on",
+   "transaction_trade": "on",
+   "transaction_waiver": "on",
+   "user_message_pn": "on"
+  },
+  "settings": null,
+  "user_id": "712883300800233472"
+ },
+ {
+  "avatar": "38bb455a5d82a91e638d22f809c49b45",
+  "display_name": "RufusAngelo",
+  "is_bot": false,
+  "is_owner": true,
+  "league_id": "1257058859575422976",
+  "metadata": {
+   "allow_pn": "on",
+   "archived": "off",
+   "avatar": "https://sleepercdn.com/uploads/39251d99499590d34c214197bd8511af",
+   "league_report_pn": "on",
+   "mascot_message": "on",
+   "mention_pn": "on",
+   "player_like_pn": "on",
+   "player_nickname_update": "on",
+   "team_name": "Rippin' Darts",
+   "team_name_update": "on",
+   "trade_block_pn": "on",
+   "transaction_commissioner": "on",
+   "transaction_free_agent": "on",
+   "transaction_trade": "on",
+   "transaction_waiver": "on",
+   "user_message_pn": "on"
+  },
+  "settings": null,
+  "user_id": "738191582183985152"
+ },
+ {
+  "avatar": "e7af4deab0289b4f5505646424895246",
+  "display_name": "ryancarroll09",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1257058859575422976",
+  "metadata": {
+   "allow_pn": "on",
+   "avatar": "https://sleepercdn.com/uploads/4b2116da9d99fe0d6f4e0fee2514e704",
+   "league_report_pn": "off",
+   "mascot_message": "off",
+   "mention_pn": "on",
+   "player_like_pn": "off",
+   "player_nickname_update": "off",
+   "team_name": "The Dark Knight Rises",
+   "team_name_update": "off",
+   "trade_block_pn": "off",
+   "transaction_commissioner": "off",
+   "transaction_free_agent": "off",
+   "transaction_trade": "on",
+   "transaction_waiver": "off",
+   "user_message_pn": "off"
+  },
+  "settings": null,
+  "user_id": "738280058405437440"
+ },
+ {
+  "avatar": "f51988ec8c006f591fa3d0939563a481",
+  "display_name": "rafaelbung",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1257058859575422976",
+  "metadata": {
+   "allow_pn": "on",
+   "avatar": "https://sleepercdn.com/uploads/4f3920d5ae0a70f906097c6881b51529.jpg",
+   "mascot_message": "off",
+   "mention_pn": "on",
+   "player_like_pn": "off",
+   "player_nickname_update": "off",
+   "team_name": "Ja\u2019Marry Christmas",
+   "team_name_update": "off",
+   "trade_block_pn": "off",
+   "transaction_commissioner": "off",
+   "transaction_free_agent": "off",
+   "transaction_trade": "on",
+   "transaction_waiver": "on",
+   "user_message_pn": "on"
+  },
+  "settings": null,
+  "user_id": "738291491604164608"
+ },
+ {
+  "avatar": "b319fdf8b7b5b0359d3c78622ba4d70c",
+  "display_name": "mangycat",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1257058859575422976",
+  "metadata": {
+   "allow_pn": "on",
+   "avatar": "https://sleepercdn.com/uploads/e69dc023c9973f1af337c25167ea0f01",
+   "mention_pn": "on",
+   "team_name": "\"O, Marion!\""
+  },
+  "settings": null,
+  "user_id": "741148967848542208"
+ },
+ {
+  "avatar": "c0623961a6e51b9eff1e1b5297239bc6",
+  "display_name": "sweatmastadelux",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1257058859575422976",
+  "metadata": {
+   "allow_pn": "on",
+   "archived": "off",
+   "avatar": "https://sleepercdn.com/uploads/326948d667210d8a1311e94e8bfe09fa.jpg",
+   "league_report_pn": "on",
+   "mascot_message": "on",
+   "mention_pn": "on",
+   "player_like_pn": "off",
+   "player_nickname_update": "off",
+   "team_name": "Rivers Rising",
+   "team_name_update": "off",
+   "trade_block_pn": "off",
+   "transaction_commissioner": "off",
+   "transaction_free_agent": "off",
+   "transaction_trade": "on",
+   "transaction_waiver": "off",
+   "user_message_pn": "on"
+  },
+  "settings": null,
+  "user_id": "741149489783607296"
+ },
+ {
+  "avatar": "bca1cb459e67701e096f288013669913",
+  "display_name": "teamteza",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1257058859575422976",
+  "metadata": {
+   "allow_pn": "on",
+   "allow_sms": "on",
+   "avatar": "https://sleepercdn.com/uploads/7610b8d2c39a50770f9078715268e9dd.jpg",
+   "mention_pn": "on",
+   "team_name": "I\u2019m Odunze For "
+  },
+  "settings": null,
+  "user_id": "868285567937458176"
+ },
+ {
+  "avatar": "82aec8e811b839b8ec25d7b458afd57b",
+  "display_name": "nobodypickjulio",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1257058859575422976",
+  "metadata": {
+   "allow_pn": "on",
+   "avatar": "https://sleepercdn.com/uploads/28e11ab40cf989eca220f9ec7b498da5.jpg",
+   "mention_pn": "on",
+   "team_name": "Pre-Lamarital Sex"
+  },
+  "settings": null,
+  "user_id": "871866280670638080"
+ },
+ {
+  "avatar": "8eb8f8bf999945d523f2c4033f70473e",
+  "display_name": "benjyam125",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1257058859575422976",
+  "metadata": {
+   "allow_pn": "on",
+   "avatar": "https://sleepercdn.com/uploads/a328a0aad7005c318a1b19122cf7c25a",
+   "mention_pn": "on",
+   "team_name": "Kimani Code"
+  },
+  "settings": null,
+  "user_id": "994908260526338048"
+ },
+ {
+  "avatar": "b319fdf8b7b5b0359d3c78622ba4d70c",
+  "display_name": "VoodooFerrarri",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1257058859575422976",
+  "metadata": {
+   "allow_pn": "on",
+   "mention_pn": "on",
+   "team_name": "Better Than The Saints "
+  },
+  "settings": null,
+  "user_id": "1002675635132674048"
+ }
+]

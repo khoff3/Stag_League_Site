@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Andrew Luck",
       "nfl_team": "IND",
       "game_result": "Win",
@@ -13,16 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 16.1,
-      "touchdowns": 2,
-      "lineup_status": "starter",
-      "player_id": "2533031"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Matt Forte",
       "nfl_team": "CHI",
       "game_result": "Win",
@@ -34,15 +33,14 @@
       "rushing_tds": 0,
       "receiving_yards": 4,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 13.1,
-      "lineup_status": "starter",
-      "player_id": "234"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "DeMarco Murray",
       "nfl_team": "DAL",
       "game_result": "Loss",
@@ -54,16 +52,14 @@
       "rushing_tds": 1,
       "receiving_yards": 19,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 21.3,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2495207"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Calvin Johnson",
       "nfl_team": "DET",
       "game_result": "Loss",
@@ -75,15 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 98,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 9.8,
-      "lineup_status": "starter",
-      "player_id": "2495647"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Vincent Jackson",
       "nfl_team": "TB",
       "game_result": "Loss",
@@ -95,16 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 58,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 11.8,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2506400"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Coby Fleener",
       "nfl_team": "IND",
       "game_result": "Win",
@@ -116,15 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2532838"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "W/R",
+      "lineup_status": "starter",
       "name": "Mike Wallace",
       "nfl_team": "MIA",
       "game_result": "Win",
@@ -136,16 +128,14 @@
       "rushing_tds": 0,
       "receiving_yards": 105,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 17.8,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2507763"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Tiquan Underwood",
       "nfl_team": "TB",
       "game_result": "Loss",
@@ -157,15 +147,14 @@
       "rushing_tds": 0,
       "receiving_yards": 15,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 1.5,
-      "lineup_status": "starter",
-      "player_id": "71491"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Denarius Moore",
       "nfl_team": "LV",
       "game_result": "Loss",
@@ -177,15 +166,14 @@
       "rushing_tds": 0,
       "receiving_yards": 46,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 4.6,
-      "lineup_status": "starter",
-      "player_id": "2495315"
+      "player_type": "offense"
     },
     {
-      "position": "QB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Ben Roethlisberger",
       "nfl_team": "PIT",
       "game_result": "Win",
@@ -197,16 +185,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 9.64,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2506109"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Mike Tolbert",
       "nfl_team": "CAR",
       "game_result": "Win",
@@ -218,16 +204,14 @@
       "rushing_tds": 1,
       "receiving_yards": 7,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 8.5,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2507428"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Michael Floyd",
       "nfl_team": "ARI",
       "game_result": "Win",
@@ -239,15 +223,14 @@
       "rushing_tds": 0,
       "receiving_yards": 33,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 3.3,
-      "lineup_status": "starter",
-      "player_id": "2532841"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Dennis Johnson",
       "nfl_team": "HOU",
       "game_result": "Loss",
@@ -259,13 +242,50 @@
       "rushing_tds": 0,
       "receiving_yards": 3,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 1.5,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2539936"
+      "name": "Justin Tucker",
+      "nfl_team": "BAL",
+      "game_result": "Win",
+      "game_score": "18-16",
+      "fg_made": 6,
+      "fg_0_19": 0,
+      "fg_20_29": 2,
+      "fg_30_39": 1,
+      "fg_40_49": 1,
+      "fg_50_plus": 2,
+      "fantasy_points": 22.0,
+      "player_type": "kicker",
+      "pat_made": 0
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Dallas Cowboys",
+      "nfl_team": "Dallas Cowboys",
+      "game_result": "Loss",
+      "game_score": "36-37",
+      "sacks": 2,
+      "interceptions": 1,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 37,
+      "fantasy_points": 0.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 111.89999999999999
+  },
   "source": "html_scraping"
 }

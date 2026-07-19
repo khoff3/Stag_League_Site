@@ -1,0 +1,1391 @@
+game_id,season,week,home_team_id,away_team_id,home_points,away_points,is_playoff,game_type,round_name,source
+20110112,2011,1,1,2,94.28,130.98,False,regular,,scraped
+201101310,2011,1,3,10,99.76,92.76,False,regular,,scraped
+20110149,2011,1,4,9,90.4,100.68,False,regular,,scraped
+20110158,2011,1,5,8,91.82,109.5,False,regular,,scraped
+20110167,2011,1,6,7,105.88,110.5,False,regular,,scraped
+201102105,2011,2,10,5,86.58,108.78,False,regular,,scraped
+20110224,2011,2,2,4,122.72,109.0,False,regular,,scraped
+20110231,2011,2,3,1,74.0,105.28,False,regular,,scraped
+20110287,2011,2,8,7,142.4,99.32,False,regular,,scraped
+20110296,2011,2,9,6,124.7,127.52,False,regular,,scraped
+20110314,2011,3,1,4,77.64,58.8,False,regular,,scraped
+20110353,2011,3,5,3,95.32,79.5,False,regular,,scraped
+20110362,2011,3,6,2,102.78,135.28,False,regular,,scraped
+201103710,2011,3,7,10,79.74,80.2,False,regular,,scraped
+20110389,2011,3,8,9,69.8,107.18,False,regular,,scraped
+201104109,2011,4,10,9,101.74,89.64,False,regular,,scraped
+20110428,2011,4,2,8,133.04,66.8,False,regular,,scraped
+20110437,2011,4,3,7,74.24,120.08,False,regular,,scraped
+20110446,2011,4,4,6,76.02,119.62,False,regular,,scraped
+20110451,2011,4,5,1,114.56,106.64,False,regular,,scraped
+201105102,2011,5,10,2,44.48,96.34,False,regular,,scraped
+20110516,2011,5,1,6,112.3,83.64,False,regular,,scraped
+20110575,2011,5,7,5,118.1,123.46,False,regular,,scraped
+20110584,2011,5,8,4,93.5,89.64,False,regular,,scraped
+20110593,2011,5,9,3,80.28,75.36,False,regular,,scraped
+20110632,2011,6,3,2,88.52,78.26,False,regular,,scraped
+201106410,2011,6,4,10,59.5,89.14,False,regular,,scraped
+20110659,2011,6,5,9,99.28,107.78,False,regular,,scraped
+20110668,2011,6,6,8,107.14,69.1,False,regular,,scraped
+20110671,2011,6,7,1,71.78,104.38,False,regular,,scraped
+201107106,2011,7,10,6,109.38,94.5,False,regular,,scraped
+20110718,2011,7,1,8,86.24,61.3,False,regular,,scraped
+20110725,2011,7,2,5,71.94,75.04,False,regular,,scraped
+20110734,2011,7,3,4,83.3,85.44,False,regular,,scraped
+20110797,2011,7,9,7,61.54,102.16,False,regular,,scraped
+20110854,2011,8,5,4,99.4,86.0,False,regular,,scraped
+20110863,2011,8,6,3,96.38,48.16,False,regular,,scraped
+20110872,2011,8,7,2,91.36,92.42,False,regular,,scraped
+201108810,2011,8,8,10,65.6,71.24,False,regular,,scraped
+20110891,2011,8,9,1,92.72,103.86,False,regular,,scraped
+201109110,2011,9,1,10,112.02,85.8,False,regular,,scraped
+20110929,2011,9,2,9,109.68,86.56,False,regular,,scraped
+20110938,2011,9,3,8,46.62,53.7,False,regular,,scraped
+20110947,2011,9,4,7,58.76,96.0,False,regular,,scraped
+20110956,2011,9,5,6,94.54,116.28,False,regular,,scraped
+201110103,2011,10,10,3,117.14,106.98,False,regular,,scraped
+20111021,2011,10,2,1,78.66,68.82,False,regular,,scraped
+20111076,2011,10,7,6,92.66,108.1,False,regular,,scraped
+20111085,2011,10,8,5,52.6,74.62,False,regular,,scraped
+20111094,2011,10,9,4,101.7,94.78,False,regular,,scraped
+20111113,2011,11,1,3,66.36,94.56,False,regular,,scraped
+20111142,2011,11,4,2,79.88,107.86,False,regular,,scraped
+201111510,2011,11,5,10,113.5,78.04,False,regular,,scraped
+20111169,2011,11,6,9,112.26,95.28,False,regular,,scraped
+20111178,2011,11,7,8,81.6,60.5,False,regular,,scraped
+201112107,2011,12,10,7,88.68,86.72,False,regular,,scraped
+20111226,2011,12,2,6,151.44,86.28,False,regular,,scraped
+20111235,2011,12,3,5,123.62,71.22,False,regular,,scraped
+20111241,2011,12,4,1,75.02,110.52,False,regular,,scraped
+20111298,2011,12,9,8,86.34,45.9,False,regular,,scraped
+20111315,2011,13,1,5,85.28,131.76,False,regular,,scraped
+20111364,2011,13,6,4,97.96,83.54,False,regular,,scraped
+20111373,2011,13,7,3,100.86,118.08,False,regular,,scraped
+20111382,2011,13,8,2,57.6,118.06,False,regular,,scraped
+201113910,2011,13,9,10,123.96,60.98,False,regular,,scraped
+201114210,2011,14,2,10,123.38,133.4,False,regular,,scraped
+20111439,2011,14,3,9,90.78,132.44,True,consolation,Consolation,scraped
+20111448,2011,14,4,8,104.7,80.5,True,toilet_bowl,Toilet Bowl,scraped
+20111457,2011,14,5,7,90.04,107.3,False,regular,,scraped
+20111461,2011,14,6,1,93.44,98.42,False,regular,,scraped
+201115107,2011,15,10,7,93.96,116.6,True,consolation,Consolation Round 1,scraped
+20111526,2011,15,2,6,98.4,74.0,True,winners,Winners Round 1,scraped
+20111551,2011,15,5,1,120.06,113.86,True,winners,Winners Round 1,scraped
+20111593,2011,15,9,3,89.26,91.58,True,consolation,Consolation Round 1,scraped
+20111601,2011,16,3,7,109.88,91.66,True,toilet_bowl,Toilet Bowl,scraped
+20111602,2011,16,9,10,86.7,113.92,True,consolation,Consolation,scraped
+20111603,2011,16,2,5,124.06,102.34,True,championship,Championship,scraped
+20111604,2011,16,6,1,111.42,77.9,True,third_place,Third Place,scraped
+2012011110,2012,1,11,10,86.58,90.46,False,regular,,scraped
+201201128,2012,1,12,8,101.52,88.32,False,regular,,scraped
+20120129,2012,1,2,9,102.44,105.86,False,regular,,scraped
+20120131,2012,1,3,1,72.62,83.7,False,regular,,scraped
+20120157,2012,1,5,7,98.66,99.84,False,regular,,scraped
+20120164,2012,1,6,4,104.5,99.14,False,regular,,scraped
+201202110,2012,2,1,10,113.0,59.1,False,regular,,scraped
+20120236,2012,2,3,6,89.02,82.8,False,regular,,scraped
+201202412,2012,2,4,12,87.94,70.36,False,regular,,scraped
+20120272,2012,2,7,2,88.26,68.44,False,regular,,scraped
+201202811,2012,2,8,11,89.8,99.44,False,regular,,scraped
+20120295,2012,2,9,5,123.06,121.44,False,regular,,scraped
+201203104,2012,3,10,4,56.2,72.4,False,regular,,scraped
+20120317,2012,3,1,7,131.66,81.22,False,regular,,scraped
+20120323,2012,3,2,3,76.82,86.18,False,regular,,scraped
+20120358,2012,3,5,8,92.9,85.42,False,regular,,scraped
+201203612,2012,3,6,12,56.32,88.72,False,regular,,scraped
+201203911,2012,3,9,11,89.54,112.18,False,regular,,scraped
+201204109,2012,4,10,9,103.64,84.42,False,regular,,scraped
+201204122,2012,4,12,2,118.76,80.78,False,regular,,scraped
+20120416,2012,4,1,6,86.4,128.64,False,regular,,scraped
+20120434,2012,4,3,4,106.2,134.9,False,regular,,scraped
+201204511,2012,4,5,11,125.02,85.34,False,regular,,scraped
+20120487,2012,4,8,7,89.86,74.56,False,regular,,scraped
+201205114,2012,5,11,4,95.0,97.72,False,regular,,scraped
+20120519,2012,5,1,9,105.7,78.9,False,regular,,scraped
+201205312,2012,5,3,12,124.24,105.7,False,regular,,scraped
+20120556,2012,5,5,6,71.58,89.08,False,regular,,scraped
+201205710,2012,5,7,10,75.66,132.5,False,regular,,scraped
+20120582,2012,5,8,2,84.16,59.06,False,regular,,scraped
+201206103,2012,6,10,3,89.42,63.0,False,regular,,scraped
+201206117,2012,6,11,7,123.34,89.64,False,regular,,scraped
+201206121,2012,6,12,1,106.92,102.02,False,regular,,scraped
+20120625,2012,6,2,5,76.98,108.26,False,regular,,scraped
+20120668,2012,6,6,8,64.26,68.72,False,regular,,scraped
+20120694,2012,6,9,4,64.96,95.9,False,regular,,scraped
+2012071012,2012,7,10,12,87.18,65.68,False,regular,,scraped
+201207111,2012,7,1,11,71.72,75.0,False,regular,,scraped
+20120748,2012,7,4,8,98.36,83.88,False,regular,,scraped
+20120753,2012,7,5,3,82.32,96.52,False,regular,,scraped
+20120762,2012,7,6,2,64.18,130.54,False,regular,,scraped
+20120797,2012,7,9,7,73.02,46.0,False,regular,,scraped
+20120814,2012,8,1,4,81.88,135.16,False,regular,,scraped
+201208210,2012,8,2,10,54.76,99.12,False,regular,,scraped
+20120837,2012,8,3,7,84.76,77.46,False,regular,,scraped
+201208512,2012,8,5,12,83.4,85.44,False,regular,,scraped
+201208611,2012,8,6,11,110.18,71.04,False,regular,,scraped
+20120889,2012,8,8,9,64.38,61.38,False,regular,,scraped
+201209105,2012,9,10,5,134.56,90.74,False,regular,,scraped
+201209113,2012,9,11,3,102.88,68.84,False,regular,,scraped
+20120918,2012,9,1,8,102.54,51.9,False,regular,,scraped
+20120942,2012,9,4,2,112.76,83.74,False,regular,,scraped
+20120969,2012,9,6,9,91.8,68.3,False,regular,,scraped
+201209712,2012,9,7,12,83.6,133.42,False,regular,,scraped
+201210108,2012,10,10,8,91.52,121.56,False,regular,,scraped
+2012101112,2012,10,11,12,98.9,69.0,False,regular,,scraped
+20121012,2012,10,1,2,99.86,83.54,False,regular,,scraped
+20121039,2012,10,3,9,77.18,103.94,False,regular,,scraped
+20121054,2012,10,5,4,100.46,73.48,False,regular,,scraped
+20121076,2012,10,7,6,80.98,93.36,False,regular,,scraped
+201211211,2012,11,2,11,80.2,89.7,False,regular,,scraped
+20121147,2012,11,4,7,97.44,99.88,False,regular,,scraped
+20121151,2012,11,5,1,106.12,61.44,False,regular,,scraped
+201211610,2012,11,6,10,72.44,87.46,False,regular,,scraped
+20121183,2012,11,8,3,81.1,77.98,False,regular,,scraped
+201211912,2012,11,9,12,81.34,59.94,False,regular,,scraped
+201212103,2012,12,10,3,73.0,116.94,False,regular,,scraped
+201212119,2012,12,11,9,106.24,142.66,False,regular,,scraped
+201212212,2012,12,2,12,63.5,74.46,False,regular,,scraped
+20121265,2012,12,6,5,72.7,93.94,False,regular,,scraped
+20121271,2012,12,7,1,68.84,83.74,False,regular,,scraped
+20121284,2012,12,8,4,90.3,137.92,False,regular,,scraped
+201213115,2012,13,11,5,119.22,88.12,False,regular,,scraped
+2012131210,2012,13,12,10,74.14,94.84,False,regular,,scraped
+20121331,2012,13,3,1,103.98,108.12,False,regular,,scraped
+20121346,2012,13,4,6,82.92,105.22,False,regular,,scraped
+20121387,2012,13,8,7,89.6,87.94,False,regular,,scraped
+20121392,2012,13,9,2,95.22,70.68,False,regular,,scraped
+201214127,2012,14,12,7,75.02,63.32,True,consolation,Consolation,scraped
+20121418,2012,14,1,8,94.4,94.66,False,regular,,scraped
+201214211,2012,14,2,11,89.0,126.12,False,regular,,scraped
+20121443,2012,14,4,3,77.64,116.68,False,regular,,scraped
+201214510,2012,14,5,10,116.82,85.16,False,regular,,scraped
+20121496,2012,14,9,6,86.88,106.86,True,consolation,Consolation,scraped
+2012151110,2012,15,11,10,142.5,63.26,True,winners,Winners Round 1,scraped
+201215128,2012,15,12,8,97.94,135.08,True,consolation,Consolation Round 1,scraped
+20121541,2012,15,4,1,69.52,65.86,True,winners,Winners Round 1,scraped
+20121565,2012,15,6,5,73.74,94.24,True,consolation,Consolation Round 1,scraped
+201216110,2012,16,1,10,95.1,101.38,True,third_place,Third Place,scraped
+201216411,2012,16,4,11,75.78,91.34,True,championship,Championship,scraped
+20121658,2012,16,5,8,163.74,70.12,True,consolation,Consolation,scraped
+201216612,2012,16,6,12,108.42,111.38,True,consolation,Consolation,scraped
+201301101,2013,1,10,1,93.58,148.08,False,regular,,scraped
+201301123,2013,1,12,3,123.62,81.9,False,regular,,scraped
+20130124,2013,1,2,4,119.88,90.86,False,regular,,scraped
+20130159,2013,1,5,9,101.48,68.5,False,regular,,scraped
+20130167,2013,1,6,7,73.76,103.82,False,regular,,scraped
+201301811,2013,1,8,11,97.54,112.72,False,regular,,scraped
+201302119,2013,2,11,9,67.04,59.96,False,regular,,scraped
+201302121,2013,2,12,1,92.0,78.28,False,regular,,scraped
+20130243,2013,2,4,3,161.46,96.08,False,regular,,scraped
+20130252,2013,2,5,2,73.12,100.58,False,regular,,scraped
+201302610,2013,2,6,10,101.6,94.58,False,regular,,scraped
+20130278,2013,2,7,8,107.84,128.42,False,regular,,scraped
+201303102,2013,3,10,2,76.08,93.16,False,regular,,scraped
+201303311,2013,3,3,11,63.0,84.74,False,regular,,scraped
+201303412,2013,3,4,12,110.44,57.46,False,regular,,scraped
+20130351,2013,3,5,1,84.4,78.6,False,regular,,scraped
+20130368,2013,3,6,8,72.04,89.06,False,regular,,scraped
+20130379,2013,3,7,9,122.16,91.02,False,regular,,scraped
+201304107,2013,4,10,7,100.72,89.68,False,regular,,scraped
+201304211,2013,4,2,11,111.78,67.74,False,regular,,scraped
+20130438,2013,4,3,8,117.02,109.86,False,regular,,scraped
+20130441,2013,4,4,1,128.74,91.58,False,regular,,scraped
+201304512,2013,4,5,12,107.88,101.64,False,regular,,scraped
+20130496,2013,4,9,6,79.58,94.88,False,regular,,scraped
+2013051211,2013,5,12,11,74.96,86.28,False,regular,,scraped
+201305310,2013,5,3,10,93.38,87.62,False,regular,,scraped
+20130557,2013,5,5,7,117.88,73.26,False,regular,,scraped
+20130564,2013,5,6,4,99.48,112.76,False,regular,,scraped
+20130582,2013,5,8,2,93.04,124.36,False,regular,,scraped
+20130591,2013,5,9,1,57.92,77.72,False,regular,,scraped
+20130612,2013,6,1,2,93.98,94.6,False,regular,,scraped
+20130639,2013,6,3,9,74.28,99.28,False,regular,,scraped
+20130647,2013,6,4,7,120.56,98.98,False,regular,,scraped
+201306511,2013,6,5,11,86.08,72.16,False,regular,,scraped
+201306612,2013,6,6,12,81.44,79.0,False,regular,,scraped
+201306810,2013,6,8,10,86.58,82.54,False,regular,,scraped
+201307117,2013,7,11,7,105.02,148.02,False,regular,,scraped
+2013071210,2013,7,12,10,74.2,67.44,False,regular,,scraped
+20130716,2013,7,1,6,85.2,74.62,False,regular,,scraped
+20130748,2013,7,4,8,60.12,95.4,False,regular,,scraped
+20130753,2013,7,5,3,52.62,95.1,False,regular,,scraped
+20130792,2013,7,9,2,60.56,104.14,False,regular,,scraped
+201308104,2013,8,10,4,98.38,121.24,False,regular,,scraped
+201308111,2013,8,11,1,84.24,83.96,False,regular,,scraped
+201308129,2013,8,12,9,91.34,113.94,False,regular,,scraped
+20130858,2013,8,5,8,70.52,112.2,False,regular,,scraped
+20130863,2013,8,6,3,62.68,120.96,False,regular,,scraped
+20130872,2013,8,7,2,86.2,87.46,False,regular,,scraped
+201309109,2013,9,10,9,65.98,79.46,False,regular,,scraped
+201309128,2013,9,12,8,73.78,92.12,False,regular,,scraped
+20130932,2013,9,3,2,96.58,122.54,False,regular,,scraped
+20130954,2013,9,5,4,104.3,63.36,False,regular,,scraped
+201309611,2013,9,6,11,146.44,89.32,False,regular,,scraped
+20130971,2013,9,7,1,95.34,128.3,False,regular,,scraped
+2013101011,2013,10,10,11,85.68,67.08,False,regular,,scraped
+201310212,2013,10,2,12,95.8,115.42,False,regular,,scraped
+20131056,2013,10,5,6,84.36,107.94,False,regular,,scraped
+20131073,2013,10,7,3,67.72,93.78,False,regular,,scraped
+20131081,2013,10,8,1,93.72,77.74,False,regular,,scraped
+20131094,2013,10,9,4,69.36,81.88,False,regular,,scraped
+201311111,2013,11,11,1,86.74,113.04,False,regular,,scraped
+201311129,2013,11,12,9,70.18,124.16,False,regular,,scraped
+20131125,2013,11,2,5,65.92,98.78,False,regular,,scraped
+20131143,2013,11,4,3,135.96,80.7,False,regular,,scraped
+201311610,2013,11,6,10,87.36,75.3,False,regular,,scraped
+20131178,2013,11,7,8,111.88,80.02,False,regular,,scraped
+201312114,2013,12,11,4,77.06,126.48,False,regular,,scraped
+20131226,2013,12,2,6,84.7,74.62,False,regular,,scraped
+20131231,2013,12,3,1,105.26,91.4,False,regular,,scraped
+201312510,2013,12,5,10,72.58,96.32,False,regular,,scraped
+201312712,2013,12,7,12,83.02,81.16,False,regular,,scraped
+20131298,2013,12,9,8,97.16,85.48,False,regular,,scraped
+201313119,2013,13,11,9,78.44,104.14,False,regular,,scraped
+201313121,2013,13,12,1,119.0,127.4,False,regular,,scraped
+20131327,2013,13,2,7,122.02,121.88,False,regular,,scraped
+201313410,2013,13,4,10,116.44,78.48,False,regular,,scraped
+20131363,2013,13,6,3,79.98,74.02,False,regular,,scraped
+20131385,2013,13,8,5,60.68,80.0,False,regular,,scraped
+2013141112,2013,14,11,12,97.42,79.6,False,regular,,scraped
+201314310,2013,14,3,10,77.26,90.22,True,toilet_bowl,Toilet Bowl,scraped
+20131457,2013,14,5,7,71.54,88.16,False,regular,,scraped
+20131464,2013,14,6,4,60.16,152.44,False,regular,,scraped
+20131482,2013,14,8,2,93.06,119.48,False,regular,,scraped
+20131491,2013,14,9,1,64.6,149.42,False,regular,,scraped
+20131525,2013,15,2,5,139.16,95.6,True,winners,Winners Round 1,scraped
+20131541,2013,15,4,1,66.9,108.92,True,winners,Winners Round 1,scraped
+20131567,2013,15,6,7,120.94,111.9,True,mediocre_bowl,Mediocre Bowl,scraped
+201315811,2013,15,8,11,89.44,87.46,True,mediocre_bowl,Mediocre Bowl,scraped
+201316117,2013,16,11,7,94.98,67.04,True,mediocre_bowl,Mediocre Bowl,scraped
+20131621,2013,16,2,1,126.5,118.88,True,championship,Championship,scraped
+20131654,2013,16,5,4,46.48,86.04,True,third_place,Third Place,scraped
+20131686,2013,16,8,6,67.44,77.98,True,mediocre_bowl,Mediocre Bowl,scraped
+201401105,2014,1,10,5,119.84,78.54,False,regular,,scraped
+201401111,2014,1,1,11,89.1,94.66,False,regular,,scraped
+201401129,2014,1,12,9,85.38,56.22,False,regular,,scraped
+20140127,2014,1,2,7,99.56,84.52,False,regular,,scraped
+20140138,2014,1,3,8,111.42,108.84,False,regular,,scraped
+20140164,2014,1,6,4,59.46,120.88,False,regular,,scraped
+201402109,2014,2,10,9,78.22,70.88,False,regular,,scraped
+201402113,2014,2,11,3,95.28,91.76,False,regular,,scraped
+20140218,2014,2,1,8,108.78,82.74,False,regular,,scraped
+20140226,2014,2,2,6,92.74,98.44,False,regular,,scraped
+201402512,2014,2,5,12,102.28,84.92,False,regular,,scraped
+20140274,2014,2,7,4,77.94,75.64,False,regular,,scraped
+2014031112,2014,3,11,12,78.32,97.16,False,regular,,scraped
+201403210,2014,3,2,10,79.5,80.6,False,regular,,scraped
+20140334,2014,3,3,4,52.84,82.2,False,regular,,scraped
+20140357,2014,3,5,7,78.32,120.64,False,regular,,scraped
+20140386,2014,3,8,6,84.74,97.98,False,regular,,scraped
+20140391,2014,3,9,1,88.72,88.4,False,regular,,scraped
+2014041110,2014,4,11,10,82.06,124.2,False,regular,,scraped
+20140413,2014,4,1,3,111.12,80.18,False,regular,,scraped
+20140424,2014,4,2,4,77.34,42.6,False,regular,,scraped
+20140459,2014,4,5,9,90.58,98.9,False,regular,,scraped
+20140467,2014,4,6,7,73.38,84.42,False,regular,,scraped
+201404812,2014,4,8,12,117.82,101.22,False,regular,,scraped
+201405106,2014,5,10,6,95.84,86.64,False,regular,,scraped
+201405112,2014,5,11,2,88.96,67.86,False,regular,,scraped
+20140514,2014,5,1,4,92.48,83.18,False,regular,,scraped
+201405312,2014,5,3,12,110.22,71.36,False,regular,,scraped
+20140585,2014,5,8,5,62.04,116.54,False,regular,,scraped
+20140597,2014,5,9,7,88.04,90.34,False,regular,,scraped
+201406107,2014,6,10,7,104.82,105.94,False,regular,,scraped
+201406112,2014,6,1,12,117.4,71.6,False,regular,,scraped
+201406119,2014,6,11,9,56.78,88.48,False,regular,,scraped
+20140625,2014,6,2,5,63.24,97.44,False,regular,,scraped
+20140636,2014,6,3,6,112.22,81.06,False,regular,,scraped
+20140648,2014,6,4,8,65.72,89.5,False,regular,,scraped
+2014071012,2014,7,10,12,107.74,78.86,False,regular,,scraped
+20140715,2014,7,1,5,97.26,136.82,False,regular,,scraped
+20140728,2014,7,2,8,51.9,58.76,False,regular,,scraped
+20140749,2014,7,4,9,112.0,79.48,False,regular,,scraped
+201407611,2014,7,6,11,85.8,98.12,False,regular,,scraped
+20140773,2014,7,7,3,69.92,83.2,False,regular,,scraped
+201408115,2014,8,11,5,107.04,94.06,False,regular,,scraped
+201408126,2014,8,12,6,58.56,103.62,False,regular,,scraped
+20140832,2014,8,3,2,117.38,104.98,False,regular,,scraped
+201408410,2014,8,4,10,90.94,147.6,False,regular,,scraped
+20140871,2014,8,7,1,87.6,98.9,False,regular,,scraped
+20140898,2014,8,9,8,113.14,119.6,False,regular,,scraped
+20140921,2014,9,2,1,93.36,112.46,False,regular,,scraped
+201409310,2014,9,3,10,72.42,69.98,False,regular,,scraped
+20140954,2014,9,5,4,66.76,61.54,False,regular,,scraped
+20140969,2014,9,6,9,115.82,77.38,False,regular,,scraped
+201409712,2014,9,7,12,78.02,99.72,False,regular,,scraped
+201409811,2014,9,8,11,132.76,101.52,False,regular,,scraped
+201410107,2014,10,10,7,108.0,98.86,False,regular,,scraped
+2014101211,2014,10,12,11,66.78,92.3,False,regular,,scraped
+20141034,2014,10,3,4,92.54,93.9,False,regular,,scraped
+20141052,2014,10,5,2,92.72,64.38,False,regular,,scraped
+20141068,2014,10,6,8,130.56,92.8,False,regular,,scraped
+20141091,2014,10,9,1,101.78,95.14,False,regular,,scraped
+201411117,2014,11,11,7,69.86,92.52,False,regular,,scraped
+20141116,2014,11,1,6,48.02,90.98,False,regular,,scraped
+201411412,2014,11,4,12,92.44,108.2,False,regular,,scraped
+20141153,2014,11,5,3,63.88,70.12,False,regular,,scraped
+201411810,2014,11,8,10,87.42,91.32,False,regular,,scraped
+20141192,2014,11,9,2,97.5,100.7,False,regular,,scraped
+201412101,2014,12,10,1,118.04,113.82,False,regular,,scraped
+201412114,2014,12,11,4,103.28,99.56,False,regular,,scraped
+201412212,2014,12,2,12,93.3,57.6,False,regular,,scraped
+20141265,2014,12,6,5,99.56,96.64,False,regular,,scraped
+20141287,2014,12,8,7,101.06,95.92,False,regular,,scraped
+20141293,2014,12,9,3,107.3,94.54,False,regular,,scraped
+201413111,2014,13,11,1,72.5,105.7,False,regular,,scraped
+201413210,2014,13,2,10,156.8,93.94,False,regular,,scraped
+20141336,2014,13,3,6,121.62,102.3,False,regular,,scraped
+20141348,2014,13,4,8,115.02,113.5,False,regular,,scraped
+20141357,2014,13,5,7,139.9,76.64,False,regular,,scraped
+201413912,2014,13,9,12,99.08,97.86,False,regular,,scraped
+201414105,2014,14,10,5,69.26,121.92,False,regular,,scraped
+201414119,2014,14,11,9,38.92,89.2,True,mediocre_bowl,Mediocre Bowl,scraped
+201414121,2014,14,12,1,105.6,121.06,False,regular,,scraped
+20141427,2014,14,2,7,98.74,134.7,False,regular,,scraped
+20141464,2014,14,6,4,116.88,130.38,False,regular,,scraped
+20141483,2014,14,8,3,75.74,79.96,False,regular,,scraped
+201415105,2014,15,10,5,76.78,104.3,True,winners,Winners Round 1,scraped
+20141531,2014,15,3,1,72.48,114.78,True,winners,Winners Round 1,scraped
+201415611,2014,15,6,11,88.08,76.42,True,mediocre_bowl,Mediocre Bowl,scraped
+20141579,2014,15,7,9,120.1,95.1,True,mediocre_bowl,Mediocre Bowl,scraped
+201416103,2014,16,10,3,99.24,75.94,True,third_place,Third Place,scraped
+201416119,2014,16,11,9,54.34,76.62,True,mediocre_bowl,Mediocre Bowl,scraped
+20141651,2014,16,5,1,76.1,112.86,True,championship,Championship,scraped
+20141667,2014,16,6,7,83.48,82.38,True,mediocre_bowl,Mediocre Bowl,scraped
+201501107,2015,1,10,7,109.22,56.1,False,regular,,scraped
+2015011112,2015,1,11,12,75.42,93.7,False,regular,,scraped
+20150143,2015,1,4,3,74.54,129.44,False,regular,,scraped
+20150152,2015,1,5,2,103.34,106.72,False,regular,,scraped
+20150186,2015,1,8,6,78.92,93.5,False,regular,,scraped
+20150191,2015,1,9,1,89.84,87.66,False,regular,,scraped
+201502110,2015,2,1,10,118.36,75.1,False,regular,,scraped
+201502128,2015,2,12,8,68.6,64.92,False,regular,,scraped
+20150223,2015,2,2,3,101.84,93.6,False,regular,,scraped
+20150245,2015,2,4,5,86.84,108.76,False,regular,,scraped
+20150269,2015,2,6,9,88.4,60.76,False,regular,,scraped
+201502711,2015,2,7,11,76.24,75.78,False,regular,,scraped
+2015031110,2015,3,11,10,54.66,90.68,False,regular,,scraped
+20150314,2015,3,1,4,138.02,126.0,False,regular,,scraped
+20150326,2015,3,2,6,114.02,153.7,False,regular,,scraped
+201503712,2015,3,7,12,144.76,47.28,False,regular,,scraped
+20150385,2015,3,8,5,73.2,80.98,False,regular,,scraped
+20150393,2015,3,9,3,62.64,123.28,False,regular,,scraped
+201504111,2015,4,11,1,92.78,104.56,False,regular,,scraped
+201504210,2015,4,2,10,53.62,50.5,False,regular,,scraped
+20150438,2015,4,3,8,79.96,63.24,False,regular,,scraped
+20150446,2015,4,4,6,69.88,66.16,False,regular,,scraped
+20150457,2015,4,5,7,77.84,106.52,False,regular,,scraped
+201504912,2015,4,9,12,103.64,55.84,False,regular,,scraped
+201505103,2015,5,10,3,73.48,99.26,False,regular,,scraped
+201505112,2015,5,11,2,112.64,64.9,False,regular,,scraped
+201505126,2015,5,12,6,79.3,97.9,False,regular,,scraped
+20150547,2015,5,4,7,76.12,92.94,False,regular,,scraped
+20150559,2015,5,5,9,76.34,92.52,False,regular,,scraped
+20150581,2015,5,8,1,105.26,119.94,False,regular,,scraped
+201506104,2015,6,10,4,110.4,86.46,False,regular,,scraped
+20150612,2015,6,1,2,126.0,79.88,False,regular,,scraped
+201506312,2015,6,3,12,101.42,94.78,False,regular,,scraped
+201506511,2015,6,5,11,103.42,74.26,False,regular,,scraped
+20150667,2015,6,6,7,66.26,111.9,False,regular,,scraped
+20150698,2015,6,9,8,67.8,96.2,False,regular,,scraped
+2015071210,2015,7,12,10,50.2,67.86,False,regular,,scraped
+20150728,2015,7,2,8,90.5,42.24,False,regular,,scraped
+20150735,2015,7,3,5,88.6,127.74,False,regular,,scraped
+201507411,2015,7,4,11,95.9,97.4,False,regular,,scraped
+20150761,2015,7,6,1,73.38,108.8,False,regular,,scraped
+20150779,2015,7,7,9,125.58,107.86,False,regular,,scraped
+201508105,2015,8,10,5,64.24,102.98,False,regular,,scraped
+201508112,2015,8,1,12,128.06,74.14,False,regular,,scraped
+201508119,2015,8,11,9,83.1,108.82,False,regular,,scraped
+20150863,2015,8,6,3,76.32,94.04,False,regular,,scraped
+20150872,2015,8,7,2,108.76,64.44,False,regular,,scraped
+20150884,2015,8,8,4,132.74,70.5,False,regular,,scraped
+201509109,2015,9,10,9,107.58,96.34,False,regular,,scraped
+201509116,2015,9,11,6,88.08,105.08,False,regular,,scraped
+20150913,2015,9,1,3,127.76,108.64,False,regular,,scraped
+20150924,2015,9,2,4,110.96,92.88,False,regular,,scraped
+201509512,2015,9,5,12,86.36,84.36,False,regular,,scraped
+20150987,2015,9,8,7,70.9,76.44,False,regular,,scraped
+201510106,2015,10,10,6,72.52,85.18,False,regular,,scraped
+201510118,2015,10,11,8,80.42,108.06,False,regular,,scraped
+201510122,2015,10,12,2,76.48,112.06,False,regular,,scraped
+20151037,2015,10,3,7,78.52,65.44,False,regular,,scraped
+20151051,2015,10,5,1,127.96,105.02,False,regular,,scraped
+20151094,2015,10,9,4,90.68,84.76,False,regular,,scraped
+2015111211,2015,11,12,11,77.3,96.88,False,regular,,scraped
+20151119,2015,11,1,9,87.88,60.86,False,regular,,scraped
+20151125,2015,11,2,5,51.18,94.58,False,regular,,scraped
+20151134,2015,11,3,4,85.14,36.08,False,regular,,scraped
+20151168,2015,11,6,8,135.84,66.72,False,regular,,scraped
+201511710,2015,11,7,10,65.06,75.6,False,regular,,scraped
+201512311,2015,12,3,11,91.12,114.04,False,regular,,scraped
+201512412,2015,12,4,12,71.44,68.82,False,regular,,scraped
+20151265,2015,12,6,5,81.62,80.64,False,regular,,scraped
+20151271,2015,12,7,1,67.34,91.68,False,regular,,scraped
+201512810,2015,12,8,10,101.6,86.0,False,regular,,scraped
+20151292,2015,12,9,2,109.4,91.5,False,regular,,scraped
+201513121,2015,13,12,1,61.0,116.42,False,regular,,scraped
+20151327,2015,13,2,7,97.98,73.44,False,regular,,scraped
+20151336,2015,13,3,6,107.92,113.24,False,regular,,scraped
+20151348,2015,13,4,8,117.46,93.88,False,regular,,scraped
+201513510,2015,13,5,10,132.26,68.68,False,regular,,scraped
+201513911,2015,13,9,11,73.42,83.28,False,regular,,scraped
+201514102,2015,14,10,2,79.9,91.44,True,mediocre_bowl,Mediocre Bowl,scraped
+201514111,2015,14,1,11,92.02,72.7,False,regular,,scraped
+201514129,2015,14,12,9,57.36,75.0,False,regular,,scraped
+20151464,2015,14,6,4,102.1,87.38,False,regular,,scraped
+20151475,2015,14,7,5,108.44,96.38,False,regular,,scraped
+20151483,2015,14,8,3,87.62,88.32,False,regular,,scraped
+20151513,2015,15,1,3,102.36,122.0,True,winners,Winners Round 1,scraped
+20151529,2015,15,2,9,77.58,84.84,True,mediocre_bowl,Mediocre Bowl,scraped
+20151565,2015,15,6,5,127.7,95.5,True,winners,Winners Round 1,scraped
+201515710,2015,15,7,10,100.34,99.94,True,mediocre_bowl,Mediocre Bowl,scraped
+201516102,2015,16,10,2,71.64,58.64,True,mediocre_bowl,Mediocre Bowl,scraped
+20151615,2015,16,1,5,106.1,89.8,True,third_place,Third Place,scraped
+20151636,2015,16,3,6,120.46,81.48,True,championship,Championship,scraped
+20151679,2015,16,7,9,127.66,43.86,True,mediocre_bowl,Mediocre Bowl,scraped
+2016011112,2016,1,11,12,103.26,106.64,False,regular,,scraped
+20160119,2016,1,1,9,72.3,98.7,False,regular,,scraped
+20160125,2016,1,2,5,97.32,105.08,False,regular,,scraped
+20160134,2016,1,3,4,91.48,81.52,False,regular,,scraped
+20160168,2016,1,6,8,136.0,105.1,False,regular,,scraped
+201601710,2016,1,7,10,82.92,102.56,False,regular,,scraped
+2016021012,2016,2,10,12,117.92,112.72,False,regular,,scraped
+20160213,2016,2,1,3,57.3,99.58,False,regular,,scraped
+20160226,2016,2,2,6,93.42,100.76,False,regular,,scraped
+20160258,2016,2,5,8,68.72,90.96,False,regular,,scraped
+201602711,2016,2,7,11,89.0,77.62,False,regular,,scraped
+20160294,2016,2,9,4,77.06,96.96,False,regular,,scraped
+201603104,2016,3,10,4,76.18,92.46,False,regular,,scraped
+20160316,2016,3,1,6,70.18,124.08,False,regular,,scraped
+201603211,2016,3,2,11,92.24,135.9,False,regular,,scraped
+201603512,2016,3,5,12,46.7,59.66,False,regular,,scraped
+20160373,2016,3,7,3,108.04,96.3,False,regular,,scraped
+20160398,2016,3,9,8,105.24,95.86,False,regular,,scraped
+201604112,2016,4,1,12,79.62,67.62,False,regular,,scraped
+201604210,2016,4,2,10,99.98,71.0,False,regular,,scraped
+20160438,2016,4,3,8,94.3,78.98,False,regular,,scraped
+20160446,2016,4,4,6,108.96,127.9,False,regular,,scraped
+20160457,2016,4,5,7,71.68,80.84,False,regular,,scraped
+201604911,2016,4,9,11,81.76,95.22,False,regular,,scraped
+201605115,2016,5,11,5,86.86,99.22,False,regular,,scraped
+201605122,2016,5,12,2,89.34,88.96,False,regular,,scraped
+201605310,2016,5,3,10,92.08,47.7,False,regular,,scraped
+20160547,2016,5,4,7,87.46,91.96,False,regular,,scraped
+20160569,2016,5,6,9,120.0,96.18,False,regular,,scraped
+20160581,2016,5,8,1,22.44,95.8,False,regular,,scraped
+201606111,2016,6,11,1,75.26,116.02,False,regular,,scraped
+20160648,2016,6,4,8,74.2,80.94,False,regular,,scraped
+201606510,2016,6,5,10,95.36,82.46,False,regular,,scraped
+20160663,2016,6,6,3,77.56,81.68,False,regular,,scraped
+20160672,2016,6,7,2,45.12,133.94,False,regular,,scraped
+201606912,2016,6,9,12,71.28,109.64,False,regular,,scraped
+2016071110,2016,7,11,10,67.34,119.32,False,regular,,scraped
+201607127,2016,7,12,7,79.18,59.54,False,regular,,scraped
+20160739,2016,7,3,9,84.32,78.1,False,regular,,scraped
+20160741,2016,7,4,1,94.68,56.94,False,regular,,scraped
+20160765,2016,7,6,5,149.86,113.14,False,regular,,scraped
+20160782,2016,7,8,2,69.24,116.38,False,regular,,scraped
+201608108,2016,8,10,8,61.26,102.58,False,regular,,scraped
+201608113,2016,8,11,3,132.64,103.02,False,regular,,scraped
+201608124,2016,8,12,4,95.6,76.9,False,regular,,scraped
+20160821,2016,8,2,1,95.6,77.2,False,regular,,scraped
+20160859,2016,8,5,9,92.32,80.9,False,regular,,scraped
+20160876,2016,8,7,6,51.88,79.7,False,regular,,scraped
+20160915,2016,9,1,5,104.36,71.36,False,regular,,scraped
+201609312,2016,9,3,12,110.96,62.06,False,regular,,scraped
+201609411,2016,9,4,11,109.92,118.48,False,regular,,scraped
+201609610,2016,9,6,10,140.24,91.3,False,regular,,scraped
+20160987,2016,9,8,7,69.78,73.9,False,regular,,scraped
+20160992,2016,9,9,2,83.74,115.52,False,regular,,scraped
+201610105,2016,10,10,5,106.54,111.74,False,regular,,scraped
+201610111,2016,10,1,11,51.34,118.94,False,regular,,scraped
+201610129,2016,10,12,9,86.54,102.0,False,regular,,scraped
+20161027,2016,10,2,7,98.62,102.54,False,regular,,scraped
+20161036,2016,10,3,6,59.48,74.38,False,regular,,scraped
+20161084,2016,10,8,4,103.9,86.8,False,regular,,scraped
+201611107,2016,11,10,7,66.58,75.4,False,regular,,scraped
+2016111211,2016,11,12,11,95.9,114.84,False,regular,,scraped
+20161143,2016,11,4,3,101.3,94.24,False,regular,,scraped
+20161152,2016,11,5,2,73.14,93.0,False,regular,,scraped
+20161186,2016,11,8,6,98.98,53.98,False,regular,,scraped
+20161191,2016,11,9,1,87.8,97.22,False,regular,,scraped
+201612116,2016,12,11,6,110.82,95.74,False,regular,,scraped
+201612128,2016,12,12,8,59.04,100.94,False,regular,,scraped
+20161217,2016,12,1,7,82.54,81.96,False,regular,,scraped
+20161232,2016,12,3,2,96.6,131.9,False,regular,,scraped
+20161245,2016,12,4,5,99.14,65.74,False,regular,,scraped
+201612910,2016,12,9,10,74.6,84.44,False,regular,,scraped
+201613102,2016,13,10,2,74.98,105.54,False,regular,,scraped
+201613119,2016,13,11,9,99.86,103.42,False,regular,,scraped
+201613121,2016,13,12,1,60.76,101.26,False,regular,,scraped
+20161364,2016,13,6,4,75.16,88.58,False,regular,,scraped
+20161375,2016,13,7,5,71.84,105.84,False,regular,,scraped
+20161383,2016,13,8,3,73.34,84.98,False,regular,,scraped
+201614111,2016,14,11,1,112.04,81.92,False,regular,,scraped
+201614124,2016,14,12,4,104.14,102.7,True,consolation,Consolation Round 1,scraped
+20161437,2016,14,3,7,85.88,64.94,True,winners,Winners Round 1,scraped
+20161485,2016,14,8,5,60.18,70.32,False,regular,,scraped
+201615108,2016,15,10,8,109.4,58.38,True,toilet_bowl,Toilet Bowl,scraped
+20161532,2016,15,3,2,114.64,98.86,True,winners,Semifinal,scraped
+20161549,2016,15,4,9,76.14,91.12,True,toilet_bowl,Toilet Bowl,scraped
+201615611,2016,15,6,11,72.88,78.98,True,winners,Semifinal,scraped
+201616109,2016,16,10,9,112.12,77.48,True,toilet_bowl,Toilet Bowl,scraped
+201616113,2016,16,11,3,137.48,78.08,True,championship,Championship,scraped
+20161617,2016,16,1,7,78.5,96.7,False,regular,,scraped
+201616512,2016,16,5,12,80.84,113.06,False,regular,,scraped
+20161662,2016,16,6,2,68.88,102.86,True,third_place,Third Place,scraped
+20161684,2016,16,8,4,95.6,108.3,True,toilet_bowl,Toilet Bowl,scraped
+201701112,2017,1,1,12,88.84,70.6,False,regular,,scraped
+201701118,2017,1,11,8,62.64,80.48,False,regular,,scraped
+20170129,2017,1,2,9,75.04,77.14,False,regular,,scraped
+20170165,2017,1,6,5,92.72,105.22,False,regular,,scraped
+20170173,2017,1,7,3,83.54,82.68,False,regular,,scraped
+20170212,2017,2,1,2,92.9,117.02,False,regular,,scraped
+2017021211,2017,2,12,11,79.76,65.62,False,regular,,scraped
+20170257,2017,2,5,7,92.72,98.24,False,regular,,scraped
+20170283,2017,2,8,3,76.88,106.4,False,regular,,scraped
+20170296,2017,2,9,6,94.08,83.46,False,regular,,scraped
+201703125,2017,3,12,5,86.8,110.4,False,regular,,scraped
+201703211,2017,3,2,11,74.02,62.98,False,regular,,scraped
+20170336,2017,3,3,6,49.02,77.02,False,regular,,scraped
+20170378,2017,3,7,8,110.7,123.22,False,regular,,scraped
+20170391,2017,3,9,1,69.66,98.26,False,regular,,scraped
+201704111,2017,4,11,1,67.5,91.24,False,regular,,scraped
+20170453,2017,4,5,3,103.5,62.72,False,regular,,scraped
+20170468,2017,4,6,8,124.38,97.68,False,regular,,scraped
+20170472,2017,4,7,2,95.22,86.66,False,regular,,scraped
+201704912,2017,4,9,12,94.58,97.48,False,regular,,scraped
+201705119,2017,5,11,9,105.34,80.26,False,regular,,scraped
+201705212,2017,5,2,12,83.64,101.14,False,regular,,scraped
+20170531,2017,5,3,1,84.46,92.46,False,regular,,scraped
+20170567,2017,5,6,7,117.36,59.2,False,regular,,scraped
+20170585,2017,5,8,5,104.82,90.92,False,regular,,scraped
+201706112,2017,6,11,2,130.3,46.92,False,regular,,scraped
+201706121,2017,6,12,1,73.6,63.18,False,regular,,scraped
+20170663,2017,6,6,3,123.56,114.74,False,regular,,scraped
+20170675,2017,6,7,5,100.44,112.52,False,regular,,scraped
+20170698,2017,6,9,8,90.52,96.68,False,regular,,scraped
+2017071112,2017,7,11,12,62.62,82.16,False,regular,,scraped
+20170721,2017,7,2,1,53.76,70.92,False,regular,,scraped
+20170735,2017,7,3,5,97.48,110.06,False,regular,,scraped
+20170779,2017,7,7,9,106.14,92.52,False,regular,,scraped
+20170786,2017,7,8,6,79.06,109.74,False,regular,,scraped
+201708127,2017,8,12,7,97.62,79.86,False,regular,,scraped
+20170813,2017,8,1,3,53.92,96.28,False,regular,,scraped
+20170825,2017,8,2,5,84.38,130.98,False,regular,,scraped
+20170869,2017,8,6,9,124.06,83.64,False,regular,,scraped
+201708811,2017,8,8,11,69.22,116.68,False,regular,,scraped
+201709111,2017,9,1,11,76.6,97.7,False,regular,,scraped
+201709126,2017,9,12,6,94.66,66.48,False,regular,,scraped
+20170937,2017,9,3,7,100.72,85.92,False,regular,,scraped
+20170958,2017,9,5,8,99.18,114.34,False,regular,,scraped
+20170992,2017,9,9,2,93.76,72.9,False,regular,,scraped
+201710113,2017,10,11,3,83.54,111.7,False,regular,,scraped
+201710122,2017,10,12,2,92.34,69.18,False,regular,,scraped
+20171019,2017,10,1,9,103.66,93.8,False,regular,,scraped
+20171056,2017,10,5,6,72.82,88.66,False,regular,,scraped
+20171087,2017,10,8,7,78.64,81.06,False,regular,,scraped
+20171138,2017,11,3,8,71.3,80.4,False,regular,,scraped
+20171151,2017,11,5,1,131.82,83.26,False,regular,,scraped
+20171162,2017,11,6,2,122.04,78.76,False,regular,,scraped
+201711712,2017,11,7,12,112.2,102.88,False,regular,,scraped
+201711911,2017,11,9,11,75.12,89.78,False,regular,,scraped
+201712129,2017,12,12,9,110.88,64.18,False,regular,,scraped
+20171223,2017,12,2,3,77.08,121.66,False,regular,,scraped
+201712511,2017,12,5,11,106.62,69.02,False,regular,,scraped
+20171276,2017,12,7,6,128.74,126.72,False,regular,,scraped
+20171281,2017,12,8,1,68.98,85.86,False,regular,,scraped
+20171317,2017,13,1,7,86.28,113.06,False,regular,,scraped
+20171328,2017,13,2,8,109.54,88.52,False,regular,,scraped
+201713312,2017,13,3,12,101.6,83.74,False,regular,,scraped
+201713611,2017,13,6,11,93.56,59.7,False,regular,,scraped
+20171395,2017,13,9,5,81.12,99.38,False,regular,,scraped
+201714117,2017,14,11,7,91.74,111.54,False,regular,,scraped
+20171416,2017,14,1,6,87.9,119.26,False,regular,,scraped
+20171439,2017,14,3,9,67.22,82.64,True,consolation,Consolation Round 1,scraped
+20171452,2017,14,5,2,116.64,89.94,False,regular,,scraped
+201714812,2017,14,8,12,102.22,103.08,False,regular,,scraped
+201715119,2017,15,11,9,98.14,96.6,True,toilet_bowl,Toilet Bowl,scraped
+201715126,2017,15,12,6,98.98,85.88,True,winners,Semifinal,scraped
+20171557,2017,15,5,7,129.38,136.74,True,winners,Semifinal,scraped
+20171582,2017,15,8,2,64.82,70.84,True,toilet_bowl,Toilet Bowl,scraped
+20171613,2017,16,1,3,59.76,60.36,True,mediocre_bowl,Mediocre Bowl,scraped
+201716211,2017,16,2,11,71.68,67.34,True,toilet_bowl,Toilet Bowl,scraped
+20171656,2017,16,5,6,73.72,104.2,True,third_place,Third Place,scraped
+201716712,2017,16,7,12,122.3,76.84,True,championship,Championship,scraped
+2018011110,2018,1,11,10,90.26,88.66,False,regular,,scraped
+20180126,2018,1,2,6,105.66,107.96,False,regular,,scraped
+20180131,2018,1,3,1,47.82,131.04,False,regular,,scraped
+20180149,2018,1,4,9,95.14,96.92,False,regular,,scraped
+201801512,2018,1,5,12,114.64,93.84,False,regular,,scraped
+20180178,2018,1,7,8,113.88,67.6,False,regular,,scraped
+201802101,2018,2,10,1,114.3,67.04,False,regular,,scraped
+201802117,2018,2,11,7,118.72,64.76,False,regular,,scraped
+20180224,2018,2,2,4,95.16,111.7,False,regular,,scraped
+20180253,2018,2,5,3,116.8,109.34,False,regular,,scraped
+201802812,2018,2,8,12,71.94,83.48,False,regular,,scraped
+20180296,2018,2,9,6,114.14,85.04,False,regular,,scraped
+20180319,2018,3,1,9,78.1,99.86,False,regular,,scraped
+201803212,2018,3,2,12,124.96,108.48,False,regular,,scraped
+20180343,2018,3,4,3,81.3,97.04,False,regular,,scraped
+20180356,2018,3,5,6,101.6,76.44,False,regular,,scraped
+201803710,2018,3,7,10,68.42,80.74,False,regular,,scraped
+201803811,2018,3,8,11,76.82,112.14,False,regular,,scraped
+2018041012,2018,4,10,12,164.68,106.38,False,regular,,scraped
+20180432,2018,4,3,2,105.74,120.36,False,regular,,scraped
+20180448,2018,4,4,8,110.2,78.86,False,regular,,scraped
+201804511,2018,4,5,11,135.38,92.28,False,regular,,scraped
+20180461,2018,4,6,1,96.0,78.72,False,regular,,scraped
+20180497,2018,4,9,7,84.06,74.86,False,regular,,scraped
+201805109,2018,5,10,9,107.04,56.94,False,regular,,scraped
+201805112,2018,5,1,12,110.78,107.42,False,regular,,scraped
+20180528,2018,5,2,8,66.7,95.5,False,regular,,scraped
+201805311,2018,5,3,11,62.82,119.12,False,regular,,scraped
+20180557,2018,5,5,7,97.68,119.44,False,regular,,scraped
+20180564,2018,5,6,4,115.94,112.5,False,regular,,scraped
+201806105,2018,6,10,5,118.42,141.3,False,regular,,scraped
+2018061112,2018,6,11,12,92.02,84.22,False,regular,,scraped
+20180612,2018,6,1,2,124.2,122.4,False,regular,,scraped
+20180636,2018,6,3,6,93.8,98.28,False,regular,,scraped
+20180647,2018,6,4,7,90.58,132.2,False,regular,,scraped
+20180698,2018,6,9,8,53.88,92.66,False,regular,,scraped
+201807108,2018,7,10,8,105.64,46.74,False,regular,,scraped
+201807126,2018,7,12,6,92.9,86.84,False,regular,,scraped
+201807411,2018,7,4,11,103.28,80.68,False,regular,,scraped
+20180752,2018,7,5,2,105.56,70.76,False,regular,,scraped
+20180771,2018,7,7,1,72.48,131.56,False,regular,,scraped
+20180793,2018,7,9,3,123.62,109.7,False,regular,,scraped
+201808116,2018,8,11,6,111.7,123.68,False,regular,,scraped
+201808129,2018,8,12,9,104.64,116.42,False,regular,,scraped
+20180827,2018,8,2,7,82.1,103.66,False,regular,,scraped
+201808310,2018,8,3,10,120.0,82.86,False,regular,,scraped
+20180841,2018,8,4,1,103.2,88.24,False,regular,,scraped
+20180858,2018,8,5,8,126.46,86.18,False,regular,,scraped
+201809123,2018,9,12,3,74.46,166.62,False,regular,,scraped
+201809211,2018,9,2,11,99.7,101.44,False,regular,,scraped
+201809410,2018,9,4,10,100.84,89.2,False,regular,,scraped
+20180967,2018,9,6,7,96.12,97.76,False,regular,,scraped
+20180981,2018,9,8,1,76.48,79.96,False,regular,,scraped
+20180995,2018,9,9,5,102.8,115.78,False,regular,,scraped
+2018101011,2018,10,10,11,102.9,99.4,False,regular,,scraped
+201810125,2018,10,12,5,65.6,91.12,False,regular,,scraped
+20181013,2018,10,1,3,148.66,102.34,False,regular,,scraped
+20181062,2018,10,6,2,73.82,108.2,False,regular,,scraped
+20181087,2018,10,8,7,122.16,96.26,False,regular,,scraped
+20181094,2018,10,9,4,116.76,106.12,False,regular,,scraped
+201811105,2018,11,10,5,97.1,98.88,False,regular,,scraped
+2018111211,2018,11,12,11,56.54,120.02,False,regular,,scraped
+20181121,2018,11,2,1,117.24,133.18,False,regular,,scraped
+20181136,2018,11,3,6,96.98,86.14,False,regular,,scraped
+20181174,2018,11,7,4,69.42,89.12,False,regular,,scraped
+20181198,2018,11,9,8,132.72,89.76,False,regular,,scraped
+201812119,2018,12,11,9,103.14,116.58,False,regular,,scraped
+201812210,2018,12,2,10,111.58,103.08,False,regular,,scraped
+20181237,2018,12,3,7,124.52,107.22,False,regular,,scraped
+201812412,2018,12,4,12,110.3,79.66,False,regular,,scraped
+20181251,2018,12,5,1,98.14,93.22,False,regular,,scraped
+20181286,2018,12,8,6,98.88,88.06,False,regular,,scraped
+2018131012,2018,13,10,12,85.28,94.44,False,regular,,scraped
+201813115,2018,13,11,5,50.28,86.5,False,regular,,scraped
+20181323,2018,13,2,3,80.24,104.58,False,regular,,scraped
+20181348,2018,13,4,8,119.58,73.84,False,regular,,scraped
+20181361,2018,13,6,1,87.32,72.12,False,regular,,scraped
+20181379,2018,13,7,9,91.0,119.9,False,regular,,scraped
+201814106_mediocre,2018,14,10,6,102.32,75.3,True,consolation,Consolation Round 1,constructed
+201814111,2018,14,1,11,80.74,67.54,True,winners,Winners Round 1,scraped
+20181428,2018,14,2,8,104.88,111.38,True,toilet_bowl,Consolation Round 1,scraped
+20181443,2018,14,4,3,72.28,86.22,True,winners,Winners Round 1,scraped
+201814712,2018,14,7,12,113.48,42.02,True,toilet_bowl,Consolation Round 1,scraped
+20181519,2018,15,1,9,44.98,79.32,True,winners,Semifinal,scraped
+201815212,2018,15,2,12,113.14,80.12,True,toilet_bowl,Toilet Bowl,scraped
+20181553,2018,15,5,3,70.94,66.82,True,winners,Semifinal,scraped
+201815610_mediocre,2018,15,6,10,75.92,71.9,True,consolation,Consolation,constructed
+201816106_mediocre,2018,16,10,6,92.02,45.64,True,consolation,Consolation,constructed
+201816114,2018,16,11,4,76.64,73.34,True,third_place,Third Place,scraped
+201816212,2018,16,2,12,93.66,118.04,True,toilet_bowl,Toilet Bowl,scraped
+20181631,2018,16,3,1,81.76,98.68,True,third_place,Third Place,scraped
+20181659,2018,16,5,9,106.58,136.82,True,championship,Championship,scraped
+20181678,2018,16,7,8,77.44,107.6,True,toilet_bowl,Toilet Bowl,scraped
+2019011112,2019,1,11,12,82.22,117.2,False,regular,,scraped
+20190112,2019,1,1,2,92.3,91.32,False,regular,,scraped
+20190136,2019,1,3,6,82.36,111.02,False,regular,,scraped
+20190147,2019,1,4,7,112.36,112.82,False,regular,,scraped
+201901510,2019,1,5,10,115.24,104.52,False,regular,,scraped
+20190189,2019,1,8,9,74.3,82.96,False,regular,,scraped
+2019021012,2019,2,10,12,102.32,81.8,False,regular,,scraped
+201902115,2019,2,11,5,76.74,91.88,False,regular,,scraped
+20190226,2019,2,2,6,106.16,79.72,False,regular,,scraped
+20190231,2019,2,3,1,70.02,83.4,False,regular,,scraped
+20190279,2019,2,7,9,72.16,139.66,False,regular,,scraped
+20190284,2019,2,8,4,91.36,91.7,False,regular,,scraped
+2019031011,2019,3,10,11,109.06,105.96,False,regular,,scraped
+20190316,2019,3,1,6,97.3,117.42,False,regular,,scraped
+20190323,2019,3,2,3,65.3,88.18,False,regular,,scraped
+20190349,2019,3,4,9,109.66,134.44,False,regular,,scraped
+201903512,2019,3,5,12,81.08,99.24,False,regular,,scraped
+20190378,2019,3,7,8,120.44,92.14,False,regular,,scraped
+201904109,2019,4,10,9,119.1,112.5,False,regular,,scraped
+201904111,2019,4,1,11,99.54,113.0,False,regular,,scraped
+201904212,2019,4,2,12,86.88,79.0,False,regular,,scraped
+20190434,2019,4,3,4,68.8,114.08,False,regular,,scraped
+20190458,2019,4,5,8,78.08,57.82,False,regular,,scraped
+20190467,2019,4,6,7,106.1,89.9,False,regular,,scraped
+201905112,2019,5,11,2,83.86,90.62,False,regular,,scraped
+201905121,2019,5,12,1,137.32,102.66,False,regular,,scraped
+20190546,2019,5,4,6,151.7,88.12,False,regular,,scraped
+20190573,2019,5,7,3,92.24,104.94,False,regular,,scraped
+201905810,2019,5,8,10,90.82,124.34,False,regular,,scraped
+20190595,2019,5,9,5,156.84,96.44,False,regular,,scraped
+201906107,2019,6,10,7,76.62,96.8,False,regular,,scraped
+20190618,2019,6,1,8,111.0,92.02,False,regular,,scraped
+20190629,2019,6,2,9,99.22,104.76,False,regular,,scraped
+201906311,2019,6,3,11,57.02,103.04,False,regular,,scraped
+20190654,2019,6,5,4,119.74,96.44,False,regular,,scraped
+201906612,2019,6,6,12,104.0,104.7,False,regular,,scraped
+201907116,2019,7,11,6,73.94,80.86,False,regular,,scraped
+201907123,2019,7,12,3,94.54,61.2,False,regular,,scraped
+201907410,2019,7,4,10,76.66,56.34,False,regular,,scraped
+20190775,2019,7,7,5,59.62,103.52,False,regular,,scraped
+20190782,2019,7,8,2,62.86,91.08,False,regular,,scraped
+20190791,2019,7,9,1,94.16,83.22,False,regular,,scraped
+201908114,2019,8,11,4,94.38,110.48,False,regular,,scraped
+201908127,2019,8,12,7,120.68,87.16,False,regular,,scraped
+20190815,2019,8,1,5,82.98,101.94,False,regular,,scraped
+201908210,2019,8,2,10,107.8,67.08,False,regular,,scraped
+20190838,2019,8,3,8,122.66,78.12,False,regular,,scraped
+20190869,2019,8,6,9,70.7,140.86,False,regular,,scraped
+201909101,2019,9,10,1,40.2,78.04,False,regular,,scraped
+201909412,2019,9,4,12,121.06,126.52,False,regular,,scraped
+20190952,2019,9,5,2,111.42,90.94,False,regular,,scraped
+201909711,2019,9,7,11,103.04,86.16,False,regular,,scraped
+20190986,2019,9,8,6,71.28,82.16,False,regular,,scraped
+20190993,2019,9,9,3,72.6,89.76,False,regular,,scraped
+201910106,2019,10,10,6,98.22,124.96,False,regular,,scraped
+201910118,2019,10,11,8,92.04,54.08,False,regular,,scraped
+201910129,2019,10,12,9,99.18,85.7,False,regular,,scraped
+20191041,2019,10,4,1,91.18,81.22,False,regular,,scraped
+20191053,2019,10,5,3,121.42,97.62,False,regular,,scraped
+20191072,2019,10,7,2,77.52,85.22,False,regular,,scraped
+201911105,2019,11,10,5,69.5,102.28,False,regular,,scraped
+2019111211,2019,11,12,11,63.9,60.14,False,regular,,scraped
+20191121,2019,11,2,1,100.94,84.64,False,regular,,scraped
+20191163,2019,11,6,3,97.2,87.88,False,regular,,scraped
+20191174,2019,11,7,4,49.06,90.14,False,regular,,scraped
+20191198,2019,11,9,8,68.34,100.32,False,regular,,scraped
+2019121210,2019,12,12,10,114.8,73.92,False,regular,,scraped
+20191213,2019,12,1,3,104.82,80.38,False,regular,,scraped
+20191248,2019,12,4,8,77.54,77.54,False,regular,,scraped
+201912511,2019,12,5,11,86.96,65.58,False,regular,,scraped
+20191262,2019,12,6,2,114.66,135.7,False,regular,,scraped
+20191297,2019,12,9,7,102.08,83.32,False,regular,,scraped
+2019131110,2019,13,11,10,102.5,105.3,False,regular,,scraped
+201913125,2019,13,12,5,76.54,95.12,False,regular,,scraped
+20191332,2019,13,3,2,57.66,86.44,False,regular,,scraped
+20191361,2019,13,6,1,85.42,103.72,False,regular,,scraped
+20191387,2019,13,8,7,91.56,106.56,False,regular,,scraped
+20191394,2019,13,9,4,62.44,92.38,False,regular,,scraped
+201914108_toilet_round1,2019,14,10,8,75.32,122.36,True,toilet_bowl,Toilet Bowl,constructed
+20191426,2019,14,2,6,91.64,85.24,True,winners,Winners Round 1,scraped
+201914311_toilet_round1,2019,14,3,11,92.48,98.1,True,toilet_bowl,Toilet Bowl,constructed
+20191449,2019,14,4,9,88.22,68.56,True,winners,Winners Round 1,scraped
+201915103_toilet_losers,2019,15,10,3,92.1,81.74,True,toilet_bowl,Toilet Bowl,constructed
+20191517,2019,15,1,7,111.22,105.52,True,consolation,Consolation,scraped
+201915212,2019,15,2,12,63.68,112.74,True,winners,Semifinal,scraped
+20191554,2019,15,5,4,117.88,112.2,True,winners,Semifinal,scraped
+201915811_toilet_winners,2019,15,8,11,99.68,124.44,True,toilet_bowl,Toilet Bowl,constructed
+201916103_toilet_third,2019,16,10,3,110.34,67.54,True,toilet_bowl,Toilet Bowl,constructed
+201916118_toilet_champ,2019,16,11,8,91.36,52.5,True,toilet_bowl,Toilet Bowl,constructed
+20191617,2019,16,1,7,83.3,118.06,True,consolation,Consolation,scraped
+20191642,2019,16,4,2,75.12,69.66,True,third_place,Third Place,scraped
+201916512,2019,16,5,12,102.62,84.56,True,championship,Championship,scraped
+20191696,2019,16,9,6,89.38,119.18,False,regular,,scraped
+202001107,2020,1,10,7,87.58,113.3,False,regular,,scraped
+20200112,2020,1,1,2,142.62,100.98,False,regular,,scraped
+20200139,2020,1,3,9,100.92,98.6,False,regular,,scraped
+202001412,2020,1,4,12,81.2,86.2,False,regular,,scraped
+20200156,2020,1,5,6,56.34,92.24,False,regular,,scraped
+202001811,2020,1,8,11,85.7,104.6,False,regular,,scraped
+202002105,2020,2,10,5,128.9,129.4,False,regular,,scraped
+202002119,2020,2,11,9,96.56,95.84,False,regular,,scraped
+202002127,2020,2,12,7,82.22,121.18,False,regular,,scraped
+20200213,2020,2,1,3,86.3,90.86,False,regular,,scraped
+20200226,2020,2,2,6,118.02,121.68,False,regular,,scraped
+20200248,2020,2,4,8,92.6,94.78,False,regular,,scraped
+20200332,2020,3,3,2,108.3,107.8,False,regular,,scraped
+20200351,2020,3,5,1,84.68,71.86,False,regular,,scraped
+202003610,2020,3,6,10,138.7,136.24,False,regular,,scraped
+202003711,2020,3,7,11,71.58,110.78,False,regular,,scraped
+202003812,2020,3,8,12,105.18,95.6,False,regular,,scraped
+20200394,2020,3,9,4,87.7,89.42,False,regular,,scraped
+202004103,2020,4,10,3,105.22,66.7,False,regular,,scraped
+202004114,2020,4,11,4,105.72,113.88,False,regular,,scraped
+202004129,2020,4,12,9,90.4,109.32,False,regular,,scraped
+20200416,2020,4,1,6,101.6,76.84,False,regular,,scraped
+20200425,2020,4,2,5,113.6,111.26,False,regular,,scraped
+20200487,2020,4,8,7,103.14,129.84,False,regular,,scraped
+202005121,2020,5,12,1,133.14,114.06,False,regular,,scraped
+20200523,2020,5,2,3,104.98,103.46,False,regular,,scraped
+202005510,2020,5,5,10,60.94,98.32,False,regular,,scraped
+20200568,2020,5,6,8,87.7,77.02,False,regular,,scraped
+20200574,2020,5,7,4,94.32,69.84,False,regular,,scraped
+202005911,2020,5,9,11,112.2,88.9,False,regular,,scraped
+202006110,2020,6,1,10,128.2,104.98,False,regular,,scraped
+2020061211,2020,6,12,11,74.42,82.44,False,regular,,scraped
+20200635,2020,6,3,5,96.62,71.32,False,regular,,scraped
+20200664,2020,6,6,4,112.0,89.4,False,regular,,scraped
+20200679,2020,6,7,9,118.58,91.32,False,regular,,scraped
+20200682,2020,6,8,2,76.84,61.16,False,regular,,scraped
+202007122,2020,7,12,2,85.22,73.02,False,regular,,scraped
+202007311,2020,7,3,11,135.58,79.24,False,regular,,scraped
+202007410,2020,7,4,10,122.02,65.38,False,regular,,scraped
+20200757,2020,7,5,7,88.48,83.62,False,regular,,scraped
+20200781,2020,7,8,1,99.98,81.66,False,regular,,scraped
+20200796,2020,7,9,6,147.1,85.1,False,regular,,scraped
+202008115,2020,8,11,5,80.22,67.16,False,regular,,scraped
+202008124,2020,8,12,4,86.26,72.44,False,regular,,scraped
+20200817,2020,8,1,7,81.22,66.84,False,regular,,scraped
+202008210,2020,8,2,10,105.84,97.86,False,regular,,scraped
+20200863,2020,8,6,3,145.94,75.02,False,regular,,scraped
+20200898,2020,8,9,8,79.16,56.1,False,regular,,scraped
+2020091012,2020,9,10,12,90.7,63.26,False,regular,,scraped
+20200943,2020,9,4,3,81.56,70.84,False,regular,,scraped
+20200958,2020,9,5,8,87.44,67.88,False,regular,,scraped
+202009611,2020,9,6,11,133.28,97.6,False,regular,,scraped
+20200972,2020,9,7,2,108.06,75.5,False,regular,,scraped
+20200991,2020,9,9,1,89.12,121.14,False,regular,,scraped
+202010111,2020,10,1,11,85.02,84.06,False,regular,,scraped
+20201024,2020,10,2,4,82.82,98.4,False,regular,,scraped
+20201038,2020,10,3,8,82.18,55.44,False,regular,,scraped
+202010512,2020,10,5,12,61.28,96.54,False,regular,,scraped
+20201076,2020,10,7,6,69.26,77.38,False,regular,,scraped
+202010910,2020,10,9,10,97.8,72.36,False,regular,,scraped
+202011108,2020,11,10,8,92.72,102.68,False,regular,,scraped
+202011112,2020,11,11,2,75.24,86.28,False,regular,,scraped
+20201141,2020,11,4,1,99.14,89.26,False,regular,,scraped
+202011612,2020,11,6,12,102.32,102.32,False,regular,,scraped
+20201173,2020,11,7,3,94.9,102.14,False,regular,,scraped
+20201195,2020,11,9,5,101.96,69.3,False,regular,,scraped
+2020121110,2020,12,11,10,131.28,100.78,False,regular,,scraped
+202012123,2020,12,12,3,89.9,97.34,False,regular,,scraped
+20201221,2020,12,2,1,69.8,152.82,False,regular,,scraped
+20201247,2020,12,4,7,114.34,119.86,False,regular,,scraped
+20201265,2020,12,6,5,88.28,48.6,False,regular,,scraped
+20201289,2020,12,8,9,55.94,64.6,False,regular,,scraped
+202013106,2020,13,10,6,136.9,90.82,False,regular,,scraped
+202013118,2020,13,11,8,83.58,102.8,False,regular,,scraped
+20201329,2020,13,2,9,95.12,83.82,False,regular,,scraped
+20201331,2020,13,3,1,63.2,97.04,False,regular,,scraped
+20201354,2020,13,5,4,83.84,88.5,False,regular,,scraped
+202013712,2020,13,7,12,99.0,90.48,False,regular,,scraped
+2020141210_toilet_round1,2020,14,12,10,49.54,106.82,True,toilet_bowl,Toilet Bowl,constructed
+20201425_toilet_round1,2020,14,2,5,101.74,82.26,True,toilet_bowl,Toilet Bowl,constructed
+20201474,2020,14,7,4,107.1,96.3,True,winners,Winners Round 1,scraped
+20201493,2020,14,9,3,80.56,85.3,True,winners,Winners Round 1,scraped
+202015118,2020,15,11,8,95.12,101.86,True,consolation,Consolation,scraped
+202015210_toilet_winners,2020,15,2,10,92.44,112.66,True,toilet_bowl,Toilet Bowl,constructed
+202015512_toilet_losers,2020,15,5,12,119.92,92.9,True,toilet_bowl,Toilet Bowl,constructed
+20201563,2020,15,6,3,117.96,96.86,True,winners,Semifinal,scraped
+20201571,2020,15,7,1,79.26,99.22,True,winners,Semifinal,scraped
+202016102_toilet_champ,2020,16,10,2,106.9,128.7,True,toilet_bowl,Toilet Bowl,constructed
+202016118,2020,16,11,8,82.82,94.64,True,consolation,Consolation,scraped
+20201637,2020,16,3,7,92.22,113.46,True,third_place,Third Place,scraped
+202016512_toilet_third,2020,16,5,12,108.5,104.72,True,toilet_bowl,Toilet Bowl,constructed
+20201661,2020,16,6,1,80.82,83.86,True,championship,Championship,scraped
+20201694,2020,16,9,4,98.08,118.54,False,regular,,scraped
+202101117,2021,1,11,7,94.04,85.44,False,regular,,scraped
+202101210,2021,1,2,10,74.88,80.2,False,regular,,scraped
+202101412,2021,1,4,12,88.3,97.06,False,regular,,scraped
+20210156,2021,1,5,6,129.26,89.88,False,regular,,scraped
+20210181,2021,1,8,1,105.08,97.9,False,regular,,scraped
+20210193,2021,1,9,3,107.52,82.02,False,regular,,scraped
+202102113,2021,2,11,3,62.38,80.42,False,regular,,scraped
+202102125,2021,2,12,5,104.7,123.6,False,regular,,scraped
+20210214,2021,2,1,4,90.32,103.36,False,regular,,scraped
+202102710,2021,2,7,10,121.16,142.34,False,regular,,scraped
+20210286,2021,2,8,6,68.22,71.92,False,regular,,scraped
+20210292,2021,2,9,2,54.18,114.84,False,regular,,scraped
+202103121,2021,3,12,1,87.44,91.52,False,regular,,scraped
+20210327,2021,3,2,7,65.62,95.12,False,regular,,scraped
+202103310,2021,3,3,10,102.02,114.38,False,regular,,scraped
+20210346,2021,3,4,6,113.12,108.74,False,regular,,scraped
+20210358,2021,3,5,8,64.94,103.9,False,regular,,scraped
+202103911,2021,3,9,11,80.62,74.04,False,regular,,scraped
+202104115,2021,4,11,5,93.54,113.98,False,regular,,scraped
+20210421,2021,4,2,1,93.72,117.16,False,regular,,scraped
+20210434,2021,4,3,4,76.6,87.32,False,regular,,scraped
+202104712,2021,4,7,12,78.12,92.52,False,regular,,scraped
+20210486,2021,4,8,6,117.02,97.88,False,regular,,scraped
+202104910,2021,4,9,10,97.22,91.46,False,regular,,scraped
+202105122,2021,5,12,2,123.56,104.58,False,regular,,scraped
+20210513,2021,5,1,3,130.88,81.4,False,regular,,scraped
+202105411,2021,5,4,11,86.4,75.78,False,regular,,scraped
+20210556,2021,5,5,6,101.22,187.22,False,regular,,scraped
+202105710,2021,5,7,10,108.8,114.74,False,regular,,scraped
+20210589,2021,5,8,9,92.98,92.98,False,regular,,scraped
+202106111,2021,6,11,1,71.08,93.24,False,regular,,scraped
+202106210,2021,6,2,10,118.94,86.48,False,regular,,scraped
+202106312,2021,6,3,12,98.04,117.86,False,regular,,scraped
+20210646,2021,6,4,6,98.52,99.5,False,regular,,scraped
+20210658,2021,6,5,8,143.1,109.58,False,regular,,scraped
+20210697,2021,6,9,7,102.0,103.72,False,regular,,scraped
+2021071112,2021,7,11,12,101.86,94.54,False,regular,,scraped
+20210716,2021,7,1,6,128.24,95.44,False,regular,,scraped
+20210727,2021,7,2,7,89.4,90.38,False,regular,,scraped
+202107310,2021,7,3,10,90.46,118.34,False,regular,,scraped
+20210748,2021,7,4,8,64.62,95.14,False,regular,,scraped
+20210795,2021,7,9,5,64.08,114.14,False,regular,,scraped
+2021081110,2021,8,11,10,114.06,95.0,False,regular,,scraped
+202108126,2021,8,12,6,73.76,68.62,False,regular,,scraped
+20210818,2021,8,1,8,83.56,93.8,False,regular,,scraped
+20210837,2021,8,3,7,97.6,80.96,False,regular,,scraped
+20210845,2021,8,4,5,104.16,68.52,False,regular,,scraped
+20210892,2021,8,9,2,94.58,100.8,False,regular,,scraped
+202109106,2021,9,10,6,97.84,109.24,False,regular,,scraped
+202109117,2021,9,11,7,75.3,83.28,False,regular,,scraped
+202109128,2021,9,12,8,65.7,94.16,False,regular,,scraped
+20210915,2021,9,1,5,79.08,79.78,False,regular,,scraped
+20210932,2021,9,3,2,73.86,69.92,False,regular,,scraped
+20210994,2021,9,9,4,77.28,60.76,False,regular,,scraped
+202110108,2021,10,10,8,82.48,95.74,False,regular,,scraped
+202110112,2021,10,11,2,94.48,93.52,False,regular,,scraped
+202110125,2021,10,12,5,85.0,88.02,False,regular,,scraped
+20211014,2021,10,1,4,81.64,96.14,False,regular,,scraped
+20211076,2021,10,7,6,104.66,66.3,False,regular,,scraped
+20211093,2021,10,9,3,89.34,60.72,False,regular,,scraped
+202111105,2021,11,10,5,105.18,66.48,False,regular,,scraped
+202111113,2021,11,11,3,108.9,87.96,False,regular,,scraped
+202111124,2021,11,12,4,112.16,88.26,False,regular,,scraped
+20211126,2021,11,2,6,84.92,109.88,False,regular,,scraped
+20211178,2021,11,7,8,88.14,117.2,False,regular,,scraped
+20211191,2021,11,9,1,68.34,113.82,False,regular,,scraped
+202112104,2021,12,10,4,82.44,107.9,False,regular,,scraped
+202112121,2021,12,12,1,94.48,76.04,False,regular,,scraped
+20211228,2021,12,2,8,68.32,82.62,False,regular,,scraped
+20211236,2021,12,3,6,70.58,86.82,False,regular,,scraped
+20211275,2021,12,7,5,105.72,61.36,False,regular,,scraped
+202112911,2021,12,9,11,151.4,77.38,False,regular,,scraped
+202113101,2021,13,10,1,111.32,111.1,False,regular,,scraped
+202113116,2021,13,11,6,80.86,103.98,False,regular,,scraped
+20211325,2021,13,2,5,65.36,45.76,False,regular,,scraped
+20211338,2021,13,3,8,89.2,87.26,False,regular,,scraped
+20211374,2021,13,7,4,100.4,90.1,False,regular,,scraped
+202113912,2021,13,9,12,99.22,92.42,False,regular,,scraped
+2021141012,2021,14,10,12,76.88,107.82,False,regular,,scraped
+202114118,2021,14,11,8,122.54,75.22,False,regular,,scraped
+20211424,2021,14,2,4,115.04,114.12,False,regular,,scraped
+20211435,2021,14,3,5,107.08,78.92,True,toilet_bowl,Toilet Bowl,scraped
+20211471,2021,14,7,1,71.84,102.6,False,regular,,scraped
+20211474_mediocre,2021,14,7,4,71.84,114.12,True,mediocre_bowl,Mediocre Bowl,constructed
+20211496,2021,14,9,6,100.74,101.9,False,regular,,scraped
+202115112,2021,15,11,2,85.92,65.22,True,toilet_bowl,Consolation Round 1,scraped
+202115121,2021,15,12,1,103.58,84.74,True,winners,Winners Round 1,scraped
+20211547_mediocre,2021,15,4,7,84.6,65.28,True,mediocre_bowl,Mediocre Bowl,constructed
+20211553,2021,15,5,3,87.34,80.06,True,toilet_bowl,Consolation Round 1,scraped
+202115910,2021,15,9,10,78.28,78.86,True,winners,Winners Round 1,scraped
+202116126,2021,16,12,6,96.6,98.64,True,winners,Semifinal,scraped
+20211623,2021,16,2,3,77.96,47.98,True,toilet_bowl,Toilet Bowl,scraped
+20211674_mediocre,2021,16,7,4,92.5,85.96,True,mediocre_bowl,Mediocre Bowl,constructed
+202116810,2021,16,8,10,77.22,83.78,True,winners,Semifinal,scraped
+202117106,2021,17,10,6,117.9,118.08,True,championship,Championship,scraped
+202117115,2021,17,11,5,106.42,82.26,True,toilet_bowl,Toilet Bowl,scraped
+20211723,2021,17,2,3,66.8,97.76,True,toilet_bowl,Toilet Bowl,scraped
+20211774,2021,17,7,4,84.06,100.0,True,mediocre_bowl,Mediocre Bowl,scraped
+202117812,2021,17,8,12,98.26,122.52,True,third_place,Third Place,scraped
+20211791,2021,17,9,1,55.84,84.94,False,regular,,scraped
+2022011112,2022,1,11,12,106.22,96.4,False,regular,,scraped
+20220115,2022,1,1,5,103.0,80.96,False,regular,,scraped
+20220124,2022,1,2,4,122.28,84.12,False,regular,,scraped
+20220137,2022,1,3,7,94.48,154.82,False,regular,,scraped
+20220168,2022,1,6,8,122.56,128.42,False,regular,,scraped
+202201910,2022,1,9,10,70.56,70.48,False,regular,,scraped
+202202113,2022,2,11,3,69.48,89.8,False,regular,,scraped
+20220248,2022,2,4,8,118.42,73.36,False,regular,,scraped
+202202510,2022,2,5,10,146.28,103.18,False,regular,,scraped
+20220262,2022,2,6,2,87.16,137.08,False,regular,,scraped
+202202712,2022,2,7,12,132.02,87.56,False,regular,,scraped
+20220291,2022,2,9,1,94.8,99.3,False,regular,,scraped
+202203110,2022,3,1,10,114.48,98.76,False,regular,,scraped
+20220328,2022,3,2,8,94.4,73.3,False,regular,,scraped
+202203312,2022,3,3,12,96.58,98.88,False,regular,,scraped
+20220346,2022,3,4,6,97.22,101.48,False,regular,,scraped
+20220359,2022,3,5,9,60.04,99.44,False,regular,,scraped
+202203711,2022,3,7,11,75.0,106.26,False,regular,,scraped
+202204116,2022,4,11,6,135.58,130.0,False,regular,,scraped
+202204129,2022,4,12,9,81.48,78.4,False,regular,,scraped
+202204310,2022,4,3,10,89.56,117.0,False,regular,,scraped
+20220441,2022,4,4,1,100.16,122.66,False,regular,,scraped
+20220452,2022,4,5,2,79.76,115.92,False,regular,,scraped
+20220478,2022,4,7,8,133.46,95.78,False,regular,,scraped
+2022051012,2022,5,10,12,141.34,75.46,False,regular,,scraped
+20220517,2022,5,1,7,108.08,66.86,False,regular,,scraped
+20220529,2022,5,2,9,153.06,98.14,False,regular,,scraped
+20220554,2022,5,5,4,89.56,113.26,False,regular,,scraped
+20220563,2022,5,6,3,97.52,96.54,False,regular,,scraped
+202205811,2022,5,8,11,54.28,112.72,False,regular,,scraped
+2022061110,2022,6,11,10,80.18,71.42,False,regular,,scraped
+20220621,2022,6,2,1,92.96,80.82,False,regular,,scraped
+20220635,2022,6,3,5,122.1,64.16,False,regular,,scraped
+20220669,2022,6,6,9,75.36,97.3,False,regular,,scraped
+20220674,2022,6,7,4,109.1,92.0,False,regular,,scraped
+202206812,2022,6,8,12,82.2,110.08,False,regular,,scraped
+202207107,2022,7,10,7,78.6,83.22,False,regular,,scraped
+20220716,2022,7,1,6,112.52,122.54,False,regular,,scraped
+202207212,2022,7,2,12,103.36,59.2,False,regular,,scraped
+20220738,2022,7,3,8,84.02,98.84,False,regular,,scraped
+202207511,2022,7,5,11,69.08,103.86,False,regular,,scraped
+20220794,2022,7,9,4,86.14,82.4,False,regular,,scraped
+202208104,2022,8,10,4,117.9,118.92,False,regular,,scraped
+202208125,2022,8,12,5,92.88,86.46,False,regular,,scraped
+20220823,2022,8,2,3,117.92,121.14,False,regular,,scraped
+20220876,2022,8,7,6,108.1,134.12,False,regular,,scraped
+20220881,2022,8,8,1,58.12,108.34,False,regular,,scraped
+202208911,2022,8,9,11,117.64,117.84,False,regular,,scraped
+202209106,2022,9,10,6,109.8,91.82,False,regular,,scraped
+202209112,2022,9,11,2,132.7,76.0,False,regular,,scraped
+202209124,2022,9,12,4,125.6,71.72,False,regular,,scraped
+20220931,2022,9,3,1,141.12,108.64,False,regular,,scraped
+20220957,2022,9,5,7,73.6,83.02,False,regular,,scraped
+20220998,2022,9,9,8,67.18,59.94,False,regular,,scraped
+202210111,2022,10,1,11,145.64,103.34,False,regular,,scraped
+202210210,2022,10,2,10,105.8,70.12,False,regular,,scraped
+20221043,2022,10,4,3,102.6,102.28,False,regular,,scraped
+202210612,2022,10,6,12,94.86,80.9,False,regular,,scraped
+20221085,2022,10,8,5,97.02,90.9,False,regular,,scraped
+20221097,2022,10,9,7,83.6,75.9,False,regular,,scraped
+202211108,2022,11,10,8,118.06,108.5,False,regular,,scraped
+202211112,2022,11,1,12,103.06,55.88,False,regular,,scraped
+202211114,2022,11,11,4,75.88,94.56,False,regular,,scraped
+20221139,2022,11,3,9,99.22,79.8,False,regular,,scraped
+20221156,2022,11,5,6,83.84,129.5,False,regular,,scraped
+20221172,2022,11,7,2,65.4,135.38,False,regular,,scraped
+202212109,2022,12,10,9,107.74,85.86,False,regular,,scraped
+2022121112,2022,12,11,12,108.18,68.72,False,regular,,scraped
+20221224,2022,12,2,4,103.62,143.26,False,regular,,scraped
+20221237,2022,12,3,7,65.26,121.72,False,regular,,scraped
+20221251,2022,12,5,1,100.24,83.2,False,regular,,scraped
+20221268,2022,12,6,8,139.66,88.1,False,regular,,scraped
+202213105,2022,13,10,5,97.84,117.2,False,regular,,scraped
+202213113,2022,13,11,3,66.36,99.66,False,regular,,scraped
+202213127,2022,13,12,7,116.38,99.5,False,regular,,scraped
+20221319,2022,13,1,9,101.32,89.7,False,regular,,scraped
+20221326,2022,13,2,6,81.62,163.44,False,regular,,scraped
+20221384,2022,13,8,4,93.34,83.14,False,regular,,scraped
+202214101,2022,14,10,1,124.52,69.78,False,regular,,scraped
+2022141210_mediocre,2022,14,12,10,84.06,124.52,True,mediocre_bowl,Mediocre Bowl,constructed
+202214312,2022,14,3,12,79.82,84.06,False,regular,,scraped
+20221464,2022,14,6,4,118.18,99.4,False,regular,,scraped
+202214711,2022,14,7,11,118.88,115.86,False,regular,,scraped
+20221482,2022,14,8,2,107.96,100.28,False,regular,,scraped
+20221495,2022,14,9,5,85.4,65.96,False,regular,,scraped
+2022151012_mediocre,2022,15,10,12,79.98,96.82,True,mediocre_bowl,Mediocre Bowl,constructed
+202215117,2022,15,11,7,97.9,102.8,True,winners,Winners Round 1,scraped
+20221519,2022,15,1,9,133.44,122.9,True,winners,Winners Round 1,scraped
+20221538,2022,15,3,8,116.08,89.6,True,toilet_bowl,Consolation Round 1,scraped
+20221545,2022,15,4,5,99.78,90.84,True,toilet_bowl,Consolation Round 1,scraped
+20221612,2022,16,1,2,137.46,94.08,True,winners,Semifinal,scraped
+2022161210_mediocre,2022,16,12,10,103.5,93.34,True,mediocre_bowl,Mediocre Bowl,constructed
+202216123,2022,16,12,3,103.5,89.46,False,regular,,scraped
+202216410,2022,16,4,10,86.4,93.34,False,regular,,scraped
+20221667,2022,16,6,7,70.8,85.2,True,winners,Semifinal,scraped
+202217119,2022,17,11,9,89.36,68.2,False,regular,,scraped
+2022171210,2022,17,12,10,52.12,114.68,True,mediocre_bowl,Mediocre Bowl,scraped
+20221734,2022,17,3,4,77.4,124.1,True,toilet_bowl,Toilet Bowl,scraped
+20221762,2022,17,6,2,187.14,67.1,True,third_place,Third Place,scraped
+20221771,2022,17,7,1,89.66,91.92,True,championship,Championship,scraped
+20221785,2022,17,8,5,55.1,87.98,True,toilet_bowl,Toilet Bowl,scraped
+202301s1,2023,1,6,7,101.5,81.32,False,regular,,scraped
+202301s2,2023,1,3,9,61.88,94.54,False,regular,,scraped
+202301s3,2023,1,1,11,98.74,107.36,False,regular,,scraped
+202301s4,2023,1,5,10,97.14,91.44,False,regular,,scraped
+202301s5,2023,1,2,8,59.86,63.44,False,regular,,scraped
+202301s6,2023,1,4,12,108.38,87.76,False,regular,,scraped
+202302s1,2023,2,6,9,126.92,74.6,False,regular,,scraped
+202302s2,2023,2,3,7,101.38,114.54,False,regular,,scraped
+202302s3,2023,2,10,11,91.84,93.82,False,regular,,scraped
+202302s4,2023,2,1,5,65.94,90.26,False,regular,,scraped
+202302s5,2023,2,2,12,97.48,115.2,False,regular,,scraped
+202302s6,2023,2,4,8,121.54,84.16,False,regular,,scraped
+202303s1,2023,3,3,6,77.16,69.98,False,regular,,scraped
+202303s2,2023,3,7,9,119.12,96.48,False,regular,,scraped
+202303s3,2023,3,5,11,118.36,135.28,False,regular,,scraped
+202303s4,2023,3,1,10,84.06,92.06,False,regular,,scraped
+202303s5,2023,3,2,4,90.58,142.84,False,regular,,scraped
+202303s6,2023,3,8,12,116.82,118.2,False,regular,,scraped
+202304s1,2023,4,6,11,180.66,76.86,False,regular,,scraped
+202304s2,2023,4,1,7,107.38,153.8,False,regular,,scraped
+202304s3,2023,4,2,9,100.44,65.22,False,regular,,scraped
+202304s4,2023,4,3,8,50.5,136.38,False,regular,,scraped
+202304s5,2023,4,10,12,111.8,73.08,False,regular,,scraped
+202304s6,2023,4,4,5,68.4,91.08,False,regular,,scraped
+202305s1,2023,5,1,6,63.38,152.12,False,regular,,scraped
+202305s2,2023,5,7,11,117.32,140.66,False,regular,,scraped
+202305s3,2023,5,8,9,83.96,105.84,False,regular,,scraped
+202305s4,2023,5,2,3,74.84,70.78,False,regular,,scraped
+202305s5,2023,5,4,10,136.04,94.08,False,regular,,scraped
+202305s6,2023,5,5,12,113.32,122.54,False,regular,,scraped
+202306s1,2023,6,6,10,78.5,88.72,False,regular,,scraped
+202306s2,2023,6,5,7,88.08,94.0,False,regular,,scraped
+202306s3,2023,6,9,12,87.24,79.18,False,regular,,scraped
+202306s4,2023,6,3,4,76.7,105.9,False,regular,,scraped
+202306s5,2023,6,2,11,108.52,78.14,False,regular,,scraped
+202306s6,2023,6,1,8,120.74,82.96,False,regular,,scraped
+202307s1,2023,7,5,6,107.34,112.56,False,regular,,scraped
+202307s2,2023,7,7,10,100.28,55.66,False,regular,,scraped
+202307s3,2023,7,4,9,98.26,125.36,False,regular,,scraped
+202307s4,2023,7,3,12,92.6,85.26,False,regular,,scraped
+202307s5,2023,7,8,11,84.0,63.26,False,regular,,scraped
+202307s6,2023,7,1,2,86.24,117.78,False,regular,,scraped
+202308s1,2023,8,2,6,147.68,131.66,False,regular,,scraped
+202308s2,2023,8,7,8,119.66,85.36,False,regular,,scraped
+202308s3,2023,8,9,10,65.7,86.68,False,regular,,scraped
+202308s4,2023,8,3,5,110.32,126.26,False,regular,,scraped
+202308s5,2023,8,11,12,96.96,110.32,False,regular,,scraped
+202308s6,2023,8,1,4,84.18,105.8,False,regular,,scraped
+202309s1,2023,9,6,8,88.78,96.92,False,regular,,scraped
+202309s2,2023,9,2,7,118.98,108.44,False,regular,,scraped
+202309s3,2023,9,5,9,69.82,108.8,False,regular,,scraped
+202309s4,2023,9,3,10,89.62,67.5,False,regular,,scraped
+202309s5,2023,9,4,11,118.5,95.64,False,regular,,scraped
+202309s6,2023,9,1,12,99.66,66.64,False,regular,,scraped
+202310s1,2023,10,6,12,104.16,119.92,False,regular,,scraped
+202310s2,2023,10,4,7,79.14,112.24,False,regular,,scraped
+202310s3,2023,10,9,11,69.72,83.8,False,regular,,scraped
+202310s4,2023,10,1,3,131.56,85.98,False,regular,,scraped
+202310s5,2023,10,2,10,125.92,88.78,False,regular,,scraped
+202310s6,2023,10,5,8,110.82,78.18,False,regular,,scraped
+202311s1,2023,11,4,6,101.84,107.7,False,regular,,scraped
+202311s2,2023,11,7,12,98.96,111.6,False,regular,,scraped
+202311s3,2023,11,1,9,107.16,108.98,False,regular,,scraped
+202311s4,2023,11,3,11,62.04,89.64,False,regular,,scraped
+202311s5,2023,11,8,10,88.6,47.84,False,regular,,scraped
+202311s6,2023,11,2,5,109.16,117.2,False,regular,,scraped
+202312s1,2023,12,6,7,105.5,117.04,False,regular,,scraped
+202312s2,2023,12,3,9,67.06,105.82,False,regular,,scraped
+202312s3,2023,12,1,11,117.04,115.9,False,regular,,scraped
+202312s4,2023,12,5,10,80.62,87.08,False,regular,,scraped
+202312s5,2023,12,2,8,108.88,120.16,False,regular,,scraped
+202312s6,2023,12,4,12,108.36,108.98,False,regular,,scraped
+202313s1,2023,13,6,9,98.84,65.1,False,regular,,scraped
+202313s2,2023,13,3,7,111.74,120.4,False,regular,,scraped
+202313s3,2023,13,10,11,73.88,110.74,False,regular,,scraped
+202313s4,2023,13,1,5,135.86,132.9,False,regular,,scraped
+202313s5,2023,13,2,12,70.48,94.98,False,regular,,scraped
+202313s6,2023,13,4,8,109.96,112.78,False,regular,,scraped
+202314s1,2023,14,3,6,104.36,62.18,False,regular,,scraped
+202314s2,2023,14,7,9,118.12,85.54,False,regular,,scraped
+202314s3,2023,14,5,11,99.8,107.9,False,regular,,scraped
+202314s4,2023,14,1,10,91.94,111.52,False,regular,,scraped
+202314s5,2023,14,2,4,107.84,90.84,False,regular,,scraped
+202314s6,2023,14,8,12,89.22,66.04,False,regular,,scraped
+202315s1,2023,15,8,12,75.66,114.92,True,winners,Winners Round 1,scraped
+202315s2,2023,15,6,11,70.32,112.82,True,winners,Winners Round 1,scraped
+202315s4,2023,15,1,10,117.86,95.34,True,toilet_bowl,Consolation Round 1,scraped
+202315s5,2023,15,3,5,93.72,95.96,True,toilet_bowl,Consolation Round 1,scraped
+202316s1,2023,16,7,12,88.7,132.68,True,winners,Winners Round 2,scraped
+202316s2,2023,16,2,11,108.78,85.52,True,winners,Winners Round 2,scraped
+202316s3,2023,16,6,8,125.64,119.36,True,winners,Fifth Place,scraped
+202316s4,2023,16,1,4,84.52,64.3,True,consolation,Consolation Round 2,scraped
+202316s5,2023,16,5,9,134.42,90.4,True,consolation,Consolation Round 2,scraped
+202316s6,2023,16,3,10,90.72,76.0,True,toilet_bowl,Toilet Bowl,scraped
+202317s1,2023,17,2,12,146.64,65.44,True,championship,Championship,scraped
+202317s2,2023,17,7,11,119.14,109.48,True,third_place,Third Place,scraped
+202317s4,2023,17,1,5,113.1,101.58,True,mediocre_bowl,Mediocre Bowl (7th Place),scraped
+202317s5,2023,17,4,9,80.82,61.0,True,consolation,9th Place,scraped
+202401s1,2024,1,2,12,110.64,97.26,False,regular,,scraped
+202401s2,2024,1,1,9,86.78,69.42,False,regular,,scraped
+202401s3,2024,1,3,10,126.58,83.4,False,regular,,scraped
+202401s4,2024,1,7,8,104.16,61.06,False,regular,,scraped
+202401s5,2024,1,6,11,125.72,60.48,False,regular,,scraped
+202401s6,2024,1,4,5,98.06,52.84,False,regular,,scraped
+202402s1,2024,2,9,12,102.42,122.3,False,regular,,scraped
+202402s2,2024,2,1,2,93.58,109.24,False,regular,,scraped
+202402s3,2024,2,8,10,76.76,80.2,False,regular,,scraped
+202402s4,2024,2,3,7,100.26,91.32,False,regular,,scraped
+202402s5,2024,2,5,11,82.96,134.94,False,regular,,scraped
+202402s6,2024,2,4,6,99.24,109.38,False,regular,,scraped
+202403s1,2024,3,1,12,86.96,76.4,False,regular,,scraped
+202403s2,2024,3,2,9,94.98,81.34,False,regular,,scraped
+202403s3,2024,3,7,10,103.16,68.04,False,regular,,scraped
+202403s4,2024,3,3,8,136.72,109.36,False,regular,,scraped
+202403s5,2024,3,4,11,81.36,93.18,False,regular,,scraped
+202403s6,2024,3,5,6,73.18,96.58,False,regular,,scraped
+202404s1,2024,4,10,12,104.86,83.4,False,regular,,scraped
+202404s2,2024,4,2,3,98.3,105.1,False,regular,,scraped
+202404s3,2024,4,9,11,98.02,80.56,False,regular,,scraped
+202404s4,2024,4,1,6,82.0,112.14,False,regular,,scraped
+202404s5,2024,4,5,8,73.02,99.98,False,regular,,scraped
+202404s6,2024,4,4,7,101.22,127.54,False,regular,,scraped
+202405s1,2024,5,3,12,89.24,102.64,False,regular,,scraped
+202405s2,2024,5,2,10,101.64,94.66,False,regular,,scraped
+202405s3,2024,5,6,9,95.72,62.4,False,regular,,scraped
+202405s4,2024,5,1,11,127.76,127.5,False,regular,,scraped
+202405s5,2024,5,4,8,119.92,107.18,False,regular,,scraped
+202405s6,2024,5,5,7,102.06,96.78,False,regular,,scraped
+202406s1,2024,6,8,12,63.12,82.38,False,regular,,scraped
+202406s2,2024,6,2,7,88.04,83.82,False,regular,,scraped
+202406s3,2024,6,5,9,117.0,62.66,False,regular,,scraped
+202406s4,2024,6,1,4,78.4,108.16,False,regular,,scraped
+202406s5,2024,6,10,11,144.92,94.56,False,regular,,scraped
+202406s6,2024,6,3,6,163.7,119.92,False,regular,,scraped
+202407s1,2024,7,7,12,101.96,100.54,False,regular,,scraped
+202407s2,2024,7,2,8,101.26,71.24,False,regular,,scraped
+202407s3,2024,7,4,9,80.14,65.96,False,regular,,scraped
+202407s4,2024,7,1,5,111.68,90.28,False,regular,,scraped
+202407s5,2024,7,6,10,117.44,81.0,False,regular,,scraped
+202407s6,2024,7,3,11,91.12,112.0,False,regular,,scraped
+202408s1,2024,8,11,12,109.18,103.1,False,regular,,scraped
+202408s2,2024,8,2,6,105.24,102.76,False,regular,,scraped
+202408s3,2024,8,8,9,71.16,101.64,False,regular,,scraped
+202408s4,2024,8,1,7,105.8,119.52,False,regular,,scraped
+202408s5,2024,8,5,10,112.9,75.94,False,regular,,scraped
+202408s6,2024,8,3,4,117.74,107.14,False,regular,,scraped
+202409s1,2024,9,6,12,116.1,106.18,False,regular,,scraped
+202409s2,2024,9,2,11,141.74,77.66,False,regular,,scraped
+202409s3,2024,9,7,9,104.96,80.9,False,regular,,scraped
+202409s4,2024,9,1,8,86.22,107.34,False,regular,,scraped
+202409s5,2024,9,4,10,108.86,75.42,False,regular,,scraped
+202409s6,2024,9,3,5,97.9,133.18,False,regular,,scraped
+202410s1,2024,10,5,12,89.02,86.74,False,regular,,scraped
+202410s2,2024,10,2,4,86.34,87.18,False,regular,,scraped
+202410s3,2024,10,9,10,86.38,64.88,False,regular,,scraped
+202410s4,2024,10,1,3,70.7,114.2,False,regular,,scraped
+202410s5,2024,10,8,11,119.02,111.74,False,regular,,scraped
+202410s6,2024,10,6,7,105.1,83.24,False,regular,,scraped
+202411s1,2024,11,4,12,85.54,116.08,False,regular,,scraped
+202411s2,2024,11,2,5,117.88,68.96,False,regular,,scraped
+202411s3,2024,11,3,9,148.88,116.36,False,regular,,scraped
+202411s4,2024,11,1,10,113.28,78.74,False,regular,,scraped
+202411s5,2024,11,6,8,90.08,97.04,False,regular,,scraped
+202411s6,2024,11,7,11,76.5,100.06,False,regular,,scraped
+202412s1,2024,12,2,12,123.22,90.32,False,regular,,scraped
+202412s2,2024,12,1,9,107.16,89.06,False,regular,,scraped
+202412s3,2024,12,3,10,84.36,80.02,False,regular,,scraped
+202412s4,2024,12,7,8,134.98,78.18,False,regular,,scraped
+202412s5,2024,12,6,11,105.68,68.3,False,regular,,scraped
+202412s6,2024,12,4,5,86.8,98.62,False,regular,,scraped
+202413s1,2024,13,9,12,90.72,120.02,False,regular,,scraped
+202413s2,2024,13,1,2,100.34,102.74,False,regular,,scraped
+202413s3,2024,13,8,10,94.06,100.36,False,regular,,scraped
+202413s4,2024,13,3,7,147.32,96.1,False,regular,,scraped
+202413s5,2024,13,5,11,80.78,104.1,False,regular,,scraped
+202413s6,2024,13,4,6,128.34,102.78,False,regular,,scraped
+202414s1,2024,14,1,12,112.92,99.56,False,regular,,scraped
+202414s2,2024,14,2,9,80.1,145.02,False,regular,,scraped
+202414s3,2024,14,7,10,135.6,68.04,False,regular,,scraped
+202414s4,2024,14,3,8,145.18,98.16,False,regular,,scraped
+202414s5,2024,14,4,11,104.62,98.76,False,regular,,scraped
+202414s6,2024,14,5,6,83.12,71.12,False,regular,,scraped
+202415s1,2024,15,4,7,134.04,139.64,True,winners,Winners Round 1,scraped
+202415s2,2024,15,1,6,120.36,122.4,True,winners,Winners Round 1,scraped
+202415s4,2024,15,8,9,77.34,78.7,True,toilet_bowl,Consolation Round 1,scraped
+202415s5,2024,15,10,12,102.86,89.1,True,toilet_bowl,Consolation Round 1,scraped
+202416s1,2024,16,3,7,85.46,146.32,True,winners,Winners Round 2,scraped
+202416s2,2024,16,2,6,106.8,109.38,True,winners,Winners Round 2,scraped
+202416s3,2024,16,1,4,119.84,108.42,True,winners,Fifth Place,scraped
+202416s4,2024,16,5,10,74.72,90.38,True,consolation,Consolation Round 2,scraped
+202416s5,2024,16,9,11,96.34,94.98,True,consolation,Consolation Round 2,scraped
+202416s6,2024,16,8,12,120.38,141.06,True,toilet_bowl,Toilet Bowl,scraped
+202417s1,2024,17,6,7,137.62,108.76,True,championship,Championship,scraped
+202417s2,2024,17,2,3,115.8,119.38,True,third_place,Third Place,scraped
+202417s4,2024,17,9,10,119.82,85.3,True,mediocre_bowl,Mediocre Bowl (7th Place),scraped
+202417s5,2024,17,8,12,115.58,100.16,True,toilet_bowl,9th Place,scraped
+202501s1,2025,1,8,10,83.88,98.46,False,regular,,scraped
+202501s2,2025,1,2,11,65.72,94.44,False,regular,,scraped
+202501s3,2025,1,1,6,78.02,72.88,False,regular,,scraped
+202501s4,2025,1,5,12,99.92,98.26,False,regular,,scraped
+202501s5,2025,1,4,7,95.92,102.88,False,regular,,scraped
+202501s6,2025,1,3,9,93.0,85.92,False,regular,,scraped
+202502s1,2025,2,2,10,90.44,73.32,False,regular,,scraped
+202502s2,2025,2,8,11,99.14,117.84,False,regular,,scraped
+202502s3,2025,2,6,12,133.1,95.4,False,regular,,scraped
+202502s4,2025,2,1,5,79.4,124.88,False,regular,,scraped
+202502s5,2025,2,7,9,102.9,78.18,False,regular,,scraped
+202502s6,2025,2,3,4,117.46,111.9,False,regular,,scraped
+202503s1,2025,3,10,11,89.32,103.52,False,regular,,scraped
+202503s2,2025,3,2,8,88.92,112.84,False,regular,,scraped
+202503s3,2025,3,5,6,88.36,103.22,False,regular,,scraped
+202503s4,2025,3,1,12,85.46,110.92,False,regular,,scraped
+202503s5,2025,3,3,7,104.08,85.02,False,regular,,scraped
+202503s6,2025,3,4,9,85.3,84.0,False,regular,,scraped
+202504s1,2025,4,6,10,114.22,115.36,False,regular,,scraped
+202504s2,2025,4,1,8,118.04,98.7,False,regular,,scraped
+202504s3,2025,4,2,7,74.68,134.08,False,regular,,scraped
+202504s4,2025,4,4,11,96.74,116.54,False,regular,,scraped
+202504s5,2025,4,9,12,95.02,81.88,False,regular,,scraped
+202504s6,2025,4,3,5,93.72,141.0,False,regular,,scraped
+202505s1,2025,5,1,10,104.52,115.32,False,regular,,scraped
+202505s2,2025,5,6,8,91.82,138.72,False,regular,,scraped
+202505s3,2025,5,2,4,106.38,94.84,False,regular,,scraped
+202505s4,2025,5,7,11,129.26,88.18,False,regular,,scraped
+202505s5,2025,5,3,12,102.12,70.48,False,regular,,scraped
+202505s6,2025,5,5,9,83.42,91.44,False,regular,,scraped
+202506s1,2025,6,10,12,75.7,150.24,False,regular,,scraped
+202506s2,2025,6,5,8,78.78,115.42,False,regular,,scraped
+202506s3,2025,6,2,9,87.08,78.96,False,regular,,scraped
+202506s4,2025,6,3,11,66.84,112.16,False,regular,,scraped
+202506s5,2025,6,6,7,102.96,91.64,False,regular,,scraped
+202506s6,2025,6,1,4,68.9,103.24,False,regular,,scraped
+202507s1,2025,7,5,10,77.84,71.72,False,regular,,scraped
+202507s2,2025,7,8,12,84.84,120.16,False,regular,,scraped
+202507s3,2025,7,2,3,60.48,122.98,False,regular,,scraped
+202507s4,2025,7,9,11,131.4,150.66,False,regular,,scraped
+202507s5,2025,7,4,6,80.14,103.78,False,regular,,scraped
+202507s6,2025,7,1,7,79.94,87.12,False,regular,,scraped
+202508s1,2025,8,7,10,95.58,65.82,False,regular,,scraped
+202508s2,2025,8,4,8,107.62,73.06,False,regular,,scraped
+202508s3,2025,8,2,12,86.18,47.72,False,regular,,scraped
+202508s4,2025,8,5,11,101.86,161.48,False,regular,,scraped
+202508s5,2025,8,6,9,152.98,86.28,False,regular,,scraped
+202508s6,2025,8,1,3,108.36,124.78,False,regular,,scraped
+202509s1,2025,9,4,10,105.42,72.12,False,regular,,scraped
+202509s2,2025,9,7,8,75.02,119.8,False,regular,,scraped
+202509s3,2025,9,2,5,93.18,80.6,False,regular,,scraped
+202509s4,2025,9,11,12,79.72,74.86,False,regular,,scraped
+202509s5,2025,9,3,6,137.82,106.16,False,regular,,scraped
+202509s6,2025,9,1,9,141.14,78.0,False,regular,,scraped
+202510s1,2025,10,9,10,108.8,120.54,False,regular,,scraped
+202510s2,2025,10,3,8,114.8,68.52,False,regular,,scraped
+202510s3,2025,10,2,6,101.3,128.0,False,regular,,scraped
+202510s4,2025,10,1,11,117.98,94.3,False,regular,,scraped
+202510s5,2025,10,7,12,101.82,71.84,False,regular,,scraped
+202510s6,2025,10,4,5,77.12,105.72,False,regular,,scraped
+202511s1,2025,11,3,10,81.2,135.18,False,regular,,scraped
+202511s2,2025,11,8,9,63.8,80.84,False,regular,,scraped
+202511s3,2025,11,1,2,99.9,76.42,False,regular,,scraped
+202511s4,2025,11,6,11,103.64,70.04,False,regular,,scraped
+202511s5,2025,11,4,12,109.02,89.42,False,regular,,scraped
+202511s6,2025,11,5,7,77.34,108.02,False,regular,,scraped
+202512s1,2025,12,8,10,104.06,63.12,False,regular,,scraped
+202512s2,2025,12,2,11,110.06,140.58,False,regular,,scraped
+202512s3,2025,12,1,6,103.36,102.76,False,regular,,scraped
+202512s4,2025,12,5,12,80.68,76.72,False,regular,,scraped
+202512s5,2025,12,4,7,85.82,55.94,False,regular,,scraped
+202512s6,2025,12,3,9,117.32,109.32,False,regular,,scraped
+202513s1,2025,13,2,10,71.86,112.22,False,regular,,scraped
+202513s2,2025,13,8,11,81.2,82.04,False,regular,,scraped
+202513s3,2025,13,6,12,102.28,114.04,False,regular,,scraped
+202513s4,2025,13,1,5,63.16,81.74,False,regular,,scraped
+202513s5,2025,13,7,9,104.56,71.54,False,regular,,scraped
+202513s6,2025,13,3,4,110.42,106.02,False,regular,,scraped
+202514s1,2025,14,10,11,123.84,81.38,False,regular,,scraped
+202514s2,2025,14,2,8,75.2,71.9,False,regular,,scraped
+202514s3,2025,14,5,6,103.8,82.52,False,regular,,scraped
+202514s4,2025,14,1,12,104.36,90.34,False,regular,,scraped
+202514s5,2025,14,3,7,88.56,97.06,False,regular,,scraped
+202514s6,2025,14,4,9,121.64,107.06,False,regular,,scraped
+202515s1,2025,15,4,7,99.32,114.38,True,winners,Winners Round 1,scraped
+202515s2,2025,15,5,6,97.56,93.0,True,winners,Winners Round 1,scraped
+202515s4,2025,15,8,12,86.6,88.7,True,toilet_bowl,Consolation Round 1,scraped
+202515s5,2025,15,2,9,94.38,89.2,True,toilet_bowl,Consolation Round 1,scraped
+202516s1,2025,16,5,11,151.06,100.48,True,winners,Winners Round 2,scraped
+202516s2,2025,16,3,7,88.78,102.9,True,winners,Winners Round 2,scraped
+202516s3,2025,16,4,6,93.18,112.4,True,winners,Fifth Place,scraped
+202516s4,2025,16,1,12,103.96,87.76,True,consolation,Consolation Round 2,scraped
+202516s5,2025,16,2,10,83.3,49.0,True,consolation,Consolation Round 2,scraped
+202516s6,2025,16,8,9,107.8,84.1,True,toilet_bowl,Toilet Bowl,scraped
+202517s1,2025,17,5,7,86.72,121.52,True,championship,Championship,scraped
+202517s2,2025,17,3,11,62.58,81.58,True,third_place,Third Place,scraped
+202517s4,2025,17,1,2,94.78,112.0,True,mediocre_bowl,Mediocre Bowl (7th Place),scraped
+202517s5,2025,17,10,12,77.68,124.98,True,consolation,9th Place,scraped

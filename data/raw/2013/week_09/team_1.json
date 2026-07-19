@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Jake Locker",
       "nfl_team": "TEN",
       "game_result": "Win",
@@ -13,16 +14,14 @@
       "rushing_tds": 1,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 10.4,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2495194"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "LeSean McCoy",
       "nfl_team": "PHI",
       "game_result": "Win",
@@ -34,16 +33,14 @@
       "rushing_tds": 0,
       "receiving_yards": 36,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 14.0,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "79607"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Ryan Mathews",
       "nfl_team": "LAC",
       "game_result": "Loss",
@@ -55,15 +52,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 3.4,
-      "lineup_status": "starter",
-      "player_id": "497188"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Andre Johnson",
       "nfl_team": "HOU",
       "game_result": "Loss",
@@ -75,16 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 229,
       "receiving_tds": 3,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 40.9,
-      "touchdowns": 3,
-      "lineup_status": "starter",
-      "player_id": "2505551"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Antonio Brown",
       "nfl_team": "PIT",
       "game_result": "Loss",
@@ -96,16 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 71,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 13.1,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2508061"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Jordan Cameron",
       "nfl_team": "CLE",
       "game_result": "Win",
@@ -117,15 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 4,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.4,
-      "lineup_status": "starter",
-      "player_id": "2495267"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "W/R",
+      "lineup_status": "starter",
       "name": "T.Y. Hilton",
       "nfl_team": "IND",
       "game_result": "Win",
@@ -137,16 +128,14 @@
       "rushing_tds": 0,
       "receiving_yards": 121,
       "receiving_tds": 3,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 30.1,
-      "touchdowns": 3,
-      "lineup_status": "starter",
-      "player_id": "2532865"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Danny Woodhead",
       "nfl_team": "LAC",
       "game_result": "Loss",
@@ -158,15 +147,14 @@
       "rushing_tds": 0,
       "receiving_yards": 77,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 9.8,
-      "lineup_status": "starter",
-      "player_id": "4327"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Percy Harvin",
       "nfl_team": "SEA",
       "game_result": "Win",
@@ -178,19 +166,16 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "80425"
+      "player_type": "offense"
     },
     {
-      "position": "QB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Colin Kaepernick",
       "nfl_team": "SF",
-      "game_result": "Bye",
-      "status": "",
       "passing_yards": 0,
       "passing_tds": 0,
       "interceptions": 0,
@@ -198,15 +183,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2495186"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Steven Jackson",
       "nfl_team": "ATL",
       "game_result": "Loss",
@@ -218,15 +202,14 @@
       "rushing_tds": 0,
       "receiving_yards": 19,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 7.6,
-      "lineup_status": "starter",
-      "player_id": "2505936"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Alshon Jeffery",
       "nfl_team": "CHI",
       "game_result": "Win",
@@ -238,16 +221,14 @@
       "rushing_tds": 0,
       "receiving_yards": 60,
       "receiving_tds": 1,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 12.1,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "2533039"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Mike James",
       "nfl_team": "TB",
       "game_result": "Loss",
@@ -259,14 +240,50 @@
       "rushing_tds": 0,
       "receiving_yards": 8,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 20.68,
-      "touchdowns": 1,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2540224"
+      "name": "Stephen Gostkowski",
+      "nfl_team": "NE",
+      "game_result": "Win",
+      "game_score": "55-31",
+      "fg_made": 2,
+      "fg_0_19": 0,
+      "fg_20_29": 1,
+      "fg_30_39": 1,
+      "fg_40_49": 0,
+      "fg_50_plus": 0,
+      "fantasy_points": 13.0,
+      "player_type": "kicker",
+      "pat_made": 7
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "Seattle Seahawks",
+      "nfl_team": "Seattle Seahawks",
+      "game_result": "Win",
+      "game_score": "27-24",
+      "sacks": 3,
+      "interceptions": 0,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 24,
+      "fantasy_points": 3.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 15,
+    "starters": 9,
+    "bench": 6,
+    "total_points": 128.29999999999998
+  },
   "source": "html_scraping"
 }

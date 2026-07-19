@@ -469,7 +469,10 @@ class NFLFantasyMultiTableScraper:
             elif header_lower == 'points':
                 column_map['fantasy_points'] = i
             elif header_lower == 'made':
-                column_map['fg_made'] = i
+                # NFL.com kicker table uses a grouped header (PAT | FG): the
+                # lone "Made" column is PAT made, not FG made. FG made is the
+                # sum of the distance buckets (computed after extraction).
+                column_map['pat_made'] = i
             elif header_lower == '0-19':
                 column_map['fg_0_19'] = i
             elif header_lower == '20-29':
@@ -605,10 +608,14 @@ class NFLFantasyMultiTableScraper:
                         parts = cell_text.split(',', 1)
                         player['game_result'] = parts[0].strip()
                         player['game_score'] = parts[1].strip()
-        
+
+        # FG made is the sum of the distance buckets (no dedicated column)
+        player['fg_made'] = sum(player.get(k, 0) or 0 for k in
+                                ('fg_0_19', 'fg_20_29', 'fg_30_39', 'fg_40_49', 'fg_50_plus'))
+
         # Add player type
         player['player_type'] = 'kicker'
-        
+
         return player
     
     def _extract_player_from_defense_row(self, cells: List, column_map: Dict[str, int], row) -> Dict:

@@ -2,6 +2,7 @@
   "players": [
     {
       "position": "QB",
+      "lineup_status": "starter",
       "name": "Matthew Stafford",
       "nfl_team": "LA",
       "game_result": "Win",
@@ -13,16 +14,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 6.68,
-      "touchdowns": 1,
-      "lineup_status": "starter",
-      "player_id": "79860"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Alvin Kamara",
       "nfl_team": "NO",
       "game_result": "Loss",
@@ -34,15 +33,14 @@
       "rushing_tds": 0,
       "receiving_yards": 7,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 5.9,
-      "lineup_status": "starter",
-      "player_id": "2558019"
+      "player_type": "offense"
     },
     {
       "position": "RB",
+      "lineup_status": "starter",
       "name": "Saquon Barkley",
       "nfl_team": "NYG",
       "game_result": "Loss",
@@ -54,15 +52,14 @@
       "rushing_tds": 0,
       "receiving_yards": -4,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.8,
-      "lineup_status": "starter",
-      "player_id": "2560968"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "A.J. Green",
       "nfl_team": "ARI",
       "game_result": "Loss",
@@ -74,15 +71,14 @@
       "rushing_tds": 0,
       "receiving_yards": 33,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 3.3,
-      "lineup_status": "starter",
-      "player_id": "2495450"
+      "player_type": "offense"
     },
     {
       "position": "WR",
+      "lineup_status": "starter",
       "name": "Donovan Peoples-Jones",
       "nfl_team": "CLE",
       "game_result": "Loss",
@@ -94,15 +90,14 @@
       "rushing_tds": 0,
       "receiving_yards": 5,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.5,
-      "lineup_status": "starter",
-      "player_id": "2563803"
+      "player_type": "offense"
     },
     {
       "position": "TE",
+      "lineup_status": "starter",
       "name": "Jared Cook",
       "nfl_team": "LAC",
       "game_result": "Loss",
@@ -114,15 +109,14 @@
       "rushing_tds": 0,
       "receiving_yards": 44,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 1,
       "fumbles_lost": 0,
       "fantasy_points": 6.4,
-      "lineup_status": "starter",
-      "player_id": "71265"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
+      "position": "R/W/T",
+      "lineup_status": "starter",
       "name": "Dontrell Hilliard",
       "nfl_team": "TEN",
       "game_result": "Win",
@@ -134,35 +128,14 @@
       "rushing_tds": 0,
       "receiving_yards": -6,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 1.4,
-      "lineup_status": "starter",
-      "player_id": "2561461"
+      "player_type": "offense"
     },
     {
-      "position": "RB",
-      "name": "Nyheim Hines",
-      "nfl_team": "IND",
-      "game_result": "Win",
-      "game_score": "22-16",
-      "passing_yards": 0,
-      "passing_tds": 0,
-      "interceptions": 0,
-      "rushing_yards": 11,
-      "rushing_tds": 0,
-      "receiving_yards": 7,
-      "receiving_tds": 0,
-      "fumble_tds": 0,
-      "two_point_conversions": 0,
-      "fumbles_lost": 0,
-      "fantasy_points": 1.8,
-      "lineup_status": "starter",
-      "player_id": "2560742"
-    },
-    {
-      "position": "RB",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Darrel Williams",
       "nfl_team": "KC",
       "game_result": "Win",
@@ -174,15 +147,33 @@
       "rushing_tds": 0,
       "receiving_yards": 30,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 8.5,
-      "lineup_status": "starter",
-      "player_id": "2560935"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "BN",
+      "lineup_status": "bench",
+      "name": "Nyheim Hines",
+      "nfl_team": "IND",
+      "game_result": "Win",
+      "game_score": "22-16",
+      "passing_yards": 0,
+      "passing_tds": 0,
+      "interceptions": 0,
+      "rushing_yards": 11,
+      "rushing_tds": 0,
+      "receiving_yards": 7,
+      "receiving_tds": 0,
+      "two_point_conversions": 0,
+      "fumbles_lost": 0,
+      "fantasy_points": 1.8,
+      "player_type": "offense"
+    },
+    {
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Brandin Cooks",
       "nfl_team": "HOU Q",
       "game_result": "Win",
@@ -194,15 +185,14 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
-      "lineup_status": "starter",
-      "player_id": "2543498"
+      "player_type": "offense"
     },
     {
-      "position": "TE",
+      "position": "BN",
+      "lineup_status": "bench",
       "name": "Austin Hooper",
       "nfl_team": "TEN",
       "game_result": "Win",
@@ -214,15 +204,14 @@
       "rushing_tds": 0,
       "receiving_yards": 26,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 2.6,
-      "lineup_status": "starter",
-      "player_id": "2555415"
+      "player_type": "offense"
     },
     {
-      "position": "WR",
+      "position": "RES",
+      "lineup_status": "starter",
       "name": "Elijah Moore",
       "nfl_team": "NYJ COV",
       "game_result": "Win",
@@ -234,13 +223,82 @@
       "rushing_tds": 0,
       "receiving_yards": 0,
       "receiving_tds": 0,
-      "fumble_tds": 0,
       "two_point_conversions": 0,
       "fumbles_lost": 0,
       "fantasy_points": 0.0,
+      "player_type": "offense"
+    },
+    {
+      "position": "K",
       "lineup_status": "starter",
-      "player_id": "2566385"
+      "name": "Matt Gay",
+      "nfl_team": "LA",
+      "game_result": "Win",
+      "game_score": "30-23",
+      "fg_made": 3,
+      "fg_0_19": 0,
+      "fg_20_29": 1,
+      "fg_30_39": 2,
+      "fg_40_49": 0,
+      "fg_50_plus": 0,
+      "fantasy_points": 12.0,
+      "player_type": "kicker",
+      "pat_made": 3
+    },
+    {
+      "position": "DEF",
+      "lineup_status": "starter",
+      "name": "New York Jets",
+      "nfl_team": "New York Jets",
+      "game_result": "Win",
+      "game_score": "26-21",
+      "sacks": 1,
+      "interceptions": 0,
+      "fumble_recoveries": 1,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 21,
+      "fantasy_points": 9.0,
+      "player_type": "defense"
+    },
+    {
+      "position": "BN",
+      "lineup_status": "bench",
+      "name": "San Francisco 49ers",
+      "nfl_team": "San Francisco 49ers",
+      "game_result": "Loss",
+      "game_score": "17-20",
+      "sacks": 4,
+      "interceptions": 0,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 20,
+      "fantasy_points": 5.0,
+      "player_type": "defense"
+    },
+    {
+      "position": "BN",
+      "lineup_status": "bench",
+      "name": "Seattle Seahawks",
+      "nfl_team": "Seattle Seahawks",
+      "game_result": "Loss",
+      "game_score": "24-25",
+      "sacks": 4,
+      "interceptions": 0,
+      "fumble_recoveries": 0,
+      "safeties": 0,
+      "def_tds": 0,
+      "points_allowed": 25,
+      "fantasy_points": 4.0,
+      "player_type": "defense"
     }
   ],
+  "team_stats": {
+    "total_players": 16,
+    "starters": 10,
+    "bench": 6,
+    "total_points": 47.98
+  },
   "source": "html_scraping"
 }

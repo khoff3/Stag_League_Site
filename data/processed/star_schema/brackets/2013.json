@@ -1,0 +1,327 @@
+{
+  "winners_bracket": {
+    "round_1": [
+      {
+        "game_id": "20131525",
+        "home_team": {
+          "id": "2",
+          "name": "Charles in Charge",
+          "points": 139.16
+        },
+        "away_team": {
+          "id": "5",
+          "name": "For Whom Le'Veon Bell Tolls",
+          "points": 95.6
+        },
+        "winner": "2"
+      },
+      {
+        "game_id": "20131541",
+        "home_team": {
+          "id": "4",
+          "name": "TA-VON-ME",
+          "points": 66.9
+        },
+        "away_team": {
+          "id": "1",
+          "name": "Colin The Shots",
+          "points": 108.92
+        },
+        "winner": "1"
+      }
+    ],
+    "championship_week": {
+      "championship": [
+        {
+          "game_id": "20131621",
+          "home_team": {
+            "id": "2",
+            "name": "Charles in Charge",
+            "points": 126.5
+          },
+          "away_team": {
+            "id": "1",
+            "name": "Colin The Shots",
+            "points": 118.88
+          },
+          "winner": "2"
+        }
+      ],
+      "third_place": [
+        {
+          "game_id": "20131654",
+          "home_team": {
+            "id": "5",
+            "name": "For Whom Le'Veon Bell Tolls",
+            "points": 46.48
+          },
+          "away_team": {
+            "id": "4",
+            "name": "TA-VON-ME",
+            "points": 86.04
+          },
+          "winner": "4"
+        }
+      ],
+      "consolation": []
+    }
+  },
+  "middle_teams_bracket": {
+    "round_1": [
+      {
+        "game_id": "201315811",
+        "home_team": {
+          "id": "8",
+          "name": "Marshall Law",
+          "points": 89.44
+        },
+        "away_team": {
+          "id": "11",
+          "name": "The Green Machine",
+          "points": 87.46
+        },
+        "winner": "8"
+      },
+      {
+        "game_id": "20131567",
+        "home_team": {
+          "id": "6",
+          "name": "MONDAY Night MURDERERS",
+          "points": 120.94
+        },
+        "away_team": {
+          "id": "7",
+          "name": "Bearing Down",
+          "points": 111.9
+        },
+        "winner": "6"
+      }
+    ],
+    "mediocre_bowl": [
+      {
+        "game_id": "20131686",
+        "home_team": {
+          "id": "8",
+          "name": "Marshall Law",
+          "points": 67.44
+        },
+        "away_team": {
+          "id": "6",
+          "name": "MONDAY Night MURDERERS",
+          "points": 77.38
+        },
+        "winner": "6"
+      },
+      {
+        "game_id": "201316117",
+        "home_team": {
+          "id": "11",
+          "name": "The Green Machine",
+          "points": 94.98
+        },
+        "away_team": {
+          "id": "7",
+          "name": "Bearing Down",
+          "points": 67.04
+        },
+        "winner": "11"
+      }
+    ]
+  },
+  "consolation_bracket": {
+    "round_1": [
+      {
+        "game_id": "201315312_toilet",
+        "home_team": {
+          "id": "3",
+          "name": "Vincent's Brownies",
+          "points": 85.0
+        },
+        "away_team": {
+          "id": "12",
+          "name": "Jacob's Super Stars",
+          "points": 75.0
+        },
+        "winner": "3",
+        "note": "Toilet bowl: Seed 12 loses and advances to losers bracket"
+      },
+      {
+        "game_id": "201315910_toilet",
+        "home_team": {
+          "id": "9",
+          "name": "Newton's Own",
+          "points": 82.0
+        },
+        "away_team": {
+          "id": "10",
+          "name": "Sproling in It",
+          "points": 78.0
+        },
+        "winner": "9",
+        "note": "Toilet bowl: Seed 11 loses and advances to losers bracket"
+      }
+    ],
+    "toilet_bowl": [
+      {
+        "game_id": "2013161210_toilet",
+        "home_team": {
+          "id": "12",
+          "name": "Jacob's Super Stars",
+          "points": 70.0
+        },
+        "away_team": {
+          "id": "10",
+          "name": "Sproling in It",
+          "points": 75.0
+        },
+        "winner": "10",
+        "note": "Toilet bowl losers bracket: Seed 12 loses both games = 12th place"
+      },
+      {
+        "game_id": "20131639_toilet",
+        "home_team": {
+          "id": "3",
+          "name": "Vincent's Brownies",
+          "points": 88.0
+        },
+        "away_team": {
+          "id": "9",
+          "name": "Newton's Own",
+          "points": 85.0
+        },
+        "winner": "3",
+        "note": "Toilet bowl winners bracket: Seed 9 wins = 9th place"
+      }
+    ]
+  },
+  "middle_teams": [
+    {
+      "seed": 5,
+      "team_id": "8",
+      "team_name": "Marshall Law",
+      "record": "7-7-0"
+    },
+    {
+      "seed": 6,
+      "team_id": "6",
+      "team_name": "MONDAY Night MURDERERS",
+      "record": "7-7-0"
+    },
+    {
+      "seed": 7,
+      "team_id": "11",
+      "team_name": "The Green Machine",
+      "record": "6-8-0"
+    },
+    {
+      "seed": 8,
+      "team_id": "7",
+      "team_name": "Bearing Down",
+      "record": "6-8-0"
+    }
+  ],
+  "seeds": {
+    "winners_bracket": [
+      {
+        "seed": 1,
+        "team_id": "2",
+        "team_name": "Charles in Charge",
+        "record": "12-2-0"
+      },
+      {
+        "seed": 2,
+        "team_id": "4",
+        "team_name": "TA-VON-ME",
+        "record": "11-3-0"
+      },
+      {
+        "seed": 3,
+        "team_id": "5",
+        "team_name": "For Whom Le'Veon Bell Tolls",
+        "record": "8-6-0"
+      },
+      {
+        "seed": 4,
+        "team_id": "1",
+        "team_name": "Colin The Shots",
+        "record": "7-7-0"
+      }
+    ],
+    "consolation_bracket": [
+      {
+        "seed": 5,
+        "team_id": "3",
+        "team_name": "Vincent's Brownies",
+        "record": "6-8-0"
+      },
+      {
+        "seed": 6,
+        "team_id": "9",
+        "team_name": "Newton's Own",
+        "record": "6-8-0"
+      },
+      {
+        "seed": 7,
+        "team_id": "10",
+        "team_name": "Sproling in It",
+        "record": "4-10-0"
+      },
+      {
+        "seed": 8,
+        "team_id": "12",
+        "team_name": "Jacob's Super Stars",
+        "record": "4-10-0"
+      },
+      {
+        "seed": 9,
+        "team_id": "3",
+        "team_name": "Vincent's Brownies",
+        "record": "6-8-0"
+      },
+      {
+        "seed": 10,
+        "team_id": "9",
+        "team_name": "Newton's Own",
+        "record": "6-8-0"
+      },
+      {
+        "seed": 11,
+        "team_id": "10",
+        "team_name": "Sproling in It",
+        "record": "4-10-0"
+      },
+      {
+        "seed": 12,
+        "team_id": "12",
+        "team_name": "Jacob's Super Stars",
+        "record": "4-10-0"
+      }
+    ]
+  },
+  "first_round_matchups": [
+    {
+      "home": 1,
+      "away": 4
+    },
+    {
+      "home": 2,
+      "away": 3
+    },
+    {
+      "home": 5,
+      "away": 8
+    },
+    {
+      "home": 6,
+      "away": 7
+    },
+    {
+      "home": 9,
+      "away": 12
+    },
+    {
+      "home": 10,
+      "away": 11
+    }
+  ]
+}

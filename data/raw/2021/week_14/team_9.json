@@ -233,14 +233,15 @@
       "nfl_team": "CIN",
       "game_result": "Loss",
       "game_score": "23-26",
-      "fg_made": 2,
+      "fg_made": 3,
       "fg_0_19": 0,
       "fg_20_29": 1,
       "fg_30_39": 1,
       "fg_40_49": 1,
       "fg_50_plus": 0,
       "fantasy_points": 11.0,
-      "player_type": "kicker"
+      "player_type": "kicker",
+      "pat_made": 2
     },
     {
       "position": "DEF",

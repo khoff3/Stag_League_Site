@@ -1,0 +1,258 @@
+[
+ {
+  "avatar": "3ab3a3d07c504c53ce5a342fa4c4baa4",
+  "display_name": "JimDurango",
+  "is_bot": false,
+  "is_owner": true,
+  "league_id": "1124841435980390400",
+  "metadata": {
+   "allow_pn": "on",
+   "archived": "off",
+   "avatar": "https://sleepercdn.com/uploads/83799d7e3878b81d63f33c6a92c0daf3.jpg",
+   "mascot_message": "off",
+   "mention_pn": "on",
+   "player_like_pn": "off",
+   "player_nickname_update": "off",
+   "team_name": "The Lazard Wazard",
+   "team_name_update": "off",
+   "trade_block_pn": "off",
+   "transaction_commissioner": "off",
+   "transaction_free_agent": "off",
+   "transaction_trade": "off",
+   "transaction_waiver": "off",
+   "user_message_pn": "on"
+  },
+  "settings": null,
+  "user_id": "359169584928079872"
+ },
+ {
+  "avatar": "68dcadbe2d7472fbf127be83fb20faf9",
+  "display_name": "Zuce",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1124841435980390400",
+  "metadata": {
+   "allow_pn": "on",
+   "avatar": "https://sleepercdn.com/uploads/d9cad170a5a8fb2f7c2ec1ab1ba5d4af",
+   "league_report_pn": "on",
+   "mascot_message": "off",
+   "mention_pn": "on",
+   "player_like_pn": "off",
+   "player_nickname_update": "off",
+   "team_name": "Dirty Harri",
+   "team_name_update": "off",
+   "trade_block_pn": "off",
+   "transaction_commissioner": "off",
+   "transaction_free_agent": "on",
+   "transaction_trade": "on",
+   "transaction_waiver": "on",
+   "user_message_pn": "on"
+  },
+  "settings": null,
+  "user_id": "443647917618622464"
+ },
+ {
+  "avatar": "15d7cf259bc30eab8f6120f45f652fb6",
+  "display_name": "FunGuy95",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1124841435980390400",
+  "metadata": {
+   "allow_pn": "on",
+   "archived": "off",
+   "avatar": "https://sleepercdn.com/uploads/b65ae399abf06cc666f108d5641c2484",
+   "mascot_message": "on",
+   "mention_pn": "on",
+   "player_like_pn": "on",
+   "player_nickname_update": "on",
+   "team_name": "Princeless McBride",
+   "team_name_update": "on",
+   "trade_block_pn": "on",
+   "transaction_commissioner": "on",
+   "transaction_free_agent": "on",
+   "transaction_trade": "on",
+   "transaction_waiver": "on",
+   "user_message_pn": "on"
+  },
+  "settings": null,
+  "user_id": "712883300800233472"
+ },
+ {
+  "avatar": "8fa7f4b20ea03293c94073c79de86e9f",
+  "display_name": "RufusAngelo",
+  "is_bot": false,
+  "is_owner": true,
+  "league_id": "1124841435980390400",
+  "metadata": {
+   "allow_pn": "on",
+   "archived": "off",
+   "avatar": "https://sleepercdn.com/uploads/aebe2b65d5c17c552502034c4ec6ad9f",
+   "league_report_pn": "off",
+   "mascot_message": "on",
+   "mention_pn": "on",
+   "player_like_pn": "on",
+   "player_nickname_update": "on",
+   "team_name": "The Home Deebo",
+   "team_name_update": "on",
+   "trade_block_pn": "on",
+   "transaction_commissioner": "on",
+   "transaction_free_agent": "on",
+   "transaction_trade": "on",
+   "transaction_waiver": "on",
+   "user_message_pn": "on"
+  },
+  "settings": null,
+  "user_id": "738191582183985152"
+ },
+ {
+  "avatar": "e7af4deab0289b4f5505646424895246",
+  "display_name": "ryancarroll09",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1124841435980390400",
+  "metadata": {
+   "allow_pn": "on",
+   "avatar": "https://sleepercdn.com/uploads/3e96262499012222794c510c3088a260",
+   "mascot_message": "off",
+   "mention_pn": "on",
+   "player_like_pn": "off",
+   "player_nickname_update": "off",
+   "team_name": "Yoshi\u2019s Island",
+   "team_name_update": "off",
+   "trade_block_pn": "off",
+   "transaction_commissioner": "off",
+   "transaction_free_agent": "off",
+   "transaction_trade": "on",
+   "transaction_waiver": "off",
+   "user_message_pn": "off"
+  },
+  "settings": null,
+  "user_id": "738280058405437440"
+ },
+ {
+  "avatar": "f51988ec8c006f591fa3d0939563a481",
+  "display_name": "rafaelbung",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1124841435980390400",
+  "metadata": {
+   "allow_pn": "on",
+   "avatar": "https://sleepercdn.com/uploads/7073a2fe536c542295048d367cc07149",
+   "mascot_message": "off",
+   "mention_pn": "on",
+   "player_like_pn": "off",
+   "player_nickname_update": "off",
+   "team_name": "Running Up that Hill",
+   "team_name_update": "off",
+   "trade_block_pn": "off",
+   "transaction_commissioner": "off",
+   "transaction_free_agent": "off",
+   "transaction_trade": "on",
+   "transaction_waiver": "on",
+   "user_message_pn": "on"
+  },
+  "settings": null,
+  "user_id": "738291491604164608"
+ },
+ {
+  "avatar": "b319fdf8b7b5b0359d3c78622ba4d70c",
+  "display_name": "mangycat",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1124841435980390400",
+  "metadata": {
+   "allow_pn": "on",
+   "avatar": "https://sleepercdn.com/uploads/e64da92a6febda44e4b76d32c0b868db.jpg",
+   "mention_pn": "on",
+   "team_name": "DerrickNMGPCalebNMB"
+  },
+  "settings": null,
+  "user_id": "741148967848542208"
+ },
+ {
+  "avatar": "c0623961a6e51b9eff1e1b5297239bc6",
+  "display_name": "sweatmastadelux",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1124841435980390400",
+  "metadata": {
+   "allow_pn": "on",
+   "archived": "off",
+   "league_report_pn": "on",
+   "mascot_message": "on",
+   "mention_pn": "on",
+   "player_like_pn": "off",
+   "player_nickname_update": "off",
+   "team_name": "7 Minutes of Evans",
+   "team_name_update": "off",
+   "trade_block_pn": "off",
+   "transaction_commissioner": "off",
+   "transaction_free_agent": "off",
+   "transaction_trade": "on",
+   "transaction_waiver": "off",
+   "user_message_pn": "on"
+  },
+  "settings": null,
+  "user_id": "741149489783607296"
+ },
+ {
+  "avatar": "bca1cb459e67701e096f288013669913",
+  "display_name": "teamteza",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1124841435980390400",
+  "metadata": {
+   "allow_pn": "on",
+   "allow_sms": "on",
+   "avatar": "https://sleepercdn.com/uploads/d1618685f634ce9b1b55e36b020ab5b3.jpg",
+   "mention_pn": "on",
+   "team_name": "Brock Tuah"
+  },
+  "settings": null,
+  "user_id": "868285567937458176"
+ },
+ {
+  "avatar": "82aec8e811b839b8ec25d7b458afd57b",
+  "display_name": "nobodypickjulio",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1124841435980390400",
+  "metadata": {
+   "allow_pn": "on",
+   "avatar": "https://sleepercdn.com/uploads/eeeb571f7327fda0933ac6eb69eb3160.jpg",
+   "mention_pn": "on",
+   "team_name": "The Stroud Family"
+  },
+  "settings": null,
+  "user_id": "871866280670638080"
+ },
+ {
+  "avatar": "8eb8f8bf999945d523f2c4033f70473e",
+  "display_name": "benjyam125",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1124841435980390400",
+  "metadata": {
+   "allow_pn": "on",
+   "avatar": "https://sleepercdn.com/uploads/0108e672a79e23aac3f2d946781b575b",
+   "mention_pn": "on",
+   "team_name": "CEEDEE-RHAM"
+  },
+  "settings": null,
+  "user_id": "994908260526338048"
+ },
+ {
+  "avatar": "b319fdf8b7b5b0359d3c78622ba4d70c",
+  "display_name": "VoodooFerrarri",
+  "is_bot": false,
+  "is_owner": false,
+  "league_id": "1124841435980390400",
+  "metadata": {
+   "allow_pn": "on",
+   "mention_pn": "on",
+   "team_name": "Whole Lotta Olave"
+  },
+  "settings": null,
+  "user_id": "1002675635132674048"
+ }
+]

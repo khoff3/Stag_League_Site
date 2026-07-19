@@ -80,8 +80,8 @@ game_id,season,week,home_team,home_team_id,home_points,home_record,home_rank,awa
 20121418,2012,14,Forgetting Brandon Marshall,1,94.4,8-6-0,4,Recepticons,8,94.66,8-6-0,7,2025-06-02T17:03:05.192Z,False,,False,,False,,,
 20121443,2012,14,BedonkaGronk,4,77.64,9-5-0,1,Hardball with Ryan Mathews,3,116.68,7-7-0,9,2025-06-02T17:03:05.192Z,False,,False,,False,,,
 201214211,2012,14,Forte Percent Chance of Wayne,2,89.0,1-13-0,12,Taco,11,126.12,9-5-0,2,2025-06-02T17:03:05.192Z,False,,False,,False,,,
-201214127,2012,14,Swagger Badgers,12,75.02,8-6-0,6,I Got Weeden My Pocket,7,63.32,3-11-0,11,2025-06-02T17:03:05.192Z,False,,False,,False,,,
-20121496,2012,14,Gimme the docta,9,86.88,7-7-0,10,Dragon Army,6,106.86,8-6-0,5,2025-06-02T17:03:05.192Z,False,,False,,False,,,
+201214127,2012,14,Swagger Badgers,12,75.02,8-6-0,6,I Got Weeden My Pocket,7,63.32,3-11-0,11,2025-06-02T17:03:05.192Z,False,,False,,True,toilet_bowl,consolation,Toilet Bowl
+20121496,2012,14,Gimme the docta,9,86.88,7-7-0,10,Dragon Army,6,106.86,8-6-0,5,2025-06-02T17:03:05.192Z,False,,False,,True,toilet_bowl,consolation,Toilet Bowl
 201214510,2012,14,Fifty Shades of Garay,5,116.82,7-7-0,8,ENDER,10,85.16,9-5-0,3,2025-06-02T17:03:05.192Z,False,,False,,False,,,
 20121565,2012,15,Dragon Army,6,73.74,8-6-0,5,Fifty Shades of Garay,5,94.24,7-7-0,8,2025-06-21T22:35:21.814Z,False,,False,,True,consolation_round_1,consolation,Consolation Round 1
 201215128,2012,15,Swagger Badgers,12,97.94,8-6-0,6,Recepticons,8,135.08,8-6-0,7,2025-06-21T22:35:21.814Z,False,,False,,True,consolation_round_1,consolation,Consolation Round 1

@@ -1,0 +1,177 @@
+season,team_id,team_name,manager_id,moves,trades,waiver_priority
+2011,1,The REVolution,646819,43,0,10
+2011,2,Granger Danger,770387,16,2,8
+2011,3,D Street Corsairs,1573498,8,2,3
+2011,4,HOLDEN CAUFIELDS,1750812,28,1,1
+2011,5,Fencing Beats Football,1778244,21,1,7
+2011,6,Swagger Badgers,1930156,11,0,6
+2011,7,Big Bird's Barbarians,2028716,8,0,4
+2011,8,Free DOME,2077461,0,0,2
+2011,9,Go Pack Go,2126483,7,1,5
+2011,10,Village Park Recreational Club,2189986,43,1,9
+2012,1,Forgetting Brandon Marshall,646819,35,2,10
+2012,2,Forte Percent Chance of Wayne,2821640,28,3,1
+2012,3,Hardball with Ryan Mathews,1778244,37,0,4
+2012,4,BedonkaGronk,2189986,51,0,12
+2012,5,Fifty Shades of Garay,1750812,28,2,9
+2012,6,Dragon Army,770387,24,2,11
+2012,7,I Got Weeden My Pocket,2867641,7,0,2
+2012,8,Recepticons,2028716,12,0,5
+2012,9,Gimme the docta,3348683,16,0,3
+2012,10,ENDER,1573498,9,0,7
+2012,11,Taco,3857345,27,2,8
+2012,12,Swagger Badgers,1930156,6,1,6
+2013,1,Colin The Shots,646819,32,2,8
+2013,2,Charles in Charge,2821640,33,1,5
+2013,3,Vincent's Brownies,1778244,36,2,3
+2013,4,TA-VON-ME,2189986,34,2,11
+2013,5,For Whom Le'Veon Bell Tolls,1750812,67,0,9
+2013,6,MONDAY Night MURDERERS,770387,38,1,4
+2013,7,Bearing Down,3848212,28,1,10
+2013,8,Marshall Law,2028716,18,1,7
+2013,9,Newton's Own,3348683,28,0,12
+2013,10,Sproling in It,1573498,7,0,1
+2013,11,The Green Machine,3857345,23,0,6
+2013,12,Jacob's Super Stars,5146313,13,0,2
+2014,1,InstaGraham,646819,32,1,10
+2014,2,Cloudy With A Chance of Montee,2821640,18,1,2
+2014,3,Stills Harvin Some Woodhead,1778244,34,0,12
+2014,4,The Watkins Diet,2189986,50,1,9
+2014,5,My Dinner with Andre,1750812,45,1,8
+2014,6,SweatyandEddiesQuestfortheStag,770387,24,2,5
+2014,7,Knowshon's Eleven,3848212,18,0,7
+2014,8,The Real McCoy,2028716,11,0,3
+2014,9,Chuck-E-Brees,3348683,22,1,4
+2014,10,Forte's Foreplay,4164808,13,0,6
+2014,11,Christopher Welken,3857345,42,0,11
+2014,12,Taco's Bell,5146313,8,1,1
+2015,1,Guardians of the Gostkowski,646819,28,2,12
+2015,2,MI6 Quest for the Repeat,2821640,17,0,4
+2015,3,Mange and Julio DBTSY,1778244,31,0,6
+2015,4,The NFL All-Underperformers,2189986,32,1,7
+2015,5,Keenan and Dion Memorial Squad,1750812,63,1,8
+2015,6,The Iron Bryants,770387,30,3,10
+2015,7,The Walking Dead,3848212,14,0,5
+2015,8,Bend it Like Beckham,2028716,18,1,9
+2015,9,Cooper Scoopers,3348683,33,1,3
+2015,10,Cole's Drafted Players,4164808,4,0,2
+2015,11,Licence to Hill,3857345,33,1,11
+2015,12,I Want to Berees,5146313,13,0,1
+2016,1,Latavius Maximus,646819,45,3,6
+2016,2,King Goffery,2821640,19,0,2
+2016,3,Aiken' for the ThreePeat,1778244,27,0,12
+2016,4,The PTY's,2189986,48,3,10
+2016,5,Joey Bosa Shrug Emoji,1750812,59,1,3
+2016,6,HYDROPOWER,770387,26,1,5
+2016,7,LCD Stagsystem,3848212,23,1,4
+2016,8,Miller High Lyfe,2028716,25,1,11
+2016,9,Mon Don't Grief,3348683,19,0,7
+2016,10,Cole's Drafted Players,4164808,6,0,1
+2016,11,Outback Jakehouse,3857345,35,0,9
+2016,12,theres something about Mathews,10235777,29,0,8
+2017,1,Nuthin but a Green Thang,646819,39,0,4
+2017,2,Don't Check My Pryors,2821640,35,1,7
+2017,3,Allen the Family,1778244,29,0,3
+2017,5,Ultralight Kareem,1750812,47,0,8
+2017,6,Roaring Rivers,770387,39,0,6
+2017,7,New Gurley,3848212,29,0,10
+2017,8,O Beckham Where Art Thou,2028716,9,0,2
+2017,9,Diggs It,3348683,29,1,9
+2017,11,Suicide Squad,3857345,30,0,1
+2017,12,Hooked on a Thielen,10235777,21,0,5
+2018,1,Johnson and Johnson,646819,37,1,7
+2018,2,ZekeZone,2821640,48,2,12
+2018,3,Capn' Geno's,1778244,52,1,9
+2018,4,Watson on Sunshine,2189986,25,1,5
+2018,5,Kamara Obscura,1750812,36,0,6
+2018,6,Roaring Rivers of Freedom,770387,29,0,3
+2018,7,The Great Gronksby,3848212,38,2,8
+2018,8,Pop Lockett Drop It,2028716,15,3,1
+2018,9,Mahomes Room,3348683,26,3,11
+2018,10,Risk It For The Trubiscuit,2806797,9,0,2
+2018,11,BreesCassidyandtheStefonDiggs,3857345,23,0,4
+2018,12,No League for Old Men,10235777,32,1,10
+2019,1,Califournettecation,646819,34,1,3
+2019,2,Taupe Blougholes,2821640,25,4,5
+2019,3,Macker Barrel Ol Country Store,1778244,39,1,12
+2019,4,Christian Mingle,2189986,19,0,7
+2019,5,Jacobs' Ladder,1750812,47,1,11
+2019,6,Free Melvy,770387,29,1,4
+2019,7,Zach and the Fucked by JuJu,3848212,38,2,9
+2019,8,Breezin,2028716,16,2,1
+2019,9,Avengers Engram,3348683,26,1,8
+2019,10,MaHomes Depot,2806797,12,0,2
+2019,11,Sasquontch,3857345,31,1,6
+2019,12,Fast Times at Ridley High,10235777,16,0,10
+2020,1,BDKE,646819,25,1,11
+2020,2,WILSON,2821640,17,3,10
+2020,3,Some Like it Hop,1778244,36,0,8
+2020,4,Big Trouble in Kittle China,2189986,21,0,7
+2020,5,Courtland's Trailblazers,1750812,68,3,1
+2020,6,HYDROCOOKERS,770387,39,0,6
+2020,7,Swimming with the Charks,3848212,46,3,5
+2020,8,Judge Jeudy,2028716,11,1,3
+2020,9,RushMoore,3348683,32,2,9
+2020,10,Kupp Pong,4164808,9,1,2
+2020,11,Tyrannosaurus Reek,3857345,31,3,4
+2020,12,Godwin Of War,10235777,29,1,12
+2021,1,The Uncanny Eks-Men,646819,22,0,4
+2021,2,Dalvin and Hobbs,2821640,22,1,10
+2021,3,Hockensockem Robots,1778244,49,1,12
+2021,4,I Tonyan,2189986,25,0,2
+2021,5,Chubb Scouts,1750812,51,1,1
+2021,6,Hydroslayers,770387,21,1,9
+2021,7,SLamb Dunkin',3848212,24,1,3
+2021,8,Taylor Swift,2028716,13,2,6
+2021,9,Dak Flashes,3348683,17,1,7
+2021,10,Tom and Terry,4164808,5,0,5
+2021,11,Tyrannosaurus Reek II,3857345,48,2,8
+2021,12,The Kyler Sisters,10235777,46,2,11
+2022,1,The Wrath of Quon,646819,23,2,4
+2022,2,Chubbinator 2 Judgment Day,2821640,24,2,10
+2022,3,Lazy Lazard Saloon,1778244,42,0,5
+2022,4,Super Lamario Sunshine,2189986,43,0,1
+2022,5,The Najee Trois,1750812,76,1,12
+2022,6,Koo D'etat,770387,36,1,8
+2022,7,Ja'marroquai,3848212,62,0,9
+2022,8,Bot boy,2028716,25,2,7
+2022,9,Magnum TI,3348683,20,2,3
+2022,10,Tom and Terry,4164808,2,3,2
+2022,11,JJ the Jet Plane,3857345,45,4,11
+2022,12,Mad Mixon,10235777,37,1,6
+2023,1,Here Comes the Sun God,646819,34,1,8
+2023,2,The Autoberts,3857345,33,2,12
+2023,3,Sharpest in the Shaheed,2821640,39,1,11
+2023,4,Ekeler? I Hardly Know Her,1750812,37,0,2
+2023,5,Big Tua-na,4164808,11,0,1
+2023,6,Life of Brian,3348683,24,2,6
+2023,7,Hydro Hitsquad,770387,45,0,3
+2023,8,"I’m Joshin’, I’m Joshin’!",10235777,24,0,7
+2023,9,VoodooFerrarri,2028716,12,2,4
+2023,10,Fndmntls of Fields Eclgy,1778244,66,0,9
+2023,11,Attila Ja Han,3848212,40,0,10
+2023,12,Bijan De Replay,2189986,42,0,5
+2024,1,The Home Deebo,646819,33,1,4
+2024,2,The Lazard Wazard,3857345,36,0,8
+2024,3,Yoshi’s Island,2821640,22,1,6
+2024,4,CEEDEE-RHAM,1750812,34,1,2
+2024,5,Brock Tuah,4164808,13,1,1
+2024,6,Princeless McBride,3348683,36,2,7
+2024,7,7 Minutes of Evans,770387,42,3,9
+2024,8,Running Up that Hill,10235777,31,0,12
+2024,9,Whole Lotta Olave,2028716,18,0,11
+2024,10,DerrickNMGPCalebNMB,1778244,63,0,5
+2024,11,Dirty Harri,3848212,27,1,3
+2024,12,The Stroud Family,2189986,29,0,10
+2025,1,Rippin' Darts,646819,30,1,2
+2025,2,Dungeon Crawler Caleb,3857345,38,0,4
+2025,3,The Dark Knight Rises,2821640,39,2,9
+2025,4,Kimani Code,1750812,47,1,5
+2025,5,I’m Odunze For ,4164808,13,1,11
+2025,6,Drake’s Passage,3348683,37,2,6
+2025,7,Rivers Rising,770387,50,0,12
+2025,8,Ja’Marry Christmas,10235777,38,1,10
+2025,9,Better Than The Saints ,2028716,9,1,3
+2025,10,"""O, Marion!""",1778244,20,1,1
+2025,11,LEEEEROY JUDKINS ,3848212,36,0,7
+2025,12,Pre-Lamarital Sex,2189986,34,0,8

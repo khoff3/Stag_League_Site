@@ -83,19 +83,19 @@ scraped_at,home_team_id,game_id,home_team,away_team,away_team_id,season,home_poi
 2025-07-01T01:44:03.045Z,2,20211424,Dalvin and Hobbs,I Tonyan,4,2021,115.04,7-7-0,,114.12,,11,14,5-9-0,8,False,,,
 2025-07-01T01:44:03.045Z,7,20211471,SLamb Dunkin',The Uncanny Eks-Men,1,2021,71.84,7-7-0,,102.6,,7,14,7-7-0,6,False,,,
 2025-07-01T01:44:03.045Z,10,2021141012,Tom and Terry,The Kyler Sisters,12,2021,76.88,8-6-0,,107.82,,5,14,7-7-0,3,False,,,
-2025-07-01T02:03:41.505Z,11,202115112,Tyrannosaurus Reek II,Dalvin and Hobbs,2,2021,85.92,5-9-0,,65.22,,10,15,6-8-0,11,True,toilet_bowl,consolation,Toilet Bowl
-2025-07-01T02:03:41.505Z,5,20211553,Chubb Scouts,Hockensockem Robots,3,2021,87.34,5-9-0,,80.06,,9,15,7-7-0,12,True,toilet_bowl,consolation,Toilet Bowl
-2025-07-01T02:03:41.505Z,9,202115910,Dak Flashes,Tom and Terry,10,2021,78.28,7-7-0,,78.86,,4,15,7-6-1,5,False,,,
-2025-07-01T02:03:41.505Z,12,202115121,The Kyler Sisters,The Uncanny Eks-Men,1,2021,103.58,7-7-0,,84.74,,3,15,8-6-0,6,False,,,
+2025-07-01T02:03:41.505Z,11,202115112,Tyrannosaurus Reek II,Dalvin and Hobbs,2,2021,85.92,5-9-0,,65.22,,10,15,6-8-0,11,True,consolation_round_1,consolation,Consolation Round 1
+2025-07-01T02:03:41.505Z,5,20211553,Chubb Scouts,Hockensockem Robots,3,2021,87.34,5-9-0,,80.06,,9,15,7-7-0,12,True,consolation_round_1,consolation,Consolation Round 1
+2025-07-01T02:03:41.505Z,9,202115910,Dak Flashes,Tom and Terry,10,2021,78.28,7-7-0,,78.86,,4,15,7-6-1,5,True,winners_round_1,winners,Winners Round 1
+2025-07-01T02:03:41.505Z,12,202115121,The Kyler Sisters,The Uncanny Eks-Men,1,2021,103.58,7-7-0,,84.74,,3,15,8-6-0,6,True,winners_round_1,winners,Winners Round 1
 2025-07-01T01:44:28.988Z,7,20211674,SLamb Dunkin',I Tonyan,4,2021,88.4,7-7-0,,85.96,,7,16,7-7-0,8,True,mediocre_bowl,middle,Mediocre Bowl
 2025-07-01T01:44:28.988Z,2,20211623,Dalvin and Hobbs,Hockensockem Robots,3,2021,77.96,5-9-0,,47.98,,11,16,5-9-0,12,True,toilet_bowl,consolation,Toilet Bowl
-2025-07-01T01:44:28.988Z,8,202116810,Taylor Swift,Tom and Terry,10,2021,77.22,7-7-0,,83.78,,1,16,9-4-1,5,False,,,
-2025-07-01T01:44:28.988Z,12,202116126,The Kyler Sisters,Hydroslayers,6,2021,96.6,8-6-0,,98.64,,3,16,8-6-0,2,False,,,
-2025-07-01T01:44:42.056Z,7,20211774,SLamb Dunkin',I Tonyan,4,2021,84.06,7-7-0,,100.0,,7,17,7-7-0,8,False,,,
-2025-07-01T01:44:42.056Z,11,202117115,Tyrannosaurus Reek II,Chubb Scouts,5,2021,106.42,7-7-0,,82.26,,10,17,6-8-0,9,False,,,
-2025-07-01T01:44:42.056Z,2,20211723,Dalvin and Hobbs,Hockensockem Robots,3,2021,66.8,5-9-0,,97.76,,11,17,5-9-0,12,False,,,
-2025-07-01T01:44:42.056Z,10,202117106,Tom and Terry,Hydroslayers,6,2021,117.9,8-6-0,,118.08,,5,17,7-7-0,2,False,,,
-2025-07-01T01:44:42.056Z,8,202117812,Taylor Swift,The Kyler Sisters,12,2021,98.26,8-6-0,,122.52,,1,17,9-4-1,3,False,,,
+2025-07-01T01:44:28.988Z,8,202116810,Taylor Swift,Tom and Terry,10,2021,77.22,7-7-0,,83.78,,1,16,9-4-1,5,True,third_place,winners,Third Place
+2025-07-01T01:44:28.988Z,12,202116126,The Kyler Sisters,Hydroslayers,6,2021,96.6,8-6-0,,98.64,,3,16,8-6-0,2,True,third_place,winners,Third Place
+2025-07-01T01:44:42.056Z,7,20211774,SLamb Dunkin',I Tonyan,4,2021,84.06,7-7-0,,100.0,,7,17,7-7-0,8,True,mediocre_bowl,middle,Mediocre Bowl
+2025-07-01T01:44:42.056Z,11,202117115,Tyrannosaurus Reek II,Chubb Scouts,5,2021,106.42,7-7-0,,82.26,,10,17,6-8-0,9,True,toilet_bowl,consolation,Toilet Bowl
+2025-07-01T01:44:42.056Z,2,20211723,Dalvin and Hobbs,Hockensockem Robots,3,2021,66.8,5-9-0,,97.76,,11,17,5-9-0,12,True,toilet_bowl,consolation,Toilet Bowl
+2025-07-01T01:44:42.056Z,10,202117106,Tom and Terry,Hydroslayers,6,2021,117.9,8-6-0,,118.08,,5,17,7-7-0,2,True,championship,winners,Championship
+2025-07-01T01:44:42.056Z,8,202117812,Taylor Swift,The Kyler Sisters,12,2021,98.26,8-6-0,,122.52,,1,17,9-4-1,3,True,third_place,winners,Third Place
 2025-07-01T01:44:42.056Z,9,20211791,Dak Flashes,The Uncanny Eks-Men,1,2021,55.84,7-7-0,,84.94,,4,17,7-6-1,6,False,,,
 1751337257,7,20211474_mediocre,SLamb Dunkin',I Tonyan,4,2021,71.84,0-0-0,mediocre_bowl,114.12,True,0,14,0-0-0,0,True,mediocre_bowl,middle,Mediocre Bowl
 1751337257,4,20211547_mediocre,I Tonyan,SLamb Dunkin',7,2021,104.64,0-0-0,mediocre_bowl,58.17999999999999,True,0,15,0-0-0,0,True,mediocre_bowl,middle,Mediocre Bowl

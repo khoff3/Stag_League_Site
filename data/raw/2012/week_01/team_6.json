@@ -257,7 +257,8 @@
       "fg_40_49": 1,
       "fg_50_plus": 0,
       "fantasy_points": 16.0,
-      "player_type": "kicker"
+      "player_type": "kicker",
+      "pat_made": 4
     },
     {
       "position": "DEF",

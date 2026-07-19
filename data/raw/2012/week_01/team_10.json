@@ -254,14 +254,15 @@
       "nfl_team": "NO",
       "game_result": "Loss",
       "game_score": "32-40",
-      "fg_made": 3,
+      "fg_made": 1,
       "fg_0_19": 0,
       "fg_20_29": 1,
       "fg_30_39": 0,
       "fg_40_49": 0,
       "fg_50_plus": 0,
       "fantasy_points": 6.0,
-      "player_type": "kicker"
+      "player_type": "kicker",
+      "pat_made": 3
     },
     {
       "position": "DEF",

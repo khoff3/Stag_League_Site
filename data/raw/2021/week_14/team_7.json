@@ -271,14 +271,15 @@
       "nfl_team": "LV",
       "game_result": "Loss",
       "game_score": "9-48",
-      "fg_made": 0,
+      "fg_made": 1,
       "fg_0_19": 0,
       "fg_20_29": 1,
       "fg_30_39": 0,
       "fg_40_49": 0,
       "fg_50_plus": 0,
       "fantasy_points": 3.0,
-      "player_type": "kicker"
+      "player_type": "kicker",
+      "pat_made": 0
     },
     {
       "position": "DEF",

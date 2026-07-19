@@ -235,14 +235,15 @@
       "nfl_team": "GB",
       "game_result": "Win",
       "game_score": "24-16",
-      "fg_made": 3,
+      "fg_made": 1,
       "fg_0_19": 0,
       "fg_20_29": 0,
       "fg_30_39": 0,
       "fg_40_49": 0,
       "fg_50_plus": 1,
       "fantasy_points": 8.0,
-      "player_type": "kicker"
+      "player_type": "kicker",
+      "pat_made": 3
     },
     {
       "position": "DEF",
