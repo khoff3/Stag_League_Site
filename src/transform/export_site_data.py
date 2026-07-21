@@ -69,11 +69,94 @@ def load_player_db():
     return db
 
 
+FANTASY_POS = {"QB", "RB", "WR", "TE", "K", "PK"}   # the id db calls kickers PK
+
+# NFL.com display name -> the id database's merge_name
+NAME_ALIASES = {
+    "gabe davis": "gabriel davis",
+    "steve johnson": "stevie johnson",
+    "benjamin watson": "ben watson",
+    "robby anderson": "robbie chosen",
+    "cadillac williams": "carnell williams",
+    "chad ochocinco": "chad johnson",
+    "timothy wright": "tim wright",
+    "rob housler": "robert housler",
+    "mike badgley": "michael badgley",
+    "bam knight": "zonovan knight",
+    "mike vick": "michael vick",
+    "stephen hauschka": "steven hauschka",
+    "deonte harris": "deonte harty",
+    "ced wilson": "cedrick wilson",
+    "chosen anderson": "robbie chosen",
+}
+
+# Names shared by MULTIPLE fantasy-relevant players (audited against NFL-team
+# trajectories in this league's data): season range -> the correct player's
+# draft year. Without these, one-id-per-name would fuse different humans
+# (e.g. TB Mike Williams 2011-13 vs Chargers Mike Williams 2017+).
+NAME_ERA_PINS = {
+    "mike williams": [(0, 2016, 2010), (2017, 9999, 2017)],
+    "zach miller":   [(0, 2013, 2007), (2014, 9999, 2009)],
+    "ryan grant":    [(0, 2013, 2006), (2014, 9999, 2014)],
+    "mike thomas":   [(0, 2013, 2009), (2014, 9999, 2016)],
+    "steve smith":   [(0, 9999, 2001)],   # always Smith Sr, never the Giants one
+    "frank gore":    [(0, 2023, 2005), (2024, 9999, 2024)],   # the legend vs Gore Jr.
+}
+
+# scraper leftovers: "garrett hartley k", "antonio brown wr q"
+STRIP_TOKENS = {"qb", "rb", "wr", "te", "k", "def", "q", "o", "d", "ir", "p"}
+
+
+def lookup_cands(pdb, norm):
+    """Candidate rows for a normalized name, applying aliases and stripping
+    trailing position/status tokens the scraper sometimes leaves behind."""
+    n = NAME_ALIASES.get(norm, norm)
+    if n in pdb:
+        return pdb[n]
+    parts = norm.split()
+    while len(parts) > 1 and parts[-1] in STRIP_TOKENS:
+        parts.pop()
+        # re-normalize: stripping a token can expose a suffix ("henry ruggs iii wr")
+        cand = norm_name(" ".join(parts))
+        n = NAME_ALIASES.get(cand, cand)
+        if n in pdb:
+            return pdb[n]
+    return []
+
+
+def id_of(c):
+    """Canonical id string for a db candidate row."""
+    for field in ("gsis_id", "mfl_id", "sleeper_id", "espn_id"):
+        v = c.get(field)
+        if v not in (None, "", "NA"):
+            return f"{field.split('_')[0]}:{v}"
+    return None
+
+
+def pick_by_draft_year(cands, dy):
+    for c in cands:
+        if str(c.get("draft_year")) == str(dy):
+            return id_of(c), ("K" if (c.get("position") or "") == "PK" else (c.get("position") or ""))
+    return None, ""
+
+
+def _pos_eq(a, b):
+    canon = lambda p: "K" if p in ("K", "PK") else p
+    return canon(a.upper()) == canon(b.upper())
+
+
 def pick_player_id(cands, position):
-    """Prefer a position match; prefer rows with a gsis_id, then mfl_id."""
+    """Prefer a position match; prefer rows with a gsis_id, then mfl_id.
+
+    Candidates are first narrowed to fantasy positions: this league never
+    rostered IDPs, so a same-named CB/LB must not shadow the skill player
+    (e.g. A.J. Green the Bengals WR vs A.J. Green the CB)."""
     if not cands:
         return None
-    pos_matches = [c for c in cands if (c.get("position") or "").upper() == position.upper()]
+    fantasy = [c for c in cands if (c.get("position") or "").upper() in FANTASY_POS]
+    if fantasy:
+        cands = fantasy
+    pos_matches = [c for c in cands if _pos_eq(c.get("position") or "", position)]
     pool = pos_matches or cands
     def rank(c):
         return (0 if c.get("gsis_id") not in (None, "", "NA") else 1,
@@ -403,6 +486,7 @@ def main():
 
     # ---------------- players + player_weeks ----------------
     pdb = load_player_db()
+    name_evidence = {}   # norm name -> {display, positions Counter} (NFL era)
     players = {}      # player_id -> {name, position}
     pweeks = []
     unmatched = defaultdict(int)
@@ -429,30 +513,24 @@ def main():
                     name = p.get("name", "")
                     pos = p.get("position", "")       # slot (QB/RB/W-R/BN/...)
                     ptype = p.get("player_type", "")
+                    # skip literal empty roster slots ("--Empty--")
+                    if not name.strip() or name.strip("- ").lower() == "empty":
+                        continue
                     if ptype == "defense":
                         pid = f"def:{p.get('nfl_team', name)}"
                         players.setdefault(pid, {"player_id": pid, "name": f"{name} DEF",
                                                  "position": "DEF"})
                     else:
                         real_pos = pos if pos != "BN" else ""
-                        pid = pick_player_id(pdb.get(norm_name(name)), real_pos or "")
-                        if pid is None:
-                            pid = f"name:{norm_name(name)}"
-                            unmatched[name] += 1
-                        entry = players.setdefault(pid, {"player_id": pid, "name": name,
-                                                         "position": real_pos})
-                        # first sighting may be a bench week (no slot) — backfill
-                        # the position once the player shows up in a lineup
-                        if not entry["position"] and real_pos and real_pos in (
-                                "QB", "RB", "WR", "TE", "K", "DEF"):
-                            entry["position"] = real_pos
-                        # flex-only/bench-only players: take the position from
-                        # the player-id database instead
-                        if not entry["position"]:
-                            for c in pdb.get(norm_name(name), []):
-                                if c.get("position") in ("QB", "RB", "WR", "TE", "K"):
-                                    entry["position"] = c["position"]
-                                    break
+                        # DEFER id resolution: assign per NAME after the scan,
+                        # using position evidence from every week the player
+                        # appears — a bench/flex week must not resolve to a
+                        # different person than a started week
+                        norm = norm_name(name)
+                        pid = f"~pending:{norm}"
+                        ev = name_evidence.setdefault(norm, {"display": name, "positions": defaultdict(int)})
+                        if real_pos in FANTASY_POS:
+                            ev["positions"][real_pos] += 1
                     row = {
                         "season": season,
                         "week": week,
@@ -468,12 +546,89 @@ def main():
                         row[s] = p.get(s, "")
                     pweeks.append(row)
 
+    # ---- resolve NFL-era player ids: one identity per name (era-pinned
+    # names resolve per season instead, so different humans sharing a name
+    # stay distinct) ----
+    resolved = {}
+    era_resolved = {}   # norm -> [(lo, hi, pid)]
+    for norm, ev in name_evidence.items():
+        if norm in NAME_ERA_PINS:
+            cands = lookup_cands(pdb, norm)
+            eras = []
+            for lo, hi, dy in NAME_ERA_PINS[norm]:
+                pid, pos = pick_by_draft_year(cands, dy)
+                if pid is None:
+                    pid = f"name:{norm}:{dy}"
+                eras.append((lo, hi, pid))
+                players.setdefault(pid, {"player_id": pid, "name": ev["display"],
+                                         "position": pos})
+            era_resolved[norm] = eras
+            continue
+        pos_hint = max(ev["positions"], key=ev["positions"].get) if ev["positions"] else ""
+        pid = pick_player_id(lookup_cands(pdb, norm), pos_hint)
+        if pid is None:
+            pid = f"name:{norm}"
+            unmatched[ev["display"]] += 1
+        resolved[norm] = pid
+        entry = players.setdefault(pid, {"player_id": pid, "name": ev["display"],
+                                         "position": pos_hint})
+        if not entry["position"]:
+            entry["position"] = pos_hint
+        if not entry["position"]:
+            for c in lookup_cands(pdb, norm):
+                if c.get("position") in FANTASY_POS:
+                    entry["position"] = "K" if c["position"] == "PK" else c["position"]
+                    break
+    for row in pweeks:
+        pid = str(row["player_id"])
+        if pid.startswith("~pending:"):
+            norm = pid[len("~pending:"):]
+            if norm in era_resolved:
+                season = int(row["season"])
+                row["player_id"] = next(p for lo, hi, p in era_resolved[norm] if lo <= season <= hi)
+            else:
+                row["player_id"] = resolved[norm]
+
     # merge Sleeper-era players + player-weeks (canonical ids shared across eras)
     for cid, p in sleeper["players"].items():
         players.setdefault(cid, p)
     pweeks.extend(sleeper["player_weeks"])
     for name, count in sleeper["unmatched"].items():
         unmatched[f"[sleeper] {name}"] += count
+
+    # ---- identity uniqueness audit (runs every export) ----
+    # (a) no id may appear before its player's draft year
+    # (b) no id may be on two NFL teams in the same week (= two humans fused)
+    dy_by_pid = {}
+    for cand_rows in pdb.values():
+        for c in cand_rows:
+            pid = id_of(c)
+            dy = c.get("draft_year")
+            if pid and dy not in (None, "", "NA"):
+                dy_by_pid.setdefault(pid, int(dy))
+    violations = []
+    seen_wk = {}
+    for r in pweeks:
+        pid = str(r["player_id"])
+        if pid.startswith("def:"):
+            continue
+        dy = dy_by_pid.get(pid)
+        if dy and int(r["season"]) < dy:
+            violations.append(f"{r['player_name']} rostered {r['season']} wk{r['week']} "
+                              f"but {pid} was drafted {dy}")
+        team = str(r.get("nfl_team") or "").split()[0] if r.get("nfl_team") else ""
+        if team:
+            key = (pid, r["season"], r["week"])
+            prev = seen_wk.setdefault(key, team)
+            if prev != team:
+                violations.append(f"{r['player_name']} {r['season']} wk{r['week']}: "
+                                  f"{pid} on two teams ({prev}/{team}) — fused identities?")
+    if violations:
+        print(f"⚠ identity audit: {len(violations)} violations")
+        for v in violations[:12]:
+            print("   !", v)
+    else:
+        print("identity audit: clean (no draft-year or two-team violations)")
 
     with open(OUT / "players.csv", "w", newline="") as f:
         w = csv.DictWriter(f, fieldnames=["player_id", "name", "position"])

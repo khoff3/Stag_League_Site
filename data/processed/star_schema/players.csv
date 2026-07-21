@@ -1,15 +1,12 @@
 player_id,name,position
-name:--empty--,--empty--,TE
-def:--empty--,--empty-- DEF,DEF
 gsis:00-0035676,A.J. Brown,WR
-gsis:00-0036114,A.J. Green,WR
 gsis:00-0027942,A.J. Green,WR
 gsis:00-0038612,A.T. Perry,WR
 gsis:00-0039793,AJ Barner,TE
 gsis:00-0036265,AJ Dillon,RB
 gsis:00-0030540,Aaron Dobson,WR
 gsis:00-0027713,Aaron Hernandez,TE
-gsis:00-0033293,Aaron Jones,R/W/T
+gsis:00-0033293,Aaron Jones,RB
 gsis:00-0023459,Aaron Rodgers,QB
 gsis:00-0032009,Adam Humphries,WR
 gsis:00-0030035,Adam Thielen,WR
@@ -26,14 +23,14 @@ mfl:10365,Alex Henery,K
 gsis:00-0023436,Alex Smith,QB
 gsis:00-0034972,Alexander Mattison,RB
 gsis:00-0031075,Alfred Blue,RB
-gsis:00-0029141,Alfred Morris,W/R
+gsis:00-0029141,Alfred Morris,RB
 gsis:00-0030821,Allen Hurns,WR
 gsis:00-0034521,Allen Lazard,WR
 gsis:00-0031428,Allen Robinson,WR
-gsis:00-0029137,Alshon Jeffery,W/R
+gsis:00-0029137,Alshon Jeffery,WR
 gsis:00-0033906,Alvin Kamara,RB
 gsis:00-0031544,Amari Cooper,WR
-gsis:00-0032104,Ameer Abdullah,W/R
+gsis:00-0032104,Ameer Abdullah,RB
 gsis:00-0036963,Amon-Ra St. Brown,WR
 gsis:00-0027094,Andre Brown,RB
 gsis:00-0026237,Andre Caldwell,WR
@@ -60,14 +57,12 @@ gsis:00-0039164,Anthony Richardson,QB
 gsis:00-0026855,Antone Smith,RB
 gsis:00-0030789,Antonio Andrews,RB
 gsis:00-0027793,Antonio Brown,WR
-name:antonio brown wr,Antonio Brown WR,WR
-name:antonio brown wr q,Antonio Brown WR Q,WR
 gsis:00-0034772,Antonio Callaway,WR
 gsis:00-0021547,Antonio Gates,TE
 gsis:00-0036328,Antonio Gibson,RB
 gsis:00-0026796,Arian Foster,RB
 def:Arizona Cardinals,Arizona Cardinals DEF,DEF
-gsis:00-0028400,Armon Binns,W/R
+gsis:00-0028400,Armon Binns,WR
 mfl:17042,Ashton Jeanty,RB
 def:Atlanta Falcons,Atlanta Falcons DEF,DEF
 gsis:00-0034686,Auden Tate,WR
@@ -80,13 +75,13 @@ gsis:00-0031418,Austin Seferian-Jenkins,TE
 gsis:00-0035145,Austin Seibert,K
 gsis:00-0034855,Baker Mayfield,QB
 def:Baltimore Ravens,Baltimore Ravens DEF,DEF
-name:bam knight,Bam Knight,RB
+gsis:00-0037157,Bam Knight,RB
 gsis:00-0027007,Beanie Wells,RB
 gsis:00-0022924,Ben Roethlisberger,QB
 gsis:00-0036862,Ben Skowronek,WR
 gsis:00-0027890,Ben Tate,RB
 gsis:00-0025860,BenJarvus Green-Ellis,RB
-name:benjamin watson,Benjamin Watson,TE
+gsis:00-0022943,Benjamin Watson,TE
 gsis:00-0029795,Benny Cunningham,RB
 gsis:00-0035217,Benny Snell,RB
 gsis:00-0029264,Bernard Pierce,RB
@@ -95,21 +90,19 @@ mfl:17052,Bhayshul Tuten,RB
 gsis:00-0038542,Bijan Robinson,RB
 gsis:00-0028064,Bilal Powell,RB
 mfl:6776,Billy Cundiff,K
-name:billy cundiff k,Billy Cundiff K,K
 gsis:00-0031413,Bishop Sankey,RB
 gsis:00-0027948,Blaine Gabbert,QB
 gsis:00-0029576,Blair Walsh,K
-name:blair walsh k,Blair Walsh K,K
 gsis:00-0031407,Blake Bortles,QB
 gsis:00-0039738,Blake Corum,RB
 gsis:00-0038905,Blake Grupe,K
 gsis:00-0033658,Blake Jarwin,TE
 gsis:00-0039732,Bo Nix,QB
-gsis:00-0034432,Bo Scarbrough,R/W/T
+gsis:00-0034432,Bo Scarbrough,RB
 mfl:10929,Bobby Rainey,RB
 gsis:00-0034414,Boston Scott,RB
 gsis:00-0039794,Braelon Allen,RB
-gsis:00-0031277,Branden Oliver,W/R
+gsis:00-0031277,Branden Oliver,RB
 gsis:00-0031236,Brandin Cooks,WR
 gsis:00-0036261,Brandon Aiyuk,WR
 gsis:00-0037692,Brandon Aubrey,K
@@ -119,7 +112,6 @@ gsis:00-0023545,Brandon Jacobs,RB
 gsis:00-0027681,Brandon LaFell,WR
 gsis:00-0022097,Brandon Lloyd,WR
 gsis:00-0024334,Brandon Marshall,WR
-gsis:00-0029620,Brandon Marshall,WR
 gsis:00-0029822,Brandon McManus,K
 gsis:00-0027135,Brandon Myers,TE
 gsis:00-0026996,Brandon Pettigrew,TE
@@ -133,10 +125,9 @@ gsis:00-0038935,Brenton Strange,TE
 gsis:00-0032054,Breshad Perriman,WR
 mfl:2844,Brett Favre,QB
 gsis:00-0030332,Brett Maher,K
-name:brett maher k,Brett Maher K,K
 gsis:00-0036556,Brevin Jordan,TE
 gsis:00-0027077,Brian Hartline,WR
-gsis:00-0033567,Brian Hill,R/W/T
+gsis:00-0033567,Brian Hill,RB
 gsis:00-0026625,Brian Hoyer,QB
 gsis:00-0025439,Brian Leonard,RB
 gsis:00-0029640,Brian Quick,WR
@@ -146,28 +137,24 @@ gsis:00-0039338,Brock Bowers,TE
 gsis:00-0029682,Brock Osweiler,QB
 gsis:00-0037834,Brock Purdy,QB
 gsis:00-0036365,Bryan Edwards,WR
-gsis:00-0029429,Bryce Brown,W/R
+gsis:00-0029429,Bryce Brown,RB
 gsis:00-0039150,Bryce Young,QB
 gsis:00-0039386,Bub Means,WR
 gsis:00-0039361,Bucky Irving,RB
 def:Buffalo Bills,Buffalo Bills DEF,DEF
 gsis:00-0029854,C.J. Anderson,RB
-name:cj anderson rb,C.J. Anderson RB,
 gsis:00-0033936,C.J. Beathard,QB
 gsis:00-0031302,C.J. Fiedorowicz,TE
 gsis:00-0032393,C.J. Prosise,RB
 gsis:00-0027861,C.J. Spiller,RB
-name:cj spiller rb,C.J. Spiller RB,
 gsis:00-0039163,C.J. Stroud,QB
 gsis:00-0032134,C.J. Uzomah,TE
 gsis:00-0038129,Cade Otton,TE
 gsis:00-0038097,Cade York,K
-name:cadillac williams,Cadillac Williams,
+mfl:7817,Cadillac Williams,RB
 gsis:00-0031203,Cairo Santos,K
-name:cairo santos k,Cairo Santos K,K
 gsis:00-0036829,Caleb Huntley,RB
 gsis:00-0030390,Caleb Sturgis,K
-name:caleb sturgis k,Caleb Sturgis K,K
 gsis:00-0039918,Caleb Williams,QB
 gsis:00-0037837,Calvin Austin,WR
 gsis:00-0025389,Calvin Johnson,WR
@@ -176,7 +163,7 @@ gsis:00-0036414,Cam Akers,RB
 gsis:00-0039409,Cam Little,K
 gsis:00-0027939,Cam Newton,QB
 mfl:17045,Cam Skattebo,RB
-gsis:00-0031599,Cameron Artis-Payne,W/R
+gsis:00-0031599,Cameron Artis-Payne,RB
 gsis:00-0031273,Cameron Brate,TE
 gsis:00-0037224,Cameron Dicker,K
 gsis:00-0031912,Cameron Meredith,WR
@@ -187,18 +174,17 @@ gsis:00-0039325,Carson Steele,RB
 gsis:00-0032950,Carson Wentz,QB
 gsis:00-0028986,Case Keenum,QB
 gsis:00-0028052,Cecil Shorts,WR
-name:ced wilson,Ced Wilson,R/W/T
+gsis:00-0034418,Ced Wilson,WR
 gsis:00-0023439,Cedric Benson,RB
 gsis:00-0038979,Cedric Tillman,WR
-gsis:00-0034418,Cedrick Wilson,WR
-gsis:00-0036358,CeeDee Lamb,R/W/T
+gsis:00-0036358,CeeDee Lamb,WR
 gsis:00-0026197,Chad Henne,QB
-name:chad ochocinco,Chad Ochocinco,WR
+gsis:00-0020397,Chad Ochocinco,WR
 gsis:00-0038567,Chad Ryland,K
 gsis:00-0030896,Chandler Catanzaro,K
 gsis:00-0030668,Charcandrick West,RB
 gsis:00-0028112,Charles Clay,TE
-gsis:00-0030113,Charles Johnson,W/R
+gsis:00-0030113,Charles Johnson,WR
 gsis:00-0031390,Charles Sims,RB
 gsis:00-0038597,Chase Brown,RB
 gsis:00-0036326,Chase Claypool,WR
@@ -207,26 +193,23 @@ gsis:00-0035358,Chase McLaughlin,K
 def:Chicago Bears,Chicago Bears DEF,DEF
 gsis:00-0037809,Chigoziem Okonkwo,TE
 mfl:17171,Chimere Dike,WR
-name:chosen anderson,Chosen Anderson,WR
 gsis:00-0031136,Chris Boswell,K
 gsis:00-0033594,Chris Carson,RB
 gsis:00-0032128,Chris Conley,WR
 gsis:00-0029614,Chris Givens,WR
 gsis:00-0033921,Chris Godwin,WR
 gsis:00-0034766,Chris Herndon,TE
-gsis:00-0028237,Chris Hogan,R/W/T
+gsis:00-0028237,Chris Hogan,WR
 gsis:00-0027531,Chris Ivory,RB
 gsis:00-0026164,Chris Johnson,RB
-name:chris johnson rb,Chris Johnson RB,
 gsis:00-0032398,Chris Moore,WR
 gsis:00-0027140,Chris Ogbonnaya,RB
 gsis:00-0037239,Chris Olave,WR
 gsis:00-0029438,Chris Polk,RB
 gsis:00-0038611,Chris Rodriguez,RB
-gsis:00-0033855,Chris Thompson,WR
 gsis:00-0030404,Chris Thompson,RB
 gsis:00-0034775,Christian Kirk,WR
-gsis:00-0033280,Christian McCaffrey,R/W/T
+gsis:00-0033280,Christian McCaffrey,RB
 gsis:00-0027950,Christian Ponder,QB
 gsis:00-0038124,Christian Watson,WR
 gsis:00-0030432,Christine Michael,RB
@@ -239,14 +222,13 @@ gsis:00-0029697,Coby Fleener,TE
 gsis:00-0031344,Cody Latimer,WR
 gsis:00-0030850,Cody Parkey,K
 gsis:00-0036244,Colby Parkinson,TE
-gsis:00-0029000,Cole Beasley,R/W/T
+gsis:00-0029000,Cole Beasley,WR
 gsis:00-0036290,Cole Kmet,TE
 gsis:00-0027974,Colin Kaepernick,QB
-name:colin kaepernick qb,Colin Kaepernick QB,
 mfl:17104,Colston Loveland,TE
 gsis:00-0027688,Colt McCoy,QB
 gsis:00-0026138,Connor Barth,K
-gsis:00-0033908,Cooper Kupp,R/W/T
+gsis:00-0033908,Cooper Kupp,WR
 gsis:00-0030578,Cordarrelle Patterson,RB
 gsis:00-0033725,Corey Clement,RB
 gsis:00-0032966,Corey Coleman,WR
@@ -276,7 +258,6 @@ gsis:00-0037258,Dameon Pierce,RB
 gsis:00-0027893,Damian Williams,WR
 gsis:00-0035657,Damien Harris,RB
 gsis:00-0030874,Damien Williams,RB
-name:damien williams rb,Damien Williams RB,
 gsis:00-0034011,Dan Arnold,TE
 gsis:00-0028660,Dan Bailey,K
 mfl:9299,Dan Carpenter,K
@@ -284,32 +265,29 @@ gsis:00-0029588,Dan Herron,RB
 gsis:00-0027912,Danario Alexander,WR
 gsis:00-0034161,Daniel Carlson,K
 gsis:00-0035710,Daniel Jones,QB
-gsis:00-0036306,Daniel Thomas,RB
 gsis:00-0028000,Daniel Thomas,RB
 gsis:00-0026035,Danny Amendola,WR
 gsis:00-0026019,Danny Woodhead,RB
-gsis:00-0034860,Dante Pettis,R/W/T
+gsis:00-0034860,Dante Pettis,WR
 gsis:00-0033854,Dare Ogunbowale,RB
 gsis:00-0035535,Darius Slayton,WR
 gsis:00-0036309,Darnell Mooney,WR
 gsis:00-0034301,Darrel Williams,RB
 gsis:00-0035664,Darrell Henderson,RB
-name:darrell henderson rb,Darrell Henderson RB,RB
 gsis:00-0029738,Darren Fells,TE
 gsis:00-0026144,Darren McFadden,RB
-name:darren mcfadden rb,Darren McFadden RB,
 gsis:00-0023564,Darren Sproles,RB
 gsis:00-0031610,Darren Waller,TE
-gsis:00-0031123,Darrin Reaves,W/R
+gsis:00-0031123,Darrin Reaves,RB
 gsis:00-0026983,Darrius Heyward-Bey,WR
 gsis:00-0035148,Darwin Thompson,RB
-gsis:00-0029612,Daryl Richardson,W/R
+gsis:00-0029612,Daryl Richardson,RB
 gsis:00-0031381,Davante Adams,WR
 mfl:3579,David Akers,K
 gsis:00-0035040,David Blough,QB
 gsis:00-0032133,David Cobb,RB
 gsis:00-0032187,David Johnson,RB
-gsis:00-0035685,David Montgomery,R/W/T
+gsis:00-0035685,David Montgomery,RB
 gsis:00-0033589,David Moore,WR
 gsis:00-0027322,David Nelson,WR
 gsis:00-0033885,David Njoku,TE
@@ -318,7 +296,7 @@ gsis:00-0026000,Davone Bess,WR
 gsis:00-0035689,Dawson Knox,TE
 gsis:00-0039040,De'Von Achane,RB
 gsis:00-0031763,DeAndre Carter,WR
-gsis:00-0030564,DeAndre Hopkins,W/R
+gsis:00-0030564,DeAndre Hopkins,WR
 gsis:00-0032940,DeAndre Washington,RB
 gsis:00-0024242,DeAngelo Williams,RB
 gsis:00-0028009,DeMarco Murray,RB
@@ -331,15 +309,15 @@ gsis:00-0036425,DeeJay Dallas,RB
 gsis:00-0035719,Deebo Samuel,WR
 gsis:00-0021192,Deion Branch,WR
 gsis:00-0024389,Delanie Walker,TE
-gsis:00-0032775,Demarcus Robinson,R/W/T
+gsis:00-0032775,Demarcus Robinson,WR
 gsis:00-0027874,Demaryius Thomas,WR
 gsis:00-0030547,Denard Robinson,RB
 gsis:00-0028086,Denarius Moore,WR
-gsis:00-0029435,Dennis Johnson,RB
+mfl:11183,Dennis Johnson,RB
 gsis:00-0027714,Dennis Pitta,TE
 def:Denver Broncos,Denver Broncos DEF,DEF
 gsis:00-0036493,Deon Jackson,RB
-name:deonte harris,Deonte Harris,WR
+gsis:00-0035215,Deonte Harris,WR
 gsis:00-0031280,Derek Carr,QB
 gsis:00-0035715,Derrick Gore,RB
 gsis:00-0032764,Derrick Henry,RB
@@ -350,7 +328,7 @@ def:Detroit Lions,Detroit Lions DEF,DEF
 gsis:00-0038622,Deuce Vaughn,RB
 gsis:00-0039424,Devaughn Vele,WR
 gsis:00-0022929,Devery Henderson,WR
-gsis:00-0036331,Devin Duvernay,R/W/T
+gsis:00-0036331,Devin Duvernay,WR
 gsis:00-0032055,Devin Funchess,WR
 gsis:00-0024272,Devin Hester,WR
 mfl:17046,Devin Neal,RB
@@ -358,9 +336,8 @@ gsis:00-0035250,Devin Singletary,RB
 gsis:00-0031934,Devin Smith,WR
 gsis:00-0035184,Devine Ozigbo,RB
 gsis:00-0031285,Devonta Freeman,RB
-name:devonta freeman rb,Devonta Freeman RB,
 gsis:00-0032972,Devontae Booker,RB
-gsis:00-0027651,Dexter McCluster,W/R
+gsis:00-0027651,Dexter McCluster,WR
 gsis:00-0027902,Dez Bryant,WR
 gsis:00-0028087,Dion Lewis,RB
 gsis:00-0035216,Diontae Johnson,WR
@@ -374,7 +351,6 @@ gsis:00-0036233,Donovan Peoples-Jones,WR
 mfl:17087,Dont'e Thornton,WR
 gsis:00-0038393,Dontayvion Wicks,WR
 gsis:00-0031339,Donte Moncrief,WR
-name:donte moncrief wr,Donte Moncrief WR,
 gsis:00-0034253,Dontrell Hilliard,RB
 gsis:00-0028411,Dontrelle Inman,WR
 gsis:00-0032218,Dorial Green-Beckham,WR
@@ -406,7 +382,7 @@ gsis:00-0034173,Eddy Pineiro,K
 gsis:00-0022803,Eli Manning,QB
 gsis:00-0031782,Eli Rogers,WR
 mfl:17073,Elic Ayomanor,WR
-gsis:00-0033295,Elijah McGuire,R/W/T
+gsis:00-0033295,Elijah McGuire,RB
 gsis:00-0036567,Elijah Mitchell,RB
 gsis:00-0036980,Elijah Moore,WR
 gsis:00-0038797,Emanuel Wilson,RB
@@ -424,15 +400,14 @@ gsis:00-0033045,Ezekiel Elliott,RB
 gsis:00-0026162,Felix Jones,RB
 gsis:00-0034981,Foster Moreau,TE
 gsis:00-0029731,Fozzy Whittaker,RB
+gsis:00-0023500,Frank Gore,RB
 gsis:00-0039471,Frank Gore,RB
 gsis:00-0026188,Fred Davis,TE
 gsis:00-0024204,Fred Jackson,RB
-name:gabe davis,Gabe Davis,WR
 gsis:00-0036196,Gabriel Davis,WR
 gsis:00-0035289,Gardner Minshew,QB
 gsis:00-0027718,Garrett Graham,TE
 mfl:9360,Garrett Hartley,K
-name:garrett hartley k,Garrett Hartley K,K
 gsis:00-0037740,Garrett Wilson,WR
 gsis:00-0026281,Gary Barnidge,TE
 gsis:00-0030565,Geno Smith,QB
@@ -443,7 +418,7 @@ gsis:00-0033895,Gerald Everett,TE
 gsis:00-0032626,Geronimo Allison,WR
 gsis:00-0028907,Giorgio Tavecchio,K
 gsis:00-0030456,Giovani Bernard,RB
-gsis:00-0027891,Golden Tate,W/R
+gsis:00-0027891,Golden Tate,WR
 gsis:00-0026858,Graham Gano,K
 def:Green Bay Packers,Green Bay Packers DEF,DEF
 gsis:00-0035500,Greg Dortch,WR
@@ -464,18 +439,16 @@ gsis:00-0037617,Hassan Haskins,RB
 gsis:00-0034830,Hayden Hurst,TE
 gsis:00-0023465,Heath Miller,TE
 gsis:00-0036357,Henry Ruggs III,WR
-name:henry ruggs iii wr,Henry Ruggs III WR,
 mfl:3367,Hines Ward,WR
 def:Houston Texans,Houston Texans DEF,DEF
 gsis:00-0033090,Hunter Henry,TE
-gsis:00-0034983,Hunter Renfrow,R/W/T
+gsis:00-0034983,Hunter Renfrow,WR
 gsis:00-0036929,Ian Book,QB
 gsis:00-0034365,Ian Thomas,TE
 def:Indianapolis Colts,Indianapolis Colts DEF,DEF
 gsis:00-0034970,Irv Smith,TE
 gsis:00-0039363,Isaac Guerendo,RB
 gsis:00-0026566,Isaac Redman,RB
-name:isaac redman rb,Isaac Redman RB,
 mfl:17157,Isaac TeSlaa,WR
 mfl:17076,Isaiah Bond,WR
 gsis:00-0030656,Isaiah Crowell,RB
@@ -503,7 +476,7 @@ gsis:00-0033387,Jacob Hollister,TE
 gsis:00-0026267,Jacob Tamme,TE
 gsis:00-0033119,Jacoby Brissett,QB
 gsis:00-0027709,Jacoby Ford,WR
-gsis:00-0025460,Jacoby Jones,W/R
+gsis:00-0025460,Jacoby Jones,WR
 mfl:17256,Jacory Croskey-Merritt,RB
 gsis:00-0035760,Jacques Patrick,RB
 gsis:00-0028083,Jacquizz Rodgers,RB
@@ -536,10 +509,10 @@ gsis:00-0033948,Jamaal Williams,RB
 gsis:00-0033572,Jamal Agnew,WR
 gsis:00-0031503,Jameis Winston,QB
 mfl:9480,James Casey,TE
-gsis:00-0033553,James Conner,R/W/T
+gsis:00-0033553,James Conner,RB
 gsis:00-0037248,James Cook,RB
 gsis:00-0025465,James Jones,WR
-gsis:00-0035831,James Robinson,R/W/T
+gsis:00-0035831,James Robinson,RB
 gsis:00-0027791,James Starks,RB
 gsis:00-0034676,James Washington,WR
 gsis:00-0031062,James White,RB
@@ -551,7 +524,7 @@ gsis:00-0033106,Jared Goff,QB
 gsis:00-0035787,Jared Pinkney,TE
 gsis:00-0036755,Jaret Patterson,RB
 gsis:00-0030300,Jaron Brown,WR
-mfl:10930,Jarrett Boykin,W/R
+mfl:10930,Jarrett Boykin,WR
 gsis:00-0031382,Jarvis Landry,WR
 gsis:00-0023460,Jason Campbell,QB
 mfl:1275,Jason Hanson,K
@@ -565,7 +538,6 @@ gsis:00-0031577,Javorius Allen,RB
 gsis:00-0038543,Jaxon Smith-Njigba,WR
 mfl:17032,Jaxson Dart,QB
 gsis:00-0031590,Jay Ajayi,RB
-name:jay ajayi rb,Jay Ajayi RB,
 gsis:00-0024226,Jay Cutler,QB
 mfl:4883,Jay Feely,K
 gsis:00-0039910,Jayden Daniels,QB
@@ -581,7 +553,7 @@ gsis:00-0032227,Jeff Heuerman,TE
 gsis:00-0031001,Jeff Janis,WR
 gsis:00-0034115,Jeff Wilson,RB
 gsis:00-0031301,Jeremy Hill,RB
-gsis:00-0028091,Jeremy Kerley,W/R
+gsis:00-0028091,Jeremy Kerley,WR
 gsis:00-0031569,Jeremy Langford,RB
 gsis:00-0026995,Jeremy Maclin,WR
 gsis:00-0033955,Jeremy McNichols,RB
@@ -592,7 +564,7 @@ gsis:00-0029159,Jermaine Kearse,WR
 gsis:00-0026231,Jermichael Finley,TE
 gsis:00-0037267,Jerome Ford,RB
 gsis:00-0026186,Jerome Simpson,WR
-gsis:00-0022811,Jerricho Cotchery,W/R
+gsis:00-0022811,Jerricho Cotchery,WR
 gsis:00-0036407,Jerry Jeudy,WR
 gsis:00-0032135,Jesse James,TE
 gsis:00-0031345,Jimmy Garoppolo,QB
@@ -605,7 +577,7 @@ gsis:00-0023630,Joel Dreessen,TE
 gsis:00-0035192,Joey Slye,K
 gsis:00-0031051,John Brown,WR
 gsis:00-0026178,John Carlson,TE
-mfl:1440,John Carney,
+mfl:1440,John Carney,K
 mfl:1383,John Kasay,K
 gsis:00-0034808,John Kelly,RB
 gsis:00-0037614,John Metchie,WR
@@ -616,31 +588,29 @@ gsis:00-0031409,Johnny Manziel,QB
 gsis:00-0027218,Joique Bell,RB
 gsis:00-0027964,Jon Baldwin,WR
 gsis:00-0029104,Jonas Gray,RB
-gsis:00-0027786,Jonathan Dwyer,W/R
+gsis:00-0027786,Jonathan Dwyer,RB
 gsis:00-0029510,Jonathan Grimes,RB
 gsis:00-0039062,Jonathan Mingo,WR
 gsis:00-0026153,Jonathan Stewart,RB
 gsis:00-0036223,Jonathan Taylor,RB
-gsis:00-0032975,Jonathan Williams,R/W/T
+gsis:00-0032975,Jonathan Williams,RB
 gsis:00-0039344,Jonathon Brooks,RB
 gsis:00-0033858,Jonnu Smith,TE
 gsis:00-0038994,Jordan Addison,WR
 gsis:00-0034364,Jordan Akins,TE
 gsis:00-0028040,Jordan Cameron,TE
 gsis:00-0032780,Jordan Howard,RB
-name:jordan howard rb,Jordan Howard RB,
 gsis:00-0036264,Jordan Love,QB
 gsis:00-0037525,Jordan Mason,RB
-gsis:00-0031299,Jordan Matthews,TE
+gsis:00-0031299,Jordan Matthews,WR
 gsis:00-0030472,Jordan Reed,TE
-gsis:00-0028121,Jordan Todman,W/R
+gsis:00-0028121,Jordan Todman,RB
 gsis:00-0039751,Jordan Whittington,WR
 gsis:00-0034400,Jordan Wilkins,RB
 gsis:00-0026176,Jordy Nelson,WR
 gsis:00-0024245,Joseph Addai,RB
 mfl:11243,Joseph Fauria,TE
 gsis:00-0030388,Joseph Randle,RB
-name:joseph randle rb,Joseph Randle RB,RB
 gsis:00-0034457,Josh Adams,RB
 gsis:00-0034857,Josh Allen,QB
 gsis:00-0030474,Josh Boyce,WR
@@ -649,7 +619,6 @@ gsis:00-0032760,Josh Doctson,WR
 gsis:00-0038997,Josh Downs,WR
 gsis:00-0026993,Josh Freeman,QB
 gsis:00-0029664,Josh Gordon,WR
-name:josh gordon wr,Josh Gordon WR,
 gsis:00-0035700,Josh Jacobs,RB
 gsis:00-0032087,Josh Lambo,K
 gsis:00-0021206,Josh McCown,QB
@@ -660,7 +629,7 @@ gsis:00-0033949,Joshua Dobbs,QB
 gsis:00-0039750,Joshua Karty,K
 gsis:00-0036370,Joshua Kelley,RB
 gsis:00-0033857,JuJu Smith-Schuster,WR
-gsis:00-0027150,Julian Edelman,W/R
+gsis:00-0027150,Julian Edelman,WR
 gsis:00-0027944,Julio Jones,WR
 gsis:00-0028067,Julius Thomas,TE
 gsis:00-0034975,Justice Hill,RB
@@ -683,13 +652,12 @@ gsis:00-0026579,Kahlil Bell,RB
 gsis:00-0028787,Kai Forbath,K
 mfl:17048,Kaleb Johnson,RB
 gsis:00-0034799,Kalen Ballage,RB
-gsis:00-0032464,Kalif Raymond,R/W/T
+gsis:00-0032464,Kalif Raymond,WR
 gsis:00-0028497,Kamar Aiken,WR
 gsis:00-0039589,Kameron Johnson,WR
 def:Kansas City Chiefs,Kansas City Chiefs DEF,DEF
 gsis:00-0031102,Kapri Bibbs,RB
 gsis:00-0033923,Kareem Hunt,RB
-name:kareem hunt rb,Kareem Hunt RB,RB
 gsis:00-0032152,Karlos Williams,RB
 gsis:00-0038608,Kayshon Boutte,WR
 gsis:00-0037299,Keaontay Ingram,RB
@@ -698,16 +666,16 @@ gsis:00-0033681,Keelan Cole,WR
 gsis:00-0030279,Keenan Allen,WR
 gsis:00-0034366,Keke Coutee,WR
 gsis:00-0022922,Kellen Winslow,TE
-gsis:00-0031359,Kelvin Benjamin,W/R
-gsis:00-0030000,Kenbrell Thompkins,W/R
+gsis:00-0031359,Kelvin Benjamin,WR
+gsis:00-0030000,Kenbrell Thompkins,WR
 gsis:00-0035864,Kendall Hinton,WR
 gsis:00-0028053,Kendall Hunter,RB
 gsis:00-0029708,Kendall Wright,WR
 gsis:00-0038551,Kendre Miller,RB
 gsis:00-0033307,Kendrick Bourne,WR
-gsis:00-0030465,Kenjon Barner,R/W/T
+gsis:00-0030465,Kenjon Barner,RB
 gsis:00-0032411,Kenneth Dixon,RB
-gsis:00-0032902,Kenneth Farrow,R/W/T
+gsis:00-0032902,Kenneth Farrow,RB
 gsis:00-0036919,Kenneth Gainwell,RB
 gsis:00-0038134,Kenneth Walker III,RB
 gsis:00-0027006,Kenny Britt,WR
@@ -722,7 +690,7 @@ gsis:00-0029415,Keshawn Martin,WR
 gsis:00-0037286,Kevin Harris,RB
 gsis:00-0025423,Kevin Kolb,QB
 gsis:00-0026780,Kevin Ogletree,WR
-gsis:00-0026204,Kevin Smith,WR
+gsis:00-0026204,Kevin Smith,RB
 gsis:00-0021931,Kevin Walter,WR
 gsis:00-0031545,Kevin White,WR
 gsis:00-0036906,Khalil Herbert,RB
@@ -747,7 +715,6 @@ gsis:00-0020536,LaDainian Tomlinson,RB
 gsis:00-0026956,LaRod Stephens-Howling,RB
 gsis:00-0029275,Ladarius Green,TE
 gsis:00-0039915,Ladd McConkey,WR
-gsis:00-0036152,Lamar Jackson,QB
 gsis:00-0034796,Lamar Jackson,QB
 gsis:00-0029615,Lamar Miller,RB
 gsis:00-0029004,Lance Dunbar,RB
@@ -762,7 +729,6 @@ gsis:00-0025462,Laurent Robinson,WR
 gsis:00-0036268,Laviska Shenault Jr.,WR
 mfl:5168,Lawrence Tynes,K
 gsis:00-0030496,Le'Veon Bell,RB
-name:leveon bell rb,Le'Veon Bell RB,
 gsis:00-0027325,LeGarrette Blount,RB
 gsis:00-0027029,LeSean McCoy,RB
 mfl:7403,Lee Evans,WR
@@ -786,7 +752,7 @@ gsis:00-0039337,Malik Nabers,WR
 gsis:00-0039880,Malik Washington,WR
 gsis:00-0039811,MarShawn Lloyd,RB
 gsis:00-0024243,Marcedes Lewis,TE
-gsis:00-0026393,Marcel Reece,W/R
+gsis:00-0026393,Marcel Reece,RB
 gsis:00-0032268,Marcus Mariota,QB
 gsis:00-0026235,Mario Manningham,WR
 mfl:7921,Marion Barber,RB
@@ -794,14 +760,14 @@ gsis:00-0030999,Marion Grice,RB
 gsis:00-0034753,Mark Andrews,TE
 gsis:00-0027966,Mark Ingram,RB
 gsis:00-0026898,Mark Sanchez,QB
-name:mark walton rb,Mark Walton RB,
+gsis:00-0034679,Mark Walton RB,RB
 gsis:00-0030460,Markus Wheaton,WR
 gsis:00-0030400,Marlon Brown,WR
 gsis:00-0033951,Marlon Mack,RB
 gsis:00-0031431,Marqise Lee,WR
 gsis:00-0024466,Marques Colston,WR
 gsis:00-0030047,Marquess Wilson,WR
-gsis:00-0036219,Marquez Callaway,R/W/T
+gsis:00-0036219,Marquez Callaway,WR
 gsis:00-0034272,Marquez Valdes-Scantling,WR
 gsis:00-0035662,Marquise Brown,WR
 gsis:00-0030068,Marquise Goodwin,WR
@@ -838,10 +804,9 @@ gsis:00-0031558,Maxx Williams,TE
 gsis:00-0035140,Mecole Hardman,WR
 gsis:00-0032144,Melvin Gordon,RB
 def:Miami Dolphins,Miami Dolphins DEF,DEF
-gsis:00-0034084,Michael Badgley,K
 gsis:00-0025487,Michael Bush,RB
 gsis:00-0036924,Michael Carter,RB
-gsis:00-0030128,Michael Cox,W/R
+gsis:00-0030128,Michael Cox,RB
 gsis:00-0026986,Michael Crabtree,WR
 gsis:00-0029638,Michael Floyd,WR
 gsis:00-0034764,Michael Gallup,WR
@@ -853,24 +818,22 @@ gsis:00-0032765,Michael Thomas,WR
 gsis:00-0022821,Michael Turner,RB
 gsis:00-0020245,Michael Vick,QB
 gsis:00-0038559,Michael Wilson,WR
-name:mike badgley,Mike Badgley,K
-gsis:00-0034208,Mike Boone,R/W/T
+gsis:00-0034084,Mike Badgley,K
+gsis:00-0034208,Mike Boone,RB
 gsis:00-0032063,Mike Davis,RB
-name:mike davis rb,Mike Davis RB,
 gsis:00-0031408,Mike Evans,WR
 gsis:00-0034829,Mike Gesicki,TE
 gsis:00-0030433,Mike Gillislee,RB
-name:mike gillislee rb,Mike Gillislee RB,
 gsis:00-0030520,Mike Glennon,QB
 gsis:00-0030391,Mike James,RB
 gsis:00-0023482,Mike Nugent,K
-name:mike nugent k,Mike Nugent K,K
 mfl:8777,Mike Sims-Walker,WR
+gsis:00-0027076,Mike Thomas,WR
 gsis:00-0033114,Mike Thomas,WR
 gsis:00-0026069,Mike Tolbert,RB
-name:mike vick,Mike Vick,
 gsis:00-0026901,Mike Wallace,WR
 gsis:00-0034401,Mike White,QB
+gsis:00-0027702,Mike Williams,WR
 gsis:00-0033536,Mike Williams,WR
 gsis:00-0027995,Mikel Leshoure,RB
 gsis:00-0023921,Miles Austin,WR
@@ -925,8 +888,8 @@ gsis:00-0036894,Pat Freiermuth,TE
 gsis:00-0035342,Patrick Laird,RB
 gsis:00-0033873,Patrick Mahomes,QB
 gsis:00-0035973,Patrick Taylor,RB
-gsis:00-0032417,Paul Perkins,R/W/T
-gsis:00-0031257,Paul Richardson,R/W/T
+gsis:00-0032417,Paul Perkins,RB
+gsis:00-0031257,Paul Richardson,WR
 gsis:00-0026998,Percy Harvin,WR
 gsis:00-0032741,Peyton Barber,RB
 gsis:00-0026367,Peyton Hillis,RB
@@ -935,8 +898,7 @@ gsis:00-0004091,Phil Dawson,K
 def:Philadelphia Eagles,Philadelphia Eagles DEF,DEF
 gsis:00-0022942,Philip Rivers,QB
 gsis:00-0032208,Phillip Dorsett,WR
-gsis:00-0034109,Phillip Lindsay,R/W/T
-name:phillip lindsay rb,Phillip Lindsay RB,RB
+gsis:00-0034109,Phillip Lindsay,RB
 gsis:00-0028613,Phillip Tanner,RB
 gsis:00-0026345,Pierre Garcon,WR
 gsis:00-0038098,Pierre Strong,RB
@@ -965,7 +927,6 @@ gsis:00-0037545,Rashid Shaheed,WR
 gsis:00-0036550,Rashod Bateman,WR
 gsis:00-0039875,Ray Davis,RB
 gsis:00-0026195,Ray Rice,RB
-name:ray rice rb,Ray Rice RB,
 gsis:00-0034407,Ray-Ray McCloud,WR
 gsis:00-0024217,Reggie Bush,RB
 gsis:00-0020498,Reggie Wayne,WR
@@ -981,21 +942,20 @@ gsis:00-0036816,Riley Patterson,K
 gsis:00-0029580,Rishard Matthews,WR
 mfl:8074,Rob Bironas,K
 gsis:00-0027656,Rob Gronkowski,TE
-name:rob housler,Rob Housler,TE
+gsis:00-0028007,Rob Housler,TE
 gsis:00-0032371,Rob Kelley,RB
 gsis:00-0023252,Robbie Gould,K
-name:robby anderson,Robby Anderson,R/W/T
+gsis:00-0032688,Robby Anderson,WR
 gsis:00-0034510,Robert Foster,WR
 gsis:00-0029665,Robert Griffin III,QB
 gsis:00-0025414,Robert Meachem,WR
 gsis:00-0033757,Robert Tonyan,TE
 gsis:00-0029273,Robert Turbin,RB
-gsis:00-0030431,Robert Woods,W/R
+gsis:00-0030431,Robert Woods,WR
 gsis:00-0031900,Rod Smith,RB
 gsis:00-0029129,Rod Streater,WR
 gsis:00-0023462,Roddy White,WR
 gsis:00-0035849,Rodrigo Blankenship,K
-name:rodrigo blankenship k q,Rodrigo Blankenship K Q,K
 gsis:00-0039739,Roman Wilson,WR
 gsis:00-0039919,Rome Odunze,WR
 gsis:00-0037816,Romeo Doubs,WR
@@ -1009,11 +969,11 @@ gsis:00-0034838,Royce Freeman,RB
 gsis:00-0029262,Rueben Randle,WR
 gsis:00-0034411,Russell Gage,WR
 gsis:00-0029263,Russell Wilson,QB
-gsis:00-0029209,Ryan Broyles,W/R
+gsis:00-0029209,Ryan Broyles,WR
 gsis:00-0023682,Ryan Fitzpatrick,QB
 gsis:00-0039410,Ryan Flournoy,WR
-gsis:00-0031068,Ryan Grant,WR
 gsis:00-0022984,Ryan Grant,RB
+gsis:00-0031068,Ryan Grant,WR
 gsis:00-0030108,Ryan Griffin,TE
 gsis:00-0027864,Ryan Mathews,RB
 gsis:00-0026968,Ryan Succop,K
@@ -1027,7 +987,7 @@ gsis:00-0036879,Sam Ehlinger,QB
 gsis:00-0033138,Sam Ficken,K
 gsis:00-0037077,Sam Howell,QB
 gsis:00-0039065,Sam LaPorta,TE
-name:sam sloman k,Sam Sloman K,K
+gsis:00-0036436,Sam Sloman K,K
 gsis:00-0033526,Samaje Perine,RB
 gsis:00-0032166,Sammie Coates,WR
 gsis:00-0031325,Sammy Watkins,WR
@@ -1036,7 +996,7 @@ gsis:00-0020494,Santana Moss,WR
 gsis:00-0024240,Santonio Holmes,WR
 gsis:00-0034844,Saquon Barkley,RB
 gsis:00-0025516,Scott Chandler,TE
-gsis:00-0035298,Scott Miller,R/W/T
+gsis:00-0035298,Scott Miller,WR
 gsis:00-0038951,Sean Tucker,RB
 def:Seattle Seahawks,Seattle Seahawks DEF,DEF
 gsis:00-0019646,Sebastian Janikowski,K
@@ -1050,7 +1010,6 @@ gsis:00-0025431,Sidney Rice,WR
 gsis:00-0037509,Sincere McCormick,RB
 gsis:00-0038090,Skyy Moore,WR
 gsis:00-0034845,Sony Michel,RB
-name:sony michel rb,Sony Michel RB,
 mfl:16896,Spencer Shrader,K
 gsis:00-0030414,Spencer Ware,RB
 def:St. Louis Rams,St. Louis Rams DEF,DEF
@@ -1059,19 +1018,18 @@ gsis:00-0031588,Stefon Diggs,WR
 gsis:00-0030282,Stepfan Taylor,RB
 gsis:00-0032725,Stephen Anderson,TE
 gsis:00-0024333,Stephen Gostkowski,K
-name:stephen hauschka,Stephen Hauschka,K
-gsis:00-0028995,Stephen Hill,W/R
+gsis:00-0028995,Stephen Hill,WR
 gsis:00-0032385,Sterling Shepard,WR
 gsis:00-0028011,Stevan Ridley,RB
 gsis:00-0025529,Steve Breaston,WR
-name:steve johnson,Steve Johnson,WR
-gsis:00-0025438,Steve Smith,WR
+gsis:00-0026364,Steve Johnson,WR
+gsis:00-0020337,Steve Smith,WR
 gsis:00-0025944,Steven Hauschka,K
 gsis:00-0022736,Steven Jackson,RB
 gsis:00-0031243,Storm Johnson,RB
 gsis:00-0035229,T.J. Hockenson,TE
 gsis:00-0032209,T.J. Yeldon,RB
-gsis:00-0029608,T.Y. Hilton,W/R
+gsis:00-0029608,T.Y. Hilton,WR
 gsis:00-0028063,Taiwan Jones,RB
 gsis:00-0032778,Tajae Sharpe,WR
 def:Tampa Bay Buccaneers,Tampa Bay Buccaneers DEF,DEF
@@ -1079,8 +1037,8 @@ gsis:00-0038555,Tank Bigsby,RB
 gsis:00-0038977,Tank Dell,WR
 gsis:00-0033556,Tarik Cohen,RB
 gsis:00-0026262,Tashard Choice,RB
-gsis:00-0030525,Tavon Austin,W/R
-gsis:00-0031228,Taylor Gabriel,R/W/T
+gsis:00-0030525,Tavon Austin,WR
+gsis:00-0031228,Taylor Gabriel,WR
 gsis:00-0031800,Taylor Heinicke,QB
 gsis:00-0033357,Taysom Hill,TE
 gsis:00-0033911,Taywan Taylor,WR
@@ -1092,19 +1050,18 @@ gsis:00-0036955,Terrace Marshall Jr.,WR
 mfl:17107,Terrance Ferguson,TE
 gsis:00-0031375,Terrance West,RB
 gsis:00-0030542,Terrance Williams,WR
-gsis:00-0028825,Terrelle Pryor,QB
+gsis:00-0028825,Terrelle Pryor,WR
 gsis:00-0035659,Terry McLaurin,WR
 mfl:17071,Tetairoa McMillan,WR
 gsis:00-0032058,Tevin Coleman,RB
 mfl:17079,Tez Johnson,WR
 gsis:00-0039847,Theo Johnson,TE
 gsis:00-0030107,Theo Riddick,RB
-gsis:00-0031897,Thomas Rawls,W/R
+gsis:00-0031897,Thomas Rawls,RB
 gsis:00-0026289,Tim Hightower,RB
 gsis:00-0033375,Tim Patrick,WR
 mfl:9862,Tim Tebow,QB
-name:tim tebow qb,Tim Tebow QB,
-name:timothy wright,Timothy Wright,TE
+gsis:00-0029910,Timothy Wright,TE
 mfl:9683,Tiquan Underwood,WR
 gsis:00-0027982,Titus Young,WR
 gsis:00-0027888,Toby Gerhart,RB
@@ -1116,11 +1073,11 @@ gsis:00-0035261,Tony Pollard,RB
 gsis:00-0021678,Tony Romo,QB
 gsis:00-0027996,Torrey Smith,WR
 mfl:17098,Tory Horton,WR
-name:tra carson rb,Tra Carson RB,
+gsis:00-0032540,Tra Carson RB,RB
 gsis:00-0035146,Trace McSorley,QB
 gsis:00-0029269,Travis Benjamin,WR
 gsis:00-0031112,Travis Coons,K
-gsis:00-0036973,Travis Etienne,R/W/T
+gsis:00-0036973,Travis Etienne,RB
 gsis:00-0035592,Travis Fulgham,WR
 gsis:00-0035594,Travis Homer,RB
 mfl:17074,Travis Hunter,WR
@@ -1174,7 +1131,7 @@ gsis:00-0039384,Tyrone Tracy,RB
 gsis:00-0036415,Van Jefferson,WR
 gsis:00-0030470,Vance McDonald,TE
 gsis:00-0024221,Vernon Davis,TE
-gsis:00-0029547,Vick Ballard,W/R
+gsis:00-0029547,Vick Ballard,RB
 gsis:00-0027265,Victor Cruz,WR
 gsis:00-0024218,Vince Young,QB
 gsis:00-0028020,Vincent Brown,WR
@@ -1193,19 +1150,19 @@ gsis:00-0039152,Will Levis,QB
 gsis:00-0039404,Will Reichard,K
 gsis:00-0032004,Will Tye,TE
 gsis:00-0028736,William Powell,RB
-gsis:00-0030663,Willie Snead,W/R
+gsis:00-0030663,Willie Snead,WR
 gsis:00-0022178,Willis McGahee,RB
 mfl:17053,Woody Marks,RB
 gsis:00-0038618,Xavier Hutchinson,WR
 gsis:00-0039342,Xavier Legette,WR
 gsis:00-0039894,Xavier Worthy,WR
-gsis:00-0033702,Younghoe Koo,K
-name:younghoe koo k,Younghoe Koo K,K
+gsis:00-0033702,Younghoe Koo K,K
 gsis:00-0030536,Zac Stacy,RB
 gsis:00-0039165,Zach Charbonnet,RB
 gsis:00-0030061,Zach Ertz,TE
 gsis:00-0039136,Zach Evans,RB
-name:zach hocker k,Zach Hocker K,K
+mfl:11865,Zach Hocker K,K
+gsis:00-0025425,Zach Miller,TE
 gsis:00-0027125,Zach Miller,TE
 gsis:00-0033251,Zach Pascal,WR
 gsis:00-0029999,Zach Sudfeld,TE
@@ -1216,4 +1173,3 @@ gsis:00-0033862,Zane Gonzalez,K
 sleeper:11299,Zavier Scott,RB
 gsis:00-0039064,Zay Flowers,WR
 gsis:00-0033891,Zay Jones,WR
-gsis:00-0037157,Zonovan Knight,RB
